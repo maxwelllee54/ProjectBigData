@@ -1,0 +1,32 @@
+eBay Inc. (NASDAQ:EBAY)
+Q3 2016 Earnings Conference Call
+October 18, 2016 05:30 PM EST
+Executives
+Selim Freiha - VP, IR
+Devin Wenig - President and CEO
+Scott Schenkel - SVP, Finance and CFO
+Analysts
+Ross Sandler - Deutsche Bank
+Carlos Kirjner - Bernstein
+Eric Sheridan - UBS
+Heath Terry - Goldman Sachs
+Justin Post - Merrill Lynch
+Colin Sebastian - Robert Baird
+Douglas Anmuth - JPMorgan
+Kunal Madhukar - SunTrust
+Mark May - Citi
+Mark Mahaney - RBC
+Scott Devitt - Stifel
+Brian Fitzgerald - Jefferies
+Operator
+Good day, ladies and gentlemen, and welcome to the eBay Third-Quarter 2016 Earnings Conference Call. At this time, all participants are in a listen-only mode. Later we will conduct a question-and-answer session and instructions will be given at that time. As a reminder, this conference is being recorded.
+I would now like to turn the floor over to Selim Freiha, Vice President of Investor Relations. Please go ahead.
+Selim Freiha
+Thank you, operator. Good afternoon. Thank you for joining us and welcome to eBay's earnings release conference call for the third quarter of 2016. Joining me today on the call are Devin Wenig, our President and Chief Executive Officer, and Scott Schenkel, our Chief Financial Officer. We're providing a slide presentation to accompany Scott's commentary during the call. We've also included a structure data update in the appendix. All revenue and GMV growth rates mentioned in Devin and Scott's prepared remarks represent FX neutral year-over-year comparisons unless they clarify otherwise.
+This conference call is also being broadcast on the Internet, and both the presentation and call are available through the investor relations section of the eBay website at investors.eBayInc.com. You can visit our investor relations website for the latest Company news and updates. In addition, an archive of the webcast will be accessible for 90 days through the same link.
+Before we begin, I'd like to remind you that during the course of this conference call we will discuss some non-GAAP measures related to our performance. You can find the reconciliation of these measures to the nearest comparable GAAP measures in the slide presentation accompanying this conference call.
+In addition, management will make forward-looking statements that are based on our current expectations, forecasts and assumptions and involve risks and uncertainties. These statements include but are not limited to statements regarding the future performance of eBay Inc. and its consolidated subsidiaries, including expected financial results for the fourth-quarter and full-year 2016 and the future growth in our business. Our actual results may differ materially from those discussed in this call for a variety of reasons. You can find more information about risks, uncertainties and other factors that could affect our operating results in our most recent annual report on Form 10-K and subsequent quarterly reports on Form 10-Q, copies of which may be obtained by visiting the Company's investor relations website at investors.eBayInc.com or the SEC's website at SEC.gov.
+You should not rely on any forward-looking statements. All information in this presentation is as of October 19th, 2016, and we do not intend and undertake no duty to update this information.
+With that, let me turn the call over to Devin.
+Devin Wenig
+Thanks, Selim, and good afternoon, everyone. We delivered good top and bottom line financial results in Q3, led by consistent performance in our core eBay platform and strong growth from StubHub and Classifieds. We made progress on our strategy, began activating our new brand marketing messages and we readied our organization to execute in the upcoming holiday quarter. Overall, total GMV was up 5% for the quarter, while revenue was up 8%. GMV decelerated modestly while revenue accelerated a point. GMV deceleration was driven primarily by StubHub lapping last year's product changes, and in part by the shift of marketing spend to longer cycle brand investments on our Marketplace platform.

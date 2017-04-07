@@ -8,10 +8,7 @@ import requests
 import time
 import re
 import pandas as pd
-import numpy as np
 from newspaper import Article
-import os
-
 
 class tscpCrawler():
     def __init__(self, ticker):
@@ -30,27 +27,19 @@ class tscpCrawler():
             r = s.get(self.url, headers=self.headers)
             time.sleep(3)
             page = BeautifulSoup(r.content, 'html.parser')
-            pageNo = re.findall(r'(?:>)(\d+)(?:<)', str(page.find_all('div', {'id': 'paging'})))
+            pageNo = int(re.findall(r'(?:>)(\d+)(?:<)', str(page.find_all('div', {'id': 'paging'})))[-1])
 
-            print(page)
 
-            for p in pageNo:
-                pageUrl = self.url+'&page='+p
+            for p in range(pageNo):
+                pageUrl = self.url+'&page='+ str(p)
                 newS = requests.Session()
                 newR = newS.get(pageUrl, headers=self.headers)
-                time.sleep(3)
+                time.sleep(5)
                 newPage = BeautifulSoup(newR.content, 'html.parser')
-
-                links = re.findall(r'(?:href=")(.*?)(?:">)', str(newPage.find_all('div', {'class': 'transcript_link'})))
-                allLinks.extend(links)
-            # remove old links
-            try:
-                df = pd.read_csv('output.xlsx', self.ticker)
-                oldLink = list(df.loc[:, 'Link'])
-                return [newLink for newLink in allLinks if newLink not in oldLink]
-            except:
-                print('\n\nNo previous records!\n\n')
-                pass
+                for temp in newPage.find_all('div', {'class': 'transcript_link'}):
+                    if temp.get_text().find(self.ticker) > 0:
+                        links = re.findall(r'(?:href=")(.*?)(?:">)', str(temp))
+                        allLinks.extend(links)
 
             return allLinks
 
@@ -83,6 +72,15 @@ class tscpCrawler():
 
         textData.to_csv('data.csv')'''
 
+    def removeLinks(self, links):
+        try:
+            df = pd.read_csv('output.xlsx', self.ticker)
+            oldLink = list(df.loc[:, 'Link'])
+            return [newLink for newLink in links if newLink not in oldLink]
+        except:
+            print('\n\nNo previous records!\n\n')
+            pass
+
     def artical(self, links=None):
 
         if not links:
@@ -93,12 +91,6 @@ class tscpCrawler():
         textData = pd.DataFrame(columns=['Company', 'Ticker', 'Date', 'Time', 'Text', 'Link'])
         fileName = 'output.xlsx'
 
-        if os.path.isfile(fileName) == False:
-            mode = 'w'
-            header = True
-        else:
-            mode = 'a'
-            header = False
 
         for i in range(len(links)):
             link = 'https://seekingalpha.com' + links[i]
@@ -129,7 +121,7 @@ class tscpCrawler():
 
 
 if __name__ == '__main__':
-    tscpCrawler('GS').artical()
+    tscpCrawler('JPM').artical()
 
 
 

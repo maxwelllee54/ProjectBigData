@@ -1,0 +1,406 @@
+HSBC Holdings Plc (NYSE:HSBC)
+Q1 2016 Earnings Call
+May 03, 2016 3:15 am ET
+Executives
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Iain James Mackay - Executive Director & Group Finance Director
+Analysts
+Alastair Ryan - Bank of America Merrill Lynch
+Raul Sinha - JPMorgan Securities Plc
+Chirantan Barua - Sanford C. Bernstein Ltd.
+David John Lock - Deutsche Bank AG (Broker UK)
+Tom A. Rayner - Exane Ltd.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Manus J. Costello - Autonomous Research LLP
+Martin Leitgeb - Goldman Sachs International
+Michael Helsby - Bank of America Merrill Lynch
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Operator
+Good morning, ladies and gentlemen, and welcome to the Investor and Analyst Conference Call for HSBC Holdings Plc's Earnings Release for First Quarter 2016. For your information this conference is being recorded.
+At this time, I will hand the call over to your host, Mr. Stuart Gulliver, Group Chief Executive.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks very much. So good afternoon from Hong Kong, good morning to everyone in London, and welcome to our first quarter results call. With me today is Iain, who's going to talk through the detailed financial performance. We'll both then take questions. But I'll start by pulling out a few highlights.
+Our first quarter performance was resilient in market conditions that changed the entire banking industry. Against a very strong first quarter of 2015, profits were down, although we increased market share in many of the product areas that are critical to our strategy. Market uncertainty led to extreme levels of volatility in January and February, which affected our ability to generate revenue in our Market and Wealth Management businesses. Both businesses recovered well in March.
+Our diversified Universal Banking business model helped to cushion the impact through growth in other parts of the bank. Commercial Banking continued its momentum in spite of the slowdown in global trade. And we increased market share across our strategic trade corridors.
+We also grew revenue elsewhere in Retail Banking and Wealth Management, particularly current accounts and savings in Hong Kong and the U.K. and personal lending in Asia and Mexico. The combination of tight cost management and the increasing impact of our cost savings programs reduced operating expenses compared to the fourth quarter and kept them broadly unchanged compared to the first quarter of 2015. Loan impairment charges were down by $450 million compared to the fourth quarter and up by $692 million compared to the first quarter of 2015.
+We maintained a strong common equity tier 1 ratio of 11.9%, adding $800 million to capital, net of dividends. We also maintained a strong leverage ratio of 5%.
+In March we sold $10.5 billion equivalent to TLAC securities in U.S. dollars and euros across five separate tranches in a range of maturities in both fixed and floating format. Our order books were well oversubscribed in spite of market volatility and difficult new issue conditions, with demand from an extremely broad range of investors. This was the largest senior unsecured fundraising by a bank since 2008. And it reopened the benchmark wholesale funding markets to U.K. and European bank holding companies.
+Our targeted initiatives removed another $15 billion of risk-weighted assets in the first quarter. The risk-weighted assets increased overall, due to an increase in corporate lending. There were also higher market volatility, and some corporate credit downgrades also increased risk-weighted assets. We remain on track to hit our risk-weighted asset reduction target.
+The technical body of the Brazilian Competition Agency has now recommended to its board that the sale of our Brazil business be approved. We await a final decision from the Competition Agency. This is the final regulatory approval required prior to the completion of the transaction. Completing the transaction will add approximately 60 basis points to our common equity Tier 1 ratio.
+Our Asian businesses continue to gain momentum. We made important market share gains in debt capital markets, China M&A, and syndicated lending. We also had strong business wins on the back of our increased investment in Asia. And we extended our leadership in services related to renminbi internationalization.
+Iain is going to now take you through the numbers.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks, Stuart. Looking quickly at some key metrics for the first quarter. The reported return on average ordinary shareholders' equity was 9%; the reported return on average tangible equity was 10.3%; and on an adjusted basis we had a negative jaws of 2.8%. The movement in jaws was mainly due to a 3.8% decline in adjusted revenue, which exceeded a 1% fall in adjusted costs.
+This next slide takes us from reported to adjusted. Reported profit before tax of $6.1 billion for the first quarter included a $1.2 billion gain for fair value on our own debt relating to credit spread and $479 million of other significant items. Allowing for these items leaves an adjusted profit before tax of $5.4 billion for the first quarter. You will find more details on these adjustments in the Appendix. And we'll focus on adjusted numbers for the remainder of this presentation.
+This next slide shows a comparison with the fourth quarter of 2015. Adjusted profit before tax was $3.6 billion higher than the fourth quarter due to higher revenue, lower loan impairment charges, and costs. You'll recall that the bank levy influences the fourth quarter numbers. Excluding the bank levy operating expenses fell by $236 million.
+Loan impairment charges were $450 million lower, mainly in Commercial Banking. The fourth quarter included an increase in specific loan impairment charges in a small number of countries, which largely reflected local factors and collective charges relating to oil and gas.
+Slide 6 breaks down adjusted profit by global business and geography on a period-by-period basis. These profits were achieved in challenging market conditions and relative to a very strong first quarter last year. The main business drivers of the reduction in profit were lower revenue in Global Banking and Markets and Retail Banking and Wealth Management, and increased loan impairment charges in Global Banking and Markets, principally related to oil and gas and metals and mining.
+We split out Brazil from the rest of the group here to show the impact that it had on our numbers in the first quarter. This also gives you a basis for comparison for when Brazil drops out of our numbers following completion of the transaction. We expect this to have a positive impact on operating expenses, loan impairment charges, and capital.
+Slide 7 shows an analysis of revenue. As Stuart said earlier, conditions in the first 2 months of the year were difficult, particularly in our Markets business and Wealth Management. There was a clear improvement in March however, and that continued into April.
+Recall that our performance in the first quarter of 2015 included the positive impact of the Shanghai-Hong Kong Stock Connect and the strong renminbi market, which benefited us more than most. It's worth noting that our revenues are down no more than the industry average in spite of this.
+In Principal Retail Banking and Wealth Management, revenue was $270 million [lower] or 5% lower than the first quarter of 2015. This was mainly in Wealth Management, caused by the impact of adverse movements in interest rates and equity markets and life insurance, as well as lower customer activity. We did however, grow revenue from customer accounts in Hong Kong and the U.K. and from higher personal lending in Latin America and Asia.
+Commercial Banking revenue continued to grow, driven by higher average balances in payments and cash management and further loan growth.
+Client-facing Global Banking and Markets revenue was down by $286 million or 7%, compared to a strong performance in the prior year. In common with the rest of the banking industry extreme levels of market volatility led to reduced client activity in our Markets business, particularly in equities and credit and foreign exchange. Revenue was up in rates. There was a $172 million reduction in revenue from balance sheet management, due in large part to lower gains on disposal of available for-sale securities.
+Global Private Banking revenue was down by $87 million or 15% due to lower brokerage and trading activity in Europe and Asia. However, we attracted $4 billion of net new money in the quarter.
+Other provided $179 million of revenue in the first quarter. This included favorable fair value movements associated with long-term debt issued by HSBC Holdings. These are related to interest and exchange rate risk but not our own credit spread, which we excluded from adjusted performance.
+In last year's first quarter Other had losses of $200 million, mainly from the adverse impact of certain intra-group adjustments. This means that revenue for Other was up by $379 million on a quarter-by-quarter basis.
+Loan impairment charges were $692 million higher than the first quarter of 2015 but $450 million lower than the fourth quarter. $159 million of the increase on the first quarter of 2015 came specifically from Brazil, due to difficult economic and trading conditions. These were mostly collectively assessed impairments in Retail Banking and Wealth Management.
+The increase also includes an adjustment of around $100 million in our U.S. run-off portfolio. Charges in wholesale were up by $380 million. Q1 included additional specific charges related to oil and gas, mainly in the U.S. and Canada. There was also a charge in Australia relating to metals and mining, as well as higher specific charges in a small number of countries. As the chart shows, the level of loans reported as past due but not impaired continues to reflect our risk management.
+And as we said at our annual results, we continue to monitor oil and gas sector closely and to manage our exposures accordingly. There is a detailed overview of our oil and gas and metals and mining exposure in the Appendix.
+Adjusted operating expenses were $76 million or 1% lower than the first quarter of 2015. Excluding bank levy adjustments in each period, we were successful in keeping costs broadly unchanged, in spite of the effect of inflation and $743 million of investment in regulatory programs and compliance. This investment reflected the continued implementation of our global standards program and other requirements.
+As we said in June, we expect this investment to continue throughout 2016 and to flatten in 2017, as increased automation and process improvements take effect.
+You will recall that our cost savings program is designed to cover the cost of investment in global standards, investment in growth, and the impact on inflation, as well as to achieve an exit rate equivalent to 2014 by the end of 2017.
+In Commercial Banking our cost reduction initiatives neutralized the effect of both inflation and increased investment in global standards. These included our simplified organization structure and process optimization within our lending, on-boarding, and servicing platforms.
+Costs were down marginally in Retail Bank, Wealth Management, as investment in our Asia branch network and inflationary pressures were more than offset by cost savings, including our digital transformation and branch optimization programs.
+Costs fell in Global Banking and Markets due primarily to lower staff performance costs in Asia, Europe, and United States. This continues the good start that we made to our cost-saving program. And we remain confident of hitting our cost target. Rebased for currency translation and the sale of Brazil, that target is now $29.1 billion.
+Turning to capital, the group's common equity Tier 1 ratio is maintained at the 11.9%. We increased common equity Tier 1 capital by $2 billion in the first quarter. This was from capital generation through profits, net of dividends, of around $800 million. And we benefited from favorable foreign currency translation differences of $1 billion. While total risk-weighted assets increased in the first quarter, we continued to make progress with our risk-weighted assets initiatives. The next slide sets out the movement in more detail.
+The increase in risk-weighted assets in the first quarter was a result of book size and quality. Growth in book size was mainly driven by two things, increased corporate lending, mainly in Commercial Banking and Global Banking and Markets, and increased market volatility and client activity impacting counterparty credit risk and market risk. Each of these accounted for around half of the movement in book size.
+Book quality represents risk-weighted asset movements due to changes in the underlying credit quality of our customers.
+These movements were partially offset by our continued progress in RWA initiatives. At our investor update in 2015 we set a target to reduce group's risk-weighted assets by $290 billion by the end 2017. The chart in the top right of the page shows this target adjusted for the latest foreign exchange rates. This gives a rebased target of $279 billion.
+Since the start of 2015 we've reduced risk-weighted assets by $139 billion, of which $15 billion was in the first quarter of this year. These reductions include legacy credit and U.S. run-off portfolios. Our risk-weighted asset reduction plans are on track, and we remain confident of hitting our targets by the end of 2017.
+The reported return on risk-weighted assets was 2.2%, compared to 2.4% in the first quarter of 2015. We continue to work towards an adjusted return on risk-weighted assets of greater of 2.3% for 2017.
+I'll now hand back to Stuart.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you. This slide provides a summary of our progress in the 11 months since our investor update. Iain has already talked about risk-weighted assets. And I've already talked about Brazil. So I'm going to concentrate on the other actions here.
+Our U.S. and Mexico businesses are heading in the right direction. Adjusted profits in our principal U.S. business grew by 29% to $181 million, largely due to lower operating expenses. Revenue was up by another 4%. And we've continued to make solid progress in running down our U.S. CML legacy portfolio, including the disposal of a $1.4 billion tranche in April.
+In Mexico adjusted profit before tax of $72 million was up 104% from the first quarter of 2015. This was due to higher lending balances in Retail Banking and Wealth Management, higher insurance revenues, and improved collaboration between Retail Banking, Wealth Management, and Commercial Banking. We're also gaining good traction in terms of cross-border business within the area covered by NAFTA. We have double-digit growth in Commercial Banking across the free-trade zone. And we're currently winning around three out of four cross-border deals in the region.
+As Iain has already said, we've made good progress in operating expenses, while continuing to invest in growth initiatives and regulatory programs in compliance.
+All of our cost programs are now underway. We've reduced employee numbers by around 6,000 since the first quarter of last year. And the sale of Brazil will reduce FTEs by a further 19,000 to bring the group total to 235,000. This compares with 295,000 on the 31 of December 2010.
+As this trend illustrates, we've got a good grip on costs. Although progress will not be linear, we're confident of hitting our target by the end of 2017.
+Our Payment & Cash Management business maintained its strong momentum with an increase of 7% on the first quarter of last year. The Global Trade and Receivables Finance maintained its position in a slow-trade environment and captured additional market share across our top 23 strategic corridors.
+In the first quarter we also received clearance to offer our own credit cards in Mainland China. Adjusted profit before tax was $357 million in ASEAN, which was up 14% due to lower LICs and lower costs.
+We've also increased assets under management in Asia by 10% in the first quarter and grew revenue from insurance manufacturing new business premiums in Asia by 18% to around $600 million. Revenue from renminbi internationalization was down, but we have strengthened our leadership position in the quarter. I'll talk more about this on the next slide.
+Slide 14 shows the numbers behind the story. We've increased our market shares across a number of product lines, as we've invested in the business and as competitors have withdrawn from some of our core markets.
+In the first quarter we held our share of the market in Global Trade and Receivables Finance, but increased our market share in four out of five regions in Documentary Trade. We also strengthened our leadership position in Payment & Cash Management.
+We are a market leader in Asia advisory business and strengthened that position considerably. We're the established number one underwriter in debt capital markets. And we've retained our number one ranking for syndicated loans in Hong Kong and Mainland China and further increased our market share there. We've also dramatically increased our share at the Asian M&A market.
+Finally, we've retained our number one position in the league tables for offshore renminbi bonds and have a 52% share of the Securities Services RQFII market. This puts us in an excellent position not just to benefit from a more stable renminbi market but from the relaxation of investment barriers for onshore bonds and the likely rollout of the Shenzhen-Hong Kong Stock Connect later this year. No other bank is in as strong position to capitalize on these opportunities.
+In summary, we've shown resilience and made further progress towards the completion of our strategic actions. We intend to keep reporting on this progress on a quarterly basis.
+The market volatility that affected the first 2 months of the year has largely stabilized. March was a better month than both January and February. And April has continued in broadly the same vein.
+Despite the difficult conditions our diversified and balanced business has enabled us to continue to generate growth and to capture market share where possible. There continues to be plenty of revenue opportunities available to us in the coming quarters, particularly in the areas that we are targeting for growth. The planned Shenzhen-Hong Kong Stock Connect and the opening up of the China intra-bank bond market will enable us to capitalize on our market access in Asia.
+The increase in Chinese ODI and M&A involving Chinese firms plays to our leadership of the Asian advisory market. And the rollout of the Belt and Road initiative and the growth of green finance will create opportunities in infrastructure finance and green bonds, both of which are already significant areas of strength for HSBC.
+We are confident of achieving our target of $4.5 billion to $5 billion of cost savings by the end of 2017. And our strong balance sheet gives us the latitude to manage the business for the long term in accordance with our strategy.
+We'll now take questions. The operator will explain the procedure and then introduce the first question. Operator?
+Question-and-Answer Session
+Operator
+Thank you, Mr. Gulliver. We will now take our first question today from Alastair Ryan from Bank of America. Your line is now open.
+Alastair Ryan - Bank of America Merrill Lynch
+Thanks. Good afternoon. Two, if I may, please. First, the net interest margin. It sounds like it's stabilizing underlying in the quarter, but down a bit on a reported basis. Ex-Brazil, now that the Fed's started hiking rates if only a little, can you give us any sense of whether you've hit the bottom of the margin that's been a sort of long downdraft as rates hit zero?
+And second on trade. You sound a bit more downbeat in the text, but a bit more positive on this call. Could you give us a sense where you think your trade revenues are headed across volumes and margins please? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah, on net interest margin, Alastair, very, very stable compared to the fourth quarter of last year. And I think that it can be true really across all of the main product lines with respect to NIMs. I think going forward one of the things that will take a little bit of pressure on NIM at a group level is the cost of TLAC. And we talked about that at the end of the year and going forward. But when you looked at it on a trading basis that the net interest margin has been very stable in the fourth quarter.
+And certainly there were no indications of particular pressure coming through, beyond some of the factors that we talked about a few weeks ago when we released the full-year numbers. So very consistent.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So going on trade. So the overall macro backdrop as you know is that the trade growth was very sluggish. About 2.8% growth last year in 2015 and actually quite a sharp decline in the value of trade by about 13%. Those are overall WTO numbers.
+What we've seen within our business is a growth in trade within Global Banking and Markets, where revenue is up about 3%, and decline in the CMB, where revenue is down about 6%.
+But if you dig into it, there's a decline in Documentary Trade balances, which are down about 13%. But actually Structured Trade, Finance – Receivables Finance is up about 15%. Now actually that's longer term positive for margins, because documentary credits have been extremely competitive with very, very tight margins.
+So as the market moves towards Structured Trade and Receivables Finance, that actually should offer revenue growth. As it stands we've grown market share. The HKMA data here suggests that the overall market for trade balances – this is February 16 – Hong Kong Monetary Authority number was down about 34% in Hong Kong. And we're down about 9% in Hong Kong, which indicates we've taken market share.
+So to be honest we are slightly more positive than perhaps the text suggests, but it's a complicated picture. But what we can see is that we're outperforming the overall market across all 23 of our strategic trade corridors. And our declines are considerably less than the market is showing. And there's a switch from documentary credits towards structured trade, which itself has better margins.
+Alastair Ryan - Bank of America Merrill Lynch
+Thank you. It's very helpful.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Alastair.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks, Alastair.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Next one please?
+Operator
+Our next question today comes from Raul Sinha from JPMorgan. Your line is now open.
+Raul Sinha - JPMorgan Securities Plc
+Morning, Stuart. Morning, Iain. Can I have a...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Raul Sinha - JPMorgan Securities Plc
+...couple of questions please for the revenues. The first one is on page 20 of your release, where you talk about Principal RBWM. And I particularly wanted to focus on Wealth products, where you obviously had $1.2 billion of top line this quarter. And that was one of the areas which was impacted by the volatility. But if you look at the comps against last year for example, last year you had $1.9 billion of revenues in this business in the second quarter, presumably helped by the China bull market. So I was just wondering if you can talk a little bit about the outlook for this business. How would you characterize your performance in the first quarter here? And how should we expect this to move going forward?
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Well, I think one of the things to bear in mind about the first quarter of last year was the incredibly strong performance coming through in the back of the Shanghai-Hong Kong Stock Connect, which represented a significant uplift to revenues coming through Retail Bank, Wealth Management in the Asian market, specifically Wealth Management the other feature that again added a somewhat positive effect overall in PVIF coming through in the first quarter of last year. We saw almost the exact opposite in the first quarter of 2016. And when you look at the overall impact in Retail Bank, Wealth Management revenues, that's really what it boils down to, is a market and market updates coming through PVIF and the insurance manufacturing businesses. And that is mostly within Hong Kong and France. And then the impact of lower brokerage revenues.
+When you look at the performance coming through, if you like, the installed base of current accounts, deposit accounts, mortgages, unsecured personal lending, overall the outlook remains fairly stable across each of the major markets for us. And the U.K. has been reasonably positive for us in the first quarter. Hong Kong for fairly obvious reasons has been a little bit slower. But the main drivers of the lower revenues have been the two features and the comparison to first quarter of last year.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+It's worth bearing in mind that it's a combination of Retail Banking and Wealth Management, as the name suggests. So the Wealth Management piece...
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+...as Iain just outlined, is kind of weak, because we had such a strong first and second quarter of last year. But actually we've got good growth in current accounts and savings and in personal lending.
+So if you look at the Retail Banking piece, current account savings and deposits, if you're on page 20, you can see growth. And you can also see growth in the personal lending piece. So actually it's not just a Wealth Management business. It's both a Retail Banking, i.e., deposits and loans, as well as a Wealth Management piece.
+Raul Sinha - JPMorgan Securities Plc
+Okay.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Your second question, Raul?
+Raul Sinha - JPMorgan Securities Plc
+Just on that sort of leading into the jaws and your outlook for positive jaws for this year. Obviously costs down 2% ex-investment and reg spend and the levy credit, and that's down 4% underlying. I guess you probably want to narrow and turn that around as the year progresses. But I suspect you probably need a little bit of help from the revenue environment. Or is there something that I'm missing in terms of cost that we should expect the cost momentum to build as we move through the year?
+Iain James Mackay - Executive Director & Group Finance Director
+No, I think a little bit of help on the revenue line would certainly be appreciated. The focus on the cost is...
+Raul Sinha - JPMorgan Securities Plc
+Yes.
+Iain James Mackay - Executive Director & Group Finance Director
+...to hit the $4.5 billion to $5 billion of cost take outs by the end of 2017, such that we get that 2014 run rate. There is good traction around that. We've got all the programs up and running. So the focus is very much in making sure that we can stay on top of and execute against the things we control. And that being said, within the revenue space a little bit of help would be appreciated. But again I think if you look at the underlying development of Commercial Banking in the first quarter, it was reasonably encouraging when you consider the underlying trading conditions.
+Overall, looking at Global Banking and Markets, excluding balance sheet management down 7%, which I think is a bit of a standout on an industry-comparison perspective. And we clearly saw some of the stabilization coming through in our March revenues. And that has been broadly sustained through April.
+And then Retail Bank, Wealth Management, again there's a very strong focus from John [Flint] and the team in terms of, one, executing against their share of the $4.5 billion to $5 billion in terms of managing the overall cost equation. And also obviously a focus on continuing to build the customer relationships that support revenue.
+So we're not necessarily depending on a significant uprate in rates. But clearly a slightly more stable, less volatile environment coming out of the first quarter into the second will hopefully be helpful.
+Raul Sinha - JPMorgan Securities Plc
+Great. That's very helpful. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. Next please.
+Operator
+Our next question today comes from the line of Chira Barua from Bernstein. Your line is now open.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Morning, guys.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Just a quick one on Hong Kong. I've been following this for a long time. This is the first quarter after ages that's seen Hong Kong loan growth down across Retail, Commercial, Global Markets, Private Banking, sequentially. So it'll be great to get some color on what's happening.
+Stuart, your comments on trade, very helpful. The same on the Retail side or the Commercial side. In terms of growth, what are the dependencies into not only this quarter, this year, going forward, would be much appreciated.
+Iain James Mackay - Executive Director & Group Finance Director
+I think there's probably not a great deal that we can add, Chira, on top of what we've answered the last couple of questions here. I think what we saw certainly within the Retail Bank, Wealth Management space in Hong Kong was a growth in current accounts. And one suspects that that's a feature of many of our customers sitting on the sideline, waiting to see slightly more stable environment for investing, which certainly should help support the Wealth Management revenue equation going forward in a slightly more stable market. So that's certainly an expectation that we'd like to see.
+Overall, Commercial Banking continues to perform reasonably well. And Global Banking and Markets in Asia was afflicted with the same sort of underlying trends that we saw coming through our European and U.S. business. And improvements that we've seen coming through March and April in that regard again are somewhat encouraging. And it goes without saying that Peter [Wong] and the team in Asia continue to be very, very closely focused on the overall cost management picture. Also we do have a very robust 39% cost efficiency ratio within the Hong Kong market.
+I think the overall – the other thing that's worth mentioning is that within our ASEAN markets, we saw an improvement in PBT over the course of the first quarter, with lower loan impairment charges and good cost control across the businesses and reasonably constructive revenue environment. So notwithstanding the fact that Hong Kong is hugely important, there is more than just one arrow in the quiver on this front.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Thanks.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from David Lock from Deutsche Bank. Your line is now open.
+David John Lock - Deutsche Bank AG (Broker UK)
+Morning, everyone. Three quick ones for me please. The first one, rates.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah.
+David John Lock - Deutsche Bank AG (Broker UK)
+It looks like you had a very strong performance in the quarter, about 20% up. I just wondered within the context of your commentary about the first 2 months of the year being a bit weaker and the third month being a bit better and that continuing, could you give a little bit of color about that rate performance? Should we expect that to be sustained into the second quarter?
+Second question is on cost to achieve. I think so far you've taken about $1.3 billion since the beginning of 2015. So probably a little bit behind the $4 billion to $4.5 billion run rate. So I just wondered if you could update us on the phasing of that? And when we might expect that to flow through?
+And then thirdly, on GBM and Balance Sheet Management. And I think in the past you've given us a little guidance on how we should expect that to roll over the course of the year. I just wonder if you had any views at the first quarter on what we might expect for BSM this year? Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So balance sheet management, about $2.5 billion. Rates, no, I don't think that you can extrapolate that forward. What I think you can more look at is a recovery in foreign exchange credit and equities. Remember, total client-facing Global Banking and Markets revenues were only down 7%, which actually as Iain was saying earlier, compared to most of the industry was a very strong performance. Of GBM businesses we've been saying, kind of repeatedly for a very long time, has a kind of different mixture.
+If you add in Balance Sheet Management, the overall adjusted revenues for the business is down 12%. I don't think that you should be assuming a continued outperformance from rates but more the – in March and April more normalized trading conditions return, so helping the foreign exchange and equity piece more.
+Iain James Mackay - Executive Director & Group Finance Director
+On CTA, David, I wouldn't necessarily expect absolute linearity coming through the cost to achieve. Just as we've talked about not – hopefully not anticipating exact linearity coming through in the actual costs being realized.
+What I would say is that normally on the basis that we're going to recognize our $4.5 billion to $5 billion of saves by the end of 2017, you can expect the cost to achieve to come through slightly ahead in terms of the actual cost savings.
+So we're about – just over $1.2 billion since inception through the current point. And there is – I think Stuart mentioned it in his comments, all of the programs and projects that we've got focused on realizing cost saves are up now and – are up and running now. And as a consequence of which, we'll continue to see the cost to achieve coming through over the course of the coming quarters.
+David John Lock - Deutsche Bank AG (Broker UK)
+Thanks very much. Very clear.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you. Next please?
+Operator
+Our next question today comes from Tom Rayner from Exane. Your line is now open.
+Tom A. Rayner - Exane Ltd.
+Yes. Good morning, everyone. Could I have two questions please? First, to just go back to Hong Kong, see if I can get any more out of you. I mean it accounted for about 38% of group profit in the first quarter. The loan book looks like it has contracted, annualized 13% in Q1. Commercial itself down 20% on an annualized run rate. So either something has happened in the first quarter to explain that. Or it looks like a fairly big sort of retrenching in terms of your sort of appetite to lend. I noticed the loan-to-deposit ratio has fallen from 56% a year ago to about 48% now.
+So I just wonder if I could push you a bit more for some comments on what's happening in Hong Kong specifically? And I have a second question on slide 11, which is the RWA slide. I don't know if you want that now or to take it separately?
+Iain James Mackay - Executive Director & Group Finance Director
+Hang on. Hang on, Tom. On, Tom, we – on Hong Kong we had a number of large corporate repayments in the first quarter of the year.
+Tom A. Rayner - Exane Ltd.
+Okay.
+Iain James Mackay - Executive Director & Group Finance Director
+I think the other thing that would have characterized the first quarter was relatively low demand for credit. And I think, yeah, again that kind of goes to some of the things we've already talked about with respect to Retail Bank, Wealth Management as well as Global Banking and Markets. But the main feature that we saw in terms of really impacting balance sheet was a little bit of corporate repayment coming through the first quarter and lower demand. It certainly wasn't specifically as a consequence of a reduction in risk appetite from the Asian businesses' perspective.
+We also saw slightly lower mortgages, as you've seen coming through a lot of the media coverage, as an expectation of declining property prices within the Hong Kong environment. And again just a little bit of risk aversion with respect to part of our customers waiting to see if the environment settles down, is probably the best way to characterize that at the moment, Tom.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+And another thing, Tom, that you'd have had in the first quarter of 2015, which is related to – and in the second quarter of 2015, which is related to Hong Kong-Shanghai Stock Connect is actually quite a lot of margin lending against equities, which clearly wasn't repeated in the first quarter of this year, which also would explain a chunk of the reduction in loans and advances.
+Tom A. Rayner - Exane Ltd.
+Sure. Okay. So when you sort of strip through all of that, I mean are you looking at a reasonably stable loan book do you think? Or small contraction, small growth? What's your sort of gut feel for the true underlying sort of business that is...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I think flat. To be honest, Tom, flat. Flat.
+Tom A. Rayner - Exane Ltd.
+Flattish. Yeah. Okay. Okay. Thanks for that. Slide 11, I just wondered if you could add a bit more color to some of the big moving parts in reconciling the RWA movements? I know there's some explanation in the text. The increase due to book size given again little real growth in the loan book looks quite large. And then there's possibly the corporate downgrades driving the quality. Is there anything else you can add to what's going on to give us a feel for what we should be thinking about for the rest of the year on some of those drivers please?
+Iain James Mackay - Executive Director & Group Finance Director
+No. In terms of book size, Tom, there was about 50% of that came from actually growing lending. And that's made up across the north – well, the U.S., in the U.K., and in Mexico were the main drivers in terms of growth coming through from a book size perspective.
+And then what you also have is obviously some step-up in market risk, risk-weighted assets coming through. Some of the volatility that we saw in the first quarter reflected in the VaR and stressed VaR. And then counterparty credit risk. That's really what we saw going on.
+So of that $16 billion book size, about 50/50 was split between actual growth in credit and lending to customers. And then market volatility effects coming through, principally market risk and counterparty credit risk.
+And then book quality was really a reflection of the downgrades that we saw happening across both the oil and gas sector and the metals and mining sector principally, which again when you look at the external factors, you would generally have expected to see that coming through.
+Tom A. Rayner - Exane Ltd.
+So is it fair to say then, if I'm thinking about going forward, the $9 billion of book quality won't necessarily repeat. And half of that increase in book size is volatility, which might reverse, might get worse. But it's not something which you should expect to have quarter in, quarter out?
+Iain James Mackay - Executive Director & Group Finance Director
+No. I think it's – the aspect of market volatility is going to be driven by exactly that. But there's not necessarily an expectation of repetition around that.
+I think one of the other things that you need to bear in mind when you're looking at the balance sheet, Tom, is that in the first quarter we transferred almost $6 billion out of loans and advances to customers are held for sale. And that came out of our legacy book in Global Banking and Markets and out for our run-off CML portfolio. The majority of that, the vast majority, 80% of it, coming out of the CML portfolio in the U.S.
+Tom A. Rayner - Exane Ltd.
+Okay, lovely. Thanks a lot.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you. Next.
+Operator
+Our next question today comes from Rohith Chandra-Rajan from Barclays. Your line is now open.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Hi. Good morning. A couple if I could please. The first one, just on costs. Obviously a good performance there, helping to offset some of the revenue pressures. Just wondering on the sort of $7.5 billion underlying costs, how feasible that is to hold that relatively flat throughout the rest of the year? Obviously you've got the bank levy in the fourth quarter. But at the moment you're being able to offset the regulatory spend and inflation through ongoing cost reductions. So just a comment on how you see that progressing through the year.
+And then just on the RWA side of things. You highlight that you're halfway through the reduction plan. Could you just give us some insight as to what you expect for the rest of the year? And then secondly also on timing of Brazil. I mean it sounds like you're now quite close to that being finalized. Is the middle of the year realistic? And can you remind on the RWA reduction there please?
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. On Brazil I think we're looking to – our expectation is it'll close in the first half of the year, so by the time we speak to you next, hopefully we will have that transaction closed and the benefits coming through both the P&L and capital. And that's really one of the reasons that we provided a little bit more insight on the impact on the Brazilian numbers and the overall groups that you can track it through each of the four quarters this year.
+In terms of the RWA reduction I think it was about $30 billion if I remember correctly. We'll dig that one out for you. And then in terms of impact and capital overall, it's about 60 basis points. On RWA sorry, it was $37 billion coming through the risk-weighted assets on the disposal of Brazil.
+In terms of progress in RWAs for the remainder of the year, I'd probably sum it up in one word, progress. $15 billion in the first quarter. Obviously we've made good progress as Stuart mentioned in terms getting more out of the CML portfolio in the month of April. And as I just mentioned, we've transferred a substantial additional balance to held for sale out of the CML book. And that continues apace. The U.S. team has done a great job there.
+And we'll continue to make progress with the Global Banking and Markets business, both in terms of legacy portfolio as well as just continued improved management of the capital efficiency across the various models that we've got and the customer base that we've got in RWAs. But as I mentioned, it's not something that we're planning from a linear perspective.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. Look, it's not linear. But if you just look at some stats. Global Banking and Markets has achieved 60% of its target already. So $84 billion out of $141 billion target. CMB, 85% of its target has been achieved. So $25.4 billion out of $30 billion. And the U.S. CMLs, 43% of its 2015 to 2017 target achieved. So as Iain says this is not going to be equal parts month by month. But this is a huge focus.
+Iain James Mackay - Executive Director & Group Finance Director
+And on the costs, Rohith, we will – we did not actually expect to keep costs flat over the remainder of the year. I think clearly what you saw in the first quarter in terms of Global Banking and Markets, our costs are managed there certainly in line with overall revenues when it comes to the performance cost for employees. If the revenue doesn't come through, then the accrual for bonus doesn't come through with it.
+But broadly speaking as we talked about back in June of last year and again today, we continue to invest significantly in global standards and wider regulatory programs. There's an investment cycle, which we provided a little bit more detail about back last June. And we expect that investment cycle to continue through 2016. And really only start to realize significant benefits in terms of lower costs in that particular space as we work through 2017.
+So feel there's great progress made in the first quarter of 2016. We do have excellent (41:07) programs that we need to continue through the remainder of 2016. And that will put some upward pressure on the overall cost base for the remainder of this year.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+So just on that, Iain, sorry, so the regulatory program and compliance costs of $0.7 billion in the quarter, you'd expect to trend up a bit from here. Is that what you're saying?
+Iain James Mackay - Executive Director & Group Finance Director
+We do. As that investment continues apace – and most of the investment is focused around the deployment of technology and automation into the countries in which we operate today. And as we get to that point, then the overall cost of compliance we expect to be much more manageable. And possibly to see marginal, but only marginal, reductions in the overall cost associated with that. That the investment cycle continues through 2016, and we'll start to realize the benefits of that in 2017.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay. Next please.
+Operator
+Our next question today comes from Manus Costello from Autonomous. Your line is now open.
+Manus J. Costello - Autonomous Research LLP
+Good morning. Thank you very much. I had a question about your AT1 issuance please. There was a report in the press last week that the regulator had asked you to issue, and you had politely declined. I wondered if you wanted to comment on that incident? And more generally comment on what your calendar is like for issuing AT1, because you've obviously still got a reasonable amount to issue before you hit your target. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Well, first of all I'd say, don't believe everything you read in the FT [Financial Times]. And fairest point would be a misquoted and off-the-record conversation. A regulator did not specifically request us to make issuance into the market, although a number of our investors did. I can well imagine the motivation behind that, considering the higher premiums that have been associated with those kinds of issuances back in January and February.
+In so far as our AT1 calendar goes we would expect, provided pricing is reasonably good, which it actually is at this precise moment in time, we would expect to be out in the market this quarter for AT1s, Tier 2s, and other TLAC qualifying securities. We got $10.5 billion out in the first quarter at slightly higher spreads than we would necessarily have liked. But they came in quite nicely at the end of February and into March. So we got about $10.5 billion out. And certainly in terms of volume of issuance through the second quarter, it would be similar or possibly slightly more in the second quarter.
+When you think overall at our program of issuance, we've got over the next three years about $50 billion of maturity coming through for refinancing. And then on top of that we've got somewhere between $10 billion and $30 billion of new issuance to do to ensure that we meet the overall TLAC requirements by the beginning of 2019. And clearly, our view is to try and get as much of a jump on that in 2016 as we can, provided the market conditions are reasonably supportive of that.
+Manus J. Costello - Autonomous Research LLP
+And when you talked earlier, Iain, about the pressure on the net interest margin from that coming through, are you're implying that should start from kind of Q2, as that $10 billion starts to bite?
+Iain James Mackay - Executive Director & Group Finance Director
+Well, we've put $10.5 billion out, and we'll be paying the coupons on that as time passes, Manus. So yes, the costs of issuing that paper, which as we've described on numerous occasions before as surplus to our requirements, will create a little bit of pressure on the NIM.
+Manus J. Costello - Autonomous Research LLP
+Got it. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. Next please.
+Operator
+Our next question today comes from Martin Leitgeb from Goldman Sachs. Your line is now open.
+Martin Leitgeb - Goldman Sachs International
+Yes. Good morning. Just a few...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Martin Leitgeb - Goldman Sachs International
+...follow-up question on revenues please. And your comment obviously on Hong Kong and the loan growth outlook there is helpful. Just looking at slide 17 where you present underlying loan figures on a constant currency basis, excluding the red-inked balances. And the numbers there look fairly stable over the last 5 quarters. And I was just wondering if you could give us any view on how this could progress from here, with obviously particular trade balances probably – or potentially stabilizing at the lower level?
+And in particular I would be interested in your comments, one, on the potential for loan growth within the U.K.? And in the U.K., specifically mortgages? Just looking at your disclosure, it appears that the deposits kept growing, whilst the loan balances, at least on the Retail side, kept fairly stable. Do you see the scope there to utilize your competitive funding advantage you have in the U.K. to engage in stronger mortgage grow in the U.K. here going forward?
+And the second question on trade finance and element related to commodity prices. With some of the major commodities having quite a rebound in the first quarter, could we see here trade balances expand going forward? Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So on U.K. mortgages. Actually U.K. mortgage new business is up about 57% year on year. There's actually about a $2 billion, nearly $3 billion, increase in mortgages. So yes, we are trying to do that. And we've signed up more third-party agents in the first quarter as well.
+And we've also seen a considerable increase in the number of mortgages coming through on our direct channel, which is actually starting to pick up quite significantly. So yes, we are focused on doing that. So as I say, intermediary performance is up, new business is up. And the amount being on-boarded online is also up. So we are trying to do that.
+If you come to your piece about – or your question about trade balances and commodity prices, yes, that should really result in some kind of rebound. A big chunk of the documentary credit pull is related to softer commodity prices. And actually just lower shipments taking place off commodities. And I think also that the ability to grow the book in U.K., Europe, and North America, and in Mexico, you can see in the first quarter, that actually is where we've seen loan growth.
+Remember, also running through these numbers, as we set out on slide 17, is going in the other direction, obviously, the reduction in the U.S. legacy portfolios. So there is a net reduction going through as we dispose of this as well and as we dispose of legacy assets.
+So I mean I think we're reasonably confident that we can continue to grow loans and advances, and that there is – as you say, there's a stable picture over the last 5 quarters, there's not a declining picture. And within which we've made, basically offset the declines due to disposals of legacy positions.
+Martin Leitgeb - Goldman Sachs International
+Very clear. Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you. Next please.
+Operator
+Our next question today comes from Michael Helsby from Bank of America. Your line is now open.
+Michael Helsby - Bank of America Merrill Lynch
+Yeah. Morning, everyone. I've got three questions, two bigger picture ones and then just a point of detail please. Firstly, just on ROE, slide 9, your costs ex-Brazil, you're pretty much already at your 2017 run rate. And despite that when I look at slide 12, it shows that your group ROE, excluding significant items and levies, just 7.6%. So I appreciate that the revenue environment was challenged in the first quarter. But there's a trend where it's been challenged for a while. So I guess the question for me is, what's plan B? It really doesn't look like you're going to get anywhere close to your greater than 10% ROE target. So can you come back to that $7.3 billion cost run rate and make it significantly lower? So that's question one.
+Question two is on slide 15. You're talking about dividend growth. And you're linking it to longer-term profitability. I asked this last quarter, and you show they're yielding more now since then. Is 8% – clearly the markets are very worried that you're going to cut the dividend, not grow the dividend. So my question really is what's the longer-term earnings power that you would need to believe in for you to recommend that the board does actually do what the market is worrying about and cut the dividend?
+And then the third question is just on tax rate. The tax rate was 25.7% this quarter. You mentioned that was because of the U.K. surcharge. Should we use that now as the ongoing tax rate on a clean basis? I just ask as consensus has only got 23%. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. On the last question, yes, I would use that 25% to 26% as a effective tax rate going forward. And formed largely by the U.K. corporate surcharge on taxes.
+Michael Helsby - Bank of America Merrill Lynch
+Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+I think on the ROE, Michael, there's a couple of things to bear in mind. That ROE includes really the effect of Brazil coming through. And as we dispose of Brazil, that knocked that out. It's about 20 basis points to a return on risk-weighted assets, largely coming through the Retail Bank and the Commercial Banking businesses. And so that is helpful both in terms of the returns equation, as well as the capital and the expense equation.
+On the costs you make the assumption that we're pretty much done in cost, and that simply is not the case. The $7.5 billion versus the $7.3 billion belies the fact that we've got continued investment to do in growth initiatives that focus on the longer-term revenue-generating and profit-generating capability of the group. It also focuses on the longer-term requirements for investment around global standards and regulatory programs and the offset of inflation.
+So there remains a very significant piece of work to do from a cost perspective. And delivering against that and an exit run rate in 2007 (sic) [2017] equivalent to 2014, whilst continuing to build the balance sheet, albeit perhaps at somewhat slower rates, should increment revenues as we work through those.
+And I think when you take those factors together and hopefully but not necessarily planning for a little bit of assistance from U.S. rates, then the mathematics would suggest to us that we can move back towards that 10% rate and hopefully grow beyond that. But I think within the context of 2017, getting there is obviously a pretty difficult challenge. But that's what we're focused on delivering against. And a particularly strong focus on those things that are directly within our control, and then taking advantage of any revenue growth opportunities, for example, those that Stuart laid out earlier on.
+The guidance and dividends hasn't changed, Michael. And it's not going to change unless there's a culmination of factors relating to a wider recessionary environment in the markets in which we operate or a significantly higher set of capital requirements. And as you know, notwithstanding various policy set or a proclamation to the effect that there is no Basel 4, there would certainly seem to be a Basel 4 out there with a wide range of reassessment that's in the process of being consulted upon.
+So I think until we get capital requirements nailed down, which a year ago I was optimistic we'd be much closer. But I think the events over the last few months have perhaps moved that out into the future sadly. But the guidance on dividends hasn't changed. And if the underlying economic factors and performance factors do change significantly, then we will certainly update you on that. But no change at this point.
+Michael Helsby - Bank of America Merrill Lynch
+Thanks. So just on the – sorry, my first quarter, Iain. I appreciate there's a lot going on in the cost line. But I guess what I'm trying to get to is if the revenue picture doesn't improve, then clearly you're only left with one lever to get to your ROE, and that's cost. So I guess the question is, to what extent can you lower that $7.3 billion run rate? Is it just off the table, because it's too difficult? And you're working so hard to deliver that number in isolation?
+Iain James Mackay - Executive Director & Group Finance Director
+No, it's not, Michael, but we'll make that determination when the time is right to make that determination. And 2 bad months at the beginning of 2016 aren't really the basis on which we'd make a decision that affects the long-term future of the group.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I think, Michael, we've had...
+Michael Helsby - Bank of America Merrill Lynch
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+... 2 difficult months, January and February, and 2 okay months, March and April. So there's not a trend yet.
+Michael Helsby - Bank of America Merrill Lynch
+Okay. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Michael.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. Next please.
+Operator
+Our next question today comes from Chris Manners from Morgan Stanley. Your line is now open.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Good morning, Stuart. Good morning, Iain.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Hi.
+Iain James Mackay - Executive Director & Group Finance Director
+Morning. Yeah.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+And so three questions if I may. The first one was on slide 17. Looks actually to be pretty encouraging, the market share gains you're making. Could I ask you and maybe just share with us, which competitors are you taking share from? Don't have to name them. But maybe by type, just give us a sense.
+And also now that the volatility has stabilized a little bit after the first 2 months of the year, are the competition regrouping to any degree that you can see? And second question was...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So...
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Sorry.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. Carry on.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+So yeah. The second question was just going to be on the Other revenue. That was something I always find a little bit tricky to forecast. I was just looking at page – slide 7. So it was the plus $179 million this quarter. At this time last year it was minus $200 million. But the last few quarters have been roughly a negative number of $200 million-ish. When we think about that line going forward, should that be a sort of plus number, minus number, flat? How should we think about the Other revenue trending?
+And the last question was just on impairment. Thought it was interesting context you gave us on slide 18 there of where the impairment charges have been over time. I see you've – pick the time period back to 1997, and you've shown us some average impairments in percentages there that seem to be a little bit ahead of where you're running at the moment. But should we take from that that you're expecting numerous (56:00) impairment charges start creeping up a little bit? Or how should we interpret those? Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+I think taking the third, first. I wouldn't necessarily interpret anything for it. We've provided it as information that hopefully is useful to you to give you some indication that in – certainly in absolute terms, on relative terms, the lower impairment charges in the business that matter most to us have seldom risen above a significantly high level.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+And the other reason for giving it, Chris, is obviously on fourth quarter – if you look first quarter of 2016, it's much lower than the fourth quarter of 2015. But actually much higher than the first quarter. So it's a volatile series. So we wanted to show you what the average was, because we thought we'd get a question as to what the average was.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. In terms of Other revenues, I'll – Stuart, I'm sure will cover the first one on competitors.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah.
+Iain James Mackay - Executive Director & Group Finance Director
+But in terms of Other revenues, I'm not going to try and give you any guidance on the Other. The Other segment – the Other line picks up inter-segment eliminations and consolidation within the group. And it also picks up group elements.
+And what we had coming through in that particular line in the first quarter was a bit of a hedge in effectiveness coming through, some of their peer and company debt that was issued some time ago. And interest rate – whereas interest rate and foreign exchange derivatives that hedged the issuance of that debt. And when you saw some significant movements in both interest rate and foreign exchange in the first quarter, then that's really what flowed through in terms of the Other income.
+So we had a positive effect of about $179 million in the first quarter. And that was largely from hedging effectiveness on those interest rates and foreign exchange derivatives, against holding-company debt issued in recent years. And then a negative effect in the first quarter of the preceding year, which was largely in the elimination of inter-segment items.
+So it's got some volatility in that line, as you've seen coming through in recent quarters. But I think a significant amount – the ability to predict that is largely influenced by the very factors that we saw coming through this quarter in terms of movements in interest rate, foreign exchange, and their impact on holding company debt.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So looking at competitors...
+Chris R. Manners - Morgan Stanley & Co. International Plc
+So group would be... (58:11)
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Sorry, carry on.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Yeah. I was just going to say, so – and will we be sensible to call that a zero as we model it going forward? Just it's volatile? It doesn't have like an underlying run rate that it should have basically. Is that fair to say?
+Iain James Mackay - Executive Director & Group Finance Director
+No. There's not an underlying run rate. And it is not an easy item to predict, until you start seeing effects coming through interest rate, foreign exchange, and other market movements.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Super. Thanks. Sorry, Stuart.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So on competitors it's a bit difficult to sort of indicate who they are without even by giving geographic descriptions, without being kind of inappropriate on a call like this. If you think about those banks which have changed strategy and pulled out of Asia, those are the people that we have taken market share from. So the easiest way to do it is by a negative. So the U.S. banks remain highly competitive. But some of the other banks, some other parts of the world, have given up on their Asian initiatives.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Okay. Maybe some U.K. banks?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Possibly.
+Iain James Mackay - Executive Director & Group Finance Director
+It was quite some time ago.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Possibly. Honestly, Chris, you can kind of work it out. But I think on a call like this, it's not appropriate.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+No. Fair enough.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay. Thank you. So I think we've got time for one last question.
+Operator
+Thank you, Mr. Gulliver. We will take our last question today from Stephen Andrews from Deutsche Bank. Your line is now open.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Thank you. Just coming back to the dividend again.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Just to work out what the actual cash payout ratio is it at the moment. I think on slide 10 you said the dividends net of scrip were about $2.1 billion in Q1. And I think you're including some of the pref in that. So am I right in thinking that the underlying payout was about $1.9 billion on the ordinary dividend? So the scrip take-up in the first quarter on the larger final dividend for last year was probably in the sort of 55%, 60% range.
+And then the second question is just on the – your ability to pay the dividend is usually a function of just the cash coming up from different parts of the group. How should we think about – or how do you think about this slowdown in volumes in Asia? Sitting on the ground in Hong Kong, it feels in some ways structural. In that you're largely a U.S. dollar lender, a Hong Kong dollar lender. And with the RMB weakening, the demands you had coming from China for U.S. dollar borrowing just isn't there anymore. Well, if that is having an impact on revenues, is this – should we expect The Hongkong and Shanghai Banking Corp. to be consuming significantly less capital than it was? So be upstreaming more capital going forward than it had done previously? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+The scrip take-up on the fourth interim dividend – so we account for dividends on an accounting basis within our capital. So the fourth quarter dividend was accounted for in the capital ratios in the fourth quarter of last year. And the scrip take-up on that was about just under 10% of the total, which represented about I think $440 million, $450 million in terms of cash conservation at the group level.
+In terms of the upstreaming of dividends...
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Sorry. I was on – I meant on Slide 10, the $2.1 billion dividends net of scrip, which I assume was for the full year dividend.
+Iain James Mackay - Executive Director & Group Finance Director
+No. That's an assumption around net of scrip as it relates to the first dividend declared.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Just the first $0.10 of next year.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Yeah. So that relates only to the interim for the first quarter if you like, or the first interim dividend to be more precise.
+In terms of dividend upstreaming from the subsidiaries, we hold the subsidiaries accountable to upstream somewhere between 50% to 70% of their profit attributable after tax. And that is applicable to all the subsidiaries, which are in a profit generating situation.
+Certainly as far as Hong Kong goes, like other major subsidiaries in the group, they obviously have to meet local regulatory requirements, which The Hongkong and Shanghai Banking Corporation does comfortably.
+And again the dividend distribution from The Hongkong and Shanghai Banking Corp. is going to follow exactly the same principles as the dividend from ourselves to the ultimate shareholder of the group. It's going to be informed by regulatory capital requirements, the profit generating capability of the business. And what you can clearly see is a business that continues to be very strongly capital generated.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay. That's great. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you very much. Okay. That brings the call to an end. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Operator
+Thank you, ladies and gentlemen. That concludes the call for the HSBC Holdings Plc's earnings release for first quarter 2016. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

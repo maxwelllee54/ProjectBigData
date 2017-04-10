@@ -1,0 +1,273 @@
+Xerox Corporation (NYSE:XRX)
+Q2 2006 Earnings Conference Call
+July 25, 2006 10:00 am ET
+Executives
+Anne Mulcahy - Chairman, CEO 
+Lawrence Zimmerman - SVP, CFO 
+Analysts
+Shannon Cross - Cross Research  
+Ben Reitzes - UBS  
+Carol Sabbagha - Lehman Brothers  
+Bill Shope – JP Morgan  
+Matthew Troy - Citigroup  
+Amit Sanghrajka - Banc of America  
+Chris Whitmore - Deutsche Bank  
+Woojin Ho - Merrill Lynch   
+Operator
+ Good morning, ladies and gentlemen, and welcome to the Xerox Corporation's second quarter 2006 earnings release conference call hosted by Anne Mulcahy, Chairman and Chief Executive Officer. She is joined by Lawrence Zimmerman, Senior Vice President and Chief Financial Officer.
+During this call, Ms. Mulcahy and Mr. Zimmerman will refer to slides which are available on the Xerox investor website at www.Xerox.com/investor. At the request of Xerox Corporation, today's meeting will be tape recorded. Taping and rebroadcasting of this call are prohibited without the express permission of Xerox. After the presentation, there will be a question-and-answer session. (Operator Instructions)
+During this meeting Ms. Mulcahy and Mr. Zimmerman will make comments that constitute forward-looking statements as defined in the Private Securities Litigation Reform Act of 1995. These statements reflect management's current beliefs, assumptions, and expectations and are subject to a number of factors that may cause actual results to differ materially. Information concerning these factors is included in the Company's 2005 Form 10-K and first quarter 2006 Form 10-Q filed with the SEC.
+We do not intend to update these forward-looking statements as a result of new information or future events or developments except as required by law. At this time, I would like to turn the meeting over to Ms. Mulcahy. Ms. Mulcahy, you may begin.
+Anne Mulcahy
+I would like to thank all of you for joining us today. If you turn to slide 4, we will provide a summary of our Q2 results.
+We delivered earnings per share of $0.26 and net income of $260 million. This includes a $0.04 benefit from completion of foreign tax audits, partially offset by $0.02 of restructuring and as expected EPS includes the $0.01 write-off from our 2003 credit facility. So when we call these out, adjusted EPS was up 25% year-over-year, a strong indication of improved operational performance across our business.
+Our revenue story is positive with total revenue up 1%. Post sale, which is the key driver of long-term revenue growth, is up 2%. Color, which now represents 34% of total revenue, grew 14% in the quarter. Equipment sale revenue was flat in the quarter, yet installed activity remained strong for several key markets.
+As important, we improved gross margin both year-over-year and sequentially. Our focus on cost and operational improvements flowed through, with margins now at 41.1%. That is great progress from last quarter, and we believe margins will stay in our range of expectations for the balance of the year.
+The balance sheet remains solid. We generated $220 million in cash from operations after contributing $226 million to our U.S. pension plans. After paying down $600 million in debt, our cash and short-term investments are $1.2 billion.
+In addition to launching nine new products in the quarter, we also announced our acquisition of Amici and we closed on the deal last Friday. Amici is an e-discovery business that expands our offerings in litigation-related services.
+We nearly completed our $1 billion share repurchase initiative. As a result, the Board authorized another $500 million for the share repurchase program.
+We built solid momentum this quarter, and I am pleased with the results. This is the effect of execution on a well-defined strategy that you have come to expect from our team. I will provide more detail on the revenue picture, and then Larry will discuss the financials, and then that we will be back to wrap up and take your questions.
+So if you turn to slide 5, this is a look at our revenue trends, noting the year-over-year compare in actual and constant currency. You will see there was no currency impact this quarter on total revenue, post sale and financing. Currency had a 1% benefit on equipment sales.
+Total revenue in the quarter was up 1%, largely due to the 2% increase in post sale revenue, which represents about 75% of total revenue. Post sale was driven by 4% post sale growth from digital systems, and our strategy to boost revenues through annuity from color products and services contracts contributed to post sale this quarter. We delivered a 16% increase in color post sale revenue and 5% growth from global services.
+The decline from our legacy Light Lens business cost 2 points of post sale growth. Without the impact of Light Lens, which was about $60 million, post sale would have grown 4% in the quarter.
+Equipment sale revenue was flat in the quarter, while installs of key products like our WorkCenter multi-function systems and our production color process were up. We continue to generate more than two-thirds of our equipment sales from products launched in the past two years.
+The revenue dynamics continue to shift as we expected, with equipment sales providing less leverage as the more profitable annuity stream kicks in from color and our services-led enterprise wins. In fact, signings for our document management services were up more than 15% in the quarter, and we are continuing to expand our relationships with major accounts.
+For example, Xerox is bringing its document management expertise to Medco Health Solutions. Under a seven-year deal, our global services consultants will help Medco streamline its many document-intensive business processes and create new ways for Medco to customize some of the millions of communications it generates each year.
+As important, equipment installs remain a key focus since more machines in the field, what we call MIF, generate more pages. These pages then generate the revenues that support our post sale.
+So turn to slide 6 for a look at activity. This slide represents install trends through the first half of the year. When I review the business segments, you will see the quarterly install numbers. I like to focus on both, to note the variability from product launch cycles. As I said, it's all about increasing MIF to keep feeding the annuity stream.
+In the office, we're seeing a strong pick up in color as expected, with color MSDs up 28%. Installs of office black and white increased 5%. The majority of the activity is driven by accelerated activity in segments 3 through 5, which generate more pages than desktop units and yield a greater return in post sale. 
+So the product mix is positive. We are now seeing more purchasing power in the higher-end units of office systems.
+In production publishing, activity increased for the very high end of black and white production, like the DocuTech 6155 and 6180, and for the Nuvera 144 digital production system. Yet, not enough to offset declines in mid-range offerings. That is where we're seeing the trade-off to light production, as evidenced by 29% activity growth, largely due to the success of the Xerox 4110 system.
+Production color remains exceptionally strong with 95% year-to-date activity growth, another proof point of our market leadership in this fast-growing space.
+So if you turn to slide 7, we will see how overall color influences our business model. We have the industry's broadest portfolio of color systems for production and office environments, and the benefit is in the pages: 40% color page growth in the quarter supports the 16% increase in color post sale. 
+With color revenue per page about five times greater than black and white, it is clear that color provide significant leverage for our annuity revenue growth. Color now represents only 9% of total pages. But as I like to say, that is 91% left to go, with a multiplier that is quite attractive for our long-term growth.
+Our clear competitive advantage is providing the technology that drives high volumes of pages. In addition to our iGen3 and high-end DocuColor systems, we just started installs of our DocuColor 5000. This mid-level digital production color press is at a price point quite attractive for customers who need the features but not the speed of higher-end systems. 
+At the same time, we launched another Phaser color printer as well as WorkCenter color digital copiers and multi-function products, all aimed at offices small to large.
+In the quarter, color equipment sales grew 9% and color now represents 44% of equipment sales. That is up 12 points from two years ago. Total color revenue was up 14% in the quarter. 
+We continue to see a slowdown in sales of desktop color printers. Without the impact from color printers, our color revenue was up nearly 18% this quarter. Color now represents 34% of total revenue, up 7 points from two years ago.
+So turn to slide 8 and we will take a look at the production business. Total production revenue grew 1% and was flat in constant currency. Installs of production monochrome systems were up 9%, largely due to continued strong demand for the Xerox 4110 and highlight color systems. In fact, highlight color is definitely becoming a much-valued feature for our graphic arts customers, especially in areas like billing where a little bit of color can add a lot of impact.
+For example, OSG Billing Services which creates and distributes invoices for companies in areas like telecom and publishing, just bought nine Xerox DocuTech highlight color systems to expand its digital capabilities. After launching more features in April to the Xerox Nuvera production systems, Nuvera sales trended up this quarter. We expect Nuvera to contribute stronger sales through the rest of the year. This mix dynamic in production monochrome definitely improved this quarter, with increased activity of high-end DocuTech systems that generate big volume of pages.
+For production color, again, the success of the DocuColor 240/250 continues to exceed expectations. This product, along with iGen3 fueled, a 96% increase in production color activity. The steady drumbeat of iGen's customers growing their business in digital printing generates more multiple unit sales and higher page volume. We now have 137 customers who own more than one iGen system. In the second quarter, 121 customers printed more than 1 million pages in a single month on their iGen3. With the addition of the DocuColor 5000, our production color portfolio is unparalleled in the industry for commercial print, graphic arts, and document-intensive businesses of any size.
+So if you turn to slide 9, we will review our office business. Total office revenue was up 1% and flat in constant currency. Install growth was strongest in segments 3 through 5, up 12% due to increased demand for our WorkCenter multi-function devices compared to slower activity for desktop units.
+This is aligned with our go-to-market strategy and investments in new technology. The opportunity to capture more pages and fuel the annuity stream lies in the segments 3 to 5 space. We're winning the big fleet deals in this key segment through a consultative approach to understand our customers' entire document infrastructure.
+By doing just that and providing best-in-class products, pricing, and service we are now Honeywell's global supplier of multi-function systems and network printers. We will be upgrading and replacing their current systems with Xerox equipment around the world.
+Installs of office color MSDs grew 13% in the quarter. These solid growth rates are largely driven by the office version of the DocuColor 240/250 launched last year.
+The pace of growth in color printers slowed this quarter. We are now starting to install the new WorkCenter color systems launched in May as well as a new Phaser printer; and we will see more of the benefit from those products in the balance of the year.
+Results in DMO are continuing to improve, so let's take a look at slide 10. Revenue was up 7%, with equipment sales up 5% and post sale and financing up 7%. Operational improvements are now flowing through to expand margins and accelerated activity is generating a great return on post sale; all positive trends that will continue to benefit our overall business.
+Now I am going to turn it over to Larry for the financial review. I will be back to wrap up and share what we expect for Q3, and then Larry and I would be pleased to take your questions. 
+Lawrence Zimmerman
+ Thank you, Anne and good morning. Our positive performance this quarter demonstrates the strength and effectiveness of our business model to deliver shareholder value. Driven by services, equipment installs and the accelerating rate of color adoption, our annuity grew 2%, contributing to total revenue growth.
+Our margins improved and along with revenue growth, delivered a 3% increase in gross profit. Our focus on expense management resulted in productivity in both SAG and R&D. We delivered significant shareholder value through expanding earnings 25% year-to-year on an adjusted basis, generating $220 million of cash from operations after a $226 million pension contribution, buying back $225 million in Xerox stock, acquiring Amici which broadens our litigation services business. Here is a bit more detail on all this activity on slide 12. 
+Anne reviewed total revenues, so here is more detail on post sale. Post sale grew 2%, driven by digital growth of 4% and 8% growth in DMO. Light Lens annuity is now under $100 million, only 3% of the total, and created a 2 point drag on growth in the quarter.
+On this chart you will see the contrast to prior years. The improvement in digital and DMO is consistent; yet the Light Lens impact has significantly decreased, yielding positive annuity trends and a 2% growth in the quarter.
+Color continues to play an important role, growing at 16% in the quarter. Color now represents 31% of total post sale and only 9% of the pages. As Anne mentioned, a color page generates about five times the revenue and gross profit per page of black and white, giving us a huge opportunity going forward.
+Services annuity grew at 5% this quarter, continuing to grow faster than the core. As we continue to drive install activity, color adoption and services, post sale will continue to grow.
+Slide 13. Our earnings story is the result of strong operational performance. This chart starts with the GAAP P&L, and then explains adjusting for items that allow for a better year-to-year understanding; namely last year and this year's tax audit settlements, restructuring, and the 2003 credit facility write-off. Revenue, gross profit margin, SAG, and R&D are unchanged in this analysis.
+Again, we grew revenue and improved profit margin, delivering 3% growth in gross profit. Gross margin improved seven-tenths of a point year-over-year and nine-tenths of a point sequentially. Effective expense management resulted in a $27 million reduction in SAG; and SAG as a percent of revenue decreased 1.1 points year-over-year. RD&E declined year-over-year, driven by a $10 million reduction in sustaining engineering. On a GAAP basis, we delivered earnings of $0.26 in 2006.
+Now to better understand our performance on a year-to-year basis, here is a look at the items we are adjusting. For 2006, there was a $46 million after-tax benefit from finalizing foreign tax audits which contributed $0.04 per share. This was partially offset by a $25 million or $0.02 per share after-tax restructuring, as well as a $9 million charge or $0.01 per share in other for the write-off of the fees associated with the termination of the 2003 credit facility. These items net to a benefit of $0.01. 
+For 2005, there was a $343 million after-tax benefit from the finalization of our 1996 through 1998 IRS audit, contributing $0.33 per share. This was partially offset by $130 million after-tax or $0.13 per share for restructuring. These items net to $0.20.
+So after removing these items in 2Q06, we delivered adjusted net income of $248 million, compared to adjusted net income of $210 million in 2Q05, representing an 18% growth. Without these items in 2006, adjusted EPS is $0.25 and 2005 adjusted EPS is $0.20, a 25% growth.
+You can also see that on an adjusted basis the tax rate is slightly higher year-over-year. To help you through these adjustments we have included reconciliation slides for both 2006 and 2005 in a comparable format.
+Slide 14. Cash and cash flow continue to be positive. We generated cash from operations of $220 million including a $226 million pension contribution to maintain 100% funding on a current liability basis.
+Cash flow is driven by earnings. AR and inventory were a use of funds this quarter. This should and will improve going forward. Investing includes $64 million of capital expenditures. Cash from financing includes $600 million debt reduction, driven by secured debt repayments of $746 million.
+We are leveraged 7:1 on our financing business. We have zero leverage in the core business, and are now at 36% secured debt, down from 49% at year end '05. We used $225 million in cash to repurchase shares in the quarter. We have $105 million remaining from the $1 billion we previously committed to.
+Our cash and short-term investments balance is $1.2 billion. $174 million will be paid out in Q3 for our acquisition of Amici which closed last Friday. We are quite confident in the opportunities this acquisition provides, as Xerox global services expands its offerings and market reach in litigation and related document management.
+Slide 15. Here is a review of our progress against key goals to optimize our capital structure. First, we remain sharply focused on returning to investment grade, which ensures we will have access to capital in all market conditions at attractive rates. We plan to maintain a cash and short-term investment balance of $1 billion. At the end of Q2 we have $1.2 billion.
+For cash from core operations, we expect to end the year at the high end of the $1.2 billion to $1.5 billion range. Our new $1.25 billion unsecured line of credit gives us financial flexibility to support our financing business. Secured debt will continue to decline and be replaced by unsecured debt as required. As I stated at the end of the second quarter, we are at 36%, down from 49%. Core debt will be low as we drive to investment grade.
+Share repurchase is a key strategy for us and will continue, consistent with our cash flow. We completed $895 million of the program to-date and today announced an additional $500 million to be executed over the next six to 12 months.
+We will continue to consider acquisitions that are closely aligned with our growth strategy and can deliver returns that build shareholder value.
+We made a $226 million pension contribution in our U.S. plans in April, so we are 100% funded on a current liability basis. On that note, I know there is much interest in pending pension legislation. I am reading the same press reports you are., so while it's difficult to predict the outcome of the different pension proposals, I can assure you we review this in detail, including the public policy discussions on credit balances.
+Since Xerox does not rely on credit balances to keep its pension 100% funded, we expect no material impact on our ability to maintain 100% funding and no impact on our cash position. We believe we are well-positioned in this area.
+In closing, I am pleased with our results and our ability to deliver good performance across the board, from increasing post sale revenue and expanding margins, to an increasingly stronger balance sheet and healthy cash position. Thanks for your attention. Let me give it back to Anne.
+Anne Mulcahy
+ Thanks, Larry. So let me just provide a quick summary. Our performance was solid this quarter, with key metrics trending positive and results aligned with our business model. Post sale is up. The leverage from digital, color, pages and services makes for a healthy annuity stream that serves us well for the long term.
+Equipment installs in key markets, especially color, remain strong and our ten product launches thus far this year will keep accelerating activity.
+Effective execution in cost controls and operational improvements gives us the flexibility to invest in pricing while maintaining healthy margins. 
+We are increasing our share repurchase program, generating strong operating cash, reducing debt, and moving forward on acquisitions. We plan to continue this steady progress throughout the year, delivering on our commitments and building value for our customers and our shareholders.
+So, for Q3 we expect earnings in the range of $0.20 to $0.22 per share, consistent with our seasonality and in line with delivering full year earnings expansion of 10% to 15%. Our expectations for full year earnings remain at the high end of the range of $1.00 to $1.07.
+So thanks for listening and now Larry and I would be pleased to take your questions.
+Question-and-Answer Session
+Operator
+ (Operator Instructions) Our first question comes from Shannon Cross - Cross Research.
+Shannon Cross - Cross Research
+Good morning. Just a couple of questions. The first one just on the gross margin. How many of the improvements that you made in gross margin, which obviously helped to bring it up sequentially, do you think are structural in nature and will continue?
+Do we need to worry about much of a swing in gross margin as we go through the year, with increased investment in some of the services contracts? What are the puts and takes we should think about as we start to look forward?
+Anne Mulcahy
+ So I would say the majority, by far, of the improvements to gross margin are structural in the sense that they're sustainable. The majority of them do come from the improvements we have made, particularly with regard to the technical service structure. So we are quite pleased with the flow through that came as quickly as it did.
+You know, we basically said that we expect to stay within the range of 41% to 42% for the balance of the year. I would say that it can move around but as we have demonstrated in the past, this is an area that we have a good handle on. 
+I think our expectation is to stay within the range and be able to continue to deliver those kinds of gross margins going forward.
+Shannon Cross - Cross Research
+Then and as you look forward, you tend to be a back-end loaded; fourth quarter is very strong in terms of seasonality. What should we think about this year in terms of products? 
+Obviously, on the competitive side, Canon is a little bit delayed, but still coming. Success with Nuvera -- anything you can do to make us feel a little more comfortable that you're going to end up with the bang that you have had in prior years in fourth quarter, and be able to hit the high end of the $1.07?
+Anne Mulcahy
+I think I would look at and begin with the fact that we have been pretty much setting the stage for a stronger performance in production second half of the year. Based on the leverage that Nuvera provides to us, we are seeing better trends. We have said that the real impact would be second half of the year.
+Clearly, we intend to continue the introduction of new products, both in office and production for the balance of the year. We just announced five new color products in this quarter that we haven't seen the full impact of those products in the marketplace. I think that the line-up of color from office through production is very complete and priced right to deal with any single offering that any competitor can bring on. 
+So I would look and say that we are very well-positioned to both continue to drive good product install growth, as well as capitalize on some of the momentum we should get from Nuvera and new product introductions, certainly the nine of them in Q2, along with the balance of the year.
+Shannon Cross - Cross Research
+Then just one final question, because we have heard from some of the enterprise hardware companies out there that there have been delays in purchases or enterprise has been a little bit more hesitant to sign deals. Have you seen any of that? 
+What are you seeing out there in the marketplace, both SMB as well as enterprise?
+Anne Mulcahy
+Well, I think from an enterprise perspective you would have to look at our results and say that our trend from Q1 to Q2 is very good operationally, both from the revenue perspective as well as the activity perspective. So I don't think we would point a finger at the enterprise momentum as causal. As a matter of fact, our services pipeline growing at 15% is quite robust.
+I don't think we have really seen a slowdown on the SMB side. At this point, I don't think we would point to the overall macroeconomic factors and say that they are an inhibitor to continued progress.
+Shannon Cross - Cross Research
+ Great, thank you.
+Anne Mulcahy
+Thanks, Shannon.
+Operator
+Our next question comes from Ben Reitzes - UBS.
+Ben Reitzes - UBS
+Good morning, Anne and Larry. Thanks. With regard to the third quarter, could you just talk about the revenue trends you expect to see? Just elaborate a little on that. 
+Anne Mulcahy
+As we have been suggesting, the revenue trends should get better due to a number of factors. One is that our Light Lens revenue base is down to $89 million, under $100 million. As you look at the impact of Light Lens, which cost us about 2 points on the post sale line this quarter, we expect the Light Lens impact to begin to diminish in the second half of the year.
+Obviously, color leverage, the larger percentage that color gets to be of our revenue base, the better the flow through is on the post sale side. So 2% growth we are very pleased with in Q2, but we expect that to continue to improve.
+Currency actually should begin, at these spot rates, to provide a little bit of a tailwind versus a headwind that we have seen through the first half. So that will provide some help; modest. Not much, but modest. It certainly won't be an inhibitor in Q3 and beyond.
+The product introductions in Q2 clearly should see an impact in Q3. So we think modest improvement on revenue is absolutely what we would expect for Q3, which would drive the kind of earnings leverage that we really are predicting for the balance of the year.
+Ben Reitzes - UBS
+ Now with regard to Nuvera, you're talking about better trends there. Do you think it is pent-up demand because of a long sales cycle? Or do you think fundamentals in that market are improving? Is there anything that you could tell us about that gives us a little more feeling on the sustainability of what you're seeing?
+Anne Mulcahy
+Yes, I don't think I would characterize it as pent-up demand, because we have been out there certainly with DocuTech, and DocuTech actually having some very good install rates through the first two quarters of the year.
+I also would not suggest it is a significant change in the marketplace. I think this is about the additional functionality that Nuvera provides, which both makes it more feasible, particularly in the commercial print market, where we have the production-type applications that the functionality of finishing are able to meet. And certainly, the fact that we have got Nuvera fully equipped, I think, is really providing both for new business as well as the trade base, more momentum.
+So I think this one is about incrementally for us, because it is primarily going after the commercial print marketplace, and a fully-equipped Nuvera that is meeting customer needs.
+Ben Reitzes - UBS
+Thanks. Lastly, Larry, on Amici, can you just give us -- it is probably small -- but what is the revenue boost going to be and when? Any impact on the P&L, if anything material?
+Lawrence Zimmerman
+I think going forward, just the addition of Amici is a small incremental. They are a private company. It is not a public number. But it's a small incremental improvement.
+The question here is how fast we can scale up for the services business, which we hope to do. But we just took charge on Friday, so I would not expect huge improvements in the short term. But it's going to be a long-term, services-led key platform for us.
+Ben Reitzes - UBS
+The revenue number is not disclosed?
+Anne Mulcahy
+ No.
+Lawrence Zimmerman
+ No.
+Ben Reitzes - UBS
+ Thank you.
+Operator
+ Our next question comes from Carol Sabbagha - Lehman Brothers.
+Carol Sabbagha - Lehman Brothers
+Thank you. Just a couple of quick questions. Anne, can you tell us what your machines in field were this quarter versus a year ago?
+Anne Mulcahy
+ Yes, I can. Basically, we told you they were close to flat last quarter. They are flat this quarter, and that is driven by a 10% improvement in digital MIF and a 35% improvement in the color machines in field, which accelerated from last quarter. So it is as good and improving in every category from a MIF perspective.
+When we talk about MIF, I think it's really important,  that does not include DMO or printers, both of which are sources of growth to the machines in field. But as you know, we report DMO as a separate segment, and we don't track printers because they go through resellers and distributors. So I think this is a fairly conservative way to look at MIF and the accelerating trend is encouraging.
+Carol Sabbagha - Lehman Brothers
+Then if you look longer term into '07 and beyond, I think improvement in color margins, the gross margins as that technology gets more mature, we have thought about as a potential tailwind going into '07 and '08.
+It seems like pricing has gotten worse in the color business, just anecdotally. Is that a fair comment to say? Should we still build in a tailwind to margins from overall improvements in color next year?
+Anne Mulcahy
+ Interestingly enough, if you looked at our operating margin returns in both office and production, they're significantly improved this quarter. Particularly in production, improving color margins is one of the reasons why. So in this case, you would say this quarter certainly we outran pricing with productivity and operational improvements. 
+Pricing, as a whole, Carol, was pretty steady for the quarter. It was 6% to 7% pricing investment and that was pretty steady with what we have been seeing both in color and black and white.
+As a matter-of-fact, the two anomalies on pricing would be color printers, where pricing trends didn't deteriorate but they are higher than the average in terms of the color pricing trends in color printing; and segments 3 to 5 in black and white, which as you know we have been pretty much driving with the approach.
+So I don't think we are seeing anything in pricing that would make us feel uncomfortable that we shouldn't see the benefits of the maturing color technologies going forward.
+Carol Sabbagha - Lehman Brothers
+Okay, great. One last quick question. On the increase in stock buyback, can you talk about the timing under which you want to execute it?
+Lawrence Zimmerman
+Six to 12 months.
+Carol Sabbagha - Lehman Brothers
+ Thank you.
+Operator
+Our next question comes from Bill Shope – JP Morgan.
+Bill Shope - JP Morgan
+Thanks. I may have missed this on the call, but could you give us an update on your iGen3 installs to date and what your targets may be for the year, if you are still giving those out?
+Then also, can you give us a read on whether or not your acquisitions will continue to be relatively small in nature, and whether or not we should assume that there is little risk that you will engage in any transformational acquisitions over the next few quarters?
+Anne Mulcahy
+ Yes, you didn't miss it on the call on iGen because we didn't give you specific install numbers. We did tell you that as we look at the production color business, that our installs increased 95% or 96%, largely driven by 240 and 250 installs; but also a year-over-year increase in iGen3 installs as well.
+So the answer would be more than last year, which is consistent with our direction in terms of our iGen3 install targets this year, which we said more than last year. I think qualitatively, other than just raw installs, what we have been pointing to as well in terms of the health and the acceptance of iGen in the marketplace has been the number of customers that are doing multiple installs. That is 137. Also, the fact that we have got about 120-plus of iGen customers that do more than 1 million impressions a month during the second quarter.
+So overall, we are pleased with the progress. We have not given you any specific targets other than more and Q2 would be consistent with that projection.
+Acquisitions. Amici clearly, I think, was characteristic of what we have been talking about in terms of our acquisition focus, which is supporting our services strategy, building platforms for growth in high digital process categories like legal. I think that for the most part, that is what you would continue to see going forward.
+Our view is to make them accretive quickly, as it relates to their ability to help earnings, and to have it be either core or near-core in terms of areas that we can capitalize with regard to our investments in our services business.
+So although you never say never, I think that would be characteristic of what our plans are from an acquisition perspective going forward.
+Bill Shope - JP Morgan
+ Okay, great. Thank you.
+Operator
+Our next question comes from Matthew Troy - Citigroup.
+Matthew Troy - Citigroup
+Good morning. I was wondering if you could talk about pricing assumptions. You say they are relatively consistent in the second quarter. Just looking out to the guidance and expectations for the second half, obviously there's a lot of expectations around the Canon product cycle, potentially, Konica following thereafter, and Ricoh.
+What gives you confidence that you'll be able to hold the line on pricing into this competitive response to your leadership? Then I have one follow-up.
+Anne Mulcahy
+ Okay, I think what we're confident about is really maintaining leadership and having the flexibility to price right to win in the marketplace. One of the benefits of being ahead of the curve and being out there in front of our competitors is the flexibility it gives you with the maturing technology, to actually take price investments and offset it with productivity. So I think from a pricing perspective, we feel that we can both face-off positively and surround, if you will, any competitive introductions appropriately.
+The other thing is just the breadth of the portfolio. We’ve added the DocuColor 5000 this quarter, but we have got a vast array of products in the production color and the office color space that allow customers to make precise choices about what their requirements and functionality are, where we still have lots of competitors just operating off a single-product platform.
+So I think that the breadth of the platform and the fact that we already are ensuring that we are priced right to win in the marketplace, while we are improving our margins, gives us a lot of flexibility going forward to make sure that we can be in a position to win.
+Matthew Troy - Citigroup
+That absolutely makes sense. Second question would be, as I think about the low to mid-range, I was wondering to what extent have you guys seen any penetration or shift to more printer-based architecture, away from the traditional drum and toner? You get a lot of non-traditional folks out there talking about changing or reinventing the copy printer, at least on the low end and mid-sized, some of the more commodity-oriented office products.
+Are you seeing it? To what extent can you stand against it or even participate in it? Is this just more talk? Or is this something that is actually taking place in your market? I would be interested in your view, Anne.
+Anne Mulcahy
+I think what we are seeing is the A3, A4 discussion; A3 being more of the copier-based, multi-function products and A4 being more printer-centric. We're still seeing really good results on A3. It is still the vast majority of installs in the marketplace, particularly on the high page products. We feel very confident that we have gained and can continue to grow in that segment.
+A4 is high growth, but it is still on a relatively small base. I think the total installs in A4 were about 7,000 units in the quarter, 30 to 90 pages per minute. So when you compare that to the actual install base, it is actually a very small proportion of it.
+So we would say that the opportunity truly is in the low end, segments 1 and 2 and that is really where most of the placements are taking place. But I would also add that we are going to be playing competitively in the A4 space as well and certainly plan to have the kind of product capabilities and introductions available to compete successfully in that space. But today, the vast majority of the installations are in the 30 to 90 page per minute space; they are still happening in A3.
+Matthew Troy - Citigroup
+Thanks, guys.
+Operator
+ Our next question comes from Keith Bachman - Banc of America.
+Amit Sanghrajka - Banc of America
+It's actually Amit Sanghrajka on behalf of Keith Bachman. Larry, we noticed that the quarter benefited by about $0.02 from the lower tax rate. In fact, the Company has benefited from a substantively lower tax rate in each of the last two quarters. Could you please comment on how you see the impact of tax for the remainder of the year?
+Secondly, could you please comment on how you view post sale revenue sequentially and for the balance of the year? Thanks.
+Lawrence Zimmerman
+ I think on the tax question, if you look year-to-year we actually had a slight decline of what the tax rate was year-to-year. We have an ongoing tax strategy to try to take advantage of as many geographies and tax credits and we are going to continue that. Sometimes it's unpredictable and so they show up in a quarter.
+But I think the tax rate is part of our business. It helps offset other items that don't necessarily go your way, like mark-to-market aggregates and other things of that nature. So I think they are part of the whole P&L that leads to your growth.
+They were a contributor to 25% EPS growth, but we actually had almost 20% even before you consider the tax rate. So that is how I feel the tax rate filters in.
+I think Anne kind of hit on the point of driving post sale going forward. We expect to see continued good performance and growth on digital. It has been in the 4% and 5% range the last few quarters. We expect to see growth from DMO this quarter; it was 8% on post sale.
+Light Lens becomes a smaller percent of the total. So it was a 2% drag this quarter, and the arithmetic will just make it a smaller amount of minus going in the third and fourth quarter. 
+We should see some more growth drive through on that. Again, it is a slow process here of bleeding off the Light Lens. But we should see a continued improvement.
+Amit Sanghrajka - Banc of America
+ Sure. So is kind of mid-20s a more reasonable tax rate, then?
+Lawrence Zimmerman
+ Well, you know, the basic tax rates, statutory tax rates, we have said are in the 33% range.
+Amit Sanghrajka - Banc of America
+ Right; that is what we modeled.
+Lawrence Zimmerman
+Yes, and I think that is a good thing to do. Just because as you try to use tax credits and try to optimize your taxes, it doesn't hit every quarter exactly. So I think that is a safe ground to be on.
+Anne Mulcahy
+ You know, I might add, too, I mean just if you look at the operational performance in the Company, just go to the business segment returns, where you see both the growth by our business segments and the operating margins by business segment and you can see the improvements across the board. 
+The deterioration was in other, where you have aggregates and legal settlements and a whole set of things that obviously can happen in a quarter. But there is no question that the operational performance of the quarter was really quite strong.
+Amit Sanghrajka - Banc of America
+ Thank you.
+Operator
+Our next question comes from Chris Whitmore - Deutsche Bank.
+Chris Whitmore - Deutsche Bank
+I was hoping to get a little more color on progress of the recent restructuring. It seems as if there has been ongoing restructuring charges here. I wanted to get some color on progress on cost savings, what is expected to roll through in the back half of the year?
+Anne Mulcahy
+We called out about $36 million of restructuring this quarter, about $0.02 of restructuring. This really was focused on the continuing improvements, particularly in our technical service structure, that we have been focused on getting a flexible service infrastructure to give us a little bit more opportunity to increase or decrease our service capabilities according to our needs without a fixed cost structure.
+I think we have made good progress. I think you have seen some of that, obviously, already flow through to the gross margin structure. But you know, our business model is one of we are going to deliver our GAAP expectations. We clearly are opportunistic with regard to restructuring, making sure that the business model keeps pace with our returns and expectations.
+Our focus to date really has been very much on the technical service structure where we have made really good progress with the investments we have made in restructuring.
+Chris Whitmore - Deutsche Bank
+ Have all the benefits from the actions taken towards the end of last year fully been reflected in the numbers at this point? Are there still incremental savings to come?
+Anne Mulcahy
+Well, I think that we don't think about it as much in terms of savings, because clearly it is offsetting also price investments and really delivering productivity that enables us to be competitive in the field.
+We will continue to see those benefits. The question is, how much will we invest in making sure that we win in the marketplace and still deliver the kind of returns that we will? So I think certainly productivity is a never-ending story; and that is one that we continue to stay focused on quarter-to-quarter.
+Chris Whitmore - Deutsche Bank
+Okay. Lastly, just switching gears here. I was hoping to get a little color on color usage rates in the office some of the color capable devices that have been installed in the field for a while. In other words, are you seeing increasing usage in color pages on these color capable devices?
+Anne Mulcahy
+Color in general, we talked about a 40% page increase in color in total. Some of that does come from pages off color capable devices. We are seeing certainly, I think, a fairly steady penetration of color pages on our devices. So nothing that would create volatility in terms of more black and white pages that are being done on those devices.
+Obviously, when you get into the devices for the graphic arts and the commercial print markets, you get into 80% and 90% color page penetrations. But on the whole, our averages of color pages on color capable devices are higher than the rest of the industry. So we get the benefit of better color penetration pages, and there is nothing that would indicate that shifting over the last few quarters.
+Chris Whitmore - Deutsche Bank
+ Any ballpark of where that number is?
+Anne Mulcahy
+ I am not sure that we have disclosed that before. You really have to go through it segment by segment, Chris. So it probably would be more confusing than helpful right now.
+Chris Whitmore - Deutsche Bank
+ Okay, thanks a lot.
+Anne Mulcahy
+ I think we have time for one more question.
+Operator
+Our final question comes from  Woojin Ho - Merrill Lynch.
+Woojin Ho - Merrill Lynch
+Good morning. This is Woojin for Jay. Could you give us an overview of how production in office performed by region, especially in Europe, perhaps?
+Anne Mulcahy
+ Well, I think I'd probably be best talking about the segments versus by region. We don't disclose by Europe or North America. We do have production in office in DMO; and production and office business segments really performed very well in the quarter. If you look at the operating margins, they improved significantly.
+We had about, I think, about a $10 million improvement in the operating profit of the office segment over a $40 million improvement in the production segment. As you could see, we had a very significant improvement in DMO in terms of operating profit.
+So all of the business segments that we report -- production, office, and DMO -- all saw significant improvements in operating margins for the second quarter.
+We wouldn't point to any particular geography at this point with regard to strength or weakness. There are changes quarter by quarter, but overall, we think that we have good steady performance from all of our business segments.
+Woojin Ho - Merrill Lynch
+In terms of the post sale, are there any products and/or markets where the average monthly page volumes are trending noticeably higher? You mentioned iGens, previously; but also light production and even the office?
+Anne Mulcahy
+Yes, I think we would certainly point out and say that office color pages were up 50%, which is an increase. Mono was up in office. Total office pages, this is inclusive even of the Light Lens, were up 1%. So it is really quite impressive that office has really swung around from a page growth perspective.
+In production, it's been pretty steady,  which is still a decline in total pages, driven primarily by some of the weakness at the high-end mono segment. But you bring it all down to the bottom line and total digital pages are up 2% versus a 1% trend which we reported in Q1, and that is on a very big base. So we are pleased with the progress overall in pages.
+Woojin Ho - Merrill Lynch
+Lastly, have there been any changes, even subtle ones, in the direct sales or account coverage? For example to improve multi-product sales productivity? Where are you in improving SMB sales coverage?
+Anne Mulcahy
+I think on the direct sales force, I wouldn't point to any significant or dramatic changes there. We continue to, if you will, stretch the reach of our services sales force to represent a broader and broader portfolio of services-led kinds of offerings. That is one of the big opportunities with the acquisition of Amici, to really have the stretch of the Xerox services sales force to capitalize on a very fast-growing market.
+So I wouldn't point to anything significant other than steady progress as it relates to the services-led enterprise selling that has been a continuing area of progress.
+On the SMB market, we continue to drive, quite frankly, low-end multi-function products through what have been traditional printer channels, which is an opportunity for us. We continue to work with and extend our reach through indirect channels, particularly as the portfolio broadens. We have had certainly an emphasis on SMB with regard to products for the SMB market, particularly because we want to see the opportunity in our developing markets in Europe materialize. You can see that in the results that we have seen in DMO, which are primarily low-end segment 1 and 2 SMB driven.
+Okay, so thank you all very much. We always appreciate your interest, and we thank you for your participation today. Have a great day. Bye-bye.
+Operator
+Thank you for your participation in today's conference. This does conclude the presentation, and you may now disconnect your lines. Have a wonderful day.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

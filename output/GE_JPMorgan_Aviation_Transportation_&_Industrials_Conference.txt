@@ -1,0 +1,220 @@
+General Electric Company (NYSE:GE)
+JPMorgan Aviation Transportation & Industrials Conference
+March 09, 2016 09:15 AM ET
+Executives
+Steve Bolze - SVP, GE Power
+Analysts
+Steve Tusa - JPMorgan
+Steve Tusa
+All right, next we have GE and we are very happy to have Matt Cribbins from Investor Relations and Steve Bolze who runs the newly formed Power Business there, with that Steve, take it away.
+Steve Bolze
+Great, Steve thank you. Thanks for the time this morning. So I'm going to just get right into it and I have responsibility for our Power Business within GE. I've been with GE a little over 22 years and we've been making quite a few moves in capital allocations to fortify our position here, as well as across the lot of the energy chain across GE.
+So what is our GE Power Business it's our largest of our industrial businesses. 62,000, 150 countries just two things I'd pointed here. One of which is with Alstom coming into the company we have the world's largest installed base of electrical power generation equipment roughly a third of the world’s electricity today is generated from GE technology.
+And the other thing I thought I would point out here is an addition to 50% of the world's land based gas turbines which is really the fuel of choice over the next decade. 65,000 of our assets are connected digitally and last time it was with some of you was in December that number was 55,000 and I think you will continue to see that number step up as we go through the year given the importance of digital.
+As far as the total company you know how Jeff and we as a business have positioned GE now, the digital industrial company it's really touching every part of the business, it's all about competitive hardware and control system in the marketplace at the same time tying in with software and analytics to really delivering new better solutions for our customers. If you look at the Power Business within that portfolio it’s now six businesses spanning everywhere from our Gas Power Systems, which is core, the land based gas turbines and the combined cycle system. Our services business, Steam Power you see the other businesses there. Three of the six are headquartered outside the U.S. because this is very much a global market space. And you see the areas of focus around functional excellence, operating excellence and digital capability.
+Like the rest of GE, a lot of our focus is on leaning in to the GE store and I would say for our business you see the areas the most that we lean in, one of which is leveraging the global research center R&D technology that we do across our portfolio and really our oil and gas and the aviation side a lot of the advance materials, a lot of the thermodynamics flows into our offerings. Global growth is really our international organization taking us into really countries that are newer in the world that we haven’t had as much presence so that we can build scale overtime. And I would say the software center of excellence, a lot of the activity you see in San Ramon and places like that, we’re learning into -- we represent about 40% of the digital revenue of the company.
+Obviously the last just getting a lot of my attention is the acquisition of Alstom, that closes November 2nd. The integration is well under way and we will talk a little bit about how that has transformed our portfolio. So just a word on the environment this chart lays out pretty much the power in the next decade. World needs about 50% more power in the next two decades. On the next decade 2,500 gigawatts, two things I would note. One of which is the biggest power source going into the next decade is gas. So a lot of focus on renewables but gas will grow almost 50% more in the next decade and we’re positioned very well there in that space and what is not captured on this chart is another 700 gigawatts of distributed non-centralized gen power that GE is going after. So that's the environment overall. You have to find the packet of growth I was just in Southeast Asia last week and 70% of the growth in the world in the next decade will be in the developing market. So four times the growth in developing markets versus developed.
+If you look at what's going on in the power industry today there's four primary areas of transformation. The first of which is no matter where you go if you talk to a minister of power they need a combination of affordable, reliable or sustainable power. Now if they're a part of one of the countries that don't have as many of their citizens connected to the grid, they're going to focus a little more on affordable and reliable versus sustainable, but overall you have that mix. I think you all know what's going on in energy access, digitization I would say this is a single biggest trend affecting the marketplace in the next 10 or 20 years.
+A point of efficiency on the world's installed base of power generation equipment is at least worth $5 billion or $10 billion of fuel savings a year for our customer base and would also have a significant impact on carbon emissions reduction in the world. And then obviously the aging infrastructure which is touching GE's grid based business now and I think a lot of that grid that's built in the world today is one way power flow not two way power flow so that has to be upgraded overtime. But I would say our technology breadth and scale has positioned us well to play through this transformation and the pictures there were from our various business leaders at CERAWeek two weeks ago down in Houston with Daniel Yergin and the team.
+Our strategic focus is clear, heavy R&D investment to have differentiated products and services, global presence and talents around the world, you have to be local, deliver for the customers, and you have to have the right footprint to deliver at scale and with the speed you need to. And I say digital capability. That's not only with double-digit growth on software solutions which are margin accretive, but it is also about internally rewiring the company through digital thread for variable cost productivity. So those are the three areas of strategic focus all about improving our competitiveness and focus on the customers.
+It's really unprecedented our investments that we're making in the business. A big part of the GE’s capital allocation has gone into the power space especially in the last two or three years. Obviously Alstom big part of that but our investments in the H technology which I will talk to you about here is one of our single biggest product investments in our history in the power business, obviously our service expansion which I'll touch more on, a lot of effort now on product costs, 3D additive brilliant factories and then clearly the digital investment.
+Now just a couple of charts here to update you on the H, those of don't know about the H, it's our high efficiency gas turbine class, and if you think about the market for heavy duty gas turbines I'd say gas is the number one fuel choice going forward over the next decade and by the way within that high efficiency gas turbines are now capturing close to 70% of the market and we're gaining share in that space. Our first H class turbine now of our new class is going in EDF, that is in France one of the largest utilities in the world, you see the sight in the upper right, and the unit first fired in December of last year and unofficially world record 420 plus megawatts simple cycle, the most out of a gas turbine ever produced in the world. So this is even beyond what we thought was going to come out of our results from the validated testing. So the H is well underway and that plant will be up and running towards the end of this year.
+Now just a little bit on the H program overall. This program is really exceeding our expectations. If you look at it today versus when we launched it, our program investments in volume are ahead of schedule. Based on how we're doing on working down the cost curves should cost as well as how we're performing in the marketplace, the equipment CMs and server CMs are ahead of our plans and the IRR on this program is ahead of schedule. One of the key things when you introduce a new product is customer acceptance. Our big focus on validating -- validation testing has really paid off. Some of you know over the last five years we have put $250 million of capital into a full speed full load test facility. Why is that significant, is that we're able to get not only orders but have units in field before the first one is running. The 9HA.01 is all through testing, the .01 on the seventh HA is now through testing, the 7H.02 which is a bigger secure channel will be through later this year and the 9H.02 which will be the biggest single 50HZ gas turbine in the world will go through next year. So we are well positioned there.
+Now just a quick word on how things are executing and what you should expect for 2016 for the H. We should ship 24 units you know today we have a little over 30 in backlog, so 24 we will ship and with the extended scope associated with those it represents about $2 billion of our power revenue this year. The total year should have positive margin on these units but as you would expect given a new unit these units are not at our mature level margin rate. Now the unit is pretty much quarterly split first half of the year, second half roughly 50/50 percent also chip single digits of units in the first half quarter. The margin rates on those units are lower than the units in the second half of the year and overall these units will be margin dilutive but as we work down the cost curves we expect to be at our mature cost levels in 2017. Overall this program is exceeding our expectation and the new orders are building up in backlog already for ’17 and a few for ’18.
+If I go to what's next is when think about how we're competing in gas combined cycle systems, this chart lays out one of the biggest strategic benefits of Alstom as part of our portfolio. We used to go out and primarily sell gas turbines with our customers, but our customers buy gas power plants, we used to capture about 20% of the scope in that single order commitment from a customer. Now with the heat recovery steam generator, boilers, steam turbines, generators for capturing more than 60% of the combined cycle scope of that plant. Same order 2 to 3 extra volumes coming into GE, and for the customer, this is more efficiency, better operating performance and better overall capital cost for the plant. This is really doing very well in the marketplace right now.
+The other side of our core business is power services about 50% of our revenue you see the installed base there on the left that represents a little over a third of the power in the world. I do work out of connect city New York, which is where Thomas Edison started. It took us about 100 years to put 1,000 gigawatts in the ground with our customers. In Alstom, we picked up 500 gigawatts, that why we say 50 years of installed base of power in a single investment. So that is our installed base, 20% of our backlog is covered under multiyear service agreements. And a lot of you know, our strategic focus has been on contractual service backlogs and our focus is to be able to double that contractual service backlog in the next decade. How do we continue to expand this business, we've talked a lot about AGPUs or advanced gas path upgrades, so that's how you get more performance. That is how you get better output of these machines. That program is expanding way beyond AGPs to a much broader upgrade program.
+The MXL2 came from Alstom that's for the Galveston Gas Turbine Fleet while we are expanding into emissions upgrade and full plant upgrade. And then now with Alstom, we can go to broader expansions into the steam work on plant, software solutions for upgrades, and with Alstom now, we not only have the capability to service GE and Alstom equipment but also other OEM equipment. That doubles the opportunity size for our service business going forward, so big areas on the investment here for us continues to grow very well driving our growth this year and it's going to continue to expand.
+The other side of this is cost competitiveness, I spent a lot of time speaking with you in the past about SG&A costs it's been a big focus for the Company. We've brought that down three points in the last four years, that's $500 million of cost out which we can reinvest in the business. With Alstom now, we're back up to 10% of sales, but that's part of our synergies focus going forward. If you look at the right, this really is the next big area of entitlement for us in margin accretion, product cost. And when you think about how we go after this, this is a major focus internally. Every product has a catalog cost position. We work at five part number and just to give you a sense here when we launched the 7HA.02, which is our 60 HZ H-machine and compare that to the old 7F class machine.
+Because of the focus on should costs and focus by part number, when we launched this unit, the dollar amount of it was 10% less than the old F-class. And since it's a bigger unit for our customers, 30% less dollars per kilowatt, that's why we're able to walk much quicker and I'd say 2017 our H-class will be at mature level product margins. So a lot of impact so far on should costs and on multiplatform component strategies, you've seen that also playing in with our acquisition of Metem which should close in the first half and allow us to expand capability in our supply chain, so past work simplification really having an impact.
+Now one of the last areas I want to touch on was digital, it's a strategy playing through the whole company and as I mentioned earlier about 40% of the revenue of the Company flows into the power side. We have about $2 billion of digital revenue in our power business, growing double-digits. And within that there is a software component and that's growing almost 50% this is all about better efficiency, uptime and flexibility for our existing power generation space. You can see some of the customers there that we are already doing work with you've heard a lot about Predix from GE it's the cloud based open architecture where our customers put their data on our platform we already have 15 customers working through Predix with us right now that should be 30 by the end of the year.
+Tremendous value for our customers marrying the physical equipment with the software, it turns out efficiency, operability, less unplanned downtime. And if you think about the total energy industry still today 8% of the power generated in the world never gets to an industrial or a consumer, that a lot of loss in the system. So that's digital, so in the end we’re building a new GE Power Business, I would say this business is with Alstom will be double-digit revenue in operating profit growth this year for the core business, you know renewable is now a separate business in GE for the core business we see revenue growth and operating profit growth up, mid to high single-digits.
+For the first quarter we have some tough comparisons organically, we have less of our gas turbine shipping in the first quarter about 30 less so will be double digit revenue negative in the first quarter but organically through the year low, mid, high single digit revenue in operating profit growth for the year. Alstom by the way well on track to the synergy numbers of the $1.1 billion we’re targeting at GE this year, I have 800 million government power and if you think about just step back we have a great high returning global business with the capital allocation this is made by the company, we’re really building out our competitive advantages and technology leadership, globalization, service business leveraging the installed base and really seeing margin accretion and return on cohort of capital expansion through simplification, feed and cost.
+So in the end, that is what we have and I'll take it over to questions.
+Question-and-Answer Session
+Q - Steve Tusa
+Great. Can you maybe just to clarify you made the few comments on 1Q. How should we think about there is a lot of moving parts on FTTs are down your services hold up a bit, how does the profit what is the profit view look like in the first quarter and how should we think about that?
+Steve Bolze
+I think when I said when you think about the year the core business is kind of the mid to high single digit up we will ship pretty much flattish gas turbines to last year about 105 to 110 still in that same range. But to be based on what's in backlog right now and timing we’re going to ship 30 less gas turbines in the first quarter that's just timing and when you think about that that's going to be double-digit revenue growth down so you got to think that has a similar impact on margin as we think that through but the backlog is there for the year on the heavy duty gas turbines as I said will be about flat for the year and we still see mid to high single digit core growth revenue and our profit for the year ending with Alstom double digit on both.
+Steve Tusa
+On HT -- GT orders the gas turbine orders for this year, I know you talked about flat megawatts you are going to take a little bit of share there is obviously a lot of mix dynamics around the larger turbines than the smaller ones maybe what's the outlook for the orders this year unit wise?
+Steve Bolze
+Yes. I would say it on orders, level I think you will see the orders dollars go up. I think gigawatt of orders in the world this year versus last year is probably going to be pretty flat. The growth is in the high efficiency space. That's the space that you see GE continuing to take more share and so as we think about the year Steve, I think you will see dollars grow because not only are we winning gas turbines, but broader scope in these plants, and that's really where you are seeing some of the Alstom value come through in terms of gas turbines, but also steam turbines, the boiler system and the total plant scope. I say for services you asked about that this is a business that continues to grow mid to high single digits. Our backlog growth every year and a lot of what has driven our growth has been the upgrade program.
+And I think you are going to see as I mentioned that diversify beyond just the AGPs to not only 50 Hz but are 60 Hz but 50 Hz machines, steam machines emissions so that upgrade strategy as just being broader and then with the new installed base coming in from Alstom, we can go after the more of the boiler system as well as non GE equipment.
+Steve Tusa
+When you look at that combined services business, I think it's about 14 billion you guys have put in that in the slides.
+Steve Bolze
+Yes.
+Steve Tusa
+So first of all how much of that is the coal stuff the Alstom coal stuff steam?
+Steve Bolze
+The majority is gas, way majority is gas, if you think about the coal business it's probably of that number less than 25%.
+Steve Tusa
+And then you talked about the AGPs and the upgrades you mentioned the $2 billion of digital revenue AGPs obviously have a significant sensor and software component to them.
+Steve Bolze
+It is correct.
+Steve Tusa
+Is that AGP number is included in that 2 billion of revenue?
+Steve Bolze
+That's the way we've always talked about it.
+Steve Tusa
+Okay.
+Steve Bolze
+And it is in that number because more and more of the upgrade. Hardware upgrades that happen with the gas turbine fleets around the world, there's a software component to it. Why is because you can get even more performance, better efficiency, better operability with the hardware and the software additions so a big portion of the 2 plus billion is the software enabled upgrades.
+Steve Tusa
+Yes.
+Steve Bolze
+But in within we have you know, we have a big chunk of software growth and as we have put on there the orders growth is over 50% this year.
+Steve Tusa
+Right, so you know I guess when I look at your services business about 25% the coal, a couple of billion dollars or probably a lot less, or a couple billion dollars of digital the majority of that is the upgrades that you're going to expand on.
+Steve Bolze
+Right.
+Steve Tusa
+And then the rest is kind of the base you know the traditional kind of servicing of gas turbines that you've done this year.
+Steve Bolze
+Parts.
+Steve Tusa
+Yes.
+Steve Bolze
+Field repairs but now again we're going very much active and mature fleets in the world, so not only your traditional newer units advanced technology but now the mature fleets big opportunity for us and as I mentioned going into non-GE equipment.
+Steve Tusa
+Right, getting back to the gas turbine outlook, will you build backlog for H this year?
+Steve Bolze
+Yes.
+Steve Tusa
+Okay, so the 33, 24 are out you're going to improve [Multiple Speakers].
+Steve Bolze
+I think we will, I think our plans now are to increase our backlog for the H this year.
+Steve Tusa
+Okay, got it. On progress collections, these have been a bit negative over the last couple of years. I don't know how this dynamic changes as Alstom comes in, should we still think about progress collections as being negative, I know that kind of moves around with you know orders and deliveries but how does that look over time and again I don't know how it changes when -- as Alstom comes in here.
+Steve Bolze
+I would say is, think about progress collections as, we've gone through an environment where it is, -- a; the market stopper and therefore there's less growth in the space right now. So we seen those progress collections on the orders come down, we've seen that as we come through. I think what we're seeing now Steve is that is kind of stabilized on the organic core as we have Alstom come in to the business you know we're working through that dynamic now and I'd say is, as we think about the total cash generation from our power business, our free cash flow conversion rates are coming up and we're still below the GE average but we're getting it to come up this year and we're, that's the improvement plan and I think the other thing that's been hitting our cash is inventory build of the H and now as that now converts to revenue and we free up that cash from, for the customers.
+Steve Tusa
+So progress collection's neutral to somewhat negative depending on what Alstom looks like, the rest of the working capital dynamics improving as the H inventory comes down. Is that kind of a -- and another block in tackling item that you guys work on.
+Steve Bolze
+Yes.
+Steve Tusa
+Okay that's fair, on the first the Harriet delivery.
+Steve Bolze
+Yes.
+Steve Tusa
+Yes, so you talked about first fire you're proving it out, it's a great product that it's going to start up later in the year, is that when you actually booked. You haven't booked revenue on that front [Multiple Speakers] can you explain how that works?
+Steve Bolze
+Yes, yes that is our first unit, again and we said EDF by the way it's 61% cost efficiency and I told you what the output was there, by the way this is a huge milestone, single biggest gas turbine in the world in terms of performance. We have not revracked that unit, that was our first off so as that transitions to COD there is overtime fees that will turn to revenue out a couple of years with EDF. The other units that we're shipping this year of the 24 units going out this year all those units are revracked. You'll see our first units go revrack on the low single digits coming out of Q1.
+Steve Tusa
+Right, and you are -- how many do you plan to deliver. You said a few?
+Steve Bolze
+24. We'll do 24 for the year.
+Steve Tusa
+Q1 you said [Multiple Speakers].
+Steve Bolze
+Q1 we'll do single digits.
+Steve Tusa
+Okay.
+Steve Bolze
+And I would say roughly first half, second half, is roughly 50-50 in terms of deliveries but as I said the margin rates are tougher in the first half because of call it introductory cost, second half of the year better so as we look at it positive margin for the year.
+Steve Tusa
+Right, and so the total gas turbine business you're obviously going to be you know modestly positive on margin for this year including the H, if the H is are the drag, or are you now because of the lower volume in the Fs do you start to lose money on that product line?
+Steve Bolze
+You know I’d say the F is very strong right now.
+Steve Tusa
+Okay.
+Steve Bolze
+There's no issue there and we still are, those are very competitive in the marketplace, I was just over in Southeast Asia, Middle East so they're still seeing a lot of demand for the F class.
+Steve Tusa
+Yes I guess when we think about the order trajectory so if you think about the 24 that you expect to book this year on the H.
+Steve Bolze
+On the H, yes.
+Steve Tusa
+Where is that geographically, where is that demand coming from. I know there's a bit of a U.S. turbine cycle going on with coal retirements, maybe those are plateaued maybe they haven't. What do you see, what are the hotspots geographically for demand?
+Steve Bolze
+The three biggest areas of demand for higher efficiency gas turbines in the world are Middle East, North America and Asia. Those are the big spots. I was just in Indonesia last week and -- but you saw in the fourth quarter we announced the number of units going into Pakistan so those really are Middle East, North Africa, North America, Asia, those are the pockets.
+Steve Tusa
+Got it, any questions on the equipment business out there.
+Unidentified Analyst
+Just comment a little bit more on the distributed strength if you could give us a sense of what's really driving this?
+Steve Bolze
+I would say a lot of the distributed strength one of which is there are markets in the world that just don't have the T&E infrastructure, right, but I think you're seeing a lot of growth in developing regions so places like Africa, where you don't have that established T&E infrastructure. And I think the other piece of distributed generation growth is smaller units, somebody doesn't have enough capital or enough investment dollars for 100 megawatt plus plant so they put in something call it between 5 and 25 megawatts. That is very good for a recipient engine or for an aero-derivative platform. That's one pocket of growth and I would say, the other piece of this is a lot of these units are very flexible they are probably the most flexible. So sometimes, if somebody once what is called peaking power, you're not going to use it all the time, it's more capital efficient for them to go with a smaller block of power that they're going to use part time. So those are the two pockets of demand, we see still quite a bit of demand for that in the market.
+Steve Tusa
+You mentioned the moving distributive services, you mentioned the AGPs and how you're expanding that. First of all what do you expect for AGP, remind us what you expect for AGP units this year and is there a seasonality, is there seasonal aspect to that as far as when they ship should we expect more in the second half versus the first half?
+Steve Bolze
+What I would say I think we did 104 last year, I think we're doing 125 this year, so it's up, okay.
+Steve Tusa
+Yes.
+Steve Bolze
+But I would say is, those are our historical security units. Our strategy is much beyond that now, it's not only that, but think about our 50 years which are different units in the world as well as emissions upgrade et cetera, but these AGPs continue to grow this year. Our broader upgrades continue to grow out. As far as first half, second half, pretty balance, so I would say they are seasonal. The units have to be open to be able to do the upgrade so you are really working around outage schedules.
+Steve Tusa
+And as far as the content from the new type of AGP.
+Steve Bolze
+Yes.
+Steve Tusa
+And this is pretty similar 50 versus 60 and also with the new upgrades that you're adding on here, what does that do to the content per AGP unit broadly, you guys haven’t given numbers there but just curious as to [Multiple Speakers]?
+Steve Bolze
+Yes I would just say is, the difference between a 60 Hz which is like the U.S. grid and pockets of expanded grid, Saudi Arabia, between that and 50 Hz which is the rest of the world, they are fairly similar.
+Steve Tusa
+Okay.
+Steve Bolze
+Okay. They are fairly similar. The units are of different sizes but they're fairly similar. If you think about the content though, we've historically done a lot of those upgrades around the gas turbine only. Now, we can go in there and say at the same time, does it make sense to give you more performance Mr. and Ms. Tusa, if we can do your boiler something associated with the steam system. As long as they can fit within the outage schedule.
+Steve Tusa
+They're completely open to that discussion got it.
+Steve Bolze
+And the software upgrades that we're talking about at the same time, you can add software in at the same time that allows them to figure out how to best dispatch the units. So that's going on at the same time.
+Steve Tusa
+And I think there was a recent deal on the UK you guys announced, was that an AGP or was that what you're talking about kind of the new I think it was applicable to three turbines, it was a pretty heavy degree of content, was that more of an Alstom type deal on the Alstom equipment or was that GE, there was a press release about it?
+Steve Bolze
+I don't know which specific one you're talking about, my guess there was around the UK or if mostly like an upgrade around some of our existing fleets. I would say the majority of our upgrades today have some software component in them.
+Steve Tusa
+Right.
+Steve Bolze
+They do really, now, not all of them have Predix.
+Steve Tusa
+Yes.
+Steve Bolze
+And I mentioned we have 15 customers on Predix, we're going to have 15 more by the end of the year. I would say is but there is a software component in each of these offerings.
+Steve Tusa
+Got it, how do you define Predix enabled, I mean, how do we think about that when you say, hi we're shipping this much in Predix enabled products, I mean what -- how do you define that?
+Steve Bolze
+What I would say is that, what is Predix. Predix is cloud based operating system that our customers can put on their equipments, to allow them to more efficiently capture all the data on that equipment. They can do it on GE equipment. It also can collect the information on non-GE equipment. Our customers are starting to put this in to give them more visibility to how the units operate. And I think that's going to have a better really impact for them on efficiency, output and asset deployment. I would say this some of our -- all of our equipment now ships Predix enabled. The question is the existing installed base, are we going to put Predix in and I would say more and more customers as they see it, they want that visibility. And then on top of that Steve we will put application. So think about for an application for it how do optimize an outage right, how do you dispatch this unit in a now non-regulated marketplace those are the applications that are sitting on top.
+Steve Tusa
+So it sits on top of the controls.
+Steve Bolze
+Yes.
+Steve Tusa
+The control system feeds a bunch of data from sensors and you guys are the call it just below the ERP right in between there.
+Steve Bolze
+Absolutely it's just on top of the kind of the operating control systems. But it gives them the visibility on how they better optimize those assets and I would say again we announced Predix a little over a year ago. And we’re out there this is got a tonne of attention right now and I think you are going to continue to see this build up because of the benefits. I mentioned a couple of times before one point of efficiency improvement on our land base gas turbines for the customers this $5 billion of fuel savings a year. This is real money. So Predix is the way to go after it and that's why you are seeing it start to move.
+Steve Tusa
+Any other questions on the services business here, over here?
+Unidentified Analyst
+Is it possible to give us a feel wing to look at your revenue for how much is actually the servicing versus the OE and then also when you think about at the time that you got the largest installed base today is that a base that you service entirety or is that something that you can go after and increase your servicing on that?
+Steve Bolze
+The first part of your question which is of our service business which is roughly 50% of our total business of services how much is I think you asked how much is GE versus all the other equipments right and I’d say as I would say 95% is GE equipment today, so this extension into non-GE equipment outside of GE and Alstom now with GE is a big growth area going forward over the next 5 to 10 years but it's s a very small piece of our revenue today. Why is that attractive is because a lot of our customers have multi OEM equipment and we’re servicing that customer today so that's that one. Your second one just in terms of I think what you were asking was is help me out with your second question again.
+Unidentified Analyst
+So you got the largest installed base today. Should we think about this as something you are dealing with your service or is there actually a part of it that is servicing someone else and you kind of go after it?
+Steve Bolze
+Most of our advanced technology out there F class plus is serviced by GE today. As I mentioned there is an opportunity for us to do more work on our mature fleets. That is serviced sometimes by GE, sometimes by other parties and that's an opportunity for us to extend you are seeing more growth in that space for us it does not have the same margins as the advanced technology but it's still very good margin business for GE and accretive for our overall Power Business.
+Steve Tusa
+Just shifting for a couple of minutes to Alstom, maybe just talk about how much restructuring do you plan to kind of pull in to 2016 obviously there is the corporate level there is big gain that is allowing you guys to be more, a little bit more aggressive on the cost front how much restructuring should we see in ’16 from Alstom, related to Alstom.
+Steve Bolze
+Maybe just step back for a minute Alstom integration we closed it November 2nd it's got 100 days in. We had a good bit of time to plan the integration obviously but I would say it is -- listen this is well underway it's probably the best planned integration we've ever done and this is well under way the synergy year one are 1.1 billion, 800 million as I mentioned are in the Power space and our roll up right now is potentially is beyond that so I'd say that feels pretty good if not just cost synergies the majority of our cost or some margin from revenue but I'd say that what that is I would say that your point of restructuring we've been out front now on the restructuring it is down in the market and all those efforts are underway and to plan. The question then Steve to your point is hi we have potentially some additional funds coming in through gains can we accelerate more restructuring from ’17 into ’16 that's an ongoing discussion. Right now it is we don’t need to accelerate anything to hit our commitments if it makes sense to do that or depending on how the pace of how we work through the various works council representatives where well we might be able to do that.
+Steve Tusa
+What types of broad brush headcount reductions should we expect here should it be 10% what different broad brush view on the impacts of the restructuring?
+Steve Bolze
+The numbers are in the papers have been in the papers I think there is numbers sited about a little 6,500 across Europe those numbers are in the paper but I would say such as the areas of synergies have been consistent since the day April of 2014 that we announced. There is four areas one of which is around direct material which is almost about 25% to a third we have the area of R&D, we have the area of supply chain footprint and the area of SG&A so those are fairly straight forward there is a headcount component but I would say is that some of that's because Alstom was in play for a while, their backlog kind of got slowed down and we have to adjust Alstom and GE as a combined business not only in power but on renewables and grids for competiveness and then we grow from there but I would say all of the restructuring is well under way.
+Steve Tusa
+One last quick question and Alstom's free cash flow has been kind of seasonal in the fourth quarter it was a bit of a drag, you know you had it for two months, it was a bit of a drag. Does that, I've just not understand the seasonality, incredible though in new business, is that drag worse in the first quarter and then gets better or is free cash flow pretty you know the free cash flow drag pretty stable at the stage as seen for Alstom.
+Steve Bolze
+I'd say it is not as much, there is some seasonality. Just like our power business has some seasonality, but I think you're going to continue to see some slowness in cash generation out of that operation until we get more of the backlog flowing in with the progress collection.
+Steve Tusa
+Got it.
+Steve Bolze
+And that's why you see, I just came out of almost five weeks focused on our commercial integration meetings around the world. I was in four spots of the world we've trained up now 3,000 people in our power business to sell the combined offering. As you get more backlogs, you get more progress you get more cash, so that's the focus of activity.
+Steve Tusa
+So, by the back half that cash will get better but it's still pretty tough near-term.
+Steve Bolze
+Absolutely.
+Steve Tusa
+Okay I think that's it, Steve really, thanks a lot for the details.
+Steve Bolze
+Okay, thank you.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

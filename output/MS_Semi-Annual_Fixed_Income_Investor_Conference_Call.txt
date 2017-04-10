@@ -1,0 +1,150 @@
+Morgan Stanley (NYSE:MS)
+Semi-Annual Fixed Income Investor Conference Call
+April 30, 2015 08:00 ET
+Executives
+Kathleen McCabe - Head, IR
+Ruth Porat - EVP & CFO
+Celeste Malloch Brown - Treasurer
+Tom Wipf - Head, Bank Resource Management
+Analysts
+Pri de Silva - CreditSights
+James Strecker - Wells Fargo
+Ryan Butkus - Citigroup
+Louise Pitt - Goldman Sachs
+Brian Monteleone - Barclays
+Operator
+Welcome to the Morgan Stanley Semi-Annual Fixed Income Creditor Call. [Operator Instructions].
+Kathleen McCabe
+Good morning. This is Kathleen McCabe, Head of Investor Relations at Morgan Stanley. Welcome to our fixed income investor conference call. Today's presentation may include forward-looking statements which reflect management's current estimates or beliefs and are subject to risks and uncertainties that may cause actual results to differ materially. The presentation may also include certain non-GAAP financial measures. Please see our SEC filings at www.morganstanley.com for a reconciliation of such non-GAAP measures to the comparable GAAP figures and for discussion of additional risks and uncertainties that may affect the future results of Morgan Stanley.
+This presentation is copyrighted by Morgan Stanley and may not be duplicated or reproduced without our consent and is not an offer to buy or sell any security or instrument. If you have not already done so, please refer to the presentation that accompanies this call in the Investor Relations section of our website. At the end of the presentation, we will take your questions.
+I will now turn the call over to Executive Vice President and Chief Financial Officer, Ruth Porat.
+Ruth Porat
+Good morning. We're pleased to be with you for a Semi-Annual Creditor Call. As we’ve talked about for many years, we have meaningfully repositioned our business and balance sheet to ensure resilience and durability in all markets and those are our topics for today. Our business update, our framework for prudent liability management and update regarding relevant, regulatory topics and our approach to both capital and liquidity management.
+With me are Celeste Malloch Brown, our Treasurer, and Tom Wipf, our Head of Bank Resource Management.
+Turning to slide 4, our priority during the last five years has been to transform our business mix, consistent with regulatory changes, in order to be well-positioned to deliver earnings consistency and stronger returns. Our meaningful change in business mix is depicted on this slide. Looking forward, our upside benefits from the six strategic priorities delineated on slide 5. Years ago we chose to delineate key metrics that enable all stakeholders to gauge the firm's progress.
+Performance in the first quarter underscored yet again that we continue to execute against the plan. The firm remains committed to providing stakeholders with updates on those metrics and I will briefly touch on each this morning.
+Starting with wealth management, on slide 6. We remain committed to our margin target for the end of this year. In the first quarter, we were pleased to achieve a 22% pretax margin, which is the starting point of our 22% to 25% target. Key drivers of our margin improvement include ongoing growth in net interest income, the benefit of operating leverage given the scale of our business and our continued focus on expense management. As a reminder, this margin target does not include the benefit of higher interest rates which provide upside over time.
+On slide 7, our second growth driver is the U.S. Bank. We continue to benefit from the ongoing execution of our bank strategy with prudent deposit deployment driving NII growth even in a flat rate environment. Key to understanding the upside in the bank are the following.
+First, our sizable client base supports balanced loan growth across wealth management and institutional securities. The creditworthiness of these clients is strong. Within wealth management, our borrowers have an average FICO score of greater than 750 and the loan devalue on our residential real estate loans are on an average about 60%.
+Within institutional securities, we continue to focus on areas such as commercial real estate, project finance and warehouse lending, all of which are consistent with our strong clients and banking franchises. Second, we continue to benefit as we further deployed deposits and optimize the asset mix across the investment securities portfolio and lending as reflected in the changing asset mix on the slide.
+Third, higher interest rates will eventually drive additional upside, making the bank an even more valuable contributor to the firm's earnings power. We provided current and future yields to enable you to incorporate the impact of rate increases as you choose to forecast them. Of course, rate increases benefit us meaningfully and swiftly given both the cost structure of the bank and the relative short duration of the portfolio.
+Turning to fixed income and commodities, a key contributor to ROE upside in this business is improved capital efficiency. As depicted on slide 8, we continue to reduce risk weighted assets in this business. RWAs in the quarter were down to 174 billion.
+Overall, we remain committed to our 180 billion target for year-end 2015. As we’ve previously discussed, beyond our $180 billion target, we will have an additional $25 billion of risk-weighted assets that will roll down by the end of 2018. As soon as we find the right opportunities these RWAs will be redeployed to maximize returns either in fixed income or across the ISG franchise. The fourth opportunity for the firm is our ongoing reduction in funding costs due to both spread tightening and the roll-off of older, more expensive debt.
+As indicated on slide 9, this should result in a meaningful reduction in our weighted average cost of unsecured funding on an absolute and relative basis over the next several years. From peak to trough our average funding cost is expected to decline by about 25% by year-end 2016. The fifth driver on slide 10 is our ongoing focus on expense management, as reflected in our 72% total expense ratio in 1Q '15 excluding DVA. The lower compensation ratio in the first quarter, particularly in institutional securities reflects the benefit of the changes in compensation structure announced in 4Q '14 and also the operating leverage in the business.
+Our 1Q '15 institutional securities compensation ratio excluding DVA was 38% versus 41% last year and is below the target ratio for ISG of 39% or less in a flat revenue environment. In Wealth Management, our target ratio remains 55% or less over time and in investment management, our target is 40% or less over time. In terms of non-compensation expense, we remain focused on all opportunities for efficiency across the franchise.
+Finally, the sixth driver is our return of capital on slide 11. As we've repeatedly said, we will prudently increase our return of capital over time, subject to regulatory approval. We were pleased to have received a non-objection in the 2015 CCAR process to execute a $3.1 billion buyback and a 50% increase in our dividends through the five quarters of CCAR.
+Our increase in the amount of capital returned to shareholders reflects not only the quantitative metrics in the test, but also our successful execution of what we call our CIP program, the Continuous Improvement Program which has benefited us in the qualitative component of CCAR.
+I will now turn the discussion over to Celeste.
+Celeste Malloch Brown
+Turning to slide 12, we remain committed to preserving the durability of our balance sheet, consistent with the framework we've discussed before and our approach to funding capital and liquidity management has not changed. As such, we will discuss the remaining slides briefly to allow more time for your questions. Morgan Stanley has and continues to make significant investments to ensure durable funding, thus providing ample stability and flexibility for our firm and clients in all markets.
+Please turn to slide 13, where we highlight our funding stack. We have continued to enhance our funding profile over time by shifting the mix to be longer in duration. From 2010 to 2013, we significantly increased our deposit base due to onboarding deposits, subsequent to the completion of the Citi joint venture about while continuing to grow our shareholder's equity.
+More recently, in addition to the continued onboarding of deposits from Citi, we have meaningfully extended the weighted average maturity of our secured and unsecured funding and also shifted the mix of secured to unsecured which also benefits our regulatory ratios.
+Please turn to slide 14, which shows our long-term debt maturity profile. As Bruce mentioned earlier in the call we’re issuing lower cost debt while retiring more expensive debt. Since the end of 2013, we have issued debt at a weighted average cost below that of debt maturing, while also extending our weighted average maturity by approximately one year during the same period. And we continue to issue globally across multiple channels to support a diversified investor base.
+On slide 15, I turn your attention to deposits. As you may recall, we will receive the remaining deposits from Citi in this quarter. As Greg Fleming discussed at a recent conference we have further potential to grow our deposit base with a path to $200 billion of deposits over the next several years. The deposit upside can be achieved through new product initiatives including, but not limited to, certificate of deposits, structured certificate of deposits and enhanced savings.
+In addition to these new product offerings, we expect to increase our share of clients deposit through the expansion of client services including technology innovations and cash management solutions.
+I'll now turn the call over to Tom to discuss secured funding.
+Tom Wipf
+Slide 16. As we’ve discussed with you before, our four pillars of secured funding ensured durability and stability in our secured funding book. First, WAM provides appropriate time based on asset fundability. Second, roll-down targets limit total liabilities maturing in any given period, and give us a smooth maturity profile. Third, concentration targets increase investor diversification and limit reliance on any single investor. And finally, we have built spare capacity as an additional risk litigant against sudden shocks in the market that could reduce rollover rates.
+Please turn to slide 17. Our approach to secured funding is consistent with our approach to long-term debt. We follow an asset-based model to obtain the appropriate term, consistent with the fundability of the underlying assets in the secured market. Our assets are reviewed daily according to our rules-based fundability criteria and our recategorized real-time based on the liquidity characteristics and the prevailing market environment.
+We look at assets down to [indiscernible] level in four categories of fundability. Super Green, Green, Amber and Red. Those categories indicate the availability of secured funding for that asset class. The fully loaded cost of this funding is allocated to the business at an asset and desk level.
+Turning to slide 18, pillar one, longer WAM provides appropriate flexibility to manage the liquidity horizon of assets. In aggregate, the WAM of the entire secured funding book excluding Super Green assets continues to exceed our target of 120 days. This accomplishes two key goals. First, it increases the durability of funding and second, it reduces the liquidity reserve requirements needed as a contingency for the loss of secured funding.
+Turning to slide 19, pillar two and pillar three. Multi-maturity targets and investor concentration targets both of which reduced refinancing risk. Pillar two establishes a monthly maturity target which gives us a smooth maturity profile within the secured books, thereby reducing rollover risk. Pillar three, sets investor concentration targets to increase investor diversification limiting reliance on any single investor.
+To highlight our focus on pillar three at the bottom of the slide we’ve broken out the number of term investors in the secured book. We have a significant and diverse pool of investors with strong geographic diversification.
+Turning to slide 20, pillar four. Spare Capacity. Spare Capacity eliminates the need to access markets for the first 30 days of a stress event and reduces our needs for the 60 days thereafter. It also provides ample flexibility to accommodate surges and market-based client demand, during periods of greater activity. Spare Capacity represents total secured funding liabilities in excess of our inventory. In other words, our Spare Capacity has created excess contractual term funding, which allows us to have a durable funding profile in both stressed and favorable market environments.
+We size our Spare Capacity using a number of conservative assumptions about theoretically what could occur in a stressed environment. These assumptions are not Morgan Stanley specific and are more adverse than market conditions observed during stress periods. We collateralize Spare Capacity liabilities with Super Green assets but we can contractually substitute them for less liquid assets.
+Turning to slide 21. Our discipline around central clearing and compression were key drivers to reaching our SLR target of 5%. Since the end of 2013, we have back loaded and compressed our OTC derivative notionals by 25% which exceeded our initial expectations and our peers which on average compress only 10% of their OTC notionals over a similar timeframe.
+We're currently seeing an increase in take-up among our competitors and counterparties which allows for increased capacity for client activity. We see an additional opportunity developing on the horizon with the introduction of increased central clearing of securities financing transactions. Morgan Stanley has taken leadership position in working globally across central clearing organizations and development and implementation of central clearing for repo and securities lending.
+We see these initiatives as a way forward to replace and create intermediation capacity in financing markets for both the firm and our clients.
+Now I'll turn the call back to Celeste to discuss regulatory topics, capital and liquidity.
+Celeste Malloch Brown
+On slide 22 we have provided our various capital leverage and liquidity ratios under the relevant regulatory regimes as well as, our capital plans. We continue to have strong capital ratios measured under Basel III. Our pro forma Basel III common equity Tier 1 ratio under the fully phased-in advanced approach was approximately 11.6% at March 31 reflecting our best estimate under the final Federal Reserve rules. Our pro forma ratio under the fully phased-in standardized approach was also approximately 11.6%. As in the first quarter, we estimate our fully phased-in pro forma SLR to be 5.1%, again reaching the required minimum ahead of our target timeframe and implementation period.
+We currently estimate our pro forma liquidity coverage ratio under the U.S. final rules to be greater than 100%. In March of this year, we were pleased to receive a non-objection for our capital actions through the CCAR process as Ruth discuss.
+On slide 23, we provide a more detailed on our capital stack. We have been optimizing the mix, having issued approximately $4.5 billion of preferred stock through 2014 and $1.5 billion in 1Q '15. With regards to subordinated debt, we have issued over $6 billion over the last few years, plus an additional $2 billion in just last week as we believe it represents valuable Tier 2 capital. And we issued notice this week that we will be redeeming $2 billion of our TruPS.
+Turning to slide 24. Our liquidity position is significant, highly liquid and unencumbered. Our bank liquidity declined in 1Q as we continue to deploy assets into loans. Our non-bank liquidity increased modestly during the quarter, reflecting the size and composition of the balance sheet . Finally, on slide 25 we continue to focus on liquidity at both the parent and legal entity levels.
+As you may recall, we ran our liquidity stress tests at the legal entity levels first supporting a bottoms up approach. This ensures sufficient liquidity at each legal entity while also maintaining ample reserves at the parent.
+Now back to Ruth.
+Ruth Porat
+Thanks, Celeste. This is my last day at Morgan Stanley and so my last investor call before Jon Pruzan takes over. John has been a banker for banks for almost 25 years and he has seen firsthand the importance of transparency and clarity for stakeholders. As you know that has been core to our work with you during my years of CFO and I know that Jon is committed to continuing this focus.
+To those of you who are not on our earnings call, it has been a pleasure working with you. Thank you for the guidance and analysis and support. I'm proud of what we've accomplished with our franchise during the past five plus years.
+Thank you. And we will now take a questions.
+Question-and-Answer Session
+Operator
+[Operator Instructions]. Your first question comes from the line of Pri de Silva with CreditSights. Please go ahead with your question.
+Pri de Silva
+The first question I have is on the redemption of the TruPS. Will you be able to redeem the TruPS because they were originally included in the capital plan and subsequently taken out? Is there any connection between the two?
+Ruth Porat
+Once you receive feedback from the Federal Reserve during the CCAR process, you can only adjust your request by reducing a capital action. You’re not allowed to reflect issuance of capital to offset a redemption at that point. However, Basil capital rules allow a firm to redeem capital and replace it with comparable capital subject to FRB approval.
+So after CCAR, the firm submitted a request to the Federal Reserve and received approval to redeem the TruPS and replace them with comparable capital.
+Operator
+Your next question comes from the line of James Strecker with Wells Fargo. Please go ahead with your question.
+James Strecker
+First and foremost, Ruth it's been an absolute pleasure working with you for the last few years. I guess Morgan Stanley didn't have enough liquidity on their balance sheet so you had to go somewhere where you could find a little bit more cash, but in all seriousness, best of luck. We will miss you. Following up on Pri's question about the TruPS redemption. I guess from a broader perspective, given the Basel rules, why wait for the CCAR process ever to redeem TruPS?
+If I think about your issuance of preferred and sub-debt last year which would have replaced the capital treatment, why not redeem on last year or at any point for that matter versus waiting loosely around the CCAR process?
+Celeste Malloch Brown
+For us to take out additional TruPS, we would have to issue additional comparable capital from here. We did a cost-benefit analysis and decided to take up the TruPS with the highest coupons for now and do not intend to redeem the remaining TruPS at this point in time.
+James Strecker
+Okay. I appreciate that, Celeste. As we think about it, as creditors, should we think about the process being tied to CCAR at all? Or should we think about more looking for preemptive referred issuance, if it were to happen for the balance of this year and/or sub-debt issuance if it were to happen thereafter to replace that capital?
+Celeste Malloch Brown
+James, I think it's too early to prejudge CCAR. But at this point, we don't intend to redeem the remaining TruPS at this point in time. The preferred issuance we issued after CCAR was included in our capital plan and was a pull forward given the positive market backdrop and further optimization in the capital stack, that was included in our capital plan.
+James Strecker
+In terms of like future indicators, is it safe to say that if you were to accelerate the plan which you don't currently have to redeem anything else into the back half of this year, let's say, would we need to see an additional Tier 1 issuance or are you covered by the March deal in terms of remaining Tier 1 credit and also, in terms of a sub-debt deal to replace the remaining 75% Tier 2 credit or did the deal last week cover that end?
+Ruth Porat
+So James, for us to take out additional TruPS we would have to issue additional comparable capital from here. So, there may be one other piece that would be helpful on this which is, otherwise just given the strength of ratios, one would have assumed you could do it with unsecured debt. And so when Celeste said, look what we did post receiving CCAR feedback was step back and say let's do a cost to capital calculation and determine what makes sense to replace with like kind, we concluded we would do $2 billion of the TruPS as part of the CCAR process, one could have replaced it with unsecured.
+And I think that might be the missing component here, in terms of what's the cost-efficient approach for the firm to look at financing the firm.
+James Strecker
+Maybe one more and then I will jump out and let some other people, in terms of thinking about that optimization, it's clear to us that you all and maybe some of your peers are probably going to run north of 150 bps in preferreds given the composition of your balance sheet, how you fair versus SLR and the stress Tier 1 at total capital ratios. Is there any color you can give around where you we think that number could go? You are at 167 bps now, could it go now to 175, could it go to 200? Or, does the trade [ph] transition to what you just said Ruth, maybe is showing more sub-debt since you’ve such clearance, on a Tier 1 and total capital basis after the deals this year?
+Ruth Porat
+James, that's a fair question. There are numerous considerations that go into determining an optimal capital stack and we are always looking at what is most efficient with respect to risk-based capital, leverage based capital, stress test requirements and more broadly, the balance sheet size. So, I think it's too early to say precisely where we would land from an overall preferred perspective. At this point, we don't expect to issue additional sub debt in the near to medium term but this could change, of course if we get clarity on different regulatory rules and other requirements.
+Operator
+[Operator Instructions]. Your next question comes from the line of Ryan Butkus with Citigroup. Please go ahead with your question.
+Ryan Butkus
+Given some of the interesting currency dynamics over the last couple of months, I was wondering maybe if you could talk about your global funding thoughts?
+Ruth Porat
+So going forward, and as we have in the past, we all continue to issue across currencies based on our funding needs, investor demand and market conditions. And what we do is compare relative cost by market on a fully loaded basis, for example, any hedging, if we cannot keep funding and currency. So, we first look to see where we can fund in currency and then look at overall cost.
+Ryan Butkus
+Okay. And just for the rates environment where it is right now still? When you do issue, could you talk about how you evaluate swapping from the rates perspective upon initial issuance or later on in the cycle?
+Ruth Porat
+We do, typically swap all of our debt that we have been leaving a modest amount of it, just given the rate environment unhedged. But generally, we swap almost all of our debt.
+Operator
+Your next question comes from the line of Louise Pitt with Goldman Sachs. Please go ahead with your question.
+Louise Pitt
+Just a couple of follow-ups, not on the TruPS, but just as you’re thinking about funding and TLAC requirements obviously you guys are well in excess as we look at any proposed [indiscernible] like roles that might come in. But can you talk a little bit about how you might optimize that? Because you obviously have significant potential excess funding and you are talking a lot about optimizing funding costs going forward and having that come down. Is there any way that you could move some of that to operating companies or as you think about optimizing that and in vertical call as excess, as we see it with the proposed rules as they stand right now?
+Ruth Porat
+As you know, we have for our history, issued the majority of our debt from the holding company which has driven TLAC position which is in excess of 30% not including structured notes. So obviously have to see what the U.S. proposal looks like which we expect sometime this summer. It's unlikely that we would shift our funding strategy because we are in excess of some ratio for us funding at the HoldCo is the most efficient way for us to fund the firm. Though of course we reserve the right to think about that over time and consider changes. But I would expect that the bulk of our issuance going forward would continue to be at the HoldCo.
+Louise Pitt
+Okay. And then just as a follow-up in terms of the global funding perspective, Are you expecting some international agreement on bail-in rules to debt that may not have been issued here in the U.S.?
+Ruth Porat
+There are a lot of questions outstanding related to TLAC both on the international basis and on the U.S. basis and we are looking forward to getting further clarity, hopefully later this year.
+Louise Pitt
+That's specifically from the Fed? Do you think that the FSB will address the international bail-in concept?
+Ruth Porat
+Well, as you know, the FSB, the Fed rule will govern what we do from a Morgan Stanley perspective. But the international role will be important, just more broadly instructing behavior. But I think it's too early to say what's going to happen from an international bail-in perspective.
+Louise Pitt
+And just with your comment on structured notes, are you currently excluding structured notes that are issued at HoldCo from your funding structured notes on the HoldCo from your TLAC calculations?
+Ruth Porat
+Yes. And we’re well in excess of 30% not including structured notes. Though I would say we think of structured notes as a durable source of funding.
+Operator
+Your final question from the line of Brian Monteleone with Barclays. Please go ahead with your question.
+Brian Monteleone
+Just wanted to clarify, I think a comment, Celeste you made on response to a question from James, around you don't plan to issue I think additional sub-capital in the near-term. Is that Tier 1 or Tier 2, or was that just Tier 2?
+Celeste Malloch Brown
+I was referring specifically to sub-debt which qualifies as Tier 2.
+Brian Monteleone
+Okay. So you wouldn't extend that to also Tier 1?
+Celeste Malloch Brown
+No, I wouldn't.
+Brian Monteleone
+And then on slide 21 of the commentary around clearing, for securities financing transactions, could you maybe expand a little bit on where we are in that process, timing and what the impact might be?
+Tom Wipf
+Certainly. We think this is a really important development and we've taken a leadership position here. We are active across all of the initiatives in repo and securities lending CCP's.
+We were anticipating a repo facility in the second half of 2015 and really, the driver of this, the benefit that we see has a potential to create real new capacity which allows to provide these important services to our clients.
+Brian Monteleone
+Okay. And in terms of like sizing that capacity or the impact?
+Tom Wipf
+It's hard to say right now. There's several initiatives out there. Again, we are at all these tables, we are quite focused on it, but the main point here is to get the buy-side into these clearing houses and again to create that capacity. So too soon to tell, right now.
+Kathleen McCabe
+Okay. With that, let me thank you all for joining us today. We look forward to speaking with you again in six months.
+Operator
+Ladies and gentlemen, that concludes your conference call for today. Thank you for your participation.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

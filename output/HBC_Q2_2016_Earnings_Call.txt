@@ -1,0 +1,547 @@
+HSBC Holdings Plc (NYSE:HSBC)
+Q2 2016 Earnings Call
+August 03, 2016 2:30 am ET
+Executives
+Douglas Jardine Flint - Group Chairman
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Iain James Mackay - Executive Director & Group Finance Director
+Analysts
+Alastair Ryan - Bank of America Merrill Lynch
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Raul Sinha - JPMorgan Securities Plc
+Michael Helsby - Bank of America Merrill Lynch
+Chirantan Barua - Sanford C. Bernstein Ltd.
+David John Lock - Deutsche Bank AG (Broker UK)
+Jason Clive Napier - UBS Ltd. (Broker)
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Tom A. Rayner - Exane BNP Paribas
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Manus J. Costello - Autonomous Research LLP
+Fahed Kunwar - Redburn (Europe) Ltd.
+Martin Leitgeb - Goldman Sachs International
+Ronit Ghose - Citigroup Global Markets Ltd.
+Operator
+Good morning, ladies and gentlemen, and welcome to the Investor and Analysts Conference Call for HSBC Holdings Plc's Interim Results 2016. For your information this conference is being recorded.
+At this time I'll hand the call over to your host Mr. Douglas Flint, Group Chairman.
+Douglas Jardine Flint - Group Chairman
+Thank you very much. Good afternoon in Hong Kong. Good morning in London. And welcome to the 2016 HSBC interim results call. I am Douglas Flint, Group Chairman. I'm speaking from London. Stuart Gulliver, the Group Chief Executive, and Iain Mackay, Group Finance Director, are in Hong Kong.
+Before we start I'd like to say a word on behalf of the board. The first half of 2016 was characterized by spikes of uncertainty, which greatly impacted business and market confidence. This was reflected in lower volumes of customer activity and higher levels of market volatility. We came through this period securely, as our diversified business model and geographic profile again demonstrated resilience in difficult market conditions.
+It is evident that we are entering a period of heightened uncertainty, where economics risks being overshadowed by political and geopolitical events. But we're entering this environment strongly capitalized and highly liquid.
+Amidst all this turbulence, our strategic direction remains clear. Nothing that has happened casts doubt on the priorities we laid out just over a year ago, although in some areas events have impacted the time scales in which we can meet them. We remain well positioned for all of the major global long-term trends. And the achievements of the last 12 months have only served to strengthen that position.
+Earnings per share were $0.32. Our first two dividends in respect of the year of $0.20 in aggregate were in line both with our plans and the prior year. In lights of the uncertain environment, but recognizing the resilience of the group's operating performance, the board is planning on sustaining the annual dividend at this current level for the foreseeable future.
+Let me now hand over to Stuart to talk about the context around our results, before Iain takes a more detailed look at performance. Stuart will then give an update on the implementation of our nine strategic actions. Stuart, over to you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Douglas. So turning to slide two. We performed reasonably well in the first half in the face of considerable uncertainty. Profits were down against a strong first half of 2015, but our highly diversified Universal Banking business model helped to drive growth in a number of areas. We also captured market share in many of the product categories that are central to our strategy.
+Revenue was down on an adjusted basis. Global banking markets weathered a large reduction in client activity in January and February, particularly in equities and foreign exchange, but staged a partial recovery in the balance of the half.
+Retail Banking and Wealth Management was also affected by reduced client activity. This led to lower revenue in our Wealth businesses, albeit against last year's strong second quarter, which was boosted by the Shanghai-Hong Kong Stock Connect. There was also revenue growth through higher lending balances in Mexico and increased customer deposits in all but one region.
+Commercial Banking revenue grew on the back of targeted loan growth in the UK and in Mexico and higher client balances in Global Liquidity and Cash Management, which is the new name for Payments and Cash Management.
+We also continue to make material progress in cutting costs. Adjusted operating expenses were down 4%, thanks to our tight cost control and the accelerating impact of our cost savings plans. We are on track to hit the top end of our $4.5 billion to $5 billion cost savings target.
+Our loan impairment charges increased, mainly in the oil and gas and metals and mining sectors, and in Brazil due to weaknesses in the Brazilian economy. We however remain confident of our credit quality.
+In July we were named as the world's best investment bank and the world's best bank for cooperates at the Euromoney Excellence Awards (sic) [Euromoney Awards for Excellence] (4:15). The important point here is that these awards specifically recognize the benefits of our diversified, differentiated business model and the increased collaboration between our businesses. The citation describes HSBC as one of the most joined up firms in the industry and a growing force in areas such as high yield debt, M&A, and equity capital markets. Both awards are a direct consequence of the improvements we've made over the last few years.
+We completed the sale of our business in Brazil to Banco Bradesco in July. This transaction will reduce group risk weighted assets by around $40 billion and would increase the group's common equity Tier 1 ratio from 12.1% at the 30th of June to 12.8%.
+In first half of the year we also removed another $48 billion of risk weighted assets from the business, $33 billion of which came in the second quarter. This takes us more than 60% of the way towards our target, and actually including Brazil, more than 75% of the way towards our target and keeps us on track to deliver the reductions we promised by the end of 2017.
+Our strong capital position and stable earnings mean that we are able to retire some of the equity that we no longer require to support the business in Brazil. Having received the appropriate regulatory clearances, we will therefore execute a $2.5 billion share buyback in the second half of this year.
+Our U.S. business achieved a non-objection to the capital plan it submitted as part of this year's Federal Reserve CCAR. And this included a proposed dividend payment to HSBC Holdings in 2017, which would be the first payment to the group from our U.S. business since 2007.
+Iain will now talk you through the numbers.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks, Stuart. Looking quickly at some key metrics for the first half. The reported return on average ordinary shareholders' equity was 7.4%, the reported return on average tangible equity was 9.3%, and on an adjusted basis we had a negative jaws of 0.5%. The movement in jaws was due to a 4.5% decline in adjusted revenue, which exceeded a 4% fall in adjusted costs.
+This slide takes us from reported to adjusted numbers. Reported profit before tax of $9.7 billion for the first half included a $1.2 billion gain for fair value on our own debt relating to credit spread, a $580 million gain on the disposal for our membership interest in Visa Europe, $1 billion of costs to achieve, an $800 million goodwill impairment in Global Private Banking in Europe, and $723 million of legal settlements and provisions.
+Allowing for these items leaves an adjusted profit before tax of $10.8 billion for the first half. You'll find more detail on these adjustments in the appendix. We'll focus on the adjusted numbers for the remainder of the presentation.
+The next few slides will provide a rundown of our performance in the second quarter. Adjusted profit before tax was $607 million lower than the second quarter of 2015, due to lower revenue and higher loan impairment charges. Operating expenses were $584 million lower than the same period last year.
+We split out Brazil from the rest of the group to show the impact of the sale of the business on the second quarter numbers. The biggest impact is in loan impairment charges, $414 million of which came from Brazil.
+Slide six analyzes revenue. In Principal, Retail Banking and Wealth Management revenue was $422 million, or 7% lower, than the second quarter of 2015. This was due to drop in Wealth Management revenue, which contrasted with a strong performance in the second quarter of last year.
+To put that into context, last year's second quarter benefited from positive market sentiment, the removal of deal-in caps by Chinese regulators, and large flows of funds associated with the Shanghai-Hong Kong Stock Connect. By contrast, total stock market turnover in Hong Kong was down 62% in this year's second quarter with an associated impact on revenue.
+Non-Wealth Management related revenue increased by 3%, largely from greater deposits in Hong Kong and the UK and from higher personal lending in Mexico.
+The standout performance in the quarter came from Commercial Banking, which continued to grow in spite of the slowdown in global trade. This was driven by higher lending and deposit balances in the UK on the back of market share gains.
+Client-facing Global Banking and Markets and Balance Sheet Management recovered in the second quarter after a difficult start to the year. Revenue was 3% up in the first quarter. Against last year's second quarter, revenue was down by $234 million or 5%. This was largely caused by a fall in equities revenue due to market volatility, which reduced client activity.
+There were increases in revenue in Global Liquidity and Cash Management and rates and a $114 million increase in balance sheet management.
+Loan impairment charges were $394 million higher than the second quarter of 2015, but stable compared to the first quarter of this year. $188 million of the increase in last year's second quarter came from Brazil, due to the deterioration of the economy there.
+Charges in wholesale were up by $263 million, mainly in Global Banking and Markets in the United States. The second quarter included a single significant charge on a metals and mining related exposure, as well as charges in the oil and gas sector.
+Following the outcome of the UK referendum, there has been a period of volatility and uncertainty, which is unlike – which is likely to continue for some time. We are actively monitoring our portfolio to quickly identify any areas of stress. However, it's still too early to tell which parts may be impacted and to what extent. In the meantime it's worth noting that the LTV ratio in new mortgage lending in the UK was 59%, compared with the average of 41% for the total mortgage portfolio. There's a detailed overview of our oil and gas, metals and mining, UK lending, and Mainland China exposures in the appendix.
+Adjusted operating expenses, excluding Brazil, were $583 million [lower] or 7% lower than the second quarter of 2015 and broadly level with the first quarter of 2016. We achieved this reduction while also absorbing inflation and continue to invest in regulatory programs and compliance.
+We delivered $497 million of cost savings in the second quarter, which was $132 million more than we delivered in the first. We were therefore able to achieve positive jaws in the second quarter, despite the difficult revenue environment. On a run rate basis we have now achieved more than $2 billion of cost savings, which represents nearly 40% of the overall savings required to achieve our 2017 exit rate. We remain confident of achieving this target.
+Slide nine gives you a sense of the difference that some of these cost savings are making. In the last 12 months we've reduced the number of manual made payments by 64%, increased the number of customers using our digital channels by 6%, firmed average client on boarding time by 30%, and reduced the number of branches in our six largest markets by 7%.
+Slide 10 breaks down adjusted profit for the first half of the year by global business and geography. These profits were achieved in challenging market conditions and relative to a strong first half of 2015. The main business drivers were lower revenue and higher loan impairment charges, which exceeded the 4% reduction in costs.
+Turning to Capital. The group's common equity Tier 1 ratio was 12.1% on 30 of June, compared with 11.9% at the end of 2015. Roughly half of this increase came from profit generation. The rest came from a reduction in risk weighted assets, partially offset by movements in foreign currency translation differences.
+Total risk weighted assets decreased by $21 billion in the first half of the year. This was caused by $48 billion of reductions, due to RWA initiatives, and $9 billion of foreign exchange movements, partially offset by a $15 billion increase from book quality and a $19 billion increase in book size.
+We recognized $33 billion of risk weighted asset reductions in the second quarter, bringing total reductions for 2016 so far to $48 billion. Risk weighted asset reductions in the first half included $23 billion from Global Banking and Markets, $12 billion from CML run-off portfolios, and $11 billion from Commercial Banking.
+These reductions include Global Banking and Markets legacy reductions, better linking of collateral and guarantees to facilities, client facility reductions, and moving exposures from a standardized to an IRB approach. The total reduction since the start of 2015 now stands at $172 billion, around 55% of which came from Global Banking and Markets. This takes us more than 60% of the way towards our target.
+These numbers exclude the reduction in risk weighted assets from the sale of Brazil, as it closed after the end of the half. That would remove an additional $40 billion of risk weighted assets. We remain on track to hit our risk weighted assets reductions target.
+I'll now hand back to Stuart.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. It's been just over a year since we presented our actions to improve returns and get the most from our international network. And the rest of this presentation will bring you up-to-date with what we've done and how far we come.
+Now we showed you a version of slide 14 at the start of our investor update in June 2015. And these are the three core strengths that anchor the investment case for owning HSBC. We continue to build on these intrinsic strengths through our strategic actions. And they continue to underpin the strategy of the firm. We've maintained a highly diversified group with stable earnings built on prudent low risk lending. And we've continue to strengthen our capital ratio in the last 12 months.
+Slide 15 shows the progress we've made in implementing our actions in the first half. On the right-hand side we've added the status update column, which tells you which actions are due to be completed on time. As you've already heard, our risk weighted asset reduction program and cost savings programs are both well on track. We've made further progress on both in the first half of the year. And we're confident of hitting our target.
+Mexico is also on track. We've made good progress rebuilding the business, increasing revenue, controlling costs, and recapturing market share. Our shares of the Mexican payroll and personal loans markets are up significantly. And we've increased volumes and market share in both cards and mortgages. We also have double digit revenue increases from Retail Banking and Wealth Management and Commercial Banking in Mexico.
+Our pivot to Asia is moving ahead, despite the difficulty in reallocating the risk weighted assets that we saved. The proportion of group revenue that Asia provides has actually continued to rise. And we've made market share gains as a consequence of the investment in our Asia businesses.
+Having said that, we've not reallocated assets as fast as we wanted, due to the state of the global economy. But we continue to develop our Asia businesses and to build on our existing operations. But we're not going to accelerate this program until it is in the interests of shareholders to do so.
+We also remain on track to set up the UK ring-fenced bank by 2018. And we continue to implement global standards throughout HSBC.
+Some of our other actions are taking longer to complete. The U.S. business isn't performing as well as we wanted, due mainly to changes in the external environment. Revenue was up in the principal businesses, but not by as much as we hoped. And the credit environment continues to be difficult, especially in oil and gas. Given these circumstances, it's unlikely that the U.S. business will hit its targeted return on risk weighted assets by the end of 2017.
+That said, we have made good progress in reducing risk weighted assets in the U.S. We received a no objection from the Federal Reserve to the capital plan submitted through the CCAR process. This included a proposal to pay a dividend from the U.S. business back to the group in 2017. This is a consequence of the progress we've made in winding down the legacy CML portfolio over the last 12 months. And if it goes ahead, it would be the first dividend from the U.S. business since 2007.
+Now a slowdown in global trade has hampered our ability to deliver growth above GDP from our international network. However, revenue from our transaction banking is down just 1% on the same period as last year, despite a drop in global trade volumes of more than 8%. This reflects the market share gains we've made since last June. And it's a good indicator of the potential of the business when trade volumes start to recover.
+And we're also behind on our revenue target for RMB internationalization, again due to external conditions. We still expect to hit our revenue target, but later than originally planned.
+Slide 16 shows we've built up a healthy capital position over the last 5 years. We've done that through a combination of strong profit generation, a reduction in low return activities, and selling businesses that don't deliver value for the group.
+We now have a common equity tier 1 ratio of 12.1%, which would rise to 12.8% excluding Brazil. This is well within our 12% to 13% target range. And in the current environment there are limited options to reinvest the proceeds from the Brazil transaction into high return opportunities. And we are confident of our ability to sustain the dividend. At the same time the sale of the business in Brazil means we no longer need all the equity that supported it.
+So we therefore have applied for and received permission for a $2.5 billion share buyback following the Brazil transaction, which we'll execute in the remainder of this year. We intend to carry out further share buybacks as and when appropriate, subject to the execution of targeted capital actions and of course regulatory approval.
+In summary and as slide 17 shows we've made a lot of progress since last June. The revenue environment continues to be difficult, but we're delivering on costs and achieved positive jaws in the second quarter. We've maintained our leadership position in transaction banking. And we've captured market share in some of our key Asian markets and businesses.
+We sold the business in Brazil and intend to buy back shares to retire some of the equity that supported that business. The Fed has no current objection to the U.S. business paying capital back to the group in 2017, which includes the proceeds of the sale of the U.S. credit card business and the upstate New York branches in 2012. We also continue to generate capital.
+Now the economic and geopolitical environment remains uncertain. Negative rates and the likely deferral of interest rate rises put increasing stress on banks. Since 2007 we've seen our net interest margins contract from 2.9% to 1.8%, which we largely compensated for with around 33% growth in interest earning assets.
+We continue to see higher margin business roll off with heightened competition for new lending. And in the light of this, we will not now hit our return on equity target of more than 10% by the end of 2017. However, the above 10% target remains both intact and appropriate.
+We have confidence in our ability to sustain the annual dividend at current levels, through the long-term earnings capacity of the business and our ability to generate capital. There is much obviously still to do. We are making progress in all of the areas within our control. In the meantime, our balanced and diversified business model, strong liquidity, and strict cost management make us highly resilient in the current operating environment.
+We'll now take questions. Operator will explain the procedure and introduce the first question. Operator?
+Question-and-Answer Session
+Operator
+Thank you, Mr. Gulliver. . We will now take our first question today from Alastair Ryan from Bank of America. Your line is now open.
+Alastair Ryan - Bank of America Merrill Lynch
+Thank you. Good morning, good afternoon. I'll be greedy with two big questions if I may. First, loan growth in the first half. As you alluded, this year was disappointing. It was a down a bit. Net of continued runoff in GBM, do you think that loans will actually grow over the next 6 months to 9 months? Or the environment doesn't allow for that? It's the first question.
+And then secondly, on the capital returns. Obviously the U.S. is a very big number down the road. So you've characterized the share buyback today as a discrete thing relative to Brazil. But clearly, the U.S., the capital trapped there has been a very big drag on group cash flows for the last several years. Could I try and draw you on the sort of the quantity of dividend you might get out of that? You mentioned the disposals. But I'd imagine you wouldn't have asked for the ability to pay all of that out up front, that you'd have started small and be scaling that later. But it could be quite material free cash flow for the group over time. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So then on the loan growth, one of the ways to look at it is the AD ratio is one of the lowest it's been. So we've got an AD ratio kind of sitting at more or less 68% or thereabouts.
+And we obviously have got within the sort of advances several moving parts. We're also continuing to run down, as you say, the lower returning stuff in GBM. We're considering to dispose of pieces in the CML portfolio. And opportunities to get accretive loans on the book have been hard to come by.
+My preference in terms of correcting the AD ratio back to above 70% is to increase the advances rather than turn deposits away. But it's very hard for me to categorically sit here and say that we will see that outcome. What I would say to you is that CMB, RBWM, and GBM are all basically focused on trying to win new business. So it is possible that in the second half, we'll see net loan growth, because that is what we're trying to do.
+Actually Commercial Banking has been successful in doing it. And the positive growth in RBWM actually came from lending, because it was the Wealth piece that was affected by the tough stock markets of the first 2 months.
+So that's what we're trying to do. And we're trying to get the AD ratio back up to 70% by growing the A as opposed to some kind of complexity around pushing deposits away. We continue to grow deposits. We continue to basically see a flight to quality. And therefore it's for us to kind of push on the advances side.
+But as I say, there are two or three, as you know, moving parts in terms of RWA reductions, which clearly means that we're exiting a bunch of lending, the CML disposals, et cetera.
+On the capital returns, I'll start. And I'll let Iain sort of talk a little bit more. Yeah. We – it's the – one of the ways to think about what's been in the U.S. is the proceeds of the businesses that we sold in 2012, 2013 were kept in the United States. So the credit card business and the upstate New York branches, the proceeds of those were left in the United States. And this will be the first time that we get some of that released.
+And just as we said about Brazil, that actually if we don't have the business, we don't need the shares that supported the business. You can imagine that some of that logic is sticking behind our thinking in terms of the fact that there is shares that supported that credit card business and shares that supported those upstate New York branches, which equally aren't therefore needed anymore.
+Now you'd be wrong to assume that it's the full amount that's sitting in there that will be coming out. And I'd like Iain to in a very mystical way describe, without giving any numbers, what we think may be coming back to us in the first quarter.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. So, Alastair, as we've talked on these calls in the past about the quantum of capital that's possibly been trapped in the U.S. over the last few years. And Stuart has informed that the factors that contribute to that. As we put the capital plan together as part of CCAR this year, we had as you would expect quite detailed conversations with the Federal Reserve Board.
+There are two windows for capital planning, the next 4 quarters and then the 5 quarters that come after that. So there's a 9-quarter planning scenario within the U.S. capital plans for CCAR. And in that conversation what the Federal Reserve recommended we do is put a substantial dividend in the second 5-quarter window, so 2017. And we plopped that into the first half of 2017. And it is a substantial number.
+As Stuart says it's not all of the capital that would be released from those dispositions. But it's a big number that certainly were we to again get approval from the Federal Reserve in next year's CCAR, conceivably could lead, could lead, so – but a conditionality around this. But could lead to another buyback from an HSBC's prospective. So it is a substantial proportion that we are talking about.
+Alastair Ryan - Bank of America Merrill Lynch
+Thank you, very helpful.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Alastair. Next please?
+Operator
+Our next question today comes from the line of Rohith Chandra-Rajan from Barclays. Your line is now open.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Morning. Thanks. So I've got a couple as well please. And the first one just returning – not returning, to capital return. I guess from a slightly different angle. I mean you just talked about the – kind of the shares no longer being needed to support businesses that you no longer own. But thinking about it from a group capital perspective I guess, post the Brazil fail and the share buyback, CET1 looks like it would be around 12.5%, which is the middle of your sort of – sorry, sorry.
+Iain James Mackay - Executive Director & Group Finance Director
+12.6%
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+12.6%. So the middle of the target range. I'm just wondering how we should – is that the capital level above which we should think that share buybacks will be considered in the future? So surplus capital above that level? Or is that being too specific about the CET1 ratio? And so that was the first question.
+And the second one just in terms of the ROE outlook and the sort of 10% not achievable in the current environment. Just wondering what your – what you think is achievable in the current operating environment? And to what degree there might be additional cost reductions? You already talked about being at the top end of the $4.5 billion to $5 billion range. Just wondering to what degree near or medium-term there might be scope to exceed that? Thanks.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So Iain and I will both interject a point in answering your question. So there isn't room to increase the cost program beyond the $5 billion between now and the end of 2017, which is 18 months. And we'll deliver the top end of that $4.5 billion to $5 billion. But obviously you would expect if there is not a pick up in revenue, we would need to look at further cost actions. And we need to look at capital actions in order to get to that 10%.
+So there's a part dependency here. It's either revenue or it's capital or it's costs. And we're fully aware of how the math works.
+But we'll get the $4.5 billion to $5 billion now. If we were to accelerate more now, it will damage our compliance, global standards, our customer service, and actually ultimately therefore our revenue. So the $4.5 billion to $5 billion will deliver. We'll deliver the top end of that. And then my expectation is we will continue into 2018 and 2019 with a further program of cost management.
+Iain to talk broadly about the range of core equity Tier 1.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. So, Rohith, we've – again we're already sitting in that 12% to 13% range. I think we've always talked about feeling more comfortable in the upper half of that range. The Brazilian transaction after the effect of this buyback will put us in the upper half of that range. And we have every expectation we'll continue to accrete capital from operations and ongoing capital actions, as we work through the remainder of this year and into next year.
+I think as you are well aware, there are still a number of uncertainties out there with respect to regulatory capital, regulatory capital measurement, notwithstanding the broader base of uncertainty with respect to geopolitics and how it might affect economy. But I think where we find ourselves post buyback is a good place to be. I think it also clearly reflects the fact that the PRA has given us approval to do this buyback. It would suggest that the PRA has some confidence in terms of the strength of our capital ratios and the ability to meet capital requirements and generate capital from operations.
+So sitting around 12.5%, which is really the level at which we modeled. incidentally the 10% return on equity from an input equity perspective, is a good place to be. If we find ourselves higher than that as we work through the remainder of this year, we won't be particularly uncomfortable about it.
+What may inform future buybacks, yes, will be our capital sufficiency in meeting regulatory capital requirements. But it will also be very closely aligned to specific capital actions that we take that mean that we are cutting capital that is no longer necessary to support the businesses that it underpinned in the first place.
+So there is absolutely an intention to be in a position to do further buybacks, but it'll be very much linked to specific capital actions that we will continue to undertake within the business.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from the line of Raul Sinha from JPMorgan. Your line is now open.
+Raul Sinha - JPMorgan Securities Plc
+Morning, afternoon, gents. Can I maybe have two as well? Just the first one following up on divis [dividends]. Am I reading too much into it? But if I look at the $2.5 billion buyback that you've talked about, that's broadly similar to the scrip element of your overall dividend. And so this is one of the things that you wanted to do in the past. Should we think about potentially the dividend, as you're effectively adjusting it to make it a full cash dividend, rather than have a substantial scrip element that leads to rise in the share count? So the first question is, are you looking to kind of manage the share count impact of the scrip through the buyback? Is that an intention at all?
+The second one I have is on interest rate gearing. On page 80 you've given us the disclosure on the way it's moving parts across different blocks. The exposure to the sterling block has come down over the last 18 months. And so I was just sort of wanted to get your thoughts on what is driving that negative impact, being lower now at $442 million, compared to what it was before in the last two periods. And maybe if you could touch upon what sort of mitigating actions you could take against a UK rate cut, that would be useful. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay. On the buyback, it is not – it is very directly linked to Brazil. It is not, and you shouldn't read too much into this, about it's specifically trying to manage down the impact of the scrip.
+Clearly one of the factors that we are focused on is the share count. Obviously in terms of the long term sustainability of our dividend is to a not insignificant degree informed by managing dilution that comes from the scrip.
+But to be very, very clear, this buyback relates to the Brazilian transaction. And if that then over time allows us through other capital actions to execute further buybacks that manage down the impact of dilution, then we'll be very happy to do that. And it is absolutely a goal for the organization. But don't link this directly or indirectly in any way to the scrip. And we'll certainly keep you informed as time goes forward as to any actions we may or may not take with respect to the scrip.
+In terms of NII sensitivity, specifically in the sterling block, I think there's not really a great deal. What we've very much done within sterling, both from a capital management and more broadly the balance sheet, is where there's been an opportunity to hedge exposures within the sterling block, we've taken those opportunities progressively over the course of the last 18 months to 24 months. And we'll continue to do so. And I think that's probably the main impact that you're seeing of slightly less influence coming through the sterling block from a rate sensitivity standpoint.
+Iain James Mackay - Executive Director & Group Finance Director
+I also think that what you're looking at as the position matures – because if you look at what you're examining, basically January through December this year, you have this 135 impact if rates went up, which obviously is not what we're expecting. And then actually in July 2016 to June 2017, so looking forward, the impact is less. But actually suggests to me that's simply a maturity of a position, nothing more kind of remarkable than that quite honestly.
+Raul Sinha - JPMorgan Securities Plc
+Okay. And in terms of mitigating actions, what actions could you take to perhaps reprice some of the business in the UK?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I mean we think that the impact of a 25 basis point cut will be about US$100 million to the net – US$100 million, yeah.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+To the net to the interest margin per annum.
+Iain James Mackay - Executive Director & Group Finance Director
+Well, no; that's for the remainder of this year, Stuart, so per half year basically.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So about US$200 million over each year, which is obviously the impact of further inability to price deposits.
+It's a competitive landscape. It really depends on effectively what margins are across the industry. There aren't any magic sort of buttons on this. I guess if this is code for, would we charge people to put deposits with us, we already have with our business clients written to them in terms of foreign currency earlier in the year to indicate where a non-sterling, where interest rates were to go negative, we would pass on the cost of that to business accounts and to corporates.
+In foreign currency we're already doing that with banks and non-bank financial institutions. I guess that protocol would read across the UK if sterling rates became negative. Again for foreign currency, we have not done it with personal clients. And we have not, at the moment, even contemplated that for the UK Given that Governor [Mark] Carney has indicated on a number of occasions that he is not in favor of negative interest rates – and obviously it remains to be seen what action he takes tomorrow.
+We have not reached the stage, which I think RBS have, of writing out to people on this. But as I say, the expectation would be if you got negative interest rates, yes, we would apply it to companies. And we would apply it immediately to banks, non-bank, financial institution. So if that's kind of what you're asking within that, yes, we would do that. But there isn't – I don't think there is going to be a repricing from a credit spread point of view.
+Raul Sinha - JPMorgan Securities Plc
+Okay. Thanks so much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from line of Michael Helsby from Bank of America. Your line is now open.
+Michael Helsby - Bank of America Merrill Lynch
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Michael.
+Michael Helsby - Bank of America Merrill Lynch
+Just – hi. Just on the dividend. So obviously you dropped the prospective dividend guidance. I just wonder now if you could talk about – maybe join it all up. Because you're left in an unusual situation, where obviously your dividend, your ordinary dividend is barely covered at the group level. Yet, your quarterly one is at, as you say, is going to be at the top end of your range. And you've got these discrete buckets of capital, the U.S. being one, maybe things in China in the future.
+So how should we think about that? I'm just conscious that clearly there's an expectation in the market that you're going to cut your ordinary dividend at some point in the future. So I was just wondering how we should think about that and how you think about the cash flows going forward. So that'd be question one.
+And then just on the ROE, I appreciate and thank you for the commentary that you don't see it as being achievable next year. Can I draw you on whether you think a 10% return on tangible equity would be achievable next year? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+On divis [dividends], Michael, I would take our guidance literally. Our focus is on sustaining the dividends at the current level. Your point on coverage is taken and well understood. We clearly would be paying out in 2016 and 2017 at a higher rate than we have historically.
+That is influenced by a couple factors. One, we've obviously got the impact of the Brazilian accounting in the second half of the year that will come through. We have the impact of about $1 billion so far year-to-date of our cost to achieve, which includes restructuring and other costs to ensure that we deliver on risk weighted asset reduction, cost savings, overall improvements in the operating efficiency of the firm.
+We continue to have obviously the impact of a fairly lofty bank levy coming through and impacting holding company cash flows, as well as higher tax rates in the United Kingdom. So there's – as you can imagine there are lots and lots of moving parts.
+But when we look at the profit generating capability of the business, the ability of our subsidiaries to continue to dividend to the parent substantial cash flow, that supports our dividend, albeit at higher payout ratios.
+Now why would we be comfortable with higher payout ratios? And it really goes to some of Stuart's earlier comments that the ability to take capital and reinvest it profitably in growth opportunities presently is somewhat muted, as I think we all see in the various markets in which we operate around the world.
+And consequently, because we're sitting at the higher end of the common equity Tier 1 ratio that we've got, that we've targeted, and it's certainly based on approvals received, it would suggest that our regulators are happy with how we're progressing in that regard.
+It seems not the best use of the shareholders' resources to keep it on our balance sheet but actually to put it back in their pockets in the form of dividends, and when circumstances allow, in the form of buybacks. And that is where we're headed right now. Okay? So I would take the guidance on divis as literally as we have put it to you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Just one small point, I'd add as well, Michael. Our PBT, our profit before tax, is a lot less volatile than others. So if you go back over 10 years, 15 years and look at what we make each year. And then compare it to some other banks that have had – struggled to keep a dividend, actually to keep any dividend, you'll see not only do we have a large – all the things Iain said, and we've got big distributable reserves and such (40:20). But actually we're a lot less volatile. It's because we're a global universal bank and very diversified by geography and customer group, which of course was seen as a big negative. But actually is the reason why we've got the numbers we have. Also it gives us confidence that, if you like, we can distribute more than others would for a couple years.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. And, Michael, going to your return on tangible equity question. Certainly when you look at some of the factors that impact return on equity, it – obviously the lower revenues, higher loan impairment charges in the coming period impact the return on equity.
+When you then look at the cost to achieve, we've got significant cost to achieve coming through in each of 2015, 2016, and 2017. And as they start to fall away and as hopefully we start to see a slightly lower charge coming through on the bank levy, for example – though interestingly that's largely offset by the increased surcharge and bank taxes in the United Kingdom.
+Those factors absolutely contribute to moving the ROE in the right direction. In terms of ROTE versus ROE, we certainly start getting a little bit closer to the numbers that we'd like in 2018 and 2019. We'll still fall a little bit short of our return on intangible equity of 10% in 2017. We will not make 10% return on intangible equity in 2017. Although we're certainly getting closer to 10% by a different measure. But we don't really want a gimme on the measure here.
+Michael Helsby - Bank of America Merrill Lynch
+Thank you. That's very helpful. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Michael.
+Operator
+Our next question today comes from the line of Chira Barua from Bernstein. Your line is now open.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Morning, guys. Most of my questions are answered. Just a quick one, Iain, on risk. The early delinquencies, especially one plus, there's been an increase in June. It would be great if you could just give us some color on where those delinquencies are coming from? I think it's in Page 7 of the presentation, about $8 billion to $9.1 billion of the one pluses.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah, yeah. Absolutely, yeah. Got you. No, this is in the U.S. and principally in the corporate and commercial sector. And that really is just demonstrating some 30-day volatility that we see coming through short term customer behavior. But that is influenced by a pretty small number of individual customers in the corporate sector in the U.S.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Got it. Thanks. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay.
+Operator
+Our next question today comes from the line of David Lock from Deutsche Bank. Your line is now open.
+David John Lock - Deutsche Bank AG (Broker UK)
+Morning, everyone. Three questions from me please. Firstly, on risk weight. The risk weighting in the Retail Banking division looks like it fell about 2% quarter on quarter. I appreciate some of that's going to be driven by the U.S. CML run-off. But it looks like there was quite a big drop in Europe as well. So I was just wondering if you could comment on what exactly is driving that? And whether you see any kind of risk around the low mortgage risk point you have for the UK, which I think was about 5% at this quarter.
+Second question is just on BSM. I think on the last call you gave an expectation of about $2.5 billion for this year. Clearly you're ahead of that in the first half. So I just wondered if that was still the expectation for this year?
+And then finally on cost of funds. I'm a little bit surprised to see that cost of funds is actually slightly up half on half, from about 97 to 101. I'm wondering if maybe if that was a bit lower, but if you could call out what was the driver of that? Because obviously in the interest rate environment, I just thought it would be falling, not rising. Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. So some of the cost of funds is TLAC.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah, the TLAC, 81, so as you'll have noticed we did a significant amount that should support
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. About 18.5 of TLAC and about 3 of non-capital in the first half.
+Iain James Mackay - Executive Director & Group Finance Director
+Non-core capital.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. BSM, $2.4 billion to $2.8 billion.
+Iain James Mackay - Executive Director & Group Finance Director
+And risk weighted asset density in the – in Retail Bank, Wealth Management, you hit on the point, which is continued significant reduction in the run-off CML portfolio in the U.S. Within the first half we completed dispositions of about $4.7 billion, $4.8 billion. And then in July we completed about another $1 billion of dispositions from the same portfolio, but that's obviously not reflected in those numbers. There's nothing else of particular note within retail wealth – Retail Bank, Wealth Management from RWA density perspective.
+David John Lock - Deutsche Bank AG (Broker UK)
+Okay. And so what was the driver for European borrow (45:16)? Was it just simply quality of book? Or what do you think it was in the books (45:21)?
+Iain James Mackay - Executive Director & Group Finance Director
+There is nothing significant within that. Certainly from an RWA density perspective, the book came down slightly in size, but that doesn't impact RWA density. Nothing notable.
+David John Lock - Deutsche Bank AG (Broker UK)
+Okay. Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from the line of Jason Napier from UBS. Your line is now open.
+Jason Clive Napier - UBS Ltd. (Broker)
+Good afternoon and good morning. Two please. The first one, I appreciate the sort of commentary in Douglas's statement around the necessity of trying to align public policy and regulatory policy. But I think while we'd all – probably all agree with that, there's obviously the implication in there your own QIS work signifies potentially very material changes there. It's obviously a good sign that the PRA is allowing the buyback. And your ratios are building in a very promising fashion.
+But I just wonder whether – given that there probably is material information inherent in this, whether you might give us a sense as to the distribution of QIS outcomes that you arrived at. What the bigger issues are?
+And perhaps more specifically if you could talk about what the discussion paper on UK mortgages and yesterday's release on PPI might mean for capital. Believe it or not that's one question.
+And then the second just point of detail. I wonder whether you wouldn't mind giving us the legacy credit RWA number for GBM? Just so we can see what's happening to the RWA deployment in that division in the second quarter. I think at the first quarter there was $25 billion of RWAs left. I just wonder how that's evolved in the second [quarter]. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. So in terms of revisions to Basel III, you'll have seen the same sort of commentaries that we have seen in terms of the governors and heads of supervision making quite strong statements around not having a significant impact on the overall capital requirements for the sector. We're obviously still quite a few months and a great deal of work away from having any final calibrated outcomes with respect to either credit risk or operational risk.
+As you've probably also seen, the impact that the industry has estimated from a QIS perspective, particularly on credit risk, is very, very significant, whether you viewed it from a UK perspective, a European perspective, or a global perspective. We obviously contribute to that. And I think it would be fair to say that across certainly operational risk and credit risk, there is potential for where the guidance upon which consultation was sought, implemented as stands today, it would be very significant for the industry. And it would be significant for HSBC.
+However, given our capital strength, given the number of capital levers that we have available to us, we have a resilience and a propensity to deal with this, probably in a shorter timeframe than the wider industry would take.
+But to be clear, were things implemented as it is today, it would be very, very – it would be very significant for the industry. Going beyond that you've read the various numbers that are out there. And there's not much more I can particularly add to that debate at this point.
+From a PPI Plevin perspective, obviously we got another consultation from the FCA yesterday. That will run through until October the 11, I believe it is. We'll obviously participate in that consultation. I think our response to this consultation and how we reflect any possible impact in our numbers will be the same as it was in the last consultation. And that was that we took a view of the likely impact of PPI closing out in April of 2018. We'll now roll that forward to 2019, once we've understood exactly what it is that we are consulting on.
+And if that reveals that there's any increased requirement for remediation to customers necessary, we'll make provision for that in the second half of the year. But I think it's – it will absolutely be informed with every provision we've made for PPI, which is incoming claims, the rate of uphold against those claims, and the payment against those claims. And that is monitored operationally within our UK business on a day by day, week by week basis.
+You probably noticed there wasn't a particularly material impact from our update for the earlier consultation. We'll – and you've seen really nothing come through the last couple of quarters on that one. As and when we've worked through the detail, you'll obviously see it in our financials. Difficult to say until we've worked through the detail.
+In terms of RWA density from a legacy perspective within Global Banking and Markets, the overall reported RWAs of $437 billion decreased by more than $3.5 billion by the book from the end of the year. And a number of factors come into that. Reductions about $27 billion. About $7 billion came in terms of legacy disposals from an RWA perspective. So if you go back to the number you previously had of about $25 billion, $26 billion, there's about $7 billion has now come off that in terms of activities in the first half of the year. So that's what's going on in legacy credit.
+Jason Clive Napier - UBS Ltd. (Broker)
+Thank you. And sorry. Just to – you had one of the lower RWA densities in UK mortgages. Do you have any comments on that discussion paper in particular?
+<: I think that's probably got something to do with the quality of the UK mortgage book. I mean if you go to – just we can get into this a little bit, because no doubt, you'll want to ask a few questions about Brexit at some point and what that means for credit quality. But if you look at buy-to-let exposures in the UK for example, there's only 3% of our portfolio is buy-to-let exposure.
+When you look at geographical distribution, London is about 28% of that. And 86% of our London exposure has an LTV of less than 60%. If you look at the Southeast of England, 13%, now that represents about 13% of our UK mortgages. And 80% of that has an exposure of less than 60%. 2% of HSBC exposures of LTVs of greater than 85%.
+So I could keep reeling off these statistics. But what we've got is a conservatively underwritten, well distributed book of business within the United Kingdom, where credit quality certainly through the global financial crisis and today remains very consistent and very stable.
+And when you think about how our advanced models are built. It's all about PDs, LGDs, and EADs. And I think some of the data I've just provided you with would inform why we've got a relatively low RWA density in our UK retail mortgage.
+Jason Clive Napier - UBS Ltd. (Broker)
+Thanks very much.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from the line of Chris Manners from Morgan Stanley. Your line is now open.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Good morning, guys.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Two questions if I may. The first one was about BoCom. And I can see that the headroom of the PIU above the carrying value has sort decreased to about $800 million. Just maybe if you'd give us a few thoughts on that? And how close we are to essentially derecognized those earnings in the income statement? And how we should think about that?
+And the second question was actually just on UK and asset quality. And also a little bit in terms of on your customer sentiment, what do you think about demand for credit in the UK? And I suppose also, I know this question was asked in brief, but is there any chance of firming asset margins in the UK? One of your peers was saying that banks should be more thoughtful about pricing for risk. And that could give you a little bit of a bump to the margin in the rate environment? Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. On BoCom, Chris, main drivers of that reduction is payment of the annual dividend by BoCom. So the way the accounting goes is that the dividend flows through that discounted cash flow model and the book value impact. And the other main driver there is foreign exchange.
+What does this really mean? It means we're several hundred million dollars closer to impairment than we were when we reported these numbers out to you at the first quarter. Our approach – and we've got disclosures obviously, in this and the interim report in some detail. Our approach to evaluating BoCom and the impairment, the potential for impairment in BoCom, has not changed in any significant regard. And the accounting treatment and the capital impact of BoCom has not changed either.
+So there are really, other than some FX impact and receipt of a dividend, there's nothing else to report on the BoCom front.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So in terms of credit. So we had a slowdown in SME activity, basically kicking off from early June, which is still reasonably slow in terms of applications for new financing. But since the referendum, we've had 1,100 – actually precisely 1,142 loans have been drawn down for customers in business banking, which is worth in cumulatively about £150 million.
+MME stuff, again quite slow. So people have I think postponed getting financing for OpEx. But I imagine that come September, we'll see that pick up again, because obviously the process of negotiation is going to take a number of years. So I don't think that that OpEx will be postponed.
+The large companies haven't missed a beat, because they're multinational, and they're in many countries. And therefore they have continued to operate at the previous levels.
+In mortgages we've approved about 11,500 mortgages post referendum, which is a total of about £2 billion post the referendum. Actually to be honest with you, the slowdown in UK mortgages was more pronounced around the stamp duty increase. I.e., there was a lot in the first quarter that then fell off post April, than anything we've honestly seen around the impact of the referendum. So there really isn't anything particularly pronounced other than, as I say, a slowdown in the kind of SME business banking sector.
+I don't myself believe that there will be any opportunity to change credit spot pricing. I think that notwithstanding the often view that the UK market is not competitive, it's actually extremely competitive. And I would be surprised if actually credit spreads did move out. And unless we're talking about some unforeseen event that results in credit spreads more generally for the UK moving out, which again we're not building into any of our own planning assumptions at this moment.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks.
+Operator
+Our next question today comes from line of Tom Rayner from Exane. Your line is now open.
+Tom A. Rayner - Exane BNP Paribas
+Yes. Good morning, afternoon, everybody. Can I just ask you about your statement on regulatory policy aligning with public policy? At the bottom of sort of Page 3, some of the statements – and, Iain, you have sort of referred to these already – are quite strong. Increased capital requirements would have a major impact on the availability of credit and go against the public policy focus on boosting growth. And also as you said, you welcome statements from the G20 and others that there will be no broad based increase in capital requirement.
+So on the back of those comments, I've got a couple of questions. Firstly, when you talk about 12.5% as the right sort of equity Tier 1 ratio, when to consider buybacks, et cetera. Are you now assuming there will be no impact on you from Basel IV, IFRS 9, and other things that are outstanding?
+And my second question is to what extent are these comments part of a sort of broader industry wide lobbying exercise I guess, trying to sort of encourage Basel maybe to sort of look at the reality of the situation and maybe water down some of the proposals? Is that me dreaming again? Or is there some substance to that idea? Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So you should join on this.
+Douglas Jardine Flint - Group Chairman
+Yeah. It's Douglas. I wouldn't call it part of lobbying exercise. I mean a consultation process means two sides talk to each other. And I think that the proposals, which were really all around risk sensitivity and then into operational risk and a number of other areas, the aggregate impact if you took the top end of the ranges came to quite significant increases in capital. Now it's been said for some time by the regulatory community, it was not the intention to have a broad-based capital increase.
+There was an expectation that outliers, those that had a very particularly low risk weighted asset density might find themselves more hit than others. But for the broad part of the industry, it's been fairly consistent.
+What I was trying to do in the statement is sort of say that this consultation is under way. Clearly is a significant matter to be addressed, resolved in the second half of the year.
+And I think we are basing our future projections on the very clear statements that have been made by the central bank governors. And the G20 finance ministers as well as the Financial Stability Board and many elements of the regulatory community saying, look, this is not designed to have a broad based increase in capital.
+So what I was trying to do is say, it's important we're working on that basis. And clearly it's important that that is delivered, because in a period of economic uncertainty for any constraint on the ability of the industry to generate credit would lean against public policy objectives in terms of trying to stimulate better growth.
+So it's not part of a lobby effort. It's really just a pointing out to an important event in the second half of the year and to draw attention to the comfort that's being given by the G20 community.
+Tom A. Rayner - Exane BNP Paribas
+Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I think it's also, Tom, in terms of what are we assuming about our capital ratio. I turn it slightly around the other way. So post the sale of Brazil, we're 12.8%. After this buyback we're 12.6%. And obviously to do the buyback, the PRA had to approve the buyback. So our main regulator obviously had to think about some of the things that you've just outlined in coming to the decision to give us that approval.
+Tom A. Rayner - Exane BNP Paribas
+Yeah, I do understand. I understand that. But I guess that your main regulator at the PRA will have to eventually take whatever the final Basel decisions are. I mean it would be quite a step I think for a national regulator in the UK to actually sort of unilaterally say this is – well. We can all have our own view on it. But this is – saying definitely we're not going to...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No, no, no, no. I'm not saying that. No, Tom. Tom, I'm not saying that the PRA is rejecting Basel IV. What I'm saying is the PRA has looked at our five-year capital plan, and has decided that they are comfortable with us, having sold Brazil, retiring half the shares that supported Brazil, knowing all that they know, you know, and we know about the likely regulatory change.
+Iain James Mackay - Executive Director & Group Finance Director
+And I think what goes beyond this, Tom...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+That's all I'm saying.
+Tom A. Rayner - Exane BNP Paribas
+Okay.
+Iain James Mackay - Executive Director & Group Finance Director
+...is there's a point in time versus the propensity to generate capital and meet regulatory capital requirements over time. What we're not saying is that there is no impact from any refinements to the Basel regime at this point, because nobody knows.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+We don't know what they are.
+Iain James Mackay - Executive Director & Group Finance Director
+And so I think to Douglas's point, you've got to place some faith and reliance on the various statements coming from central bank governors and heads of supervision.
+But by the same token, as I'm sure many of you have, if you have conversations with some of those same heads of supervision, they have a very, very significant piece of work to do over the next six months to try and come to an agreement as to what the Basel framework will look like going forward. And it is a substantial piece of work.
+So, no, we're not saying there is no impact here. But we are simply taking all the factors that are put in front of us from various sources, as clearly are our principal regulators, and that's informing decision making.
+Tom A. Rayner - Exane BNP Paribas
+Okay. All right. Thank you very much for that.
+Operator
+Our next question today comes from the line of Stephen Andrews from Deutsche Bank. Your line is now open.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Yeah. Hi. I just wanted to come back to the question of capital trapped in North America. And just can you get a bit more guidance in terms of exactly how much capital you do have in North America? Because obviously from the operating company accounts, we can see Canada, finance corporation, and the bank.
+When you talk about the proceeds from the card sale and the branch sale being held in North America, is that being held at the North American holdings company level? So we should...
+Iain James Mackay - Executive Director & Group Finance Director
+It is, yeah.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+To get a rough idea. Okay. So and in terms of how much capital is held...
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. Our consolidated common equity tier 1 ratios in North America are north of 24%.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay. So when we're looking how much capital there is in North American holdings, we should expect take the oppose (1:03:47)
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+It's quite a lot. Yeah. You should look at the U.S. holding company.
+Iain James Mackay - Executive Director & Group Finance Director
+Can't see it. It's not published.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Which you can't see. But there's really...
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay. But that kind of helps answer the question.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+As Iain says it, the capital ratio is in the mid-20s%, which is quite high.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. No, that's...
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay, that's helpful.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So we expect – we hope and expect that the dividend payment that we get back to holdings will be a material sum. But we obviously aren't in a position to provide a number for that at this moment in time.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay. And then just a follow-up question on the U.S. I mean if we look at the remaining businesses sort of – on the sort of NAFTA platform as you call it, it looks like you probably still got the best part $30 billion, $35 billion of capital tied up there. And although you've made a little bit of progress in Mexico, I mean that's only sort of $3 billion of that capital. And the rest of the business is really struggling to generate any return at all.
+How far away are you from saying, okay, we need another plan, another way to free up that sort of – or generate a better return on that $30 billion, because at a group level at the moment, even ex the stuff held at holdings, it's still a massive drag on group returns.
+Iain James Mackay - Executive Director & Group Finance Director
+So if we take each component of NAFTA, you mentioned Mexico. And we've talked in this call about the progress that we're making in Mexico. We are not there. We know we've got a lot more to do in Mexico, but there's good traction and progress being made by Nuno [Matos] and the team.
+Canada is a business that continues to generate – even in a higher loan impairment charge environment coming from oil and gas sector, continues to generate an attractive return. And on a normalized basis that's a very attractive business for us.
+The challenge, and Stuart referenced this earlier in the call, is continuing to move performance within the U.S. business. Broadly speaking, outside the oil and gas sector, metals and mining, we've got fairly stable credit quality within the U.S. business. We're making progress from a revenue and cost perspective as well.
+We obviously continue to execute against the various compliance objectives that apply to the U.S., but also the wider group. And progress being made, but more to do. And then when you come to the surplus of capital sitting in the North American corridors, it is absolutely sitting within that U.S. business. So we come back to the earlier question, which is about getting the surplus – the capital that's surplus to regulatory and to business requirements back to the holding company, such that it can be distributed, either in terms of investing in the business or returned to shareholders.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Basically we're going to get the whole CML – sorry. The whole CML piece has to come out. Obviously, the completion of the sale and the dismantling of what was household in the legacy CML books. Then we need to basically get that capital out and the capital that basically has sat there from the sale of the card business and the upstate New York branches, while restructuring the business.
+Now Retail Banking and Wealth Management in the States is now break even. The Global Banking and Markets business and CMB in the States we did actually have an improvement in revenues and of falling costs. But the LIC swallowed it up. So there's a lot of restructuring work going on.
+As Iain says, once we've got the capital back out and with the restructuring work, we will get to a business that has a more accretive return than the one today. But we won't get there, as I said in my presentation, by the end of 2017. But you can rest assured that we're highly focused on this.
+But we will always have a U.S. business. We operate in parts of the world where the dollar is predominant. So two-thirds of HSBC's PBT comes from Asia-Pacific and the Middle East. These are dollar bloc economies. World trade is in dollars. Payments and Cash Management is – 60% is in dollars, 80% of world trade is in dollars. Something like 80% of foreign exchange trade, one side settles in dollars. The biggest economy in the world is the U.S. Biggest source of investible funds is the U.S. And actually we make about four times as much with the U.S. companies outside the United States as we do in the United States.
+But that PBT falls in the legal entities or the countries in which that activity took place. So if we do a transaction with an American company in the United Arab Emirates, the A (1:0811) revenues in the United Arab Emirates, but actually the company is American.
+So the U.S. business is not as unattractive as it looks at first blush. There are several pieces within it, which causes it to look a lot worse than it actually is. But we accept the fact that there is a ton of work still to do on it. And you can also rest assured that we are tweaking the plan, as you would expect as we go along.
+Stephen Andrews - Deutsche Bank AG (Hong Kong)
+Okay; thanks a lot.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from the line of Manus Costello from Autonomous. Your line is now open.
+Manus J. Costello - Autonomous Research LLP
+Good morning. Thank you. Just a couple of questions from me. First, just a point of clarification about the trapped capital in the U.S. Can I just be clear that when you dividend this back up from the sale of the cards business, for example, which I think was about 60 bps benefit, there isn't any benefit to the group's consolidated ratios from that movement of capital.
+So is what you're trying to say, if you are organically generating capital by the end of next year, for example, which means that you are above this 12.5% level, you will now be technically able to return capital. So I can't see why the dividend and the other (1:09:28) capital from the U.S. business would directly impact the consolidated group and your ability to pay.
+And my second question just briefly is on BoCom. Has there been any further discussion about changing the capital treatment of BoCom? I think in the past you've thought maybe about treating it as a material holding. Has there been any reopening of that debate? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Manus, you're absolutely right. It would have no impact on the group's capital ratios. But what it does do is put the cash resources that back up those capital ratios at the holding company, which means it is now within – it is then within our power to do either re-attribution to other investment opportunities or return it to shareholders. But it has no impact on the group's common equity or other capital ratios, by simply moving it from the U.S. to the parent company. On BoCom...
+Manus J. Costello - Autonomous Research LLP
+So what you're really saying is, if you are able to organically generate capital between now and 2017, whenever you're allowed this, you would physically be able to pay it? Whereas historically that might not have been the case?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. I mean the dividend is paid out at the holding company. The holding company is a listed company. So the cash has got to be in the holding company, either to fund the dividend or to fund the buyback.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. It all comes from cash from the subsidiaries in the form of dividends.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So think about it in cash terms, as opposed to purely in capital terms. Yeah.
+Manus J. Costello - Autonomous Research LLP
+Okay.
+Iain James Mackay - Executive Director & Group Finance Director
+So capital generation by whether it's HBAP or North America or Mexico or any of them, it all comes back in the form of dividends to the parent company. So it is absolutely vital that we have capital surpluses sitting at the parent company to enable the most efficient capital allocation.
+Manus J. Costello - Autonomous Research LLP
+Got it. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. On BoCom the conversation and discussion with our principle regulator continues. It's a good conversation, but it is ongoing.
+Manus J. Costello - Autonomous Research LLP
+Okay, thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay.
+Operator
+Our next question today comes from the line of Fahed Kunwar from Redburn. Your line is now open.
+Fahed Kunwar - Redburn (Europe) Ltd.
+Hi. I just got a quick question on slide eight. So if I look at your discrete quarter cost growth versus the quarter cost growth taking out the regulatory program and compliance. It's been around 2% to 3% drag from regulatory compliance over the last kind of 4 quarters or 5 quarters, while this year – or this quarter, sorry, the drag is substantially less. I mean can we – and obviously you've done very well getting positive jaws as well. Can we read that across as the drag from compliance going forward now won't be as high as it was for the last kind of year, year and a half? Or is this a kind of one-off thing, where compliance spend has reduced in this quarter. But it could go up again in the next few quarters?
+And my second question was just point of clarification on margin, quarter on quarter and year on year after the quarter, what has the net interest margin actually done? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+So going to the investment in regulatory programs and compliance. I think we set out in 2015 in June quite clearly what we needed to do in terms investment in this space. That investment is going ahead. Clearly there has been a huge amount done over the last 3 years, 3.5 years, 4 years. There is quite a lot that still needs to be done.
+So the rate of growth in that investment is slowing. But there is still a broad range of investments to be completed between now and the end of 2017, which is the targeted date for us exiting our deferred prosecution agreement with the United States and the FCA.
+So the work is going ahead, but the level of investment required remains absolutely consistent with previous guidance.
+Fahed Kunwar - Redburn (Europe) Ltd.
+Sorry, just – so the drag of 2% to 3% from previously, can we expect it to go down going forward? So there will still be a drag, but it'll reduce going forward?
+Iain James Mackay - Executive Director & Group Finance Director
+There will still be an increased cost coming from reg compliance programs, but the level of influence that has overall will decrease.
+Fahed Kunwar - Redburn (Europe) Ltd.
+Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. And sorry. Your question was...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+What's happening to the net interest margin.
+Iain James Mackay - Executive Director & Group Finance Director
+Oh right.
+Fahed Kunwar - Redburn (Europe) Ltd.
+Just on the net interest margin for the quarter.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah, fabulous. So look, from overall, from the group perspective, interestingly a little bit of pressure going – coming through the UK mortgage book, where there's a very competitive environment in terms of pricing in that regard. So we see a little bit of pressure coming through the UK in that regard.
+Stuart had mentioned earlier that there were higher costs of funding coming through from issuance of total loss absorbing capacity qualifying instruments in alternative Tier 1 and Tier 2, where spreads are certainly wider in the first half of the year than has historically been the case. And that's really it. In terms of Asia-Pacific very, very stable. North America very stable. A slightly muted impact with the continued run-off the CML portfolio. And Latin America actually has strengthened little bit with policy rate increases in both Mexico and Argentina.
+So a little bit of pressure coming through TLAC in the UK, both in the holding company in terms of debt and capital instrument issuance in the mortgage book. But broadly speaking, beyond that influence, which is quite muted, it remains reasonably stable.
+Fahed Kunwar - Redburn (Europe) Ltd.
+Perfect. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks.
+Operator
+Our next question today comes from the line of Martin Leitgeb from Goldman Sachs. Your line is now open.
+Martin Leitgeb - Goldman Sachs International
+Yes. Good morning. Good morning also from my side.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Good morning, Martin.
+Martin Leitgeb - Goldman Sachs International
+My first question would be on Brexit and the impact on Brexit on in particular your UK business so far. And you hint that there was a flight to quality in terms of deposit. And I was just wondering if you could comment on the inflows of deposit you have seen in the – particularly in the UK since the outcome of the referendums in the past 6 weeks? Whether you saw any change in customer behavior there?
+And the second question in relation to Brexit is, how do you think about UK mortgage growth going forward? You called UK mortgages out I think in the last call as one of the key growth areas for HSBC going forward. And I think you also made some considerable investment in that operations. Do you still target to grow in absolute terms that business?
+And then lastly, just on your very strong loan to deposit ratio, which has been trending down obviously at least since – we track that in our model since 2004 at least, if not much longer. At what point does the loan to deposit ratio become an issue? We have seen some of the U.S. peers proactively addressing some part of their deposit book. I guess it's probably driven by a leverage constraint. Is it fair to assume that for HSBC that loan to deposit ratio wouldn't be an issue, simply because you're constrained by a core Tier 1 basis? Or does that differ across jurisdiction?
+And then lastly, in terms of investment of excess deposits and deployment of those excess deposits. Could you shed a bit of light what strategy you have, given obviously the very low interest rate environment at present? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. Quite a lot in there, Martin. The AD ratio, 69%, is that an issue? So in terms of overall net interest income profitability of the group, I mean you've seen us sitting around an AD ratio of between sort of 73%, 70%, 71%, 72%, 73%. 69% just means that we've got a slightly more difficult task to do against what we've executed over the last goodness knows how many years in terms of profitably investing that surplus.
+And the guidance that Stuart gave you with respect to Balance Sheet Management, which is the core group within the bank, which manages that corporate surplus around the world, I think the guidance on revenues and profits remains entirely appropriate.
+So it's not really a constraint. I think what we are doing, which is along with many other banks around the world, is we're looking at non-operational deposits. So deposits that exceed the operational requirements of our customers. And have set operational deposit levels for certainly all of our corporate customers. And where they exceed those operational levels, we're a little bit stricter with them in terms of our willingness to take any further amount of deposits from them. Or in certain currencies, as to your point and pointed out, charging for those deposits being held at HSBC.
+So there's a very strong focus on managing operational deposit, surplused operational deposit requirements within the client base across the group. And that's functioned obviously on the ADR ratio, as well as that has a very direct impact in the bank levy, in terms of the impact that has and it's at the end the year.
+In terms of deposit inflow in the UK, what we've tended to experience historically is in times of stress, we tend to see a bit of deposit inflow. That's been the case both in Asia and in the UK over the course of the first 6 months of the year. Whether it's particularly related to Brexit, it would be very difficult for me to say. In terms of customer activity, Stuart?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So mortgages remains a priority in the UK And actually we've got good growth, so we've – so the direct approvals market share, we have a market share of about 24%, which is up 2% year on year. First time buyer approvals increased by 45% second quarter 2016 versus second quarter 2015.
+We've got – remember we did most of our stuff direct. But we've now started to add some brokers on. And so at the moment we added an additional three in the second quarter. So that means we're now working with five intermediary partners. Am I going to have to order another 10 brokers on by the end of the year? And the total book size year on year has increased by about 3% in mortgages.
+So, no. Mortgages remains a focus. The LTVs and the credit standards will remain as high. And you've heard Iain go through various of the LTV measures and the mixture of where our exposure was around the country and our exposure to first time buyers, buy to let, et cetera. But I don't think Brexit changes that. I don't think that Brexit will change the sort of the nature of the UK home ownership market at all.
+So I still think that that is a legitimate market share gain that we can take frankly either in terms of absolute growth of the market or taking business off other banks. So I remain confident that the UK bank can continue to grow and indeed has a priority and a focus on growing its lending book there.
+We saw – I said in answer to some earlier questions – some falloff in loan demand in the – particularly in the mass business and SME sector, basically starting from early June. It hasn't really recovered. This is more in terms of net new business. So in terms of application for fresh financing, we haven't had people repay us. So it's not that the book is shrinking. But I would expect that to kind of pick up in September, because I don't think that people will postpone OpEx very long. And most of this type of financing is short-term OpEx. So I don't see that as a negative either. And the GBM business hasn't really missed a beat.
+On managing the AD ratio, as Iain says, from an operating deposit point of view with banks, non-bank financing institutions. Now we already have a protocol around other currencies like the euro and Swiss franc, where interest rates are negative, which we'd have to look to port across. But I would rather solve the AD ratio challenge by lifting the A back up, than rejecting the deposits. I think it would be very, very wrong for HSBC to change a model that we've had since 1865, which is to be a deposit funded bank.
+Now clearly the AD ratio at 68% and interest rates at the 0% bound is less attractive than when interest rates were 4% or 5%. But as I say the challenge for us is to get business on that we can write close to our cost of equity, rather than to turn away deposits.
+Martin Leitgeb - Goldman Sachs International
+Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+And on the Balance Sheet Management. Balance Sheet Management will continue to manage the balance sheet as it always has done, which is basically it's taking interest rate risk. So within Balance Sheet Management we do not really take credit risk. It tends to own government bonds and it's often super national type of issuers.
+I don't want to create a credit portfolio within BSM. One of the reasons for that is I'd rather take credit risk out of Global Banking or out of Commercial Banking, because then you get the relationship benefit. If you simply buy someone's bonds in the secondary market, there is no relationship benefit to that whatsoever.
+I don't want to turn into investors in the same corporate credit to whom we're bankers. I want to be a banker to them, lend to them directly, and then harvest the ancillary revenue. And you don't get that if you're simplifying buying the fixed-income instruments.
+Martin Leitgeb - Goldman Sachs International
+(1:22:57)
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No. We should be underwriting in the primary market that – we should be underwriting in the primary market that fixed income, not buying it blind in the secondary market.
+Martin Leitgeb - Goldman Sachs International
+Is there anything you do different there in terms of that structure of that Balance Sheet Management book at this stage? Or is that relatively mundane (1:23:17)?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No, look, it tends to be 3 years and under. And I don't see any reason to particularly change that. Again, we're in an environment where if we can make kind of $2.4 billion to $2.8 billion, that's a reasonable requirement. It's very hard to call what the impact, say, in the UK 2 years out of the pound having fallen dramatically, when it seems that the government will do some package of adjustments tomorrow. We could have inflation at 3%, 4% in the UK and actually 2 years, 3 years out and find that interest rates are sharply higher.
+So I don't really want to basically change a series of protocols that we developed over many, many years. And in markets in Asia Pacific, where we've seen extreme moves happen much more often. Actually we've seen pretty extreme moves happen in the West actually. So no, I don't think there's a magic bullet for this. We just have to kind of tough it out.
+The problem with magic bullets is the unintended consequences of what you didn't think through. So I don't want to build up a massive credit portfolio managed by couple of traders. I'd rather basically get the relationship managers out to build up the credit portfolio.
+Martin Leitgeb - Goldman Sachs International
+Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you. So we got time for one last.
+Operator
+Yes. We will take our last question today from Ronit Ghose from Citigroup. Your line is now open.
+Ronit Ghose - Citigroup Global Markets Ltd.
+Great. Thank you. Just wanted to clarify a couple of points you've already mentioned. So firstly on capital and buybacks. Can you confirm if the buyback, the shares will be canceled? And if so when?
+Secondly, you've talked a lot about the upstreaming of capital potentially from the U.S. And I was looking at your [The] Hongkong [and] Shanghai Banking Corporation legal entity, which generates most of your profits. And you've been paying up below 50% of earnings up to a HoldCo. And I was just wondering is there a reason why? Given this large amount of capital that sits in your Hong Kong legal entity, your APAC legal entity, is there any reason why you're not upstreaming more out of Asia?
+And linked to that, your NPLs are beginning to take up, albeit from a very low level in Asia. Just wondered if there's any kind of color you want to add? Or any – is there any sign of whether it's in state-owned Chinese companies or oil and gas exposure there. Have you had any sign of things looking a little bit more challenging, which may want you to hold back your payout ratio, upstreaming up from [The] Hongkong [and] Shanghai Banking Corporation?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So the shares will be held as treasury stock.
+Iain James Mackay - Executive Director & Group Finance Director
+That's correct. Yeah.
+Ronit Ghose - Citigroup Global Markets Ltd.
+They will be canceled?
+Iain James Mackay - Executive Director & Group Finance Director
+No.
+Ronit Ghose - Citigroup Global Markets Ltd.
+Why is that?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+They'll be held as treasury stock.
+Iain James Mackay - Executive Director & Group Finance Director
+And there is no accounting capital or any other benefit to canceling them. There is no detriment to holding them as treasury stock. And in treasury stock it gives us some flexibility as to their future use and re-registration.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+[The] Hongkong [and] Shanghai Banking Corporation's capital position?
+Iain James Mackay - Executive Director & Group Finance Director
+Well one of the reasons – and this won't be a shock to anybody – is that just as the rest the world is implementing Basel III, so Hong Kong is implementing Basel III. And also one of the other aspects is of all the markets in the world where we have reinvestment opportunity...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+This is the one.
+Iain James Mackay - Executive Director & Group Finance Director
+The Asian markets is it. And so we have had historically a very consistent a payout ratio between 50% and 60% from HBAP up to the parent company.
+And at the moment, that would seem to be – continue to be the appropriate thing to do. But HBAP to be clear is really no different to any other subsidiary in the group, in terms of the challenge we place for the management team there around the efficient management of the capital.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Also remember what we've just said is that we sell Brazil, so we don't need the shares that support Brazil. And we sold the credit card business in the U.S. and the upstate New York branches some time ago. And we don't need the shares that support that.
+We actually haven't sold anything in Asia that we don't need the shares to support it.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So the payout ratios of The Hongkong [and] Shanghai Banking Corporation reflect a BAU [business as usual] approach to dividends, as opposed to it's holding stuff that's the proceeds of things we sold in the past.
+Ronit Ghose - Citigroup Global Markets Ltd.
+Sure. Sure. I get that. But it's your current capital levels in HBAP are in the mid-teens. And I'm just wondering if there's more scoped upstream there? Or you think that the current earnings will come under pressure in HBAP from rising NPLs and rising loan losses?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No, no. The – what Iain is saying is the HKMA – look at banks in Hong Kong. They have capital ratios in the mid-teens.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Yeah. Yeah. No, this is...
+Ronit Ghose - Citigroup Global Markets Ltd.
+Sure.
+Iain James Mackay - Executive Director & Group Finance Director
+The capital management – the regulatory capital management in Hong Kong is very much informed by dialogue with HKMA around implementation of Basel III and capital requirements within Hong Kong.
+There's a decent buffer that sits in Hong Kong of 2.5% for HSBC. Now we obviously meet that requirement. But it's all about the quality of the conversation and capital requirements informed by the HKMA.
+Ronit Ghose - Citigroup Global Markets Ltd.
+Got it. So there's nothing in the NPL side that's keeping you awake at night as relative in Asia.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No, no, absolutely not. Absolutely not. I mean...
+Ronit Ghose - Citigroup Global Markets Ltd.
+Okay. Thank you, guys.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+It's not – it's Brazil, Canada, U.S. oil and gas, it's not China.
+Ronit Ghose - Citigroup Global Markets Ltd.
+Okay. Thanks. Clear.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay, that brings the call to the end. Thanks very much, everyone.
+Operator
+Thank you, ladies and gentlemen. That concludes the call for the HSBC Holdings Plc's interim results 2016. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

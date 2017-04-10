@@ -1,0 +1,431 @@
+HSBC Holdings plc (NYSE:HSBC)
+Q2 2014 Earnings Conference Call
+August 4, 2014 6:00 AM ET
+Executives
+Douglas Flint – Group Chairman
+Stuart Gulliver – Group Chief Executive
+Iain Mackay – Group Finance Director
+Analysts
+Raul Sinha – JPMorgan
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+Chintan Joshi – Nomura Securities Co. Ltd.
+Alastair Ryan – Bank of America Merrill Lynch
+Christopher Wheeler – Mediobanca Spa
+Michael Helsby – Bank of America Merrill Lynch
+Rohith Chandra-Rajan – Barclays Capital Securities Ltd.
+Tom Rayner – BNP Paribas Securities
+John-Paul Crutchley – UBS Ltd.
+Mike Trippitt – Numis Securities
+Ronit Ghose – Citigroup Global Markets Ltd.
+Sandy Chen – Cenkos Securities
+Operator
+This presentation and subsequent discussion may contain certain forward-looking statements with respect to the financial condition, results of operations, capital position and business of the group. These forward-looking statements represent the group's expectations or beliefs concerning future events and involve known and unknown risks and uncertainty that could cause actual results, performance or events to differ materially from those expressed or implied in such statements. Additional detailed information concerning important factors that could cause actual results to differ materially is available in our Interim Report. Past performance cannot be relied on as a guide to future performance.
+This presentation contains non-GAAP financial information. Reconciliation of non-GAAP financial information to the most directly comparable measures under GAAP are provided in the constant currency and underlying reconciliation supplement available at www.hsbc.com.
+The Investors and Analysts Conference Call for HSBC Holdings plc's 2014 Interim Results will begin in three minutes. Following the presentation, there will be the opportunity to address questions to HSBC's executive directors. (Operator Instructions)
+Good morning, ladies and gentlemen, and welcome to the Investors and Analysts Conference Call for HSBC Holdings plc's 2014 Interim Results. For your information, this conference is being recorded.
+At this time, I will hand the call over to your host, Mr. Douglas Flint, Group Chairman.
+Douglas Flint
+Good afternoon from Hong Kong, good morning to, everyone, in London, and welcome to the 2014 HSBC interim results conference call. As I was introduced as Douglas Flint, Group Chairman, and with me are Stuart Gulliver, the Group Chief Executive; and Iain MacKay, Group Finance Director.
+Before we start, I'd like to say a word on behalf of the Board. HSBC produced statistically well-balanced financial performance in the first-half of the year against the backdrop of continuing low interest rates and reduced financial market volumes. This has achieved while continuing to invest significant time and resources in reshaping the Group to meet the heightened and evolving expectations of our regulators under the communities we serve.
+Notwithstanding the challenges before us, I'm optimistic that our business model has further potential and that we have the leadership and human resources throughout the firm to make the most of that potential.
+I will now handover to Stuart to talk about the context around results before Iain take some more detailed look at performance. Stuart?
+Stuart Gulliver
+Thanks, Douglas. Key points of the results, that we are announcing today is as follows. Reported profit for tax was $12.3 billion, $1.7 billion lower than the equivalent period in 2013, as last year's first-half benefited from higher gains from disposals and reclassifications principally with respect to Hang Seng Bank's investment and Industrial Bank.
+Underlying profit before tax was $12.6 billion, which was $0.5 billion lower than the prior year and that was affected by a number of significant items. Commercial Banking underlying revenue grew by 6%, with a very good performance in Asia, increased our market share in key product areas in Global Banking Markets, although our Markets business is affected by low market volatility and client activity in line with the rest of the industry. Underlying revenue excluding significant items was broadly unchanged in principal Retail Banking and Wealth Management, and we continue to generate capital in order to build our capital base, grow the business and deliver progressive dividend and our capital position remains strong.
+CRD IV end point basis common equity tier 1 ratio improved to 11.3% compared with the year-end position of 10.9%. Before I hand over to Iain to cover the half year numbers in detail, I want to quickly spread out the facts to talk about strategy.
+The turn of the year marked the start of the next phase of our strategy following the strong progress of the first three years. Between 2011 and 2013, we remodeled the group to refocus the business, simplify and globalize the organization and grow revenue. This meant selling or exiting non-strategic businesses, reducing risks in our on-going businesses and running down our legacy portfolios.
+While we have foregone a substantial amount of revenue through this process we have created a more coherent, logical and stronger bank with a solid platform for growth. We can already see clear evidence of this through considerably lower loan impairment charges and continuing cost discipline. And once more it's enabled us to add $34 billion of shareholder's equity over the last three years as well as declare an additional $25 billion of dividends over the same period.
+It's important to note that excluding underlying adjustments and significant items we've actually increased our revenue by $3.8 billion over the first three years of our strategy. This in spite of the disposals and a reduced revenue contribution of $1.4 billion from U.S. run-off portfolio, $0.7 billion from legacy credit, $1 billion from balance sheet management and the continued adverse effect of low interest due to financial crisis.
+Our business grew by $6.9 billion over this period, demonstrating our ability to replace revenue organically. Over the next three years, we'll continue to invest in the higher growth areas of our business, centered on our unique international network. This network is HSBC's biggest competitive advantage, to both have nearly a 150 years, it's highly distinctive, difficult to replicate. This is absolutely the heart of our strategy to capitalize this on the growth of global trade and capital flows and economic development in developing markets.
+The group today is present in 74 countries and territories, and all of the top 15 countries by GDP. Our network covers nearly 90% of global trade flows and sits on both sides of everyone of the top 15 trade corridors in the world, nine of which of our priority markets at both ends.
+HSBC is also present in 70% of the world's top 200 cities, 50% of which are in our priority markets. We're therefore extremely well-positioned to grow revenue, trade and capital flows accelerate. We've already been able to improve our market position in a number of product areas, hence in cash management, Global Trade and Receivables Finance, foreign exchange and capital financing are all growth products where we are already strong and place of the benefits of our global network and our universal banking model.
+You can see from the chart on the right, that since 2011, we've increased our market share on all four areas on the back of targeted investments, the strength of our network and increased collaboration between our global businesses. We expect the revenue opportunity from these product areas to continue to grow and is positioned our business to capture an increasing share of each.
+Our investment priority for the three-year period ending in 2016, focus on the areas we started to develop in the first phase of our strategy, mainly product areas that we are growing in which HSBC has improved market positions. The change has been made since 2011, strongly increased our ability to capture greater market share in these areas.
+Particular, we aim to reinforce our leading position in trade finance, to improved client coverage in product and payments and cash management, increase foreign exchange collaboration across our global businesses and renew the capabilities of our electronic distribution platforms and strengthen our leading position in the renminbi services.
+Our investment in these products is supported by investment in countries that bridge trading capital flows such as Germany, the United States and mainland China and large city clusters that contains deep international revenue pools.
+We believe this investment will lead to growth in profits and increased dividends for our shareholders. And we are pursuing these alongside our equal priorities to implement our Global Standards programme, and streamline our processes and procedures.
+Iain will now take you through the numbers reflecting our performance in the first-half of this year.
+Iain Mackay
+Thanks, Stuart. I'm going to take you through some of the financial highlights and then go into more detail on revenue, costs, loan impairment charges and capital.
+For the first-half reported profit before tax was $12.3 billion compared to $14.1 billion in the prior year period. Underlying profit before tax was $12.6 billion compared with $13 billion in the first-half of 2013. This decline was mainly due to significant items.
+Looking at some key metrics, the reported return on average ordinary shareholders’ equity was 10.7%, compared to target range of 12% to 15%. Our cost efficiency ratio was 58.6%, the advances-to-deposits ratio was 74%, slightly higher than the end of the year, and our common equity tier I capital ratio and end point basis was 11.3%, comfortably above our targets and reflecting a strong capital position.
+This next slide shows the reconciliation between reported and underlying profit before tax. It adjusts for movements on fair valuable on debt, key transactions and their operating results and foreign currency translation differences. Additionally, we've identified a number of significant items included in the underlying profit before tax which impacts financial performance of the business. I'll talk about these in more detail in the next slide.
+A key point here is that the total reduction of $1.7 billion in reported profit before tax compared to the first-half of 2013, were due to disposal gains, reclassifications and significant items.
+Included in underlying profit before tax there are number of significant items which are linked to restructuring and repositioning of the group, have an element of recurring volatility, related to customer redress and litigation, and include a provision in relation to Consumer Credit Act in the UK. The overall lower level of significant items in the first-half of 2014 is a key factor driving lower underlying revenue compared to the comparable prior year period, accounting for a total of $1.3 billion of the $1.4 billion reduction in underlying revenue.
+You'll find more details by region and by global business from the data-pack in our investor relations website.
+This next slide shows the profit contribution of each region after underlying adjustments and excluding significant items. As you can see compared with the first-half of 2013, we grew profits in four out of five regions. In Asia, higher profits were driven by revenue growth in Hong Kong and mainland China, reflecting growth in balance sheet management income, increase term lending and higher customer deposits.
+This more than offset increased cost to support business growth and investments in Risk and Compliance. In Middle East and North Africa, the increase in profit was driven higher revenue reflecting increased fee income and Global Banking and Markets, together with increased associate income following a strong performance from the Saudi British Bank.
+In Latin America, against the backdrop of weak economic activity, profit increased as lower loan impairment charges primarily in Brazil, and higher revenue mainly in Argentina more than offset higher costs from Union agreed salary increases and inflationary pressures.
+In Europe, higher profits were driven by our home market of the UK from lower loan impairment charges, notably international banking, partly offset by higher costs. By contrast North America was down, primarily due to lower revenue in Global Banking and Markets, and in the U.S. run-off portfolio in Retail Banking and Wealth Management.
+These were partly offset by lower loan impairment charges, also in the U.S. run-off portfolio and lower costs from decreased staff levels and additional sustainable savings.
+This next slide shows the profit contribution of each global business separating underlying adjustments and significant items.
+You can see that increase in profit before tax was driven mainly by good performance from Commercial Banking, most notably in Asia and in the UK. Global Banking and Markets was affected by the subdued market conditions, particularly in Markets, which have also impacted the rest of the industry. Despite this, we delivered a robust performance in the first-half of 2014, profit before tax down 5% in an underlying basis, excluding significant item.
+This was enabled through revenue growth and payments in cash management, credit and equities, while rates revenue was broadly unchanged from the period. In addition, there were significantly higher raises of credit risk provision. This demonstrates the benefit of our differentiated business model with a diverse range of products, clients and regions.
+Retail Banking and Wealth Management was down as the reduction loan impairment charges, notably in the U.S. consumer mortgage lending portfolio was more than offset by lower revenues from the U.S. run-off together with increased costs from inflation, risk and compliance investments and the UK Financial Services Compensation Scheme levy mainly in our principal business.
+Global Private Banking continues to be affected by the managed reduction in client assets due to repositioning. Taking a closer look at the main themes in revenue and cost, this slide shows revenue adjusted for underlying and significant items. Overall revenue is broadly unchanged as growth in Commercial Banking was offset by declines in Retail Banking and Wealth Management and Global Banking and Markets.
+Running through each of the global business drivers and principal Retail Banking and Wealth Management, revenue is broadly unchanged. With the reduction in personal lending revenue, mostly offset by higher income from current accounts, savings and deposits. Revenue at Retail Banking and Wealth Management, U.S. run-off portfolio was down $303 million following loan sales, and lower average balances. We grew revenue in Commercial Banking by $445 million, or 6% driven by average lending and deposit growth in Asia and higher average deposit balances in wider lending spreads in the UK. This revenue growth was spread across our home and priority markets highlighting the strength of the network.
+In Global Banking and Markets, excluding legacy credit, revenue declined by $394 million of which $153 million was from balance sheet management as the first-half of 2013 included higher gains from the repositioning of the portfolio for risk management purposes.
+In Markets, revenue fell by 9% compared with the first-half of 2013, mainly due to lower foreign exchange income which was affected by lower market volatility and reduced client activity. By contrast our rates business was broadly in line with the prior year and revenue rose in credit. Our Equities business had strong revenue growth notwithstanding the non-recurrence of revaluation gains recorded in the prior year period.
+This highlights the good work we've done to reposition the business to capture increased client activity. In other businesses, capital financing revenue was broadly unchanged. However, we increased our market share in debt and equity capital markets, mergers and acquisitions, and lending.
+Cost revenue was higher in legacy principal investments and Payments and Cash Management. On operating expenses, again separating out underlying adjustments and significant items, we saw an increase of $756 million or 4%.
+Looking at the key drivers, principal retail bank and wealth management was up $463 million, mainly in Latin America and Asia. This was driven by higher staff cost reflecting inflationary pressures and increased investments in risk and compliance together with $121 million levy for the UK Financial Services Compensation Scheme. Commercial banking was up by $221 million, again driven by Latin America and Asia due to inflation and investments in staff to support revenue growth. Against this the continued run-off of the U.S. portfolio led to $148 million of lower costs.
+To be clear when we talk about investments in people, process, and technology, we're referring to some of the investment priorities that Stuart outlined at the start of this call. These include Payments and Cash Management, Global Trade and Receivables Finance and renminbi services, in addition to risk and compliance including global standard, which remains essential for future of the firm.
+We will deliver further cost savings as we continue to simplify and streamline our businesses, processes, and procedures in line with the strategy. On loan impairment charges underlying loan impairment charges were down from $3 billion to $1.8 billion with the ratio of loan impairment charges to average cost loans and advances to customers falling to 36 basis points from 61 basis points in the prior year period.
+This was mainly due to the clients in Europe, North America and Latin America. Europe was down $623 million reflecting lower specific and collective impairments mainly in commercial banking together with higher net releases of credit risk provisions and available-for-sale asset-backed securities in Global Banking and Markets.
+North America was $274 million lower reflecting reduced levels of delinquency and new impaired loans in the U.S. run-off portfolio and lower lending balances from the continued run-off in loan sales. Latin America was $260 lower primarily in Brazil reflecting changes to impairment model and assumption revisions for restructured loans which occurred in the prior year. This was partly offset by refinements to impairment model on non-restructured loans in the first-half of this year.
+With respect to capital, our common equity tier 1 transitional ratio improved to 11.2% from 10.8% at the beginning of the year and our end point common equity Tier 1 ratio increased to 11.3% from 10.9%, reflecting capital generation and the benefit of higher fourth interim scrip take-up.
+RWA is increased predominantly from the application of lower – of loss given to floors and organic growth in Europe and Asia offset by reduction in the legacy portfolios. Regulatory uncertainty remains, as yet it's not possible to determine the group's common equity Tier 1 future requirements and the interplay of various capital buffers without clear guidance from our regulators.
+However, we place great importance in the group's ability to maintain and grow distributions to our investors derived from business profit generation. To ensure that we remain able to do this on an ongoing basis remains our intention to maintain a management buffer above regulatory minimum requirements.
+Turning to drivers of returns, of a much stronger capital base, we delivered an annualized return on equity of 10.7% down from 12% in the comparable period. This was primarily due to lower net gains and disposals notably industrial bank and the impact of significant items. Return on equity for 2013 was 9.2% and bear in mind the second-half of each year is significantly influenced by the UK bank levy and seasonality in revenue terms particularly in Global Banking and Markets.
+Returns in the first-half of 2014 exceeded our cost of equity estimated at 10% and represent continued progress towards profitability targets as evidenced by improving return on risk weighted assets in our businesses. Our current pre-tax return on risk weighted assets stands at 2.1%, in a reported underlying basis, and 2.3%, excluding legacy businesses. We provide a breakdown over the group underlying return on risk weighted assets by global business and split out the legacy portfolios for Global Banking Markets, and Retail Banking and Wealth Management.
+I will now hand back to Stuart.
+Stuart Gulliver
+Thanks, Iain. A quick word on business outlook, we remain broadly positive about the economic outlook for the majority of our home and priority markets and the UK in particular should maintain a firm recovery. We slightly increased our forecast for mainland China GDP growth to 7.5% in 2014 and we expect Hong Kong to benefit from export growth in the second-half of the year.
+Growth in Latin America however, remains muted. Our Middle East business continues to perform well, although we're mindful of regional uncertainties. We believe that interest rates could start to rise as early as the fourth quarter of 2014 in the UK and the first-half of 2015 in USA, which has positive implications for our revenues given the size of our commercial surplus.
+We remain well placed to meet future capital requirements to continue to deliver attractive total shareholder return and to establish HSBC as the world leading international bank. Now, we're very happy to take questions. The operator will explain the procedure and introduce the first question. Operator?
+Question-and-Answer Session
+Operator
+Thank you, Mr. Gulliver. (Operator Instructions)
+Stuart Gulliver
+Okay. Can we have our first question?
+Operator
+We will take our first question today from Raul Sinha from JPMorgan. Your line is now open.
+Raul Sinha – JPMorgan
+Good morning, gents.
+Stuart Gulliver
+Good morning
+Raul Sinha – JPMorgan
+Can I have two please?
+Stuart Gulliver
+Sure.
+Raul Sinha – JPMorgan
+Firstly on the commercial bank, obviously it seems to be the main driver of the fact that your revenues have stabilized now. I would have thought the first-half would represent the biggest challenge in terms of the margin drive in this business. Clearly NII, is fairly up, it’s up 1% despite your loans being up 7%.
+Do you think as we get into the second-half of the year, this business should start to show better growth just from the fact that spreads might actually be better year-on-year in the second-half? That’s my first question.
+The second one is on Hong Kong. I was wondering if you could – if I could invite you to elaborate a little bit on your comments on why you expect Hong Kong to have a better second-half than first. Is this because your GDP estimates are better in China or in the U.S. or is there any specific pick-up you're seeing in any of our business there. Thank you very much.
+Stuart Gulliver
+Okay. So you are right. In commercial banking PBT was up 15%, 16% underlying basis, revenues is up 6%, customer lending balance is up 7% and we saw some reduction in margins coming from repositioning of the book in Brazil towards MMEs which are of a better credit risk and therefore borrow at a tighter spread. And some further, so that’s a voluntary act of de-risking act should also result obviously in lower loan impairment charges going forward.
+And at the same time there was some increased competition around trade finance and receivable fees in Asia, but margins in the UK we think some increases in spreads in the UK, some increases in the spreads in Europe. So I think your general comments that have we seen the worst of spread compression, what we can see actually is that, it’s not getting any worse, there isn’t actually a clear sign of it getting any better either though, to be honest. I mean, I've got a graph in front of me that shows it’s clearly bottomed, but it’s not going back up.
+Raul Sinha – JPMorgan
+But a year-over-year comparison the second-half should look better shouldn’t it?
+Stuart Gulliver
+Better, yes, it should.
+Raul Sinha – JPMorgan
+That's my question.
+Stuart Gulliver
+Yes, it should. Okay, yes, because the delta reduction in the second-half of last year should not be as great as in the second-half of this year.
+
+So on Hong Kong, I think our view is simply that – yes, we think the economy should grow about 2.9%, 3% second-half. I think we expect – remember in the first-half, there were slower tourist arrivals coming into Hong Kong. We think that will correct in the second-half, inflations remained low. And if we're right about the time and date that's picking up into the second-half, that should actually feed through into Hong Kong in the second-half.
+So it really comes from a view that, that, and actually I think it's shared actually by the Hong Kong government, but the second-half should see improved economic conditions, which should lead, as I said in my remarks, to higher export growth in second-half.
+Raul Sinha – JPMorgan
+So, it is China, then it's not (inaudible).
+Stuart Gulliver
+Yes, actually – so it's China, and actually I mean, one used to get used to the fact that Hong Kong is a second order impacts of China.
+Unidentified Company Representative
+Okay. Thank you.
+Stuart Gulliver
+Be it tourism, be it trade. Thank you. Next one, please.
+Operator
+Our next question comes from the line of Chira Barua from Sanford Bernstein. Your line is now open.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+Good morning. Stuart, in your closing remarks, you mentioned on interest rate sensitivity. I know you have some numbers, mechanical numbers on the different currency blocks. If you could, you can just walk us through, especially the sterling block, the Hong Kong rates have delivered these kind of well-known. Where do you get it from both in the asset and the liability side?
+That is question number one, and the second on cost. Going to slide 15, on the deck Iain mentioned the different blocks. So risk compliance up significantly in terms of cost, how long will we see the drag from risk compliance, is it going to go on for the next two, three years? That was my second question.
+Stuart Gulliver
+Okay. There's a visibly detailed disclosure on page 163 about the impacts of net interest income and what happened in the various blocks of currency.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+Yes.
+Stuart Gulliver
+There's really there like an add to that. If you look at the overall, what I can actually say is this, if you look at the overall number of $979 million, which comes about on $25 million a quarter for a full year. Yes, so two things about it, that $979 million is a product of about $2 billion gain in Commercial Banking, and Retail Banking and Wealth Management, left about a $500 million negative in balance sheet management, and about a $500 million negative in Global Markets, which should itself be offset by $500 million improvement in trading income, because that's the financing of trading position. So that's how you get to the net of plus $1 billion.
+Clearly, if rates go up quicker, it's a higher number, and that's probably as much disclosure as I'm allowed to give at this moment. But the $979 million consists of $2 billion up in CMB and RBWM, minus $1 billion consisting of $0.5 billion in balance sheet management and $0.5 in market, but the $0.5 in market should itself be offset by a $0.5 gain coming through the mark-to-market lines of things like rates and credits.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+That is very helpful.
+Stuart Gulliver
+And then on the cost…
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+Plus…
+Stuart Gulliver
+Yes, in cost…
+Iain Mackay
+Certainly when you look at the step up in the compliance expenditure over the course of the last few quarters, I mean, if I just take the second-half of 2013 and the first-half of 2014, our compliance spend is at about $750 million to $800 million for the 12-month period. And that has stepped up around $150 million to $200 million compared to a year before that. So I think there is a continued investment within compliance. This is not – we don't believe it's an inexorable climb northwards for the next two to three years but certainly I think we continue to see whether it's the cost relating to the monitor, whether it's the cost relating to implementation of systems around financial crime, and whether it's the investments and training to support some of these compliance requirements.
+I don't think it's necessarily the case that we reached a normal stabilized run rate but we certainly been investing in this note for the better part of the last three years. And I think we're likely to see stability if not in the course of the next few months, certainly in the course of the next few quarters.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+And is there an opportunity in RBWM, the U.S. run-off portfolio, because there also the costs have gone up, as the portfolio winds down in next few years?
+Iain Mackay
+I'm sorry, say that again, please.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+So in the run-off portfolio in the U.S. is there an offsetting kind of cost opportunity there? Or is that a sticky cost base, at least for the next one year?
+Iain Mackay
+Well, no, I mean, as the portfolio runs off there's obviously the opportunity to pull that through from the cost base, from a servicing perspective. And actually as you've seen in the U.S. overall we've reduced the cost base very significantly quarter-over-quarter, half-over-half, and that is reflected both of the reshaping of the U.S. banking business, as well as the run-down of the consumer and mortgage lending portfolio.
+So as the revenue comes off, that is absolutely an opportunity and the team is realizing economies on the cost base. However, unfortunately there is a servicing requirement that is maintained even for a de minimis portfolio. So although the revenue is coming off at quite a good cliff, we are getting costs off.
+And a small snippet, for the first time in many years the finance company in the U.S. actually generated a profit for the first six months of the year.
+Chirantan Barua – Sanford C. Bernstein & Co., LLC
+Thank you.
+Stuart Gulliver
+So that does not mean we're going back into that business.
+Iain Mackay
+Yes, does not. Steam (inaudible) quite frankly.
+Stuart Gulliver
+Thanks very much. Next one, please.
+Operator
+Our next question today comes from the line of Chintan Joshi from Nomura. Your line is now open.
+Chintan Joshi – Nomura Securities Co. Ltd.
+Good morning. Can I have one and then a couple of follow-ups? On BoCom, clearly value-in-use has gone up to $14.6 billion, that's allowed you to book associated income. Can you explain why this number has gone up? It seem the conversation for this stage had – I didn't expect this number to move up but clearly there are things happening there?
+And also if BoCom was to issue say, preference shares or equity in a way that dilutes your stake, how would that impact your value-in-use calculation?
+The two follow-ups, shall I take them now or after the answer?
+Stuart Gulliver
+So why don't we give you the answer on BoCom first?
+Chintan Joshi – Nomura Securities Co. Ltd.
+Sure.
+Stuart Gulliver
+There's a lot of detail on the value-in-use, so I think in note 21 to the financial statements, Chintan, if you want to take a look at that, it sort of gives you some of the dynamics within the calculation. But value-in-use is not a static number, so we update this a quarter in arrear based on the financial performance of BoCom, based on other factors around gross assumptions like the discount rate, the loss rate, the terminal growth rate.
+But the thing that influences certainly over the first six months of this year, more significantly value-in-use is one, dividends received from BoCom, and two, the financial performance of BoCom over the presiding six months period. And we are on a 90-day lag in terms of access to detailed financial information about BoCom and how that's reflected in our financials.
+So as the carrying value moves, in our recognition of profits, dividends and so on, so forth from an accounting perspective, so the value-in-use is also impacted, it's not a one-for-one correlation but it is also impacted. So we'll continue on a quarterly basis to do a value-in-use analysis, compare that to the carrying value and at the point at which the carrying value overhauls the value-in-use that is the point at which we will no longer be recognizing in a gross basis, recognizing the income from BoCom on ongoing.
+Now, you may recall that, when we talked about this at the end of last year, we did say that we expected that overhaul to take place around the middle of the year, possibly in the second-half of the year, and that's still our best estimate of when that's likely to occur. But the VIU model is a dynamic model and there's more detail on this on page 255 in the financials if you want to sort of dig into detail on it, Chintan.
+Chintan Joshi – Nomura Securities Co. Ltd.
+Thanks, and if they issue pref-shares or equity, how do you think it impacts your kind of how you're gone for it?
+Stuart Gulliver
+Well, it dilutes our position, so that again would be reflected both in carrying value and in value-in-use.
+Chintan Joshi – Nomura Securities Co. Ltd.
+Understood. The follow-up was on the Asia outlook and costs. Could you – I mean, you talked about H2 outlook for Hong Kong being strong, I would presume you feel similarly about the broader Asian franchise. But also, if you could differentiate between retail versus wholesale there, if you feel there's a difference between the outlooks within the retail versus wholesale?
+And then costs, just following up, there's been a step up in the run rate excluding significant items. Just wondering what your thoughts are your – how we kind of rebased after many quarters of pretty good performance there? Are we moving up slightly on the run rate there? Thanks.
+Stuart Gulliver
+So I'll take the retail versus wholesale, and then talk on the costs. I don't think that's the way to look at it. I think the reality is that the outlook is determined by the shape or the way we will profit from the outlook is determined by the shape of our business in a particular country. So in places where we are both retail and wholesale, your question maybe valid, i.e., Hong Kong, but I think it will benefit Hong Kong across all of the customer group.
+In other countries we don’t have an equal split of PBT between the various customer groups. In a place like India, the majority of our PBT comes from our Global Banking and Markets business. So therefore, it isn’t relevant to say whether the GDP growth benefits retail or benefits wholesale or else GDP growth will manifest itself for Global Banking and Markets.
+So as I said, I think the honest – the flick-back to your answer is and you need to look at the shape of our business in the country and that’s where you will see those GDP growth numbers come through.
+Chintan Joshi – Nomura Securities Co. Ltd.
+Thanks.
+Douglas Flint
+I think, yes, I think on the cost front Chintan, I don’t really think we've per se seen a significant step up. There is a couple of items within the cost base for the first half, and obviously the financial – the Services Compensation Scheme of $121 million is a significant factor.
+The UK customer address charges are moving in the right direction for us, so I think there is further opportunity there. And certainly again, from a sustainable sales perspective we generated over $500 million. In the first-half of the year we've got a significant target set for the team in the second-half of the year and on an ongoing basis. So I don’t think at this stage we're ready at all to sort of give up in terms of the broad run rate that we've talked about within the cost base.
+And I think we saw some clearly some inflationary pressures and just a step up in investments in certainly the compliance space in the first-half of the year. And going back to one of the earlier answers that’s not an inexorable climb northwards in our view. It is investment that we are making now to create a stable basis for compliance capability across financial claim and regulatory compliance in the loan.
+Chintan Joshi – Nomura Securities Co. Ltd.
+Thanks again, that's encouraging. Thank you.
+Stuart Gulliver
+Yes. Thanks very much. Next one, please?
+Operator
+Our next question today comes from Alastair Ryan from the BoA. Your line is now open.
+Alastair Ryan – Bank of America Merrill Lynch
+Thank you. Good after noon and thank you for giving us Hong Kong back in the numbers and…
+Stuart Gulliver
+Absolutely.
+Alastair Ryan – Bank of America Merrill Lynch
+I might ask something, I probably won't get anywhere with, but I'll ask you anyway. So the 40 basis…
+Stuart Gulliver
+(inaudible).
+Alastair Ryan – Bank of America Merrill Lynch
+Thank you. 40 basis points sort of common equity Tier 1 in the quarter. Now, I'm – very much sympathize [ph] as everyone does on the call with the unpredictability of the Bank of England's demands, but you did give us some reasonable clarity in the Q1 numbers of that sort of probable requirement of around 10 points for – in the 10s for where you're going to be.
+The FPC said there's no countercyclical buffer for a long time to come, there's no sector capital add-ons coming. So you're well in place on the leverage ratio. How concrete could I invite you to be on the level of confidence of not keeping building that number and handing some of it back instead? Because it certainly feels like your opportunity to step up distributions one way or another would very much be there.
+Stuart Gulliver
+Yes, I think, Alastair, hopefully we provided some clarity around in the first quarter was Pillar 2A as opposed to anything else and of which 56% of that is covered within common equity Tier 1 and that represents the sort of 87 basis points, 90 basis points on top of the $950 million, and the $950 million is made up of the $4.5 million of common equity core – common equity Tier 1 base requirement plus the kind of a cyclical buffer plus the G-SIFI buffer.
+Now, not that kind of cyclical there, sorry, the capital conservation buffer, I'm glad you’ve heard there's no kind of cyclical buffer. We haven't heard about that recently. So we've obviously been missing something in that respect, there is not countercyclical buffer for the moment, but I don’t think they've definitively said, there is not going to be one.
+And I think the other thing which perhaps has been sort of and a little bit into the melting part in the course of the last few weeks is the consultation paper that's come out in the leverage ratio, which the variant that the PRA is at least consulting on is quite complicated. It seems to suggest the base leverage ratio plus various capital conservation and countercyclical add-ons and when Basel III proposes a base of 3% of though there is no discussion around calibration in this consultation, it does leave you wondering exactly what the leverage ratio is going to look like.
+Now sitting in that 4.3 leverage ratio under the present PRA definition, I do think we are in reasonably good shape. But the consultation could significantly further complicate that. So I think, look, from our position from a capital generative perspective, we are obviously confident about the ability of the operation to continue to generate capital to put us in a position to draw the dividend that we distribute to our shareholders and meet regulatory capital requirements.
+But I don’t think we should conclude for a moment that 10.4% is the endpoint in terms of where our regulators would expect us to be over the course of the next three to four years. Now, when you want to be a little bit more optimistic, I think we would like to see where we come out in the stress testing and hopefully at the end of the year based on what the PRA has learned from stress testing the UK banking as system will give us at least some clarity on Pillar 2, the PRA buffer and hopefully then it will give us a little bit more insight as to how they may think about sectoral capital requirements or for that matter countercyclical.
+But what they absolutely haven’t done is said, right chaps, you need to be a 12% or 12.5%. And if you get there, you can sort of call a halt and take it from there. That sort of clarity has not yet emerged, Alastair, and it would be helpful at least if we could get a better insight around interaction of these buffers as and when they're introduced.
+Alastair Ryan – Bank of America Merrill Lynch
+Okay. Thank you.
+Douglas Flint
+Thanks, Alastair. Next please?
+Operator
+Our next question today comes from Christopher Wheeler from Mediobanca. Your line is now open.
+Christopher Wheeler – Mediobanca Spa
+Yes, good morning, gentlemen. Three really quick questions. The first one is on the fixed income levy using Global Banking and Markets, which were up 32% quarter, year-on-year quarter in terms of the second quarter, which was a very, very strong performance.
+I just wondered how much of that was down to June where clearly last year was pretty awful, and how much was down to perhaps strength throughout the quarter, because as I said, it was a very good performance?
+The second question related to that really is we've heard the French banks in particular talk a lot in the last set of – or the last results season on their expansion into Asia, and I just wanted to get a flavor for you as to what you're seeing in global financing markets in particular – or Global Banking and Markets in terms of increased competition?
+And the final question is, an academic this morning has been quoted as saying HSBC is at the end of the tunnel of litigation, which I thought was quite optimistic. But I wondered if you could perhaps comment on where you think you are in that tunnel. Thanks very much.
+Stuart Gulliver
+So doing it in reverse, I also watched on Bloomberg TV, the same academic and I draw your attention to the note 25. Then on French bank, look, there is always competition. BMP are a very – and always have been a very strong competitor in Asia-Pacific. And they never really pulled away from the region.
+SocGen has started to come back into the region, but I wouldn’t describe the competition as anything that we haven’t always faced. I mean, we always had strong competition from Deutsche Bank, JPMorgan, Standard Charted, Citibank, the two French banks and from time to time regional players, whether Japanese, Mainland Chinese or the regional Asians. So I don’t see this as a landscape-change the impacts margins or volumes in any material away for us.
+That’s not an arrogant comment, that just reflecting the fact that this is an extremely competitive geographic area. Actually, every bank has noticed that the demographics and GDP growth of Asia are much bigger than those of Europe or America and is invested here, so there's kind of nothing new there.
+And then June was a good month for Global Banking and Markets, but I don’t think it particularly stands out in a way that suggests that April and May were particularly bad. I mean, but June was a strong month.
+Christopher Wheeler – Mediobanca Spa
+Thanks very much. Thank you.
+Stuart Gulliver
+Thank you. Next please?
+Operator
+Our next question today comes from Michael Helsby from Bank of America.
+Michael Helsby – Bank of America Merrill Lynch
+Yes. Good morning, gents. I've just got three quick questions, if I can. Firstly, on – it's actually linked, the first two, but your banking business, does say like you're reaching a bit of an inflection point in the second quarter, in q-o-q loan growth it was 4%. Can you tell us what the loan growth is in constant currency terms, please, just quarter-on-quarter?
+And a note in your Commercial Banking business, your trade finance revenue was up 8% q-o-q and your cash and payments revenue was up 7% q-o-q. Can you just comment around what's driving the reverse of those fortune, is it volume or is it I think as you indicated earlier, are we seeing some movements on margins quarter-on-quarter?
+And then finally, just a bit of a techie point, but the effective tax rate was quite a lot lower in the first-half. It was 16.4%, it was 26% in the first quarter. Can you just tell us what's drove the big change q-on-q? And can you give us an update on what your expected Group tax charge would be if you stop the accruing profits from BoCom? Thank you.
+Stuart Gulliver
+Okay. So I'll kick off on CMB trend. So total loans and advances increased by about $21 billion from the first-half of 2013, which is basically term lending, mainly in Asia and North America rather than trade related lending, which actually was broadly unchanged. And we've made a big push into North America, because we think there will be a renaissance in manufacturing as U.S. takes advantage of its energy and price.
+We've also pushed aggressively into Germany, where there is again significant growth in Commercial Banking revenues and also in China. So this city cluster strategy we're deploying in both the U.S. and in China and in Germany. So if you then dig into the Asian numbers, I mean, Hong Kong loans and advances to customers were up a 11% versus the first-half of 2013, again, mainly term lending. And spreads in Hong Kong were broadly unchanged, that’s about 8 billion extra there. And in the UK also we pushed further advances on there, although that actually has resulted in a more or less flat book, that’s quite a short book in the finances reasonably quickly.
+So it’s really at the moment, it’s volume led, not margin led, I mean we pushed aggressively. You often heard us talk about Commercial Banking as being the kind of flywheel in the watch or the jewel in the crown or the one that’s got the highest entry level barriers to replicate. And we've been investing in this area now for three, four years, and that’s starting to bear fruit.
+Michael Helsby – Bank of America Merrill Lynch
+Thank you.
+Stuart Gulliver
+On the tax charge Michael, couple of – first of all we'll do the BoCom things, the BoCom results are included in pre-tax profit on an after-tax basis. So any impact from non-accrual of BoCom results will have no real impact on the effective tax rate for the Group. And in the round, we would normally expect the effective tax rate to be sort of in the 21%, 22% range.
+Looking at the effective tax rate, what's driving effective tax rate both in the second quarter and for the first half of the year is really the effect for number of tax settlements, which we've reached in various jurisdictions at levels lower than that for which we were provided, and as a consequence of which we've had write-backs to the tax provision line.
+There is also the effect of a non-taxable – a couple of elements of non-taxable income part of which, for example, was the disposal of our Bank of Shanghai, which generated $428 million worth of gain, and that’s non-taxable income in the jurisdiction. So it’s really those two main factors, which are resulting in a lower effective tax rate in the first-half of the year and most of that occurred in the second quarter.
+Iain Mackay
+And, again, going back to the question on constant currency, the loans and advances in CMB are up 7% year-on-year and 5% year-to-date.
+Michael Helsby – Bank of America Merrill Lynch
+And have you got the quarter on – sorry, the quarter-on-quarter Group constant currency, so we can't really see that in the accounts.
+Iain Mackay
+No, it goes the year-over-year, so as – overall for the Group, it’s 4% constant currency.
+Michael Helsby – Bank of America Merrill Lynch
+Yes.
+Iain Mackay
+The puts and takes and also, there was quite a lot of movements in foreign exchange. Obviously, you saw the movement in sterling against the dollar, you saw the movement in Brazil, Argentina, Mexico. But in the round, the impact of foreign exchange on the results for the Group was actually very muted, both in terms of the P&L as well as balance sheet and capital. So it’s 4% year-over-year loans in a constant currency basis.
+Michael Helsby – Bank of America Merrill Lynch
+Okay. Thank you.
+Stuart Gulliver
+Thanks, Michael. Next please?
+Operator
+Our next question today comes from Rohith Chandra-Rajan from Barclays. Your line is now open.
+Rohith Chandra-Rajan – Barclays Capital Securities Ltd.
+Hi, thanks. Good morning. Just actually following up on the thing you've just been discussing on CMB loan growth. You mentioned 5% year-to-date. Just wondering to what degree that sort of reflects your already more positive expectations for the outlook. So were you writing business in the first-half on the expectation of a more positive outlook in the second-half of the year, or is there any chance you might expect that 5% in the first-half to pick up in the second-half? Particularly in Asia, you've talked about the US also, but also curious actually given the UK book was flat whether you're seeing some pickup in demand in the UK.
+And then also on CMB, just the 36 basis points impairment charge in the first-half, your view on the sustainability of that, at least in the near-term?
+Stuart Gulliver
+Well, actually we obviously picked up the amount of business we are doing in anticipation of improving economic conditions, yes. So, we added to the book in Hong Kong in U.S. and Germany and China, where we saw again revenues growing. Actually revenues in the UK actually were up 6% although the book was flat. And yes, all of this is done is on anticipation that certainly GDP is not going to fall back with from where we've seen it.
+And as a deliberate push and to take advantage of the fact that we do think that we have, for international clients, opportunities to grow market share. And you will see particularly with the U.S., Germany and China, some early signs of us executing on this city cluster strategy that you probably heard us talk about before, which is essentially saying, in certain countries you do not need to have nationwide coverage of all of the country. What you need to do is to identify those city clusters which have very rich veins of revenue that map to your particular strength which is in our case export and import running cross-border.
+So if you analyze that, you come up with tens of clusters in Brazil, a similar sort of number in India or similar sort of number in Germany, which represents 70% or 80% to the addressable GDP wallet. And that’s what we started to do with CMB and it’s starting to sort of pay dividends.
+Rohith Chandra-Rajan – Barclays Capital Securities Ltd.
+Okay. Thank you. And just on the sustainability, the credit quality performance?
+Stuart Gulliver
+Yes, I see, we are not seeing any signs of deterioration, I mean, remember the LICs are a direct result of a de-risking that we started at the beginning of 2011. So this is not accidental, this is what we did with we – and part of this, this is the reason why the revenues are being subdued, it’s clearly, if you lend people that narrow a spread, you make less revenue, but hopefully you actually get a better risk adjusted return, because your LICs are lower.
+And we are pretty vigilant on this as you would imagine, and at the moment there are no warning spots around that we can see.
+Rohith Chandra-Rajan – Barclays Capital Securities Ltd.
+Okay, that's great. Thank you very much.
+Unidentified Company Representative
+Thanks very much. Next, please?
+Operator
+Our next question today comes from Tom Rayner from Exane BNP Paribas. Your line is now open.
+Tom Rayner – BNP Paribas Securities
+Good morning, everyone. I'm just going to ask as well on the impairments I know what you just said Stuart reflecting the de-risking, can you – is there anymore color and I'm sure when I have waited through this large document that will be information in here on releases versus closed charge et cetera, but I don't know, whether Iain can give us any color on how that sort of charge has broken down to get a sense of how big maybe releases are being where they are coming from a geographic flavor, is there anything you could add on the comments about them being a sustainable improvement?
+Iain Mackay
+Yes, absolutely. I mean, if you look at the UK and the Middle East, that’s where we've seen the most significant write-backs from the loan provisioning perspective. The Middle East in reflection to some of the restructuring that was done in 2010 and 2011 to large names in that region, we've seen that come back. So an actual fact, for the region we've got a net release on the loan impairment charge line at least North Africa.
+And in the UK on improving economic conditions particularly within the commercial banking book, again loan impairment charges are down very significantly within that space with a number of releases coming through restructured position.
+So in the round, where you saw improvements across the business, the UK – Europe and the UK in particular drove the biggest improvement forward by Latin America and that’s really a story of lower charges for loan impairment principally through having addressed restructuring requirements in the Brazilian book of business last year and the fact that from a house-builders or homebuilders perspective where we took significant provision in Mexico last year that is very much less the feature in the first-half of this year.
+And then last but by no means least, again, our U.S. run-off portfolio, the CML portfolio continues to contribute. Now if you want to get a blow by blow on the charge versus the write-back, if you go to page 135 in the interim report Tom, that will give you all the detail you want by region, okay?
+Tom Rayner – BNP Paribas Securities
+Okay, I have a look at that. I don’t suppose I could tempt you, I mean, some of your peers give a sort of estimated range on where they think the impairment charge might be going sort of 12 months out, some even further. Can I tempt you on that at all? I mean, the 36 basis points, in the first-half, clearly does look like a big step down and I hear what you guys are saying.
+I mean, are you comfortable that we might stay within a range of around 36 basis points or do you think that does feel a little bit low?
+Stuart Gulliver
+Well, I get it miserably wrong in the first quarter when I suggested around 40 basis points, so I'm disinclined to guess again in that case, Tom.
+Tom Rayner – BNP Paribas Securities
+Yes, okay, fair enough. Thank you.
+Stuart Gulliver
+Thank you. Next, please.
+Operator
+Our next question today comes from John-Paul Crutchley from UBS. Your line is now open.
+John-Paul Crutchley – UBS Ltd.
+(inaudible) here. Two quick questions, if I can and maybe firstly sticking with that theme of impairment. But the thing that actually slightly strikes me with impairment charges is actually the relatively high proportion of a charge which relates to the retail book in LATAM, given the size of that business relative to the rest of the Group.
+And I just wondered, I mean, is that a business that's going through a repositioning? Is it particular cohorts or part of lending that are working their way through the system? Just trying to understand why that charge is somewhat out of kilter with elsewhere and how that should play out over time, that was the first.
+The second question was actually more strategically about the private banking business where clearly that business has been impacted by some of the disposals, et cetera you've made. But I guess when you look at it in a group context now, it increasingly almost looks like a rounding in the context of the other global businesses, and not really large enough, I guess, to either change people's perceptions of either your growth rate or the rating that should be applied to your earnings. And I just wondered in terms of obviously still breaking it out how you perceive that business over the longer term.
+Do you think it could be a more reasonable contributor in time, or might it be time to actually fold it back in with actually what are three very substantial global divisions? Thank you.
+Stuart Gulliver
+Sure, and that's a good question on the private bank. I'll take that one and Iain can talk about the changes in Latin America that have resulted in the slightly higher LICs at this point in time. So, you're right, the state of development the result at the moment, leaves us with four global businesses. One of which is 2% or 3% of the global PBT of the group.
+But actually, I see the private bank as being a core part of frankly the value proposition of HSBC. But the fact that matter is we bought this private bank Republic National Bank of New York back in 2002 whenever we bought it, which ended up with a client base that didn't foot to the natural geographic footprint of HSBC. And actually in many, many ways, actually we bought it apparently in 1999, so I'm being told.
+And it actually had a client base that had no relevance to a large part of HSBC, whereas I think a private bank should consist mainly of the self-employed business owners that we bank in Commercial Banking and C-suite of the Global Banking and Markets' clients. So it should be the guy who or lady who builds up their own business, either does a trade sale or an IPO that creates a wealth event, then you got your AML and KYC done, because you bank them for years, or it should be Chairman, Chief Executive the C-suite of the Global Banking and Markets' clients.
+And to be honest, that was the private banking business of HSBC in Asia, that's exactly what the private bank in Singapore and Hong Kong has done throughout its history. So its clients are the tycoons of Hong Kong, right back to the days when they were actually frankly small SMEs. So, what we're doing is repositioning that private bank and the sale of the portfolio to LGT, $12 billion AUM, the $12 billion of AUM of clients from countries in which we don't have operations or represents therefore clients that we can't get comfortable from a global standards point of view simply because they're not able to do the due diligence.
+So, as that part is through, I'm confident that we can rebuild the private banking business back to one that may exert $1 billion to $1.5 billion PBT per annum. And I think that we would for the time being want to keep it as the separate group, because I think it's important to the retention of top quality private bankers that we don't subsume it within a retail banking business, because clearly the nature of the client base and therefore by definition the nature of the staff is quite different.
+So I still think we can get this back and in fact, I don't think we can get it back, we will get it back to a $1 billion to a $1.5 billion type of annual PBT and I do think that there is a logic in having it managed as a discrete business, because I think the nature of the business requires that separate oxygen, that separate culture.
+So what you're really looking at is a point of restructuring of the business that frankly became unrelated to the HSBC group and the great thing in the first-half is that we got $5 billion of AUM into the private bank, most of which came from referrals from Commercial Banking and Global Banking and Markets. The referrals from Commercial Banking were about three times what they were at any other previous point in the history and the referrals from Global Banking and Markets, I think beat history by a significant amount because there simply haven't been any.
+So we're starting basically to try and play an integration of it within the group without having it folded into Retail Banking and Wealth Management, otherwise it's got to be part of HSBC but have a distinct life as a global business and I do think it will get back to being a $1.5 billion type of profit contributor.
+John-Paul Crutchley – UBS Ltd.
+Okay. That's helpful very much. Thanks a lot, and on impairment in LATAM?
+Stuart Gulliver
+I see, I thought that was such a good long answer that you completely forget about the impairment charges and I want to – yes, we were playing for time.
+John-Paul Crutchley – UBS Ltd.
+Yes, (inaudible).
+Stuart Gulliver
+So, look, JP, when you look at Latin America, there are couple of factors and you saw most of this come through last year and this really goes way back to our origins in 2012, when we saw a bit of a stress coming through, particularly the Retail Bank Wealth Management, and then within Commercial Banking, principally within Business Banking which is at the lower end of the SME sector within Brazil and largely before some of the repositioning had taken place in some of these businesses.
+So, we – you'll recall what we saw, I need to restructure some accounts and as we did that when we looked at the restructuring, the methodology for loan impairment charges against that restructuring in early 2013 it was clear that we didn't have a consistent application group policy with respect to that.
+So in 2013, both the first and second-half of last year we adjusted the methodology for the restructured account within the Brazilian business and that was certainly withdraw a very significant part of the staff up and loan impairment charges within Brazil last year. And then this year as we completed the review of our models around the loan impairment charging in Latin America we've addressed the requirements for the un-restructured book of business and that's added about $70 million to the charge in the first-half of the year.
+Within Mexico, last year, again was largely featured, was a feature of the commercial banking business with high loan impairment charges to city home builders to which we were exposed, on the change of housing policy in that marketplace. And in the round, what we do tend to experience and you can factor this back many, many quarters, is just a higher incidence of loan impairment charges within the Latin American business where interest rates do tend to run at a much higher rate and the delinquencies that come through retail bank wealth management are as a consequence is higher.
+But I think in the round if you look at the loan impairment charge make up for the group we've got 10 countries which represent about a $119 billion to your $11 billion of our gross loans and advances to customers outstanding, but those 10 countries represent about 62% of the overall loan impairment charge for the group and Brazil and Mexico feature sort of number one and number two in that league table.
+John-Paul Crutchley – UBS Ltd.
+Okay. That's very helpful, thanks, so on both answers. Thank you.
+Stuart Gulliver
+Thank you. Next, please.
+Operator
+Our next question today comes from Mike Trippitt from Numis Securities. Your line is now open.
+Mike Trippitt – Numis Securities
+Thanks, good morning.
+Stuart Gulliver
+Good morning.
+Mike Trippitt – Numis Securities
+Just some – a couple of questions around the UK business. Stuart, you talked about in your outlook the – potential for a Q4 great rise. I just wondered, if you could so give a view as to how that plays out in terms of margin benefit versus credit risk, in one area.
+The second is just I mean related to that is another PPI charge coming through, but a much bigger Consumer Credit Act charge or provision being made. If you could just talk around sort of still a continued conduct litigation risk and maybe if I can invite Douglas, who gave some pretty robust comment I think in this Chairman's comment on regulation as to how you think ring-fencing will play out in the UK.
+Stuart Gulliver
+So, do you want to start?
+Douglas Flint
+I mean, clearly there's still a lot of definition being done with the – sorry, in terms the shape of the ring-fencing but I think the comments that we've been making to public policy makers is that it's a huge commitment of resource, technology, operations and people. Over the next couple of years it was going to be fully prepared and tested before the deadlines in 2019.
+And so to try and do that in the context of an ongoing competition review, which will take the same people in terms of inputting data to that review which could come up with further structural changes is actually very challenging, I mean, you wouldn’t try and do a reorganization when the thing was under review at the same time, so that’s one of the points.
+I mean, I think I throw into that too the uncertainties that continue to exist in Europe in terms of structural reform which might come out of the follow-up to look in this proposals. So there is quite a lot of uncertainty and that’s one of the comments that we are making.
+The broader comment was that simply when you add up the competition review, the wholesale market review having to do as Iain said in an earlier question four or five different versions of stress tests on top of resolution planning and just the business as usual regulatory reform, the aggregate strain is really getting quite marked, and we were trying to make that point and that could hear this way, and I hope it’s received not as a compliant, but just as a statement of fact how we are having to deal with it.
+Unidentified Company Representative
+So if you look at the various top-ups here, we topped up £60 million for the PPI division, and that gives us 30 months coverage. So there is nothing I can really say about a forward outlook on this, we'll top it up every quarter as we see what the predicted behaviors.
+Iain Mackay
+I mean, certainly when you compare what we've taken over the first two quarters of this year and compare to the same two quarters last year, the charge is down significantly. Incoming claims have been generally in a downward trend, it would be good if they were in a much faster downward trend, but they generally have been in a downward trend. And we adjust the reserve on a quarterly basis really informed by the number of claims we see coming through the door.
+Uphold rates are reasonably consistent, but certainly the claims coming through the door is beginning to drop off and has been there for a number of – for a couple of quarters. So hopefully, we're getting the worst of this behind this. But we do – I think it’s mission impossible to take one view of this and say we've got obviously got it covered, but as to Stuart's point, we've got about 31 months of coverage on the PPI.
+Stuart Gulliver
+So on the Consumer Credit Act as you're aware Mike, is a very complex piece of legislation. And it would appear that we should have reminded our customers on their annual statements that they had rights to partially repay their loans. Now, their loan documentation when they do down the loan, so the contract that evidence is the debt, specifically says that they can repay their loans in part. But we are required by the Act to remind them in the statement. We did not remind them in the statement.
+And therefore we – and although we do not believe any customer suffered a detriment as a result, indeed actually quite a large part of the book was partially repaying. We nevertheless as a result of that statute now have the requirement to put aside certain of that interest. So that’s a direct result of the Consumer Credit Act in the UK.
+Mike Trippitt – Numis Securities
+Okay.
+Stuart Gulliver
+And then on your question on margin versus bad debt, or what happens when interest rates go up? So the logic is the way kind of it plays through should be. We will make slightly less money in Global Banking and Markets, because balance sheet management will be impacted negatively by rising rate. There will be a small negative in terms of the funding of trading positions, which should be offset by a mark-to-market gain in the Markets P&L and rising credit, and then the big benefits will be in Commercial Banking, Retail Banking, Wealth Management, which have the big deposit basis.
+So on the other side, what we see in larger bad debt, I mean, clearly we are lending on the basis that rates will go higher. You may remember that we started stressing new mortgages at 7% way before the Bank of England requires that to be done. In fact, from the very point where there was a big push to rebuild the mortgage book, we were only lending to people on the basis that the loan was still affordable for them at an interest rate of 7%, not where they were currently lending. So I think on balance that higher interest rates will benefit HSBC.
+Mike Trippitt – Numis Securities
+Sure. And just to come back on the Consumer Credit Act in as far as you can say. This is a sort of – this is – that provision seals it, does it? This is not a sort of now a sort of creeping situation where there could be a creeping charge you've dealt with the issue?
+Stuart Gulliver
+That provision covers the portfolio of loans which is subject to that particular piece of legislation.
+Iain Mackay
+That’s the entirety of that particular part of the Consumer Credit Act.
+Mike Trippitt – Numis Securities
+Okay, great, thanks.
+Stuart Gulliver
+Yes. So we have time for two more – two more operator.
+Operator
+Thank you. Our next question today comes from Ronit Ghose from Citigroup. Your line is now open.
+Ronit Ghose – Citigroup Global Markets Ltd.
+Great. Thank you for the question. Just quickly on BoCom to follow-up. I'm looking at the notes. It looks like at the end of the first-half, the value in use is about $5 billion more than the market value. And if I look at it today, it's more like on the $4 billion. Is there – I'm just wondering, is there any kind of feedback loop from the market price when you think about how you do the value in use at least in terms of the assumptions, because you're still valuing it at quite a long way above the market value?
+My second question is just a follow-up on Douglas's comments about obviously the pressure from regulation. On Slide 15 of your deck, you give us a very helpful number on the number of staff you have in risk and compliance. How many of that risk and compliance staff, the 24,000, would be which I'd consider business as usual risk, as in sort of credit risk, market risk, or how much of this is really linked to compliance, financial crime, et cetera, sort of really kind of stuff has been imposed on you since the global financial crisis?
+And my final question is, I'm just looking at LATAM, and just feeding back to your earlier comments, Iain, about loan losses, and I'm just trying to work out kind of some of the deltas from here, because Q2 obviously, the result is very depressed vis-à-vis, I guess your expectation, at least market expectations. So we're looking at what is a double-digit number in profit terms in Q2. So to get it back to something more respectable, I'm wondering what levers you expect to pull, or expect to see happen externally or internally.
+Iain Mackay
+You want me to take BoCom first?
+Stuart Gulliver
+Yes.
+Iain Mackay
+So the starting reference point for the valuation test around BoCom is by reference to the market value compared to the carrying value. And when you then sort of go into the next phase of evaluating it from a value in use perspective is when there has been a prolonged period of the market value being considered – being below carrying value.
+So that that’s really what sort of takes you through the valuation, the accounting evaluation process of, that is, there is a possibility of impairment here, because market value is below carrying value and has been for a sustainable period of time, which indicates of BoCom, it has been now about 24 months or so with, I think the exception of one short period in 2013, when the market value has been below carrying value.
+And – but there isn’t apart from that there isn’t a direct feedback loop from the market value into value in use. Value in use is informed by the profitability of BoCom, the prospects for growth of that business, this – it’s basically a long-term discounted cash flow model and really then all the assumptions that you would expect to build into that discounted cash flow model informed by the profitability and the performance and the growth prospects for BoCom, that's what informs value in use.
+Stuart Gulliver
+So on Latin America as you can imagine, there is a lot of work going on through restructure both the Brazilian and the Mexican operations. First of all, we needed to restructure actually get them to Group standards in terms of impairments where they dealt with model in respect of impairments and accounting treatment, secondly, to de-risk the business in line with the global standard, and then the third stage would be to rebuild that business addressing – an addressable client base that were comfortable within Global Banking Market in CMB and in RBWM. And that will take some time to do, but we are tracking towards that. So there aren’t – there is not a cookie-cutter couple of levers that I can honestly point to, but they are in the process of a significant restructuring.
+Douglas Flint
+And your last point which was around head count focused on compliance. Of the overall risk and compliance head count of about 24,000, we have more than 6,000, which is dedicated compliance. And comparing that number to the first quarter of 2013, we've added more than 2,000 people, again, focused in the areas of regulatory and financial crime compliance.
+Over that period of time, so there has been a very significant step up both in terms of investments in ongoing spend with respect to compliance over the course of the last couple of years.
+Iain Mackay
+We've got now about 6,300 people in compliance compared to 4,164 at the end of the first quarter 2013.
+Ronit Ghose – Citigroup Global Markets Ltd.
+Great. Thanks for that. It's really useful. The growth business compliance?
+Stuart Gulliver
+It’s a very big area, yes. Makes much more money than in equities, I would imagine.
+Ronit Ghose – Citigroup Global Markets Ltd.
+Oh, absolutely. I made a wrong career decision 10 years ago.
+Stuart Gulliver
+Thanks very much. Next one and last one please?
+Operator
+Thank you, Mr. Gulliver. We will take our last question today from Sandy Chen from Cenkos. Your line is now open.
+Sandy Chen – Cenkos Securities
+Thanks very much. I'll keep it brief as well and not be a glutton for punishment, but thanks for the additional disclosure on repos on page 154. And I just wanted to ask if you could talk a bit more about the non – the growth in non-trading reverse repos, and does that represent a change in customer strategy, who are these sold to? Is it – and are they still booked with GBM? And also kind of just the dynamics of that, the effect on net interest income, trading income, maybe the RWAs and capital calculations, and how that business kind of compares with others? I would have thought that many of the sort of more IB-weighted banks that don't have as strong an A/D ratio as yours would be cutting back on this kind of business, and that might be a good competitive advantage for you.
+Stuart Gulliver
+If you go back and look at the change in methodology that that Samir and the team took to repo, reverse repo book. One of the reasons that we provided a great detail more disclosure is that, we have different accounting treatment based on the purpose for which the repos are used. So we've got a proportion that sits within the trading portfolio of Global Banking and Markets and part of repo, reverse repo, which is non-trading and it sites under loans and advances and customer deposits.
+And there is obviously an adverse effect overall in net interest margin, because obviously repo, reverse repo activity is at much, much narrower margins, and that has an adverse effect overall on Group NIM. But I think in terms of strategically the approach to running a – the purpose for which we do repo, reverse repo actually has not changed.
+Sandy Chen – Cenkos Securities
+Okay. And in terms of any, I mean, is it – potentially is it a decent opportunity to sort of grow – I mean, the NIM might come under a bit of pressure, but actually, it's a decent source of interest-earning asset growth, relatively low risk.
+Iain Mackay
+It's a reasonable source, Sandy, but it's going to be constrained by the leverage ratio. So the ultimate constraint on it will be the leverage ratio. And clearly, we will always want to run with a conservative leverage ratio, because it’s kind of part and parcel of the whole mindset here.
+Stuart Gulliver
+But you're right, up until the constraint of the leverage ratio, we have greater capacity than others do.
+Sandy Chen – Cenkos Securities
+Okay. Thanks very much
+Stuart Gulliver
+Thank you. Thanks very much. Thank you, operator. That brings the session to an end.
+Operator
+Thank you, ladies and gentlemen. That concludes the HSBC Holdings Plc 2014 interim results call. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

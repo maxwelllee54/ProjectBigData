@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa45e26e-2ca6-4460-acfa-f662dd1c9c62" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/output/RIOQ4 2016 Earnings Conference Call.txt" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data_processing.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stock_process.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stock_volatility.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/transcripts_crawler_v2.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/dr_lookup.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/goog_1min_5d.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/link_data.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/old_data/~$JPM.xlsx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler2.ipynb" afterPath="$PROJECT_DIR$/crawler2.ipynb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/crawler3.ipynb" afterPath="$PROJECT_DIR$/crawler3.ipynb" />
@@ -22,48 +31,35 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="newTranscripts.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newTranscripts.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transcripts_crawler.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="transcripts_crawler.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
+      <file leaf-file-name="transcripts_crawler_v2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/transcripts_crawler_v2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="1648">
+              <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+              <folding>
+                <element signature="e#386#415#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crawler2.ipynb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawler2.ipynb">
+      <file leaf-file-name="stock_process.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock_process.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="0" />
+              <selected id="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="crawler3.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crawler3.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
+      <file leaf-file-name="stock_volatility.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stock_volatility.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -93,19 +89,24 @@
         <option value="$PROJECT_DIR$/realself_crawler.py" />
         <option value="$PROJECT_DIR$/data.csv" />
         <option value="$PROJECT_DIR$/crawler.ipynb" />
-        <option value="$PROJECT_DIR$/newTranscripts.ipynb" />
         <option value="$PROJECT_DIR$/data_process.ipynb" />
         <option value="$PROJECT_DIR$/transcripts_crawler.py" />
         <option value="$PROJECT_DIR$/transcripts_crawler.ipynb" />
-        <option value="$PROJECT_DIR$/crawler2.ipynb" />
+        <option value="$PROJECT_DIR$/newTranscripts.ipynb" />
+        <option value="$PROJECT_DIR$/transcripts_crawler_v2.py" />
         <option value="$PROJECT_DIR$/crawler3.ipynb" />
+        <option value="$PROJECT_DIR$/crawler2.ipynb" />
+        <option value="$PROJECT_DIR$/data_processing.ipynb" />
+        <option value="$PROJECT_DIR$/stock_volatility.py" />
+        <option value="$PROJECT_DIR$/stock_process.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
-    <option name="width" value="1440" />
-    <option name="height" value="831" />
+    <option name="x" value="4" />
+    <option name="y" value="23" />
+    <option name="width" value="2044" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,31 +124,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project4Yim" />
+              <option name="myItemId" value="ProjectBigData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project4Yim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project4Yim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project4Yim" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="output" />
+              <option name="myItemId" value="ProjectBigData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -155,24 +142,7 @@
       </pane>
     </panes>
   </component>
-  <component name="RunManager" selected="Python.transcripts_crawler">
-    <configuration default="false" name="ShiyunLiuLab1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Project4Yim" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ShiyunLiuLab1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.transcripts_crawler_v2">
     <configuration default="false" name="ShiyunLiuHomework1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,6 +207,23 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Project4Yim" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transcripts_crawler.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="transcripts_crawler_v2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Project4Yim" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/transcripts_crawler_v2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -376,19 +363,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ShiyunLiuLab1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.ShiyunLiuHomework1" />
-      <item index="2" class="java.lang.String" itemvalue="Python.DataMerger" />
-      <item index="3" class="java.lang.String" itemvalue="Python.realself_crawler" />
-      <item index="4" class="java.lang.String" itemvalue="Python.transcripts_crawler" />
+      <item index="0" class="java.lang.String" itemvalue="Python.ShiyunLiuHomework1" />
+      <item index="1" class="java.lang.String" itemvalue="Python.DataMerger" />
+      <item index="2" class="java.lang.String" itemvalue="Python.realself_crawler" />
+      <item index="3" class="java.lang.String" itemvalue="Python.transcripts_crawler" />
+      <item index="4" class="java.lang.String" itemvalue="Python.transcripts_crawler_v2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.transcripts_crawler" />
-        <item index="1" class="java.lang.String" itemvalue="Python.realself_crawler" />
-        <item index="2" class="java.lang.String" itemvalue="Python.DataMerger" />
-        <item index="3" class="java.lang.String" itemvalue="Python.ShiyunLiuHomework1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ShiyunLiuLab1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.transcripts_crawler_v2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.transcripts_crawler" />
+        <item index="2" class="java.lang.String" itemvalue="Python.realself_crawler" />
+        <item index="3" class="java.lang.String" itemvalue="Python.DataMerger" />
+        <item index="4" class="java.lang.String" itemvalue="Python.ShiyunLiuHomework1" />
       </list>
     </recent_temporary>
   </component>
@@ -419,15 +406,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="831" extended-state="6" />
-    <editor active="false" />
+    <frame x="4" y="23" width="2044" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.128522" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32882273" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32611638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42895806" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34549356" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29613733" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -449,161 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="4" lean-forward="true" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newTranscripts.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realself_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="56" column="53" lean-forward="false" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realself_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/realself_crawler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="47" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="-1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -615,9 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,13 +499,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goog_1min_5d.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11520">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/goog_1min_5d.csv" />
     <entry file="file://$PROJECT_DIR$/good_1min_5d.csv" />
     <entry file="file://$PROJECT_DIR$/goog_1min_5y.csv" />
     <entry file="file://$PROJECT_DIR$/ShiyunLiuHomework1.py">
@@ -721,13 +544,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data.csv" />
     <entry file="file://$PROJECT_DIR$/output.csv" />
     <entry file="file://$PROJECT_DIR$/crawler.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
@@ -743,10 +560,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ticker_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/RIOQ4 2016 Earnings Conference Call.txt" />
+    <entry file="file://$PROJECT_DIR$/output/RIOQ4_2016_Earnings_Conference_Call.txt" />
+    <entry file="file://$PROJECT_DIR$/output/RIO_2011_Earnings_Call.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/F_End_Time:_15:48.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/F_Morgan_Stanley_Laguna_Conference_Call.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/link_data.csv" />
+    <entry file="file://$PROJECT_DIR$/output/F_57th_Annual_Meeting_of_Shareholders.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3090">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/F_2014_Barclays_Global_Automotive_Conference.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1954">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/F_2016_Investor_Day_Conference.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3106">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="131" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_data.csv" />
     <entry file="file://$PROJECT_DIR$/transcripts_crawler.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="0" />
+          <selected id="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_new/JPM-Q4-2016.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="32" />
         </state>
       </provider>
     </entry>
@@ -757,51 +641,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/transcripts_crawler.py">
+    <entry file="file://$PROJECT_DIR$/JPM_data.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="48">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="80" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="80" />
-          <folding>
-            <element signature="e#0#29#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ticker_list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output/RIOQ4 2016 Earnings Conference Call.txt">
+    <entry file="file://$PROJECT_DIR$/RIO_data.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/output/RIOQ4_2016_Earnings_Conference_Call.txt">
+    <entry file="file://$PROJECT_DIR$/AAPL_data.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2140">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawler2.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
+        <state relative-caret-position="16">
+          <caret line="1" column="163" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="163" />
         </state>
       </provider>
     </entry>
@@ -809,6 +666,85 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_output/RIO_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_output/XOM_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-332">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/all_output/MO_data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/transcripts_crawler_v2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1648">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding>
+            <element signature="e#386#415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/big data/transcipts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="30" column="49" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_processing.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_process.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="20" lean-forward="true" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#98#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_process.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stock_volatility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="30" column="46" lean-forward="false" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

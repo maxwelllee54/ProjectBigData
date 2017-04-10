@@ -1,0 +1,160 @@
+General Electric Company (NYSE:GE)
+RBC Capital Markets Global Industrials Conference Call
+September 8, 2016 11:00 AM ET
+Executives
+Joe Mastrangelo - Vice President, Gas Power Systems
+Analysts
+Deane Dray - RBC Capital Markets
+Deane Dray
+Good morning, everyone. I’d like to get started with day two of the RBC Industrials Conference. I’m Deane Dray, senior analyst covering the multi-industry sector. We are delighted to have GE presenting this morning. With us today is Joe Mastrangelo, he is President and CEO of GE Gas and Power Systems. And by way of background, Joe was previously the CEO of Power Conversion at GE and also spent 10 years in GE Oil & Gas.
+Our focus today is obviously on the gas turbine business. And you got put in the spotlight in the first quarter earnings call where you gave an update on the business. I’d love to follow-up on that and really specifically on the HA turbine launch, where that stands, the commitments that you made in terms of units to be shipped and so forth.
+Joe Mastrangelo
+So, thanks, Deane, and thanks for the time this morning. As it relates back to the HA, it’s one of the things that I’m most proud of that the team is accomplishing. So we committed in the first quarter to deliver 24 units this year, we’re on track to deliver 24 units.
+The orders for the machines continue to be strong for us. If you look at the projects won in the first six months of 2016. So these are projects bid and awarded in 2016, we’ve won 65% of the orders that are out in the marketplace. And at the same time from the quality and performance of the technology, at the end of – in middle of June we announced a world record for combined cycle efficiency driven by the H turbine with EDF in France, where we achieved 62.22% efficiency first combined cycle plant in the history of the industry to go above 62%.
+So it’s something that the team has done a lot of work on and continues to deliver and continues to win in the marketplace, we’re very proud of it.
+Deane Dray
+And just in terms of the economics, where you’re on the learning curve and the cost takeouts, and the inflection point break-even?
+Joe Mastrangelo
+Yes, so we’re now going into positive margin on the units that we’re shipping in the second-half of the year and we’ll be positive margin for total year on the 24 units that are shipping this year. And if you look at the cost curve for that machine, the 10th unit that we’re shipping is the equivalent of the 1,000 unit of the F technology. So that the team has done a tremendous job of taking the cost down on that machine, where this was a focused effort of working across our supply base to continue to drive cost out.
+And I think, one of the things that’s made it so productive for us has been the way that we run the factory in Greenville. And this is one where I’ll give a plug to the work that John Lammas and the engineering team is doing, where the digital thread and running Predix and going from a – an engineering model out onto the shop floor digitally out onto a test stand is allowing us to drive performance and cost out of the machine. So it’s going really well.
+Deane Dray
+And might transition into the market overall for a second puts this in the context of market share in the H-class, market share overall for GE?
+Joe Mastrangelo
+So when you look at the H, two years ago, we were single-digit. We were below 10%. Today, we’re approaching 40% share of the H turbine sold. We made – it’s a new turbine, so we’ve had to continue to get adoption in the marketplace and as you see we’re winning deals. And we just announced this week an agreement with CFE in Mexico, which is one of the last markets, where the H – we were not – we weren’t allowed to bid the H because of the operating history, but CFE has approved us now to go into that market.
+So we continue to see share gains and good performance. When you look at overall share, the first-half of the year, we were 32% global share in McCoy. And again, in that 32%, you’ve got a big deal that was won by Siemens in Egypt a year ago that they put into McCoy this year. You take out that deal, which was from a year ago and we’re at 42%.
+So we’re running in the range total share between 40% and 45%. And I think this is something that you’ve got to look at, because it is a lumpy marketplace. So when you smooth that out, in general, GE equipment is around a 40% share in the marketplace.
+Deane Dray
+And so you touched on the global share about the some of the competitive dynamics and maybe start in China, because we get questions there, is that some of the combinations Harbin, Shanghai Electric with Ansaldo…
+Joe Mastrangelo
+Yes.
+Deane Dray
+…and how they pose a threat?
+Joe Mastrangelo
+Look, the – we have longstanding partnerships with Harbin and Nanjing. Harbin, we do the large F-class and E-class turbines in Nanjing we do the smaller turbines with. We – we’re seeing double-digit growth this year in China, which is good. So I think China is getting ready for a growth spurt in gas, I think, as we go forward. I think you look they’ve got gas availability coming in from LNG and from pipelines.
+The combination of Ansaldo and Shanghai. Ansaldo, when you look globally, they have de minimis share in the global market. In China, they’ve achieved 40% share because of the partnership with Shanghai Electric. So I think the message that that delivers to me as a business leader is, we’ve got to strengthen the partnerships and the technology we have in China, because they want Chinese technology, if you will, and manufacturing in China.
+So that’s where our partnerships come in and we’ll continue to develop that over time. But I do think, not sure, it will be in 2017, but towards the back-end of 2017, beginning of 2018, I think, we’ll see strong growth coming again from China when you look at the indicators.
+Deane Dray
+And how about other competitors, Siemens? And in the context of your answer, maybe help investors frame when we’ll get headlines about some performance efficiencies. And how do you weigh those, how do you consider them, and just frame for us, how those play out?
+Joe Mastrangelo
+Yes, so when you think about performance efficiency, we’ve made it clear that we are on a path to get the H turbine to 65% combined cycle efficiency. We want to come in the beginning of next year and break the threshold of 63% be the first to 63%. So it’s an area that we’re investing on and I think it’s a critical reason why we win in the marketplace.
+When you look at the – it’s a competitive market. I think although we talk about the H and H is the fastest growing segment. It’s still only 40% of the total order, so there’s a whole another portfolio of technologies out there that we’ve got to go after. And if you look at those technologies for machines, one in the first-half of the year, we won the most turbines sold in the first-half of the year, which means our low megawatt range is strong as well and we continue to invest.
+I think when I’m excited about as we compete is bringing in the Alstom technology. So we’ve always talked about this business and a lot of us talk about the business thinking strictly of the gas turbine, and that’s important. It’s the heart – and truly it’s the heart of the plant, but customers really are buying megawatts onto the grid.
+And with Alstom coming in, we have the chance to improve the capability to bring megawatts on the grid. And I think with our capability, both in steam technology and HRSG technology, we now have the capability to derisk big projects. And I think, we’ll continue to drive efficiencies out of that cycle that we have now having the entire power island to bring to market.
+Deane Dray
+Maybe expand on that point about derisking big projects and what Alstom brings to the table?
+Joe Mastrangelo
+Yes, it’s a great point So if you look at what we have from a capability standpoint, we as GE brought in one of the strongest gas turbine portfolios in the industry. When we were out selling, we were selling mostly gas turbines usually with a generator once in a while with a steam tail.
+Alstom, who didn’t have a strong of a gas turbine portfolio as GE had, they developed everything after the gas turbine. So they developed the boiler to take the exhaust of the gas turbine turn that into steam, the steam turbine, the overall plant design, and the execution of the plant.
+Now having that capability, we’re able to go in and underwrite more of the deal and know how we can derisk and execute in building modules to deliver to the job site and also improving performance and lowering cycle times. So if you look at, I’ll give two examples, one, where we delivered and one that we just won.
+We talked about Siemens booking this Egypt order in the first quarter of this year. We announced an order at the same time that they did in June of last year, our units are on the grid. So we’ve actually built the plants, installed them, and got the power up and running in Egypt.
+The second thing I would say is, we just announced the first H win in the Middle East for an industrial application. So the first global for an aluminum smelter, first H in an aluminum smelter in the Middle East, it’s called Alba project, where we took full responsibility for the entire power plant inside the aluminum smelter, which with Alstom we’re now able to do that, because we’ve got the local resources and the capability to design and execute on the entire plant.
+Deane Dray
+Maybe comment on pricing, and whenever I hear the wins, I was [multiple Speakers] hearing how pricing dynamics may have played?
+Joe Mastrangelo
+Look, if you look at the results we’ve announced so far, we’ve – we are seeing a good price growth on our side and the H continues to perform. It’s a competitive marketplace right now. And I think what we focus on is two piece of the equation. We talked about the cost side on the H. We’re not just running the cost play on the H, we’re doing that on our F and our E and our frame 6 portfolio. So our goal is really understanding that the market probably over the next four years looks to be flat.
+In order to win, we’ve got to be more competitive. In order to be more competitive, we’ve got to focus on cost out. So we’re taking cost out of the product in the entire portfolio knowing that the cost per megawatt sold is going to come down in the marketplace.
+Deane Dray
+So you brought up Alstom, which is the largest deal GE has ever done?
+Joe Mastrangelo
+Right.
+Deane Dray
+And the scrutiny that investors have on the integration and the cost out, but we’ve got this metric on 2018 $0.15 to $0.20?
+Joe Mastrangelo
+Right.
+Deane Dray
+Maybe just talk a little bit about where the contingencies are from your perspective and what would bump you up to the high-end of that range and the low-end of the range?
+Joe Mastrangelo
+Look, I think, as we’ve talked about in all the earnings announcements and communication that we’ve done, we’re on track for the range. I think, Jeff Bornstein and every one of his communications has talked about how we built a lot of the plan around getting the cost synergies on the deal, and we’re on track for the $3 billion in cost synergies. If you look at the business that that I lead is gas power systems. We will get through the cost part of our synergy plan by the end of this year right.
+So that then puts you out where we are going to go out and really grow the business. So if you look at the growth side of the equation so far with when you think about direct orders coming in from Alstom technology, we’ve done over $1billion in less than a year. So we – we’ve significantly seen that growth tick up over time, where in the second quarter, we had almost $400 million of orders that came from direct Alstom going in with GE technology.
+So we’ve got to continue to grow the business and we necessarily call it a contingency more so than we’ve got great technology and great people and we’ve just got to keep growing the business. I think for me as an operating leader, once we get through the one-year anniversary, it becomes continuing operations for us. And we just then have to drive growth, growth, growth, and we’re not going to get growth from the market growing, we’re going to get growth from being more competitive, and I think, that’s what we have to keep doing.
+Deane Dray
+Is there upside to the cost-out targets?
+Joe Mastrangelo
+Look, I would say we’re sticking with the guidance that that we’re giving and then we continue as a leadership team to look for opportunities to take more cost out. And you learn more every day and we just keep driving to that number.
+Deane Dray
+So, one of the points when you’d mentioned China’s investment in gas, it brought up the point how GE talked about we’re in this age of gas and it was a big focus. But certainly now you’ve got this new steam capability…
+Joe Mastrangelo
+Right.
+Deane Dray
+…as part of the arsenal that you can offer in the portfolio. So how do you bridge the age of gas with the fact that steam is a meaningful contributor?
+Joe Mastrangelo
+Look, steam will continue to be one of the major power generating technologies in the marketplace. Additions of new steam is slowing down. So if you look at the U.S. market, coal fired steam is down 20% year-over-year. For the first time ever, gas is the largest power generating technology in the U.S. I think you’re going to see that happening more and more as we move forward.
+I think what our steam technology brings is the supercritical steam that we got from Alstom makes it more efficient, more – it’s more environmentally friendly and makes it more, it reduces the emissions. But I think over time when you look at the overall factors, it’s still going to be in the mix. The thing I would say is, as you see renewables growing in the marketplace, you need an offset to intermittency of renewable, the best offset to intermittency of renewables is a gas plant.
+Reason why I say that is, you look at the way our gas turbine operate. And I think this comes in with the benefits of the GE store. 10, 15 years ago, the way a gas turbine would operate – you would start it up and it would run at a base load. You get to your service interval, you’d shut it down. You’d service the gas turbine, started back up, run it again, bring it down.
+Today, if I were to plot an aircraft engine and a gas turbine, what their operating duty looks like on a daily basis. They look almost exactly the same. So because of renewable, your takeoff and landing on that gas turbine has increased tenfold. And we’re able to bring in that technology that allows us to bring 70 megawatts a minute with our H turbine onto the grid.
+We’re allowed – we can run at part loads, and all that comes in from having a lot of engineers next to us that are from the aviation business that bring that technology right into the power business. So when you look at when we say the age of gas and renewables and steam, it will be a mix. But I just look and say, the more renewables grow, the more you’re going to need something that can offset when the wind is not blowing or the sun isn’t shining and gas is the best most economical way to do that.
+Deane Dray
+You mentioned technology several times…
+Joe Mastrangelo
+Yes.
+Deane Dray
+…in you answer. One of the changes or additions I needed to make to the questions I wanted to ask, I had to update as of Tuesday, which GE’s announcement of increasing the capacity and acquisitions in additive manufacturing or 3D printing. So when I see your types of businesses and the similarities with the aviation and aircraft engines, where it is additive manufacturing fit today in your manufacturing?
+Joe Mastrangelo
+Yes, it’s a great question. So one of the companies that we announces, SLM is a big partner of ours in the power business. So we…
+Deane Dray
+Already…
+Joe Mastrangelo
+Already have 10 of their machines operating inside our plants. So I think what’s critical when you think about the technology that they bring, so it’s dual laser. So basically, you’re printing with two lasers. And what that means is that, you’re 40% more efficient with their equipment when you’re doing the additive manufacturing.
+So we have existing agreements with them where what we were doing in the partnership was, we were bringing the metallurgy. They were bringing the additive technology, and it’s not just knowing like the powder that you put in the printer, the printing. But then you also need to heat treat and machine and finalize the equipment that goes into that – into your product. We’ve now have that as a value chain, right?
+And what I always tell everybody is that best thing you can do, because it’s not a sales picture. The best thing you can do is, come visit our gas turbine facility in Greenville. We’ll walk you through. We’ll show you a part. You can hold the part in your hand. We’ll take you out. These are the fuel nozzles on the F and H turbines, hold that in your hand, walk you out in the factory floor, point to it in the machine, and then take you to a room and show it being printed.
+So I think this is early days technology when you think about where we are in the ramp up of what this means and you could be a skeptic about it right? So when you talk to engineers, they say wow, it’s early. There’s a long road in front of us. We’re doing parts, but will we ever get to where you’re doing 40% of a turbine printed.
+Someday yes, and who knows how fast that learning curve is going to be. So if we were sitting here five, six, seven years ago, would we be talking about solar being in the same cost as a gas turbine from a landed power on the grid. No, but technology innovation and people going in and driving it, those things happen.
+I think us having the technology inside, it makes us a lot more competitive and takes us to the next level of how we can make our equipment perform better and take cost out. So I’m personally, I’m excited for it from an operating standpoint to be able to control that technology, customize and learn from it, and then also sell it out into the marketplace. I think it’s a big win for us in a long-term play that fits in with the overall strategy of the company.
+Deane Dray
+What else besides fuel nozzles, and what might be on the horizon in terms of which products?
+Joe Mastrangelo
+Well, it’s a great question. So we do do repair work. So when you think about when you take the parts out of the high gas path, we will print what’s called the coupon, which is a part of a blade or a bucket and actually weld that into an existing bucket, so do repair work. We do blade tips as well and we’re also experimenting with other parts within combustion.
+We’re also looking at actually printing the entire blade going away from casting and going to additive manufacturing. And I think it’s the challenges that you have, it is again getting the metallurgy right, being able to get the equipment to produce at cost and cycle.
+So we’ve got to continue to work with the SLMs of the world to get the cycle down and then how you heat treat and bring that into the turbine to be able to handle the heat that we’re working on. So we have actually scale parts that we’re working on and other parts that we’re testing that when we run an H like – when we run the test on like the H turbine, we’ll put parts in the machine and run it and test it on combustion and things like that. So there’s more to come and there’s a pipeline that we have.
+Deane Dray
+So it’s a great customer testimonial. I know you’re not the marketing guy for the additive manufacturing.
+Joe Mastrangelo
+Yes.
+Deane Dray
+But. what’s the leap that then GE needs to make in terms of selling these parts to your competitors?
+Joe Mastrangelo
+Look, it’s not so much the parts, but selling the technology, sell the piece of equipment, let them print their equipment. Let’s move this forward to be able to – and again, when I look at this one, this is really enabling not just our competitors, but a broad industrial space to be able to do this suppliers that are not – that could use this technology.
+There’s a lot of work that we can do. If you would have come to one of our plants two years ago right, we would have either given you a bottle opener that was 3D printed or a GE logo, that’s 3D printed. Today, I’m giving you parts in a machine in two years. That’s the road we’ve got to continue to work on. And I think this gives us an advantage to accelerate that.
+Deane Dray
+Great. And then staying on this technology theme lot of focus on GE store on Predix, how does Predix play in your business today and how does that compare to the way you were doing business five years ago?
+Joe Mastrangelo
+Look, so for us, I think, when we look at how we’re applying Predix to my side of the business. It’s really we’re using Predix to run the business and where we – which is good, because when you go out to a customer and you can show them that we’re using it. It shows that we’ve got faith in the product.
+So if you go, again, Greenville or Belfort one of our factories, we’re running the test stands on Predix today. A lot of what we do when I look at the position that we play, when you think about how this works and you think about position we play in the Predix digital space is, we’re in the industrial side of the digital industrial. So we’re bringing the control logic, the expertise, and allowing that to turn into an application that allows competitor that allows customer equipment to operate better.
+Now, the thing that we that we’re doing from operating our business is again, I look at this as you take a 3D model from engineering, put it right out into the factory floor with no human intervention, huge cycle time reduction, less paper, no handoff. Go and you add in this additive piece and you think about the acquisition that we made of Metem, which is – which was one of our suppliers for cooling old technology.
+We now can create that value chain then go test it in the factory. What we’re learning and this is what’s making people more – for customers more productive it is the test stand activity that we have pushes the equipment to its theoretical limits. And what Predix allows you to do is actually operate safely further than you ever had before.
+So we’re allowing customers to do is to truly operate at the edge of the engineering model safely. And that’s what we continue to do is, as we think about how we run the business using Predix.
+Deane Dray
+Maybe just to give us the next layer of detail, because I get this question often. The example people use often is the aircraft engine sensors and monitoring in flight, how does that translate in from the gas turbine where are the sensors? What’s the information?
+Joe Mastrangelo
+Right.
+Deane Dray
+What are the algorithms and again how does that change, both maintenance and efficiency?
+Joe Mastrangelo
+Yes. So it’s the exact same technology. A gas turbine is just a much bigger model of what an aircraft engine is when you look at them and the technology is very similar. I think on the H turbine, we have over 300 sensors on the H turbine when it’s in operation. We’re collecting that data. And the thing you have to realize is, there’s a lot of data that gets collected, and I think part of what we’re doing as a business is, what do you analyze locally, and what you bring back and analyze at a engineering center to then make decisions on how to operate the equipment.
+I think what the customers are getting out of this is, they are getting a higher return on their equipment, because they’re operating the equipment longer and harder than they were before. It to me creates a new service model for the business. So you could come back and say, well, Predix, if you operate at a higher efficiency, if you’re giving more life to the equipment, what does that do to your service model? Well, when I look at it and I say, I’m allowing that customer now to drive in the fast lane every day with their piece of equipment. They can drive and operate it longer and harder.
+There’s still service that comes out of that. Just the interval may be different, but the model that you’re underwriting has to continue to drive the technology efficiency.
+Deane Dray
+Great. I just wonder, we’ve got about five minutes left. I want to see if anyone. Brave souls early in the morning has a question here we go right up front?
+Question-and-Answer Session
+Q - Unidentified Analyst
+[indiscernible]
+Deane Dray
+Can you repeat the question?
+Joe Mastrangelo
+Yes, so the question was the inflection point of steaming gas power generation and then what do we see as gas power generation in the U.S. Look, when you look forward again that the numbers I was quoting on the steam, so steam went down 20%. A third of that reduction was gas coming in and replacing steam. A third of it was renewables coming online, and a third of it was lower demand in the marketplace.
+When we look to forward and you forecast forward, you could see the market getting to, today, we’re around 6 gigawatts of additions. You could see it growing to 8 gigawatts of additions because of efficiency, because of intermittency, and because of demand mostly on the East Coast of the United States, where we think the market will continue to be strong as we move forward.
+I think the other thing you’ve got to take into consideration is, we’ve had below $3 gas in the U.S. for almost a year-and-a-half, almost – we’re approaching 500 days below $3 on Henry Hub. So it continues to be a very economical power generation source.
+Now, when you – the question that you get back when you say about the $3 well, what happens if gas goes back to $8, $9 right? That’s what – that’s where 62.22% efficiency, almost a 0.5 a point higher than anybody else in the marketplace allows that to be the most efficient power generating source.
+So I think you’re going to continue to see strong demand in the U.S. When we look out over the next five years, the market does look flat with some mixes in the different regions that we have, but it’s clearly becoming the second source of additions, the fastest growing is renewables from a low base. The second is gas for that intermittency cost and efficiency play.
+Deane Dray
+Any other questions? We’ve got about a minute. I had one more with regard to how Predix is changing some of the opportunities in the service model for GE in gas turbines. How about the opportunity in servicing competitors’ equipment and their installed base? And it sounded like Alstom had some capabilities there. What was unique about their offering? And how – what’s the opportunity for you?
+Joe Mastrangelo
+Again, I think this goes back to the combination of the two companies, where Alstom not having that strong gas turbine portfolio. And their gas turbine portfolio over time has been bought, sold, added, subtracted through. So they had a lot of technology across a broad range of the portfolio. So they have capability and now we have capability to serve other OEM equipment.
+And I think that lot of that comes back to, one, you can service the gas turbine, and then the second piece is, when you look at Paul McElhinney in the service businesses and we can bring in the steam tail technology to go from simple cycle to combined cycle to increase the overall plant efficiency.
+So the gas turbine becomes one building block in the overall driving the efficiency of the total plant, and Alstom brought a lot of that technology across those competitor applications that allow us to do that. So it is an opportunity for us as we move forward.
+Deane Dray
+Terrific. Joe, we’re out of time. Thanks so much for being here.
+Joe Mastrangelo
+Yes, thank you. Thanks.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

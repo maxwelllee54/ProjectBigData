@@ -1,0 +1,489 @@
+HSBC Holdings Plc (NYSE:HSBC)
+Q2 2015 Earnings Call
+August 03, 2015 3:30 am ET
+Executives
+Douglas Jardine Flint - Group Chairman
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Iain James Mackay - Executive Director & Group Finance Director
+Analysts
+Alastair Ryan - Bank of America Merrill Lynch
+Chintan Joshi - Nomura International Plc
+Chirantan Barua - Sanford C. Bernstein Ltd.
+David J. Lock - Deutsche Bank AG (Broker UK)
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Andrew P. Coombs - Citigroup Global Markets Ltd.
+Tom A. Rayner - Exane Ltd.
+Martin Leitgeb - Goldman Sachs International
+Manus J. Costello - Autonomous Research LLP
+Sandy W. Chen - Cenkos Securities Plc (Broker)
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Arturo de Frías - Santander Investment Bolsa Sociedad de Valores SA
+Raul Sinha - JPMorgan Securities Plc
+Operator
+Good morning, ladies and gentlemen. And welcome to the Investor and Analyst Conference Call for HSBC Holdings Plc's 2015 Interim Results. For your information this conference is being recorded.
+At this time I will hand the call over to your host, Mr. Douglas Flint, Group Chairman.
+Douglas Jardine Flint - Group Chairman
+Thank you very much. And good afternoon from Hong Kong, good morning to everyone in London, and welcome to the 2015 HSBC interim result conference call. With me are Stuart Gulliver, Group Chief Executive; Iain Mackay, the Group Finance Director; and Peter Wong, Chief Executive of Asia Pacific.
+Before I hand over to them I'd like to say a word on behalf of the board. We've had an encouraging start to 2015 with the interim results once again demonstrating both the resilience and the balance of HSBC. Particularly encouraging was the revenue growth from areas that we've been investing in to offset the understandable decline in revenues from our run-off portfolios and divestment.
+Board oversight of management is now tightly focused on the delivery of the actions set out at the investor update in 9 of June, and management performance scorecards have been adjusted to reflect this. Stuart will update you on progress to date, which is very promising.
+Our positioning across the major trading investment corridors of the world is a privileged position from which to plan our future. We have the financial strength and the right people at all levels of the firm to make the most of the opportunities open to us. And we look forward to reporting on our progress.
+I'll now hand over to Stuart to talk about the context around our results before Iain takes a more detailed look at performance. Stuart?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Douglas. So let me start by putting out a few highlights and providing a quick update on the actions we set out at our investor update on the 9 of June. So as Douglas said our performance in the first half of 2015 demonstrated the strength of our diversified, universal banking model. Reported profit before tax in the first half of the year was 10% higher than the first half of 2014 and adjusted profit before tax was up by 2%.
+The increase in adjusted profit before tax was driven by Asia, which contributed more than 60% of Group PBT in the first half of 2015. The Global Banking and Markets revenues were 10% higher in than the first half of last year, following strong performances by equities and by foreign exchange. Revenue also increased in both Commercial Banking and Principal Retail Banking, Wealth Management with growth particularly focused in Hong Kong. There was a 6% increase in revenue arising through cross-selling between our global businesses.
+Operating expenses were up as we expected, although excluding bank levy costs remained broadly consistent with the second half of last year. Our return on equity was 10.6%. And we further strengthened our common equity Tier 1 ratio to 11.6% and declared dividends for ordinary share of $0.20 for the first half of the year.
+Now it's less than 2 months since our investor update where we unveiled our actions to capture the value of our international network in the changed world. Executing those actions is our number one priority. Work is proceeding in all of these areas in particular those aimed at reducing risk-weighted assets, cutting cost, and turning around or disposing of underperforming parts of the business.
+Our first action is to reduce the Group's risk weighted assets by about $290 billion. Around half of which will come from resizing of Global Banking and Markets. In the first half targeted actions reduced $50 billion of risk weighted assets, $31 billion of which came from Global Banking and Markets. The majority of this reduction occurred in the second quarter, as we accelerated our RWA reduction program.
+And as you'll know we've announced this morning that we have agreed to sell our Brazilian business to Banco Bradesco for $5.2 billion. This is a major transaction that delivers excellent value for our shareholders and represents significant delivery against the actions we outlined in June. As we said at our Investor Update we plan to maintain a modest corporate banking presence in Brazil to serve our international client.
+Over the next 2 years we'll continue to build our capital base and redeploy some of the risk weighted assets that we take out of the business in line with the priorities we outlined at our investor update. In first half of the year we redeployed $22 billion of risk weighted assets in high-returning areas of the business, that's excluding associates. Although we are aiming to pivot our business towards profitable growth opportunities in Asia, Asia is not the exclusive focus of reinvestment.
+In order to maintain broad-based growth and a diversified risk profile we expect around half of incremental risk weighted assets to be redeployed to Asia with the rest spread across Europe, the Middle East, North America, and Mexico. If we cannot find strategic opportunities to deploy capital with a return on equity above 10% we will return the capital to shareholders subject to regulatory approval.
+The revenue increases that we've seen in our priority product areas in the first half of the year demonstrate the impact of the investment that we've made so far and give a sense of the revenue opportunity that our international network provides. In total there was an 8% increase in revenue from transaction banking products in the first half of the year, which again illustrates the value and the potential of our international network. In particular foreign exchange revenue grew by 21% and payments and cash management revenue increased by 4%.
+We also maintained our leadership position in international renminbi services, growing revenue by 9% compared to the first half of 2014. Our priority for the remainder of 2015 is to make significant progress in executing all of our actions. And we'll provide an update on each action when we announce our third quarter results in November.
+Iain is now going to run you through the results in detail.
+Iain James Mackay - Executive Director & Group Finance Director
+Great. Thanks, Stuart. For the first half reported profit before tax was $13.6 billion, up 10% on the first half of 2014. This includes an increase in the provisions for fines and settlements relating to foreign exchange investigations in the U.S. and Europe for around $800 million.
+Adjusted profit before tax was $13 billion, up $280 million or 2%. You'll recall that the adjusted measure excludes the period-on-period effects of foreign currency translation differences and significant items. And you'll find more detail in these adjustments in the appendix to the presentation.
+Looking at some key metrics the annualized reported return on average ordinary shareholders equity was 10.6%. The annualized reported return on average tangible equity was 12%. And on an adjusted basis we had negative jaws, which was largely in line with the expectations for the first half of this year. And our common equity Tier 1 capital ratio on an endpoint basis was 11.6%.
+This slide shows the breakdown of the profit before tax for the first half and comparable period last year, split by global business and by region. The figures shown are on an adjusted basis.
+As you can see on the right of the slide the increase in profit before tax was driven by Asia, where revenue increased across all global businesses. Revenue was up 10%, notably in Hong Kong from Wealth Management products and client-facing Global Banking and Markets. Operating costs also increased.
+In Europe profit before tax was lower due to increased operating expenses from regulatory programs and compliance. However revenue increased by 4%, driven by client-facing businesses in Global Banking and Markets and balance sheet management.
+In North America profit before tax was lower, driven by lower revenue and higher costs. The principal driver of lower revenue was the continued run-off and loan sales in the CML portfolio. Our continued investment in Commercial Banking and Global Banking and Markets resulted in growth in loans and advances creating the basis for higher revenue in the future.
+Profit before tax increased in Latin America due to higher revenues and lower loan impairment charges. Revenues up by 2% primarily in Commercial Banking. Loan impairment charges were down in Retail Banking and Wealth Management in Brazil, due to the non-recurrence of charges relating to model changes in the first half of 2014, and in Mexico, due to lower collectively assessed impairment charges.
+In Middle East and North Africa profit before tax of $899 million was 8% lower than in the first half of 2014, due primarily to an adverse movement in loan impairment charges. This was caused by individually assessed impairment charges in the first half of 2015, which contrasted with the net release in the same period last year, mainly on United Arab Emirates related exposures in Commercial Banking and Global Banking and Markets.
+As we go through the rest of the presentation we'll talk through global business performance in more detail.
+This next slide shows an analysis of adjusted revenue. Revenue in Principal Retail Banking and Wealth Management was $472 million higher, an increase of 4%. This was driven by higher revenues across all Wealth Management products but especially in Hong Kong from investment distribution in equities and mutual fund products as a result of higher stock market turnover.
+Commercial Banking revenue increased by $320 million or 4%, mainly due to higher net interest income in credit and lending and payments and cash management. This reflected average balance sheet growth and wider lending spreads in Hong Kong and continued balance sheet growth in the U.K., notably from lending in our large corporate and middle market enterprise segments. Revenue also increased in the United States primarily from growth in lending to large corporate customers.
+In Global Banking and Markets revenue from our client-facing businesses and balance sheet management increased by $1 billion. Our client-facing businesses recorded double-digit growth, having performed consistently well throughout the first 6 months of the year, especially in markets. Equities and foreign exchange were the principal drivers of growth, thanks to increased client flows in equities and increased volatility in foreign exchange. Credit revenue also rose. due to increased client flows, and recorded strong growth in payments and cash management and security services, due to increased balances across both businesses lines. Balance sheet management revenue is up by $219 million, partly due to increased gains on disposal of available-for-sale debt securities.
+Global Private Banking attracted net new money of $7 billion in the first half of 2015 in areas that fit our targeted model, 45% of which came from working closely with other global businesses. Global Private Banking revenue was broadly unchanged.
+This next slide shows the largely sustained growth in our customer lending over the past 12 months, a period in which we've continued to run off the CML portfolio. On a constant currency basis and excluding Brazil and the effect of red-ink balances, lending increased by $22.4 billion in the first half of the year with growth in Asia, North America, and Europe.
+More than half of this growth took place in Asia, where term lending to customers in Global Banking and Markets and Commercial Banking increased. Balances also grew in North America by $5 billion, driven by increased term lending to corporate and commercial customers in CMB and Global Banking and Markets. In Europe a $3 billion increase of loans and advances was primarily driven by higher term lending in Commercial Banking, mainly in the U.K. and Germany.
+Customer accounts increased by $28.8 billion. And we continue to have strong leverage ratio, which now stands at 4.9%.
+As you know we set out a strategic target at our investor update to deliver 2017 exit run rate costs at the same level as 2014. Operating expenses in the first half were as we expected at this point. Adjusted operating expenses increased by $1.2 billion compared to the first half of 2014. This reflected increases in both run-the-bank and change-the-bank costs.
+Front office run-the-bank costs increased by $579 million or 8%. This reflected a targeted increase in the number of staff employed to support growth initiatives. And we also experienced wage inflation, principally in Argentina, Brazil, and Hong Kong.
+The main targets for growth investment included Retail Banking and Wealth Management in Asia and payments and cash management in Global Banking and Markets and Commercial Banking. Stuart has already talked about the revenue benefits that we've started to see from this kind of investment.
+Back office run-the-bank costs increased by $244 million or 3%, reflecting our ongoing focus on global standards.
+Change-the-bank costs increased by $383 million or 28%, mainly due to higher regulatory and compliance costs. These included the Group-wide rollout of the new AML and sanctions policy procedures and the ongoing parallel deployment of customer due diligence and financial crime compliance infrastructure. It's worth noting that although our adjusted costs are up compared to the first half of 2014, they're broadly flat compared with the second half of 2014, excluding the bank levy.
+Now as Stuart's already said, we're moving forward with our plans to remove $4.5 billion to $5 billion of costs from the businesses.
+Adjusted loan impairment charges were down by $133 million or 8% compared to the same period in 2014. The ratio of loan impairment charges to average gross loans and advances to customers fell to 30 basis points from 33 basis points in the first half of 2014. This was mainly due to much lower loan impairment charges in North America and Latin America.
+Loan impairment charges continue to remain low, which relates directly to actions that we took in 2011 and 2012 to reduce risk within our credit portfolio. This means that we operate with a much lower loan impairment charges to loans and advances ratio than our peers, and it means that we've got significant risk appetite capacity.
+North America loan impairment charges were $252 million lower, reflecting reduced levels of new impaired loans and delinquency (14:53) in the CML portfolio, as well as lower lending balances from the continued run-off in loan sales.
+In Latin America loan impairment charges fell by $73 million, due mainly to lower collectively assessed impairment charges in Retail Bank and Wealth Management in both Brazil and Mexico.
+And loan impairment charges increased in the Middle East and North Africa, Europe and Asia. In the Middle East and North Africa the increase reflected individually assessed impairment charges in the first half of 2015, compared with a net release in the first half of 2014, primarily in the United Arab Emirates related exposures in Commercial Banking and Global Banking and Markets.
+In Europe we recorded $92 million of impairment charges relating to Greek exposure, and saw lower releases of impairments and available-for-sale asset backed securities.
+Loan impairment charges increased in Asia, mainly due to a specific impairment charge in Commercial Banking in Indonesia.
+Turning to capital. The Group's end point common equity Tier 1 ratio increased to 11.6% against 11.1% at the end of last year, reflecting capital generation and risk weighted assets initiatives.
+Risk weighted assets were redeployed through business growth in the period, and they also absorbed the impact of regulatory changes. We generated capital of $5.6 billion from profit net of dividend. This also included the benefit of higher dividend scrip take-up. After adjusting for the effects of foreign currency translation differences, we reduced risk weighted assets in the period through targeted actions.
+This next slide looks at risk weighted assets in more detail. At our investor update we set out our intention to reduce risk weighted assets by $290 billion from the year end 2014. In the first half of this year we've already reduced risk weighted assets by $50 billion through targeted initiatives. A majority of this reduction came from Global Banking and Markets, where we realized savings of $31 billion. This comprised $14 billion from legacy portfolio disposals and $17 billion by increasing the level of detail in our risk weighted assets calculations.
+The partial sale of our shareholding in Industrial Bank reduced RWAs by $12 billion in the period. Excluding associates, $22 billion has already been redeployed into high returning areas, primarily in corporate lending across Commercial Banking and Global Banking and Markets.
+This next slide shows our Group return metrics. The annualized reported return on average ordinary shareholders' equity was 10.6%, which is significantly higher than at the end of 2014. The annualized reported return on average tangible equity is 12%. On a reported basis return on risk weighted assets was 2.3%, compared to 2.1% in the first half of 2014. Adjusted return on risk weighted assets, which excludes significant items, remained broadly flat in the first half of 2015, due to comparable movements in risk weighted assets and profit before tax.
+In summary, whilst it's early days, our program to reduce risk weighted assets is progressing well. And we continue to work towards our adjusted return on risk weighted assets target of greater than 2.3% by 2017.
+And with that let me hand back to Stuart.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. So we'll now take some questions, and the operator will explain the procedure and then introduce the first question.
+Question-and-Answer Session
+Operator
+Thank you. Mr. Gulliver. We will now take our first question today from Alastair Ryan from Bank of America. Your line is now open.
+Alastair Ryan - Bank of America Merrill Lynch
+Thank you, thank you. Good morning. On net interest income if I may, please. The Group's very strong positive leverage to higher rates is a key feature. But in the short term while we're waiting for [Janet] Yellen to deliver, is there still a bit of downward pressure on net interest margin, a couple of basis points off in the first half, whether that goes down again before it goes back up?
+And then secondly on – there are very strong areas of outperformance in the first half. I sort of – the layman would imply that – or would assume that FX revenues picking up should be sustainable. We're in a complicated world, and that's a key part of the business. But then the question probably is on the equities and related insurance gains and Wealth Management sales, whether the first half there is indicative of an ongoing picture? Or given the moves in the Chinese stock market over the last few weeks, whether the first half was a bit of high water mark? Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So Iain will do the net interest income. I'll take the other.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. So, Alastair, on net interest margins, you're right. We came about 2 basis points off half-over-half in net interest margin.
+A couple of things driving in that particular area. North America, again the continued run-off of CML portfolio. And also I think we were somewhat affected by much higher levels of liquidity within the repo markets. And certainly when you look at repo, it is a significantly lower returning product line from a net interest margin perspective. That was part of the contributing factor.
+Another factor was in Europe, where we saw a bit of yield pressure coming through U.K. mortgages. I think that's probably broadly understood as a fairly competitive environment. And it is driven by the yield and the asset base. Whereas from a cost-to-fund standpoint it remains very consistent across the European market. And we also saw a little bit of pressure coming through with policy rate changes in countries like China and Brazil for example.
+In terms of whether there's continued pressure, I think we continue to pursue fairly aggressive growth on mortgages within the U.K. It's a competitive environment. But I think we see, particularly within the segments that we serve, a reasonable stability around mortgage pricing in the U.K. North America, we're going to continue to see some pressure from run-off in CML, but that obviously is becoming less and less influential over time. Brazil will continue to play a focus at least until we get through to completion of the transaction that we announced today.
+But broadly speaking there's – as you would imagine there's lots of movements coming through balance sheet management and various businesses. But the dilution that we see is pretty marginal. And the teams are certainly very focused on taking pricing opportunities where they see them.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So I think your assumptions around FX and equities are broadly correct. So foreign exchange, yes, if we have continued increased volatility, there's no reason why FX should have a significant deterioration in revenue going forward. Although obviously it won't increase at 27% by quarter, by quarter.
+As for equities, yeah, the first half of this year or the first quarter of this year was very much benefited by Hong Kong-Shanghai Stock Connect (sic) [Shanghai-Hong Kong Stock Connect] and significantly increased volume running through that, which shows up both in the equities line, also it shows up in Private Banking, shows up also in securities, custodian, and in Retail Banking and Wealth Management in Hong Kong.
+And obviously the sharp fall in the Chinese stock market has depressed some of that activity, but not all of it. The volumes that are still going through the Hong Kong stock market are still considerably higher than a year ago. So I'd expect that to be sort of muted but not a complete reversal at all.
+Alastair Ryan - Bank of America Merrill Lynch
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Alastair. Next one please.
+Operator
+Our next question today comes from Chintan Joshi from Nomura. Your line is now open.
+Chintan Joshi - Nomura International Plc
+Hi. Good morning. I've got two please. One on FX and one on RWAs. On FX it seems taking a $1.3 billion provision, I just wanted to get a sense of how close you are to settling this? Should we expect a further top-up? The total provisions there, are they sufficient at this stage? That's the first one.
+And second one is quite a strong rundown of RWAs, especially if you consider Brazil. I just wanted to get a sense of that $290 billion target that you gave us. Obviously there's a lot of FX noise from quarter to quarter. Just wanted to get kind of what the FX adjusted number would be at this stage? And in Brazil should we expect – I think you had given us a 50/20 split. Just trying to work out how should I think about the $37 billion relative to that 50/20 split in Brazil and Turkey that you had given us? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. Thanks, Chintan. So in the FX provision there is – in the first half there was just under $800 million provided as it related to foreign exchange matters. And that covers a number of investigations that are underway either by the Federal Reserve, the OCC, the DOJ in the United States, relating to progress that we're making on settlement in a range of class-action suits in the U.S. again with respect to FX and matters which the European Commission are considering.
+When you take that provision along with what was provided in 2014, we now have a total that has either been provided on or settled of just under $2 billion, broadly relating to the same issues in the foreign exchange space.
+As to the ultimate outcome of that there are investigations that were ongoing and settlement discussions that are going. We've made as you would expect provision for what we reasonably expect to anticipate in terms of cash outflows to settle those matters.
+It goes without saying that we'll keep you posted if there are further developments in that space. And as ever there's a fairly decent amount of detail about how progress has been made in Note 19 to the Interim Report around these matters.
+On RWA reduction it was absolutely a good start, first half of the year in terms of managing down RWAs. Good progress. Clearly more to do.
+In terms of the real impact from FX on RWAs, not really material through the cycle. So I'd keep a focus on the $290 billion number if I were you.
+The split on RWAs. Excluding operational risk RWAs within Brazil, it was $37 billion, $38 billion that this deal attaches to. Including RWA notionals it takes it up to about $48 billion, $49 billion. So overall in terms of the $70 billion number that we gave you, it's slightly lower than that number that's coming out of Brazil. So in terms of RWA (26:37) transactional, it'd be $37 billion.
+Chintan Joshi - Nomura International Plc
+So just as a follow-up are we close to settling FX in the coming months? And that op risk, when can we expect that to fall off?
+Iain James Mackay - Executive Director & Group Finance Director
+So the op risk will start to fall away as the transaction is closed. But it takes 3 years for it to disappear in its entirety. So an analogue for this would've been the disposition of our credit cards portfolio in the U.S. And the op risk – we're into last year of that op risk now falling away in the U.S. And there will be better part of 3 years to 4 years before we see all of that falling away in the Brazilian transaction.
+As for foreign exchange, Chintan, that one sits with the people in the other side of the settlement. One good example of it, and again this is disclosed in Note 19, there were agreements reached with the DOJ and other authorities in the U.S. with I think five or six other participants in the first half of the year. We were not part of that settlement and had not been approached for part of that settlement. We are working on the reasonable assumption that we will be approached at some point by those authorities to enter into settlement discussions around it. But as to the exact timing or the exact outcomes, not really within our power to drive that one.
+Chintan Joshi - Nomura International Plc
+Understood. Thank you very much.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks, Chintan.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Next please.
+Operator
+Our next question today comes from Chira Barua from Sanford Bernstein. Your line is now open.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Hi guys. Just a very quick question on interest rate sensitivity and actually the timing of it. If the U.S. – what I'm trying to understand is if the U.S. goes ahead in September and does 25 bps, we know the sensitivity. It'll be great if you can help us understand what's going to go through your Q4 numbers, all else equal, both in terms of mark-to-market losses as well as gains. How quickly can it flow through your deposit book?
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Look assuming the Fed did something in the fourth quarter, the likelihood of seeing any real impact in the fourth quarter is very, very small. This re-prices through the book progressively. So the likelihood – if you get something on the 1 of October, the likelihood of seeing a significant impact in fourth quarter numbers, either in terms of mark-to-market or net interest income, it will phase in over time. So you're not going to see a major impact in the fourth quarter. We would of course expect to see an impact coming through over the succeeding quarters as that gets priced across our books of business.
+Chirantan Barua - Sanford C. Bernstein Ltd.
+Got it. Thanks.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay. Next please.
+Operator
+Our next question today comes from David Lock from Deutsche Bank. Your line is now open.
+David J. Lock - Deutsche Bank AG (Broker UK)
+Good morning everyone.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+David J. Lock - Deutsche Bank AG (Broker UK)
+I've got two please. First one is on costs. And this is a small miss I think versus what consensus was looking for. I note the negative jaws in the first half, which you say are kind of in line with what you had been planning. But I also recall at the Investor Day you were trying to target positive jaws in 2015, 2016, and 2017. So I just wondered if there's anything we could infer from that about the second half? Because typically the revenue performances is obviously a little bit weak (29:56) GBM in the second half of the year. So what can we infer from that around costs in the second half?
+And then the second one is around risk weighted assets. I just wondered if you could give us any kind of color on where within GBM those risk weighted assets have been coming out? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. So if I take the RWA one first, there was – let me see, one second – we had a total of $50 billion coming out in terms of RWA initiatives. Within GB&M $31 billion came out. $14 billion came from the sell-off of legacy ABS positions, and $7 billion came from refined measurements, so enhance the data granularity coming through. About $6 billion came from improved collateral set off on transactions. And then actually other smaller numbers came through broadly from improvements in data quality. So that's the run from Global Banking and Markets.
+As it related to the disposition of the legacy ABS portfolios, as Samir [Assaf] had mentioned at the Investor Update, the P&L impact of that was largely neutral. There was a natural factor, very, very small gain realized on disposition of those positions.
+And then as you can imagine across the other areas of RWA improvement within Global Banking and Markets in this half, given the nature of them, there was no real revenue or P&L impact coming through on that.
+The other main areas of RWA reduction, the partial disposition of the Industrial Bank stake held by Hang Seng contributed about $12 billion of RWA reduction.
+And then we had a further $5.2 billion of reduction in the U.S. CML portfolio. And that's coming through both the continued improvement – improving performance of the portfolio, as well as the continued run-off of that portfolio in the normal course of business. And in addition to one transaction in the first half, which was a portfolio sale of about $500 million in unpaid principal balances.
+So that's broadly the breakdown. You'll come up with about $2 billion difference, and that was coming through CMB across a broad range of actions. So that's sort of the meat and potatoes if you like in RWA reductions.
+David J. Lock - Deutsche Bank AG (Broker UK)
+Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+On cost for second half as we – as Stuart, Andy [Maguire], and myself said at the Investor Update, we're targeting positive jaws for the full year. Absolutely cognizant of the fact that that presents a significant challenge for the business, but that is what we're targeting for the second half of the year.
+And I think as we'd mentioned on the 9 of June, before even getting into the $4.5 billion to $5 billion, which is clearly a significant point of our focus, the plan for 2015 did envisage a significant loading of cost-saving initiatives in the second half. That is the focus for the remainder of the year.
+David J. Lock - Deutsche Bank AG (Broker UK)
+Okay. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thanks.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. Next please.
+Operator
+Our next question today comes from Chris Manners from Morgan Stanley. Your line is now open.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Good morning everyone.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning, Chris.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+So yeah. So two questions if I may. The first one was on the cost guidance. As I look at slide 7 and just add up the adjusted costs for the first half – for 2014 it looks like we're getting to more like $35 billion versus the $38 billion I think that you'd put in as the baseline when we had the presentation back in June. So I was just trying to understand is that $35 billion adjusted cost number there, should we be adding – should we be taking off Brazil and Turkey from that to get our exit rate for 2017? Just trying to work out how has the exit rate for 2017 changed. And because it looks like you've got a lower adjusted cost base when I look at that slide.
+And the second question was actually just trying to look at the comment I think that was made there on Page 10 of the release about the capital return if you can't find opportunities to deploy capital at an ROE above 10%. I mean, yeah, is that something that – do you see plenty of opportunities? And so you'd be very happy to be deploying capital. And those opportunities are there for you. Or was that comment coming in because you think that's a risk that you might not be able to find those opportunities? And we could be seeing capital return? And if so what would you think was a surplus? I mean where – above what level of capital would you be looking to return there? Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+So taking the second question. What we're trying to do is frame the fact that if we're going to take $290 billion off RWAs, and we've said we'd redeploy a chunk of it. And looking reasonably about how much that could be redeployed, we think we could comfortably redeploy about $150 billion very, very easily, just looking at where our run rates have been.
+Above that number will depend on how economic performance pans out. And what we're wanting to signal is that we're going to get these RWAs down. If actually above $150 billon is harder to do, then subject to us being comfortably able to fit any stress test that any Central Bank might apply to us – and that's the point about reference to regulatory approval – then we'll return it to shareholders.
+It doesn't have within it an assumption as to what the surplus is. It is merely an indication of the management decision framework that we're operating with.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Okay. That's fair.
+Iain James Mackay - Executive Director & Group Finance Director
+And on costs, Chris, you'll recall that one of the charts that we provided on 9 June sort of gives you a re-measured cost run rate exiting 2017, which factored in foreign exchange translation and effective execution of Brazilian and Turkey transactions to name two.
+If we run – as we re-run that analysis today, that adjusted cost rate exiting 2017 – excluding Brazil, Turkey, and the bank levy – that cost run rate would be about US$31 billion based on current exchange rates with those factors consistently factored through. So the same analysis as we did on 9 June, that we presented on 9 June, we re-run at the end of June, gives you a $31 billion cost run rate on an adjusted exit for 2017. So that's how we would encourage you to think about it.
+And on a quarterly basis as we mentioned, we will provide you with an update. Because obviously foreign exchange as well as other factors around reshaping of the portfolio will come into it. And as we make progress on the reshaping as well as obviously factoring in foreign exchange, we'll update you on a quarterly basis with what that means.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Thanks. So I guess that number was $32 billion when we talked back in June. So maybe that's a little bit better.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Chris R. Manners - Morgan Stanley & Co. International Plc
+Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay.
+Operator
+Our next question today comes from Andrew Coombs from Citigroup. Your line is now open.
+Andrew P. Coombs - Citigroup Global Markets Ltd.
+Good morning.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Andrew P. Coombs - Citigroup Global Markets Ltd.
+Two questions from me. First if I could perhaps follow up on the capital return story. You talked about anything above redeploying $150 billion, $290 billion might be trickier depending upon macroeconomic conditions. But you could possibly return that capital instead.
+Also, to another point, the footnote you made in your strategy day, you talked about your progressive dividend policy as being progressive, consistent with the growth of overall profitability of the Group, predicated on meeting capital requirements. I mean when you look at your core Tier 1 ratio now, obviously much stronger at 11.6%. And if you adjust for Brazil it looks like you're already within the 12% to 13% range where you think you need to be. So when you talk about returning capital, could it be that the ordinary dividend could progress faster than the profitability of the Group? Or is it a case of you take stock in a year or 2 years' time depending upon where the growth opportunities are, and then redistribute it as a special dividend instead? So that would be the first question.
+The second question would just be on slide 5. You draw out the strength from Wealth Management this quarter and the revenues there. Given the market volatility you have seen in mainland China more recently, has that affected investor sentiment? And if so what does that mean for Wealth revenues going forward? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. So on the dividend and returning capital and the redeployment of RWAs that we recycle, it does not mean that the ordinary dividend would progress in any way other than in line with the PBT of the firm. So therefore it means that if we were to find ourselves in that surplus position, it's more likely to be further down the tracks. And it may well take the form of either a special or share buybacks. But we'd have to have lots of comfort that we can hit whatever stress test, whatever regulatory is throwing at us at any particular moment in time. It does not mean that we would stray from what we said about the progressive dividend at all. So that definitely wouldn't be the case.
+And in terms of Wealth Management, there undoubtedly was a benefit to the extremely significant increase in volumes that went through the Hong Kong stock market as Hong Kong-Shanghai Stock Connect (sic) [Shanghai-Hong Kong Stock Connect] got going. The Hong Kong market now has a higher daily turnover than the London stock market. and actually it still does. So there was clearly a benefit there.
+But of course those Wealth numbers actually come from Wealth activities across the world, not just in Hong Kong. So there is a limited impact that I expect we'll see in the third quarter coming from slightly reduced sentiment as a result of the sort of sell-off in the Chinese market.
+But I don't think you can read that across to other parts of the world. So, yes, there was a benefit. But, no, I don't think you'll see that swing significantly from the favorable side to the adverse side.
+Andrew P. Coombs - Citigroup Global Markets Ltd.
+Very clear. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay.
+Operator
+Our next question today comes from Tom Rayner from Exane. Your line is now open.
+Tom A. Rayner - Exane Ltd.
+Yes. Good morning everyone. Just a couple...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning, Tom.
+Tom A. Rayner - Exane Ltd.
+Good morning. A couple for me please. Just starting on Brazil. The first half profit of $191 million is a bit of an improvement on last year. Is that a fair reflection of the sustainable earnings of the business going forward? Just trying to get a sense of what the earnings impact might be next year on a full-year basis.
+And on the capital impact, can you just confirm, I think you've indicated 50 basis points. Just wanted to understand. Obviously we know the RWA impact, whether you're factoring in a gain or loss on that disposal. And then I've got just a couple of other questions as well please.
+Iain James Mackay - Executive Director & Group Finance Director
+So if we go to capital, it is in the range of 50 basis points that we would expect. And that depends a little bit on net asset adjustments between now and the completion date. We would in actual fact expect to see as we recycle foreign exchange gains or losses, which have previously been reflected in other comprehensive income through income on disposition, we'd expect to see an accounting loss. But there is no impact on capital from that, having already been included in OCI.
+But broadly speaking we would expect to see $37 billion of risk weighted assets run down, 50 basis [points] improvement in common equity Tier 1, with a capital impact of approximately $2 billion.
+Tom A. Rayner - Exane Ltd.
+Okay. And just on the earnings, the $191 million, is that a fairly clean reflected number now?
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. I mean as I mentioned earlier, so the main driver of that, Tom, was a reduction in loan impairment charges. We've obviously seen quite a lot of remodeling and actually quite a lot of stress coming through loan impairment charges. And we saw some improvement in that respect.
+Broadly speaking revenue was up slightly. Loan impairment charges were down. And operating expenses were maintained reasonably consistently. So it's mostly about improving loan impairment, portfolio credit quality in that book.
+Tom A. Rayner - Exane Ltd.
+Okay. That'd be good.
+Iain James Mackay - Executive Director & Group Finance Director
+The focus – we obviously – we run this business through to closure of the transaction that we announced today. And our focus will be in trying to improve the performance of that business as we go. And it's ours until it's closed. So we're going to run it to continue to improve the profitability.
+Tom A. Rayner - Exane Ltd.
+Sure. And can I just ask you one more, Iain? And then maybe a quick one for Stuart on strategy. Your comment on the cost jaws, I mean obviously I think Q1 to Q2 revenue growth looks like it's held fairly stable, whereas cost growth has picked up. So I'm just wondering, to deliver this full-year positive jaws are you expecting any real change in that revenue progression? Or is it all going to be about delivering more cost savings in the back end of the year?
+Iain James Mackay - Executive Director & Group Finance Director
+No. The back end plan is heavily cost focused. And as you'll recall from previous years, Tom, the fourth quarter in Global Banking and Markets represents significant seasonality, and that is factored into our estimations at this point.
+To be clear, to get from where we are at 2.9% negative jaws for the first half to a positive jaws number, even a marginally positive jaws number, is a significant challenge for us. But that is the focus in the businesses going through the second half of the year.
+Tom A. Rayner - Exane Ltd.
+Okay. And then just finally, Stuart, you mentioned the Chinese stock market, I think in response to your question on GBM. I just wondered how seriously you're taking that as maybe an indication of whether the Chinese economy as a whole is starting to slow down maybe more quickly that we thought? I was just looking at your comment in your – at the start of the release in your written comment. And you're talking about the pivot towards more profitable growth in Asia. But you're also now deliberately pointing out that Asia is not the only focus for you. And it is only half of the reinvestment plans for the Group. I just wondered is that any softening in turn regarding Asia, given what's happening in China? Or is that reading as usual too much into everything?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I think that's reading too much into – I should – what I'm trying to do, Tom, is clarify the fact that in the month of June a number of people came away with the impression that we were trying to jam $290 billion of RWAs into the Pearl River Delta. So I was trying to explain that clearly we're not trying to end that with a completely undiversified business model, where we redeploy $290 billion into one small geographic area.
+So what I'm trying to set out is that nothing has changed about the fact that we believe passionately in being a global universal bank, which means diversified by business line and diversified by geography.
+So I wouldn't read anything into that. There was a wrongful interpretation that the entire redeployment was in Asia, because of the way we presented on the 9 of June. And that's what I'm trying to correct as an impression. It's not related to any feeling about slowdown in the Chinese economy from the sell-off in the stock market. We're still reasonably confident that Chinese economic growth actually will be at the numbers we thought previously.
+And that whilst we probably haven't seen fully the impact in terms of bad debts and so on that come about from the sell-off in the stock market, which I think is – represents the most risk in the sense that a chunk of this has been margin financed to those people that provided the margin financing. We're still very much looking for 7%, 7.1% GDP growth for this year for China.
+So no. That RWA comment is more about correcting the misimpression we gave on the 9 of June than any concern we have about Chinese GDP.
+Tom A. Rayner - Exane Ltd.
+Okay. Thank you very much. Very clear.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks. Thanks, Tom.
+Operator
+Our next question today comes from Martin Leitgeb from Goldman Sachs. Your line is now open.
+Martin Leitgeb - Goldman Sachs International
+Yes. Good morning. First, just a follow-up on the earlier question on capital formation and capital progress. Obviously pro forma for Brazil you have now a core Tier 1 ratio which is at 12% or a touch above. And I was just wondering if you could update us on how we should think on progress of core Tier 1 capital here going forward in light of the potential regulatory headwinds we discussed back at Investor Day. So what do you think of that is likely to materialize over the next 6 months, 12 months, which we should be in mind for our outlook?
+And the second question is on taxation. And what is the right way for us to think in terms of effective tax rate going forward post the rebased bank levy? And I'm not sure if this is too early to ask or not, but I was just wondering if you could comment on what the recently announced changes in the budget, how they will affect the way you think of I think the 11 criterias you actually set up earlier with regards to domicile. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. So Stuart will comment on perhaps not the detail of the tax changes, which I'll cover, but how that influences our thinking about headquarters.
+But the taxes, broadly speaking the direction on the tax levy is certainly very welcome from our standpoint. However when you pair it with a 8% surcharge on corporate tax for the banking sector, based on our forecasting that is broadly neutral for HSBC until 2021. And in 2021 the rebasing or the adjustment to the basis of calculation for the bank levy certainly would give us a quite significant positive impact. However through 2020 the levy reductions are largely offset by the impact of corporate tax in the U.K.
+Now insofar as the overall Group effective tax rate goes it is to some degree obviously influenced by taxable profits in the U.K. But the effective tax rate is also made up of profits generated in other jurisdictions, which are taxed at different rates, as well as a number of disallowable items such as settlements and fines and penalties, which generally are not tax-deductible items and fall into those which are permanently disallowed.
+So we'll continue to guide on where the effective tax rate would be. But when the changes of the budget click in, next year's taxable profits, we would expect to see possibly a slightly higher effective tax rate for the Group, informed largely by the degree of taxable profits that we have in the U.K. business. Stuart, I don't know if you want to comment about...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+There's not really much to say at this stage. Obviously the bank levy is a subset of one of the points our board is considering, which is the broad question of tax in its wider sense. And clearly therefore this is a changed fact that the board will consider during the balance of the year, while it's making its deliberation as to what to recommend to shareholders.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Going back to capital formation, Martin, I think certainly as it relates to the next 6 months to 12 months, possibly the publication last week of the PRA's approach to the PRA buffer, Pillar 2 and PRA buffer specifically, is more that will inform aspects around regulatory change on capital, as opposed to some of those factors that we discussed earlier in June when we talked about the fundamental view of the trading book. The Basel review of credit risk from a standardized approach perspective, operational risk as well. And we see those, A, being very active discussions presently, certainly as it relates to credit risk. The likely or probable outcome of that from a regulatory accounting perspective is very, very difficult to discern presently.
+And in our estimation and I think probably the market's estimation is most likely to impact capital requirements in 2018 or even later. So our focus certainly around target setting back in June was the timeframe now to the end of 2017.
+And as it relates to capital formation I think the changes published by the PRA influencing Pillar 2 and specifically the capital, the PRA buffer, which will replace the capital planning buffer as we understand it, probably the two – the factor to consider most significantly at the present time.
+When we close the Brazilian transaction, yes, we would expect to see ourselves with a common equity Tier 1 ratio, all other things being equal, slightly above the 12% mark, which is encouraging. And then as we go back to some of the comments that Stuart made earlier, about how that then influences our view on running down risk weighted assets, the return of possible – the possible return of surplus capital to shareholders, obviously sitting with a common equity Tier 1 ratio sitting in the range of 12% to 13% will encourage and inform our thinking at that time.
+Martin Leitgeb - Goldman Sachs International
+Great. Many thanks.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thank you.
+Operator
+Our next question today comes from Manus Costello of Autonomous. Your line is now open.
+Manus J. Costello - Autonomous Research LLP
+Good morning.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Manus J. Costello - Autonomous Research LLP
+I just have a couple of questions. The first one just follows on from what you were just talking about then, and about the PRA buffer and changes being important to you. Should we therefore assume that the PRA buffer is in fact binding on you at the moment? Because I had kind of assumed that given the capital conservation buffer and the G-SIB buffer together are 500 basis points for you. That the PRA buffer wasn't necessarily something which was a concern. But your comments just now made it sound a bit like the PRA buffer was coming into play in the way you were thinking about capital.
+And my second question just relates to the sale at Brazil. You've got an ongoing investigation around savings accounts in Brazil, which has been rumbling for a very long time. I just wondered if that's going to be sold with the businesses whether – or if you retain that liability? Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+So on the buffer your statement is correct, Manus, in the sense that the PRA buffer as presented would be considered alongside the other aspects of capital buffers, whether it's from a capital conservation perspective or adjacent perspective. But there is one thing that's introduced that may apply, which is a capital scalar. And that will be part of the ongoing PRA's review of each institution. And the extent of which their client is scalar, then that would then be incorporated.
+So we absolutely do have a Pillar 2A, Pillar 2B requirement today. That's encompassed within which we cover today. And the clarification around the PRA buffer is that it would lie alongside G-SIB and capital conservation buffer now.
+Whether this consultation – or not the consultation, but whether the publication last week necessarily informs increased capital requirements will depend very much on the capital management review that the PRA does of each of the institutions in the U.K.
+So I'm not – I wouldn't want you to read into it that we're automatically requiring higher capital requirements. It would be informed by capital assessments that the PRA do on an ongoing basis.
+Manus J. Costello - Autonomous Research LLP
+Got it. Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay.
+Manus J. Costello - Autonomous Research LLP
+And on Brazil?
+Iain James Mackay - Executive Director & Group Finance Director
+Oh Brazil. Well it is being sold with it. But as you would imagine in any transaction of this nature, there are reps and warranties that go with that. And that's really how this is covered, Manus.
+But, yes, it is an integral sale of the Brazilian business. There is nothing that we are retaining. We will continue to have the ability to serve customers internationally in U.S. dollars but not domestically. And there's a non-compete that will cover domestic large corporate business.
+But broadly – no, not broadly speaking. The business in its entirety is being sold. And that's reflected in the net assets and the price, but with the usual reps and warranties around the transaction.
+Manus J. Costello - Autonomous Research LLP
+Okay. That's very clear. That $700 million that you mention in the notes as a potential litigation risk from that. That resides with Bradesco now?
+Iain James Mackay - Executive Director & Group Finance Director
+It's – that exposure goes with the business.
+Manus J. Costello - Autonomous Research LLP
+Got it. Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay.
+Operator
+Our next question today comes from Sandy Chen from Cenkos. Your line is now open.
+Sandy W. Chen - Cenkos Securities Plc (Broker)
+Morning gentlemen. I just had one question. Just for a bit more detail in GBM. If you could sort of say what the RWA relative weightings in credit and rates are in particular? I mean my guess is that actually the bulk of the sort of $491 billion might be tied up in those types of businesses versus the ForEx and equities. And if you could comment on sort of cost-income ratios and relative RWAs in terms of where we might expect further sort of pruning to occur?
+Iain James Mackay - Executive Director & Group Finance Director
+No. I don't have that relative weightings of those businesses sitting in front of me, Sandy. So I'm sorry. I can't necessarily provide you with that information right now.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+There was a bit of detail though in Samir's presentation that we did on June the 9. It actually shows a walk of where the RWAs will come down.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. So there's an RWA walk on the deck that Samir talked to on June the 9, Sandy, that's on the investor website. Yeah.
+So if you – 28. On page 28 in the investor deck that Samir presented it gives you some relativity around the adjusted returns that we're focusing on in Global Banking and Markets from a return on risk-weighted assets perspective, Sandy.
+Sandy W. Chen - Cenkos Securities Plc (Broker)
+Okay. Got it.
+Iain James Mackay - Executive Director & Group Finance Director
+And as it relates to particular guidance around cost efficiency ratios, not really a measure we're dealing with externally. The focus is on positive jaws, and that continues to be the focus.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+And actually the cost efficiency ratio of Global Banking and Markets is pretty good. It's below 50%. It's about 49%. So actually GBM doesn't have a problem of costs, has a problem on return on risk weighted assets.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. On a peer group comparison...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+The peer group basis there is actually quite good on costs.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+It's return on risk weighted assets. And we need to get that – net $130 billion gross, $140 billion out, which Samir and the team have made a very good start on.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. It really is the capital intensity as opposed to necessarily the bats and balls of (58:11) that business.
+Sandy W. Chen - Cenkos Securities Plc (Broker)
+All right. Okay. All right. Thanks.
+Operator
+Our next question today comes from Rohith Chandra-Rajan from Barclays. Your line is now open.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Morning. I just have a couple of quick ones please. And the first one is on loan growth where the loan growth slowed I guess quite significantly in the quarter. So if we're looking at the quarter, it's sort of 2.5% annualized growth versus 6% year on year. Obviously note your comments earlier about reallocating $150 billion of the RWAs organically fairly easily over the coming years. Just wonder if you could comment on sort of your near-term expectations for loan growth? So what was driving the slowdown in Q2? And what your expectations are maybe for the rest of this year and into next?
+And then the second one was just to clarify what the current guidance is on BSM? Do you expect the Q2 number just sort of be fairly steady for the rest of the year? Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+I'm sorry. Come back to that second question again, Rohith?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Balance sheet management.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+So balance sheet management guidance for the year, do you expect sort of stable on Q2 in the second half of the year?
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. On balance sheet management broadly speaking we expect the total year to sit somewhere between $2.7 billion to $2.9 billion. So broadly consistent. I mean there's a little bit of variability around volatility and available for sales security gain or loss. But broadly speaking $2.7 billion to $2.9 billion for the year total.
+Going back to loan growth we certainly had some dynamics between the first and second quarter, where we had some short-term lending in Asia in the first quarter, which was paid down in the second quarter. That was a significant driver.
+But broadly speaking over the two quarters we had about $22 billion worth of growth. But the dynamic between first and second is that we had within the first quarter a step-up in short-term lending, which was actually paid down in the quarter. So that distorts a little bit the dynamics quarter over quarter.
+In terms of outlook, I think you see some of what we've got going on in North America, what we've got going on in Asia, what we've got going on in Europe. Through Commercial Banking, through Global Banking and Markets, I think the trends are reasonably encouraging. When you look at the Retail Bank, Wealth Management, the principal markets again are the U.K. and Hong Kong. And again in Hong Kong the position has been reasonably encouraging.
+I think in the U.K. we've certainly got an increasingly competitive environment there. Some of our peers look as if they're in a position to be more robust with that competition in the marketplace. But certainly the business's focus is to be responsive to that competitive environment particularly in mortgage lending in the UK.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Okay. Thanks. So as we're thinking about the second half we should look at the first two quarters of the year together as a sort of – that be a reasonable guide to what you're anticipating for the second half?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah, you should. Because as Iain said, there was distortion running first, second quarter. There was a lot of short-term stuff in the first quarter that got repaid in the second quarter, kind of large lumpy GBM stuff in Asia.
+Rohith Chandra-Rajan - Barclays Capital Securities Ltd.
+Okay. Thanks very much.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Operator
+Our next question today comes from Arturo de Frías from Santander. Your line is now open.
+Arturo de Frías - Santander Investment Bolsa Sociedad de Valores SA
+Hi. Good morning.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Good morning.
+Arturo de Frías - Santander Investment Bolsa Sociedad de Valores SA
+Just one question from me please. Just one question. Would you share with us your current thoughts on ring-fencing? How the preparations are evolving? And if you have a more accurate or an initial impression of what would be the run rate of extra cost that ring-fencing would imply for the business, that would be very useful. Thank you very much.
+Iain James Mackay - Executive Director & Group Finance Director
+Ring-fencing, I would say the preparations are going well. We've got a business design that has been certainly concluded upon internally, which I think is no doubt subject to review with our regulators. But I think we've kept them very, very closely engaged with what we do. I think we've got a very high level of engagement with the PRA and the FCA around the ring-fencing efforts overall.
+In terms of operational subsidiarization, so taking some of the core operating capabilities and separating that from the ring-fence and non-ring-fence bank, which is part of the wider recovery in resolution planning, very, very significant progress made in terms of setting up those ServCos, both for the holding group as well as for the U.K. And actually beginning to transition operating capabilities into that business – into that legal entity has already occurred and will continue to occur over the remainder of this year and through 2016. So good progress in that regard.
+I think we're very clear as to the initial requirements of the primary legislation. And progressively the PRA is providing greater clarity around secondary legislation and implementation requirements. And that will continue.
+On costs, there's a great deal of focus inside the firm on trying to find the most efficient way to deploy the ring-fenced bank. I think it's fair to say that the highest costs that we are likely to incur is around system separation and ensuring that there is integrity both for the ring-fence bank and the non-ring-fence bank in that regard.
+But broadly speaking the guidance that has been provided some time ago by the chairman and repeated several times since I think is fairly reasonable guidance to follow through. So what that boils down to, Arturo, is significant cost to implement the ring-fence bank. But we do not believe there are significant incremental costs to running the ring-fence bank once established.
+Arturo de Frías - Santander Investment Bolsa Sociedad de Valores SA
+Okay. When do you think you are going to share with the market the amount of that initial one-off cost?
+Iain James Mackay - Executive Director & Group Finance Director
+We have already. Between $1 billion and $2 billion.
+Arturo de Frías - Santander Investment Bolsa Sociedad de Valores SA
+Okay. Okay. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks very much.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Time for two more questions.
+Operator
+Our next question today comes from Raul Sinha from JPMorgan. Your line is now open.
+Raul Sinha - JPMorgan Securities Plc
+Good morning gentlemen.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Morning.
+Raul Sinha - JPMorgan Securities Plc
+Can I just have a follow-up please on costs and then a broader question on regulatory changes on capital. The first one is I think you had a discussion with Chris about the cost number, $31 billion mark-to-market, excluding the levy. As far as I can see that is consistent with the $32 billion that we discussed at the Investor Day. Is that broadly correct?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+That's right.
+Raul Sinha - JPMorgan Securities Plc
+And now we should start thinking about – yeah. So effectively it's not a change.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+No.
+Raul Sinha - JPMorgan Securities Plc
+What we should start to do is think about it ex levy, because the levy obviously is going to change a lot. So your cost base is probably $31 billion in terms of the target. I guess that's – is that correct in terms of...
+Iain James Mackay - Executive Director & Group Finance Director
+So that $32 billion, Raul, was ex levy.
+Raul Sinha - JPMorgan Securities Plc
+Right. Okay. The regulatory creep...
+Iain James Mackay - Executive Director & Group Finance Director
+Sorry. Sorry. Sorry. Sorry. Sorry. Sorry. I'm being corrected here. That included levy.
+Raul Sinha - JPMorgan Securities Plc
+That's what I thought. Yeah, that was my initial impression. The second question I had was...
+Iain James Mackay - Executive Director & Group Finance Director
+Go ahead.
+Raul Sinha - JPMorgan Securities Plc
+... on regulatory creep. Effectively there's Basel paper on operational risk. I get the $290 billion redeployment or return argument. But what I struggle with is how much you lose in terms of regulatory changes. And I was wondering if you had any update on how much you might expect to have an increase in terms of the RWAs from the Basel paper on operational risk?
+Iain James Mackay - Executive Director & Group Finance Director
+There's a wide range of possible outcomes on this, Raul. And we had talked about this a little bit – actually quite a lot on the 9 of June. Whether it's the fundamental view of the trading book, whether it's op risk, whether it's credit risk under a revised standardized approach, each of those are still very much under review with the Basel committee. Each of those are still very much moving feasts. There are different views by different jurisdictions around the world as to how to approach a new standardized and credit risk for example.
+So there's a wide range of variability. I think the only thing on which perhaps we've got reasonable assurance is the likelihood of any impact is probably – at the very earliest 2017, but more probably 2018 and beyond. So in terms of how, to what extent it impacts the business, I wish I could. Because if we could we'd plan for it. But at the moment it's very difficult to give you any quantification as to the likely outcome of that. And literally the outcome could be from zero to very significant.
+Raul Sinha - JPMorgan Securities Plc
+Isn't it fair to then assume that any discussion about regulatory capital is essentially in terms of excess or returns is probably a 2018-type discussion?
+Iain James Mackay - Executive Director & Group Finance Director
+Again I don't know how to answer that question. I think we'll get – hopefully we'll get increasing clarity as those consultation processes develop. So for example there's another QIS coming out in credit risk, which we will clearly engage in. We believe that that QIS has come out, because the previous two or three QISs didn't provide either the granularity of information that was required or a consistent view on how our remodeled approach to standardized risk would be – standardized risk in the credit portfolios would be accomplished.
+So as that develops then we will be able to update how we view it and how that will inform redeployment of capital into certain products and marketplaces. And an assessment of where at possible surpluses of capital may exist, and therefore how that capital would be returned to shareholders.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. Again I don't think you should assume this is like consecutive, and we need to wait till 2018.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Raul Sinha - JPMorgan Securities Plc
+Right.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+I wouldn't start putting that into your model. I think that we will get much – to clarity before then. And clearly we're going to crack through getting the $290 billion out.
+Iain James Mackay - Executive Director & Group Finance Director
+And so the $290 billion (1:08:53), clearly in the first half of this year we've generated 50 basis points of capital and various (1:09:04)...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Just organically.
+Iain James Mackay - Executive Director & Group Finance Director
+...came from the operations of the business. And that's the important thing. The over $5.5 billion worth of capital from the operations is in that 50 basis points of capital improvement at a common equity Tier 1 perspective.
+So there's – as ever there's multiple moving parts in this equation, but our focus is on, A, capital efficiency through the RWA redeployment that Stuart talked about, the efficiency of the operations, which is about clearly revenue generation but cost efficiency with a very, very significant focus on that and maintained and strengthened. And then, yes, as has been the case for the last few years, a regulatory mix in the middle of that. Which as clarity becomes hopefully more abundant, we'll share with the marketplace.
+And all those factors taken together will inform capital redeployment and capital return to shareholders.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Yeah. So, don't assume that regulatory uncertainty will defeat those two.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah.
+Raul Sinha - JPMorgan Securities Plc
+Okay. And so thanks very much.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks, Raul. Last one.
+Operator
+We will take our last question today from Chintan Joshi from Nomura. Please ask your question.
+Chintan Joshi - Nomura International Plc
+Hi. I didn't think I would get a chance to ask a follow-up. But here it is.
+Iain James Mackay - Executive Director & Group Finance Director
+Can you go?
+Chintan Joshi - Nomura International Plc
+If I look at your growth in the quarter, $22 billion, and if I look that as a trend, we're talking about $130 billion compared to kind of $150 billion that you feel comfortably will come through and compared to the kind of $180 billion to $220 billion target. Perhaps you already mentioned kind of your thoughts on growth, but perhaps I can dig into where that $22 billion of growth came from in this half as a follow-up. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Yeah. Broadly that $22 billion came across Commercial Banking and Global Banking and Markets. In terms of market presence it came across Asia, North America, and Europe. And within North America it was the U.S. and Canada.
+Chintan Joshi - Nomura International Plc
+Yes. Okay. Thank you. And how much from Asia specifically?
+Iain James Mackay - Executive Director & Group Finance Director
+Say again. Sorry?
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+How much in Asia?
+Chintan Joshi - Nomura International Plc
+How much in Asia specifically?
+Iain James Mackay - Executive Director & Group Finance Director
+How much in Asia? About...
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+$12 billion.
+Iain James Mackay - Executive Director & Group Finance Director
+It's about $12 billion of the $22 billion.
+Chintan Joshi - Nomura International Plc
+Half. Yeah. Yeah. Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Thanks.
+Iain James Mackay - Executive Director & Group Finance Director
+Okay. Thanks, Chintan.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+Okay. Thanks very much everyone. Thank you.
+Iain James Mackay - Executive Director & Group Finance Director
+Thank you.
+Stuart Thomson Gulliver - Group Chief Executive Officer & Executive Director
+We're going to bring the call to an end.
+Operator
+Thank you ladies and gentlemen. That concludes the call for the HSBC Holdings Plc 2015 interim results. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

@@ -1,0 +1,359 @@
+General Electric (NYSE:GE)
+Q4 2005 Earnings Conference Call
+January 20th 2006, 8:30 AM.
+Executives:
+Mr. William H. Cary, Vice President of Investor Communications
+Jeffrey R. Immelt, Chairman and Chief Executive Officer
+Keith Sherin, Senior Vice President and Chief Financial Officer
+Analysts:
+Jeff Sprague, Citigroup
+Nicole Parent, CSFB
+David Bleustein, UBS
+Deane Dray, Goldman Sachs
+Robert McCarthy, CIBC World Markets
+Peter Nesvold, Bear Stearns
+John Inch, Merrill Lynch
+Don MacDougall with Banc of America Securities
+Scott Davis, Morgan Stanley
+Tony Boase, AG Edwards
+Operator
+Good day, ladies and gentlemen, and welcome to the General Electric fourth quarter earnings conference call. At this time all participants are in a listen-only mode. My name is Rachel, and I will be your conference coordinator today. If at anytime during the call you require assistance please “*” followed by “0”, and our coordinator will be happy to assist. As a reminder ladies and gentlemen this conference has been recorded. I would now like to turn the program over to your host for today’s call, Mr. Bill Cary, Vice President of Investor Communications. Please proceed, sir.
+I would now like to turn the program over to your host for today’s call, Mr. Bill Cary, Vice President of Investor Communications. Please proceed, sir.
+William H. Cary, Vice President, Corporate Investor Communications
+Good morning, Rachel. Thanks very much and welcome, everybody. JoAnna and I are very pleased to host this call this morning to go through the fourth quarter and total year 2005 results. Please remember that this is a webcast so you need to refresh your browser to see the materials that we’ll go through this morning. Hopefully you have the press release that we released about 6:30. And as I said, all the slides from today’s call will be available at our website at GE.com/investor, along with some supplemental data. If you don’t see the slides out there, just go to the site and refresh your browser. You’ll be able to see it. You can of course download and print and hopefully follow along.
+Also, as always, elements of this presentation are forward-looking and are based on our best view of the world and our businesses as we see them today. Of course, that world can change, and as the world changes our view can change. And we’d ask you to interpret our comments in that light. On the call this morning we’re going to cover fourth quarter 2005, as well as our total year performance, as I said. We’ll give you an outlook for the first quarter of ‘06 and allow time at the end of the call for your questions. To cover all that, of course and as usual, we have got Jeff Immelt, our Chairman and CEO, and Keith Sherin, our Senior Vice President and CFO, with us here this morning. And with that I will kick it over to Jeff.
+Jeffrey R. Immelt, Chairman and Chief Executive Officer
+Great, Bill. Good morning. Just on the overview page we still see good fundamentals and positive momentum as we leave the year. Total year orders were up 10%, solid growth really across the board. Equipment backlog is at 24 billion. We had a good quarter and good year in services so that backlog continues to grow. Our financing volume was up 17% and portfolio quality remains strong.
+From a growth standpoint, organic growth was up 8% for the year and the quarter. Earnings from continuing operations were, as we reported, at 18.3 billion, up 12%. Good strength across the board. Cash continues to be a particularly good story at 21.6 billion, and very strong both in terms of Industrial CFOA as well as Financial Services dividend. That allowed us to accelerate the stock buyback to $5 billion for the year.
+Our initiatives continue to perform well and have good momentum as we end the year. And I think importantly, we’ve completed the critical phase of the insurance portfolio repositioning, both from a Genworth standpoint and also the announcements of the Insurance Solutions disposition. So as expected, $1.72 from continuing operations, up 10% for the year.
+If you look just at the global environment, I figured I’d take a little bit of time just to talk through what we are seeing. The US market continues to be strong and in line with expectations. With increasing inflation, we continue to manage the price/inflation/volume tradeoff that impacts businesses like our Industrial and Plastics business. In Financial Services, we saw good volume. We see good asset quality. And liquidity is both a positive and a negative as we look at competing for assets. Asia continues to be very strong with Japan improving. China is very strong across the company. We passed $5 billion in 2005. Europe, from a short-cycle standpoint, particularly in plastics, we saw softer volume. But Europe is very strong elsewhere in terms of health care and some of the infrastructure projects. And from a Financial Service standpoint, kind of mixed. Eastern Europe very strong. In some of the more developed countries, slower growth in financial services but stable asset quality. And developing markets continue to be very positive across the board.
+If you look at the fourth quarter, Infrastructure very strong growth, Healthcare very strong growth, good Industrial margin rate expansion, slower Plastics volume, particularly in Europe. From Financial Services, again, strong volume on both consumer and commercial, good ROE, impacted a little bit by currency, and had fewer asset sales in the quarter.
+If you look at it from a revenue standpoint, we had 5% revenue growth. If you exclude the FAS 133 impact and the sale of the Genpact business in the fourth quarter last year, FX was about a point. And when you factor in asset sales and some of the other elements, we had 8% organic growth for the quarter.
+If you look at the key customer wins on the next page, again, pretty broadly disbursed customer wins across the businesses. Infrastructure really is a global story. We had great airline wins as we ended the year. Very strong rail wins in China, and good momentum there. Healthcare is really a product story if you look at us expanding our product line both in core DI, in diagnostic pharmaceuticals, and in IT Commercial Finance, broad growth really on most of the asset classes. Consumer Finance very strong, particularly on a global basis. The Industrial businesses continue to focus on high-end market share and high-end products like the GE Profile product line. And NBC continues to drive content. We saw some good progress from a comedy standpoint, and currently have a number of good movies out on the air, so some very good customer wins.
+From a growth standpoint, we talked about the total year being 8% organic growth and same for the quarter, pretty high visibility on the revenue side, product service sales, 9% for the year and double digits in the quarter. Growth platform revenues were up 20%, 8% organically. Global revenues continue to be very strong, and really good global revenues in every region of the world. And imagination breakthroughs continue to drive incremental growth. We just gave a couple of examples here. Our entertainment financial vertical had an incremental $400 million of assets. Portable ultrasound, 18 times the growth we saw in 2004. In the country the company approached, in Qatar, really driving good growth. So again, the initiatives and the momentum look strong for 2005 and then through, into 2006. With that I’ll turn it over to Keith.
+Keith S. Sherin, Senior Vice President, Finance and Chief Financial Officer
+Thanks, Jeff. I’m going to start with orders. Total year orders of 76.5 billion were up 10%, and here are the breakdowns that we usually talk to you about. On the left side is major equipment. You can see these orders are lumpy on a quarterly basis. I think you should focus on the total year, up 19%. But even in the quarter if you look at Aviation they had a great quarter, up 98%. An example of lumpiness, I mean Energy is listed as up 5. If you adjust for last year in the fourth quarter when the production tax credits were passed and we had big wind orders, adjusting for that the Energy orders were up 95%, so they had a really good quarter across the board. In the other product lines, Oil and Gas had some large L&G orders last year but total year up 16%. And Transportation had multi-year delivery orders last year. I mean, you can see the backlog of Transportation is up 23%. We have over 1,800 locomotives in the backlog, so a couple years of production, and most of those are EVO locomotives. And so overall 6.9 billion rolling four-quarter average, and over $7 billion, almost $8 billion in the quarter, so you are going to see that rolling average continue to grow.
+In the middle are services. They continued very strong, total services up 12%, 11% for the year. You can see the Aviation spares remain strong. Healthcare backlog is up. As Energy, both nuclear and aero had good service quarters, up 16% in total. And large order timing in Transportation, Oil and Gas for some of the orders last year in the fourth quarter with services. But overall up 12%. So, a terrific performance and continue to drive high margin growth for us.
+And on the right side the flow orders we continue to see single-digit growth. This is similar to what we saw through the first three quarters. Again, in the fourth quarter Appliances was strong, Industrial Systems were good. Security very strong. Plastics you see that we were down in total. We really were working the price/volume tradeoffs. And we had nice order rates in the US, up 5. Asia was up 11. And we made some volume tradeoffs in Europe, and I’ll show you that later when I get to the Europe, the Plastics page. So overall total flow up 3% and consistent with what we were seeing up through 3 quarters year to date. So in the quarter, $21.5 billion of orders, about up 6%, a solid performance across the company.
+Next page is portfolio quality. The portfolio continues to be in great shape. On the left side are delinquencies greater than 30 days past due. You can see our consumer delinquencies have turned from 5.23% down to 5.08 from third to fourth quarter. We are seeing stabilization in the UK secured market, and that’s great news. And overall, if you look at commercial, delinquency levels are at a great low level. And we ended the quarter with no aircraft on the ground. So terrific performance in the aviation leasing business.
+On the utilization side, utilization remains at high levels, 87%. And you can see Penske, railcar, trailers, all up in the high utilization rates, and that continued. The outlook for utilization is good. We expect utilization to be flat to slightly up when you look at Q1. So the portfolio is in very strong shape.
+Now, before I cover the fourth quarter income statement, I want to highlight the performance of our businesses in the fourth quarter. And this chart does that. You can see on the left side the fourth quarter operating results and the great performances. And I’m going to take you through the details of those businesses in a few charts, but clearly we had a great performance across the portfolio, Infrastructure up 16% in profit, Industrial up 25, Commercial Finance up 18, Consumer up 2 1, Healthcare up 16, and NBC Universal down 7. So the total segment profit for the businesses, and that’s the run rate we’re seeing and the kind of momentum we had, was up 15.
+And then over on the right side I’ll start with the 15% from the businesses results that we set on the left side, so that’s the left column bar. And then I’m going to reduce it for the corporate items that we have to compare to in the quarter. The first box is really driven by two non-repeating items. You have the FAS 133 correction that added about $250 million of earnings into the fourth quarter last year. That obviously is not repeating this year in the fourth quarter, so we are comparing that. And we also had dispositions last year in the fourth quarter that did not continue, did not repeat, principally the sale of, at the time, Gecis, and now Genpact. Those two items, those dispositions not repeating and the FAS 133 correction not repeating, account for 10 points of V in the quarter. We also had some higher non-cash pension in the quarter. Pension was about a $100 million swing. And we had a higher Industrial tax rate in the quarter; it was up about 2 points, which is the primary driver for the other box. So that gets you down to the 1% for the quarter.
+So when you look at this page, we, I want to just reinforce we had strong business segment results, up 15%. The consolidated results at 55 cents were in line with guidance. And really importantly, this last quarter where the business results are impacted by the insurance dynamics. And what I mean by that is in the fourth quarter of ‘04, Insurance Solutions lost over $200 million after tax. But that loss which, and if we were comparing to it, it would be favorable this year, was moved into discontinued operations. But really if you look at the dynamics here in the quarter, Insurance Solutions and FAS 133 caused this dynamic, and just adjusting for the non-repeating items, the comparable earnings from the businesses were up double digit, up over 11%.
+Now let me turn to the income statement. Revenues at 40.7 billion, up 3% as Jeff mentioned, adjusting for the FAS 133 item that we talked about, and FX, and the number of days in the quarter, it’s up over 8% organic growth, and I’ll show you that later in some of the businesses results. Industrial sales at 25.5 billion up 4%. Financial Services revenue of 15.1, again here is where you compare to the items that I covered on the previous page; on a comparable basis that would be up about 5%. Net earnings at 5.8 billion, and EPS at 55 cents at expected, up 2%. The shares were down 1% from the buyback in the fourth quarter, and that gives you the EPS up 2. And then we just had a great cash flow year as everybody knows, and I’ll take you through the details of that but 21.6 billion for the year and 13.8 billion from Industrial CFOA, up 14%.
+Over on the right side are the earnings dynamics for the quarter, 5.7 billion last year. The strong results from the businesses that we talked about, and I’ll cover in a minute, offset by some of the one-time items from the previous periods, and then the increase in pension and other, including tax to get to the 5.8 billion this year. So 5 of 6 businesses up double digit in the fourth quarter and in line with expectations.
+Now, before I get to the businesses, I want to do one page to just show the details of continuing and discontinued operations. On the top line are the continuing operations for both the fourth quarter and the total year that we’ve covered already, the 55 cents and the $1.72. Now we had 2 entities that went into discontinued operations in the fourth quarter, Genworth and Insurance Solutions, and you can see both came in as expected in the quarter. Genworth, a 200 million in the fourth quarter positive, and Insurance Solutions, a 2.9 billion after-tax loss, which we announced when we made the announcement about the disposition of Swiss Re. So then you get down to the net earnings in total, and for GE going forward, we will be reporting on a continuing operations basis, and then we’ll also give the total discontinued for completeness of the financial statements.
+Now, on the bottom of the page what I want to cover are the tax rates and also share again the impact of discontinued operations. The top line in the box is GE ex-GECS, which would be referred to as the industrial rate. You can see through 3 quarters year to date about 25%. For the total year we ended at 23%, and in the fourth quarter we did have a capital repatriation under the American Jobs Creation Act. We repatriated about $1.2 billion of cash in the fourth quarter, which gave us a benefit, first to the third quarter year-to-date rate. But as I mentioned if you just look at the fourth quarter tax rates on Industrial they were up a couple points year over year in the quarter.
+And in the middle is GE Capital Services continuing ops. Well, if you take out the impact of Insurance through 3 quarters, the Financial Service tax rate was about 12% and ended the total year at 11%. So that was in line with our expectations. And then finally, the bottom line is if you did include the results of the discontinued ops, so you left Genworth and the Insurance Solutions including the loss in, for through 3 quarters year to date we’re at 19% rate on Financial Services, and 17% for the total year, in line with what we had expected. So that basically shows you the impact that insurance has on our rates. The higher taxed insurance coming out lowers the GECS tax rate. So overall total year continuing operations $1.72, up 10%. And that’s what we’ll be focused on in reporting going forward.
+Let me shift to cash flow in the quarter, and for the year we had a terrific year. You can see the 21.6. The GECS dividend is $7.8 billion. We restored the regular GECS dividend to 40% for the full year, and we had excess capital from some of the Genworth secondary that allowed us to dividend up about 3.9 billion from Genworth, giving us that $7.8 billion. And on the Industrial side, up 14%. 13.8 billion was a terrific performance for cash for our Industrial businesses. On the right side is the cash walk that we show you. We started the year with 3.2 billion of cash. CFOA of 21.6 from the left side of the chart. We paid our dividends, 9.4 billion. We bought back $5 billion of stock. We had about $2.8 billion of plant and equipment and we made $3.9 billion of acquisitions, net of dispositions. And the change in debt other was 1.7. We ended the quarter with $10.2 billion of debt and that debt was basically flat year over year. So a terrific cash performance, and it allowed us to return over $14 billion of cash to our shareholders with dividends and buybacks.
+So let me just close 2005, one summary before I turn into the results in the quarter and look at 2006 first quarter. Just an overall great year. Revenue up 11% across the enterprise. Double-digit earnings, up 12%. Great cash flow, up 42%. Return on total capital for the company was 16.2%, and that will rise to over 18% this year. All six businesses up double-digit earnings growth, great Vs, really terrific performances by the team, 8% organic growth across this portfolio which is a tremendous result with the growth focus we have in the company. Great cash flow, and if you look, go back to the page where I showed you the performance of the businesses in the fourth quarter, and you look at those Vs, that’s the confidence we have and the evidence we have about the strong momentum as we enter 2006. So we’re feeling pretty good about where we’re heading.
+And let me turn to 2006. Here is the first quarter operations outlook. Give you the guidance for revenues and segment profit for the 6 businesses. You can see continued strong performances in Infrastructure. Great performance continuing in Industrial. Commercial and Consumer Finance are set up for terrific quarters. Healthcare has a lot of momentum and very good broad global strength. And NBC Universal will be similar to what we saw in the fourth quarter. So when you put that portfolio together for the first quarter, right side revenues will be 37 to 38 billion, up 5 to 10%. Our earnings forecast at 3.9 to 4.1 billion, up 11 to 17, and EPS, 38 to 40, 15 to 21%. And a point about the tax rates for 2006, the estimates that we have in our forecast here would have an Industrial tax rate of around 24 to 26%, and a Financial Services tax rate of 17 to 19%. So first quarter guidance of 38 to 40 cents.
+And now I’ll take you through the 6 businesses and look at the fourth quarter and look at the first quarter. Start with Infrastructure, Infrastructure had a great quarter and a great year. Revenues at $12 billion in the quarter, up 11%, tremendous growth. Segment profit of 2.4 billion, up 16%. And for the total year up 14%. Aviation remained solid. You can see the revenues and the segment profits there on the bottom left. Service orders up 12, CSA backlog up 23, but good, revenue growth was up 5. It was really driven by the commercial engine, revenue up 21, military engines were down 4%. Op profit up 6, we had price and productivity that was offset by higher R&D for the GEnx spend. And we had late military spares orders that came in which pushed into first quarter.
+If you look at Energy, on track. Revenues up 14. Op profit up 10. Service orders were really strong, up 16%. The equipment backlog is also up 16%. They had a good orders, quarter. The revenue was driven by higher wind shipments. We had over 900 wind units versus 300 last year. Service revenues were up 13%. And the op profit was up 10%, a little less than the revenue growth, driven by great services growth, partially offset by some continued pressure in hydro.
+Oil and Gas had a great quarter, look at the revenue up 30, and the op profit up 60, and a great year, op profit up over 24%. Transportation continues to have a great year. 197 EVO locomotives shipped and a tremendous backlog, as I said, almost two years of production in the backlog. And the financial services verticals continue to perform very well. When you look at Infrastructure in total and you turn to the first quarter, we expect to continue to see a very good performance out of Aviation, both equipment deliveries and services. Energy, we’re expecting to be about flat. They’ve got a tougher comparison in the first quarter. Units will be down from 20, from 34 gas turbines this year to about 22 next year in the quarter. And we had no repeat of some terminations last year so they’ll be about flat, but they are on track for the total year, up 10 to 15. Financial services verticals continue to be strong, and Oil and Gas and Transportation have a strong quarter. So overall segment profit for the quarter up 10 to 15.
+Look at Commercial Finance, also had a great quarter and a great year. If you look here, the revenues at 5.2 billion on a reported basis, down 3. If you just adjust for some, 2 dispositions they had of some Canadian retail business that would be up 3%. You can see the segment profit up 18%, very strong. We had strong volume growth in all the business. Capital Solutions volume was up 15 in the quarter. We’re seeing a lot of economic activity, Corporate Financial Services up 14, Real Estate up 30. So a lot of economic activity. And that’s driving good volume growth. If you look in the quarter, Capital Solutions had very good core growth. They had some increased loss provisions and lower gains resulting in the op profit only being up 1%. But for the year they were up 14%. They had a tremendous year, and they are well positioned with their current asset growth up over 8% in the quarter for the first quarter for 2006. And Real Estate had a great performance overall, only up 4 in the quarter, but we had a lot less sales of assets in the fourth quarter versus the fourth quarter prior year, and overall for the year the Real Estate team was up 14%, so a tremendous performance. And if you look, we had great growth in Healthcare, the vertical was up 23%, and the Corporate Financial Services was up over 50% for this segment for the fourth quarter. So the portfolio is in good shape. Non-earnings, delinquencies and write-offs are all down versus the prior year. And we expect to see a pretty good 2006, and it will start off in the first quarter. Capital Solutions should be up 10 to 15, and real estate will be up over 20, and the overall segment up about 15% in the first quarter.
+Shift to Industrial, great results in the quarter, terrific performance overall. Revenues at 8.4 billion, up 1%. I think the first point on the top right is important here. There were 5 less days in the quarter, the fourth quarter of 2005 versus the fourth quarter of 2004, and that impacted the top line by about 6 points. And you can see we’ve adjusted the revenues down in the bottom left for that impact of just having less days in the quarter to try and give you a comparable about run rates and what it means for the future. We had a great segment profit result here, up 25%. Strong C&I performance. Price continued to exceed material inflation, and we had a 4% total cost productivity here, which basically fell through to the bottom line. Our Appliance business continued to gain share at the high end. Profit was up strong double digit. And we had great performances in our industrial business and our supply business, so a good performance at C&I.
+Plastics, you can see the revenue up 4, adjusted, and op profit up 1. We are really managing that price and volume/inflation tradeoff. The average daily order rates were solid. US was up 5%, Asia was up 11, Europe continues to be soft for us. China is great, it does really good growth. And we made some tradeoffs here. To manage our margins, we raised our price in November. We lost some volume in the fourth quarter, down about 2 to 3%, but price was up about 6%. And we were hit with some inflation in natural gas and operations in the quarter. However, when you look at the first quarter, we’ve got a forecast for Plastics to be up about 10%. We need to see the strength in US and Asia, and we want to have price greater than inflation. We feel pretty good about that. And volume has got to be up. And the January ADOR is up 11% year to date, so we’ve got some good momentum there. Equipment Services had a great quarter. You can see the results and we expect them to continue to have a good quarter. So if you look overall at the segment profit here for the first quarter should be up 15 to 20%.
+Let me turn to NBCU. NBCU had a tougher fourth quarter, but there is a lot to be positive about here. Revenues down 3, really driven by the network, partially offset by cable. Segment profit down 7, it’s pretty much the same dynamics. You can see that down in the bottom. If you look at the quarter, the earnings trends in prime and stations and TV production were similar to what we saw in the third quarter. Film also had some tougher comparisons in the fourth quarter but overall had a great year. Op profit for the film business was up over 90%. And if you look at the combination of network and film in the fourth quarter, that was partially offset by good growth in entertainment cable, up 25%, improvement in info cable benefits from MSNBC restructuring, and a rebound in the Telemundo where earnings were up 17%. And you can see the ratings growth we have there. So as you look to 2006, we’re confident about the earnings outlook of $3 billion for NBC Universal. We’ve made progress with prime ratings. We ended Q4 with a 3.2 rating, which was up from the second and third quarter levels of 2.8 and 1.9. That’s nice progress. The Thursday night strategy is working. We continue to see ratings strength from Earl and the Office. We’ve had a lot of positive news there. And lastly, just a close on a topic that’s been reported about a lot. We feel great about the execution on King Kong. The movie has already grossed over $500 million worldwide. It’s on track to get close to $600 million, and we’re positioned for a good return on the project, so feel great about that as well. So total year for the NBC team looks at about $3 billion in the first quarter. Outlook looks similar to what we saw in the fourth quarter. Segment profit down at around 10%.
+Let me close on the final 2 businesses. Healthcare had a great quarter. If you look, revenues at 4.5 billion, up 5%, organic revenue growth here was up at 8%, segment profit up 16%. And we had broad strength here across the businesses. The technology business, op profit was up 16. The biosciences business, op profit was up 17. The op profit rate for the quarter was 22%, up 2 points, so nice margin growth. Solid organic growth in the quarter from the DI business, ultrasound, healthcare IT, and even more positively when you look at the orders, strong equipment orders up about 7%. And that’s really driven by our new product strategy and our technology strategy. I mean our VCT is really doing great. In the marketplace we had over 190 units in the quarter versus 55 last year. The total year was over 600 units. The High-def MR is 170 units versus 70 last year. Vivid i and Ultrasound, 330 units versus 55. So the technology focus is winning here, and our equipment and services backlogs are up 13%. The first quarter outlook looks really good with both biosciences and technology delivering a nice profit growth.
+And then finally on the right side, Consumer Finance, they also had a great quarter. You can see the numbers, revenue up 14, op profit up 21. Great core growth really was the driver here. Assets were up 11%, ex-FX, so we’re hurt by the stronger dollar here in the quarter, and strong core growth up 10% in this business. And pretty good broad-based growth. You look at the Americas were up 30%, Europe was up 35, Australia was up 40. Credit quality is improved. The 30-day delinquency declined from the third quarter, as I said, and write-offs as a percent of E&E were down 10 basis points year over year. So one item that I’d highlight here is in the fourth quarter, bankruptcy impact in the US, we did have gross write-offs of $157 million, but net of reserves, which we already provide for based on these delinquent accounts that were probably going to go bankrupt in client share, it was about a 25 million after-tax impact in the fourth quarter and the total year was about 50. So we managed our way through that as well as could be expected. So first quarter for the Consumer business looks pretty good. Based on the asset growth and the global strength we have, segment profits should be up about 15%.
+Now, one final page before I turn it back to Jeff. When you look at the portfolio and you look at the strength of the company today, with the strength of cash in 2005 at 21.6, we’re estimating 2006 cash flow to be about 24 to $25 billion. We’ll have 10 to 15% CFOA growth. The Industrial cash will grow in line with earnings. We’ll continue to have the Financial Services dividend of 40% of earnings. Plus we’ll release capital, excess capital from insurance proceeds. And because of that we’ve had great financial flexibility. We were able to grow our dividend for the 30th consecutive year to $1 a share, up 14%. The buyback, we did $5 billion last year. We were originally going to do $3 billion. We’re taking the buyback in ‘06 up to 7 to $9 billion, and the whole program up to 25 billion through ‘08, so that’s going to be about a point and a half reduction in shares again in 2006. And we’re investing for growth. We have enough capital to invest for growth in both our Financial Services and our Industrial businesses, and you’ll see us continue to make very strategic acquisitions to build out the portfolios. So great financial flexibility. Let me turn it back to Jeff.
+Jeffrey R. Immelt, Chairman and Chief Executive Officer
+Thanks, Keith. Just to wrap up here. First on the revenue side, we have talked about driving the company to achieve consistent top line success and just gives you a sense of how we think about it. We view the economy in 2006 as more or less the same as 2005, and we think that will generate about $4 billion of growth for the company. Developing markets momentum for us is just substantial, and we, as we look forward, have great backlogs and good momentum in those regions. Services and equipment backlog again, we’ve got great momentum in both CSAs and equipment backlog, 3 to $5 billion of incremental growth. We think we’ll get there. We’re now running about $3 billion of incremental growth out of the Imagination breakthroughs every year. And when you look at both Financial Services and Industrial acquisitions less dispositions, we think that on balance will be about 3 to $5 billion of incremental revenue growth in 2006 as well. We feel like we’ve got a decent sense of where the growth is going to come from and how we look at where we’re going for the year. So that’s really been the output of a lot of focus we’ve had, not just in the last 12 months but over the last 3 or 4 years in terms of making growth process. Shifting gears just to wrap up on 2006 financials, and we talked about this in December of about $165 billion in revenue, net income between 20.2 and 21.1, up 10 to 15% on an earnings basis, on an EPS basis, up 13 to 17%. And as Keith said, very strong cash flow from operating activities.
+Good momentum and visibility into 2006. Portfolio quality from a Financial Services standpoint in great shape. We think the initiatives around growth are really working for us right now, and again, we’ve said over and over again that it is a great thing for the company to get this insurance repositioning behind us. This has dampened our performance, and we feel like as you look forward with the company, we just have great strength and momentum. That’s really looked, reflected when you look at the quarterly guidance that we are giving. We get off the year on a very strong start, and on a total year probably even slightly better than what we had thought in the fourth quarter last year. So good, good view on the total year.
+Just to wrap up strong 2005 performance, and a fourth quarter that’s in line with what our expectations are, consistent and sustainable double digit earnings growth into 2006 and expanding ROTC at the same time. Good cash flow driving financial flexibility. Solid AAA, great culture, great team, and again, as you look at 2006 we think we’re on track for an excellent year in 2006.
+So Bill, with that, I’ll turn it back to you and let’s take some questions.
+William H. Cary, Vice President, Corporate Investor Communications
+Great, thanks very much. Rachel, at this point let’s open the line for Q&A if you would, please.
+Question-and-Answer Session
+Operator
+Absolutely, gentlemen. Ladies and gentlemen again to ask a question please press “*” “1” on your touchtone telephone. If your question has been answered and you wish to withdraw your question please press “*” “2”. I would ask all participants to please limit yourself to one question. Our first question comes from the line of Jeff Sprague with Citigroup.
+Q - Jeffrey Sprague
+Thanks, good morning, everyone.
+A - Jeffrey R. Immelt
+Hey, Jeff.
+Q - Jeffrey Sprague
+On the, could you just spend a little more time on the anomaly with the days? And I realize you just highlighted it in flow, which is probably more relevant. When you think about the lumpiness of the equipment businesses it may be less relevant, although I would think it would have impacted service and some other things. So if you could just tell us about what it was about how you closed the year that the days were different? Then maybe color on some of the other segments that you didn’t highlight on the call?
+A - Keith Sherin
+Sure, sure, Jeff. It’s, it wasn’t how we closed the year. Basically just our fiscal calendar when you divide into the four quarters, we had five more days in the fourth quarter of 2004 than we had in the fourth quarter of 2005. And so that’s the only adjustment we’re talking about. It’s easy to adjust it in the flow. And it probably also did have an impact in our services businesses. We’ve got some idea of what that was, but it wasn’t really that material. And then also in the Financial Services businesses. So I think we’ve tried to say that overall in the quarter 3% top line reported. But when you look at it organically across this portfolio, we’re at 8% again.
+Q - Jeffrey Sprague
+And would you describe that as…
+A - Keith Sherin
+Which is 5 days.
+Q - Jeffrey Sprague
+Would you describe that as 8 in both Industrial and Financial or is there a little bit of a difference between the two in the quarter?
+A - Keith Sherin
+Yeah, it’s pretty close. It’s 8 Industrial, and it’s 9 in Financial.
+Q - Jeffrey Sprague
+And then just one business question, and I’ll pass it. You, on energy you actually highlighted hydro as kind of the margin issue. Previously it was wind that was kind of in the price cost struggle. Should we take from that that wind is really closing that gap and can you give us a little bit more detail on what’s going on in hydro?
+A - Keith SherinIf you look at wind we feel great about the business position. I mean we’ve got a record backlog. The pricing is up. We continue to have incredible demand. I mean we are sold out, and we just can’t fill the orders. And we do expect to have a significant profit improvement in 2006 from wind with those deliveries. In hydro, we just continue to see cost pressure from some of the global projects that the team had taken, and we’re working our way through that. I don’t think it’s going to be something that’s material in 2006.
+Q - Jeffrey Sprague
+But on wind you are, given the strength of demand, I doubt if you are reopening contracts, but have you been able to price much better on this forward-looking business?
+A - Keith Sherin
+Jeff, the new pricing is significantly better. You know, we honored the old contracts that we inherited, but that’s really done now. And we’re going to make good money on wind this year.
+Q - Jeffrey Sprague
+Great. Thanks a lot.
+A - Keith Sherin
+Great.
+Operator
+Thank you, sir. Our next question comes from the line of Nicole Parent with Credit Suisse First Boston.
+Q - Nicole Parent
+Good morning guys.
+A - Jeffrey R. Immelt
+Hi, Nicole.
+Q - Nicole Parent
+Can you, just one question on the tax rate. I guess, could you just explain a little bit why repatriation would cause it to go down? And then I guess the follow-up would be what is the tax rate guidance for 2006?
+A - Keith Sherin
+Sure. You know, we, we took a look at our globally reinvested foreign earnings, and the majority of them are continually permanently reinvested in productive assets overseas and supporting the growth of the company globally. But we had about 1.2 billion of earnings that were overseas that we thought we could repatriate that had been provided at rates of above the repatriation rate of 5%. And so we were able to bring those, the $1.2 billion of cash back and get a benefit by having the rate of tax be only 5% in accordance with the American Jobs Creation Act. So it was a previously provided rate above that number.
+Q - Nicole Parent
+Okay.
+A - Keith Sherin
+So that’s how you get that. And then for the 2006 rate I had those on the chart where I talked about the outlook for 2006. We’re talking about 24 to 26% on the Industrial rate in 2006, and 17 to 19% on the Financial Services rate. It’s on page 13.
+Q - Nicole Parent
+Okay. And just one follow-up on Healthcare. I guess is the disconnect between the reported revenue growth of 5% and organic 8% largely FX? And then in light of the Deficit Reduction Act that was passed in December which causes for like a $3 billion cut to imaging reimbursement, how would that impact the business as you look in ‘07 and ‘08?
+A - Keith Sherin
+What I would say Nicole is the, I think FX was like 2 points…
+A
+We also had disposition.
+A - Jeffrey R. Immelt
+1 point of disposition that was part of I think instrument turn that we sold this year, the dental x-ray business. And what I would say is, when you look at the proposed Healthcare Act, again it’s largely out-patient focused. And that’s been a business that’s been slow for us really in the last couple years. And so I think when we look at our DI backlog and what we think is going to happen around the world, we still think that’s going to be revenue in the mid single digits going into the future.
+Q - Nicole Parent
+Great. Thank you.
+Operator
+Thank you, ma’am. Our next question comes from the line of Dave Bleustein with UBS.
+Q - David Bleustein
+Good morning.
+A - Keith Sherin
+Hi, Dave.
+Q - David Bleustein
+Can you help me understand some of the variability of the GE Capital tax rate and maybe provide some color as to the tax locations where the income is earned?
+A - Keith Sherin
+Well, the variability of the rate we, we had 11% for the total year. It was in line. We had 12% through the third quarter year to date. So I didn’t have a lot of volatility in the fourth quarter. We did have some benefits from some commercial finance structured transactions in the quarter. Other than that it’s mostly from continued reinvestment of our overseas earnings at lower than the US tax rates.
+Q - David Bleustein
+Okay, did you calculate 6.6% for the fourth quarter for GE Capital?
+A - Keith Sherin
+7.1%.
+Q - David Bleustein
+Okay, 7.1. Okay, and then why is the tax rate higher in 2006?
+A - Keith Sherin
+Well, there are some things that, if you remember in 2005, we got a lot of benefits from the American Jobs Creation Act that were kind of one-time in the aircraft leasing business, and those have affected the rates in Capital and in GECS. Those don’t repeat in 2006. We do get an ongoing benefit from our releasing operations, but the one-time transfers did not repeat. We also had some one-time transactions in the commercial finance business in Europe that won’t repeat, and those would be the 2 primary drivers.
+Q - David Bleustein
+Okay, terrific. Thanks.
+A - Keith Sherin
+Okay, thanks, Dave.
+Operator
+Thank you, sir. Our next question comes from the line of Deane Dray with Goldman Sachs.
+Q - Deane Dray
+Thank you, good morning.
+A - Jeffrey R. Immelt
+Hey, Deane.
+Q - Deane Dray
+I don’t have a tax question. The, what I do, what I would like to ask is the potential for GE increasing their exposure to nuclear energy and what the opportunities are there near-term, longer term, and might that create any potential conflicts with the SRI groups or is that not an issue?
+A - Jeffrey R. Immelt
+You know what I would say, what I would say, Deane, is that we really can’t comment on any potential transactions. We are in the business today. It’s a good business and a healthy business, and we are in our existing business reinvesting back into new technology, and so regardless of what might happen in the future, we like the position we’ve got in nuclear business today. And beyond that I just can’t comment on any potential transactions.
+Q - Deane Dray
+Sure, I appreciate that. And then on NBC, we’re about to hit the Olympics and this would be, if you could just review with us what the economics are and how that will affect the first quarter, and what the potential of cross-selling synergies are for these Olympics.
+A - Jeffrey R. Immelt
+What I would say, Deane, is the, the Olympic revenue that we’ll see in the first quarter is what, 650 to…
+A - Keith Sherin
+750.
+A - Jeffrey R. Immelt
+750 for the quarter. It’s about break even in total for the, for NBC. I would say on the top sponsorship program, the incremental revenue into Torino was slight, probably in the 50 to $100 million range. That builds by the time we get to Beijing to be probably somewhere between 500 million to a billion. Torino we got working on later. Beijing we got kind of full thrust going.
+Q - Deane Dray
+So this is more of a revenue opportunity rather than margin.
+A - Jeffrey R. Immelt
+Exactly. This is, when I say that I talk about sales. And there’s things like portable power, mod space, incremental health care, portable units, things like that.
+A - Keith Sherin
+And overall, including all the affiliate contributions and the sub fees that we get in the years when we’re not in the Olympics, this is a very profitable franchise for us.
+Q - Deane Dray
+Great, thank you.
+Operator
+Thank you, sir. Our next question comes from the line of Robert McCarthy with CIBC World Markets.
+Q - Robert McCarthy
+Good morning, gentlemen.
+A - Jeffrey R. Immelt
+Hey, Rob.
+Q - Robert McCarthy
+Could you talk about kind of the weakness in Plastics in Europe and is there any specific end market that impacted that?
+A - Jeffrey R. Immelt
+You know what I would say there, Rob, is I’d say the underlying economic growth in Europe is not that bad and, as we have driven growth or have driven response to inflation in Plastics, we’ve really had a strong focus on maintaining margins. And so my sense is that we might have lost a little market share in the fourth quarter in Europe, and I think the underlying growth in Europe has been pretty consistent with what we’ve seen throughout the year in terms of the automotive industry and things like that. US business was solid, consistent with what we’ve seen here, up 5%. And China continues to really be strong.
+Q - Robert McCarthy
+All right. And then on the selling days, I mean the, excuse me, the 5 less shipping days in the quarter. How should we think about it? Was the impact in the first quarter, in fact, did they have more shipping days in that quarter?
+A - Keith Sherin
+Right.
+Q - Robert McCarthy
+And that probably affected the organic growth rate in that quarter?
+A - Keith Sherin
+It affected the overall revenue fee, yes. Absolutely.
+Q - Robert McCarthy
+How should we think about that in terms of the first quarter?
+A - Keith Sherin
+And that’s why I’d taken a look at the total year numbers that we’re dealing with here, are the right way to think about this.
+Q - Robert McCarthy
+Thank you for your time, gentlemen.
+A - Keith Sherin
+All right, Rob.
+Operator
+Thank you, sir. Our next question comes from the line of Peter Nesvold with Bear Stearns.
+Q - Peter Nesvold
+Hi, guys. I guess first, a quick question on the capital side. It looked like in Capital Solutions and Real Estate there was at least a modest disconnect between volume and revenue growth. You mentioned some of that is FX and maybe some asset dispositions. Can you talk more specifically though, where are you leaning on the securitization market a little bit more, number 1? And number 2, what’s the magnitude of the impact to the financials?
+A - Keith Sherin
+Well, actually if you look at it, securitization gains in commercial finance in the fourth quarter of ‘05 were about $29 million and they were down $50 million from the fourth quarter of ‘04. So again, this is a, a dynamic in the quarter. There were less gains. There were less asset sales in the business, and I think we’re pretty well positioned here, Peter.
+Q - Peter Nesvold
+Okay.
+Q - Ann Duignan
+And a follow-up from Ann Duignan, thanks.
+A - Keith Sherin
+Hi, Ann.
+Q - Ann Duignan
+I just wanted to follow up on aerospace. Have you already experienced a mix shift because of the strength of OEM assembly, or will we see a little bit more shift towards OEM products in ‘06 and what impact is that going to have on profitability?
+A - Keith Sherin
+Again, I would say that you’re going to see more OEM shift next year, and so, what I would predict is that we’ll have a lot more revenue, that the operating profit rate expansion will be less because service as a percentage of the total will be less. But you’ll still get probably - we’ll still get some op profit expansion because of productivity in other items. But I would say as you look at ‘06, ‘07 and out, you are going to get more product sales.
+Q - Ann Duignan
+Okay. Thank you.
+A - Keith Sherin
+Yeah.
+Operator
+Thank you. Our next question comes from the line of John Inch with Merrill Lynch.
+Q - John Inch
+Thank you, good morning.
+A - Keith Sherin
+Good morning, John.
+Q - John Inch
+Hey, Keith, the 4% Industrial revenue growth in the quarter versus the 8% that you mentioned, what are the component walk-throughs to bridge that, like say FX or dispositions, that sort of thing?
+A - Keith Sherin
+For the total company?
+Q - John Inch
+No, just for the Industrial company.
+A - Keith Sherin
+For the Industrial company, I don’t have an organic walk for that, John. We’ll have to get you that.
+Q - John Inch
+Do you know what roughly? I’m just trying to understand what, I think in mid December you guys thought total revs were going to be about 42 plus, right? So they are a little bit lighter. I’m just curious how much maybe FX accounted for that.
+A - Keith Sherin
+FX is about a point on the Industrial side. I think the price/volume trade-off was a bigger factor in the Industrial segment. It was probably a couple hundred million dollars of plastics that we didn’t take. John, what I would say is it’s probably about a billion dollars. It’s about 300 or 400 million of FX. It’s probably, and I’m talking total company now, John, it’s probably about $400 or 500 million of less asset sales and financial services, and then plastics would be the remainder. So, what I would say is that I think as we finish the year, those were probably the puts and takes around revenue growth.
+Q - John Inch
+Right. And then just on commercial financial, again I apologize if you’ve mentioned this, but how do you go to 5.2 this year versus 6.8 last year? And what’s the difference and what’s going on in this corporate items and eliminations line? Is there something that goes from one bucket to the other?
+A - Keith Sherin
+I think that’s maybe discontinued operations. We took other Insurance out of Commercial Finance and it’s in Corporate, John.
+Q - John Inch
+Okay.
+A - Keith Sherin
+I think that’s the big piece.
+A - Jeffrey R. Immelt
+That’s the run up, John.
+A - Keith Sherin
+You are really doing 4290 versus 4449 next year.
+Q - John Inch
+Okay. Great.
+Operator
+Thank you, sir. Our next question comes from the line of Don MacDougall with Banc of America Securities.
+Q - Donald MacDougall
+Good morning, everyone.
+A - Jeffrey R. Immelt
+Hey, Don.
+Q - Donald MacDougall
+Just a follow-on on John’s question. I want to make sure I understand this, but I think in December you had guided total company revenues to about $151 billion, and we finished up, just shy of 150. That billion dollar change, and you had cited for-ex, financial services, and plastics, did that occur in the last 2 weeks of December?
+A - Jeffrey R. Immelt
+No, I think Jon, in the, at the end of the year we never really know exactly where the FX is going to occur and what the asset sales, and I would say the toughest one for us to predict is going to be where the financial service revenue goes. So I’d say that’s where most of the volatility took place.
+Q - Donald MacDougall
+Okay. And looking into the first quarter, Jeff your guidance suggested 15 to 21% year over year. That’s actually a little more front-end loaded than we typically see from GE. Is that a reflection of, maybe you could give us a sense for where that extra confidence is coming from?
+A - Jeffrey Immelt
+Jon, I think if you look in, both in terms of the Infrastructure businesses and Services and then Financial Services, we just have built backlog. So we are shipping out of backlog. It gives us good confidence and pretty high visibility vis-à-vis how we look at the year.
+Q - Donald MacDougall
+One final one, Jeff, and it’s actually Don, but the Plastics price/volume trade-off that you’ve talked about, is that, do you think, at the end? In other words, you’re basically done giving up the volume because you think there is more pricing power out there, or is that something that we should look for more of in 2006?
+A - Jeffrey Immelt
+What I would say, Don, is the, it’s just been a business that’s been reasonably volatile, from a standpoint of both natural gas and benzene. And I think we feel very comfortable that we covered benzene. We had, natural gas went up in the fourth quarter of the year. We went for another price increase to cover that. So I just think it’s one of the things we are going to have to continue to manage, but we’re pretty good at it.
+Q - Donald MacDougall
+Thank you.
+Operator
+Thank you, sir. Our next question comes from the line of Scott Davis with Morgan Stanley.
+Q - Scott Davis
+Hey, good morning, everyone.
+A - Jeffrey R. Immelt
+Hey, Scott.
+A - Keith Sherin
+Hey, Scott.
+Q - Scott Davis
+I just wanted to get a refresher on your acquisition strategy for ‘06. And I think the catalyst to the question is the Arden Realty deal that you did, maybe announced a month ago. It seemed a little larger, maybe a little bit pricier than some of the things that we had talked about in the past. So maybe we can get a refresh and a little background first of all, why Arden, particularly at this price, and also what should we be expecting in ‘06?
+A - Jeffrey R. Immelt
+Well, Scott, first on the Industrial side, we still think 3 to $5 billion for the year of things that are on strategy with good returns. We think in Financial Services, we want to be growing globally in Financial Services. And Real Estate, we’ve sold assets, we’ve added assets as time went on. When we looked at Arden we felt like it gave us a good platform in terms of Southern California and something we could build on. I think if you look at the transaction, we also sold I think about 20% of the properties at a price higher than what we paid for the company in general. So I think it, that’s a pretty good validation that the price we got was pretty, was not bad, vis-à-vis where the world of real estate is. So we’d like to grow assets 8 to 10% in Commercial Finance this year. That’s what our game plan is. I think it’s going to be probably a little bit more outside the United States than inside the United States, but we think that kind of opportunity is out there for us.
+Q - Scott Davis
+Okay. And as an unrelated follow-on, the 7 to $9 billion share repurchase for ‘06, what would you estimate we’ll actually be able to reduce the share count? Basically saying, how much dilution from options and stock grants are you anticipating?
+A - Jeffrey R. Immelt
+Scott, could you just hear Keith? Sounds like he’s…
+Q - Scott Davis
+I could not.
+A - Keith Sherin
+Can you hear me now? I’m sorry, Scott. We’ll do a quick swap here with Bill. We’re going to buy back 7 to 9 billion, and it will reduce the share count on average for the year about a point and a half.
+Q - Scott Davis
+Okay. Fair enough. Thanks, guys.
+Operator
+Thank you, sir. Our next question comes from the line of Tony Boase with AG Edwards.
+Q - Anthony Boase
+Thanks. I wanted to clarify something on the 5 less days. You mentioned that on the order side for the quarter, orders were up 6%, I think, for the total company. If you adjust for the five less days, what would we have experienced?
+A - Keith Sherin
+Yeah, that’s including an adjustment for that impact. That’s an ADOR.
+Q - Anthony Boase
+Okay. That’s an ADOR? And then just on the, on the flow businesses, it looks like orders have kind of trended down the past couple quarters. You were at 5% in the third quarter, now it’s 3% for the fourth quarter. Is it strictly a plastics issue or is there anything else going on that’s maybe impacting that?
+A - Keith Sherin
+What I would say, Tony, is, we think the economy has been pretty good. I’d say it’s probably been as much plastics as any other single driver in that business, and I’d say in virtually all those businesses kind of we have really driven hard on the pricing front and have, the margin rates kind of reflect that, particularly when you look at Consumer and Industrial. So I mean wouldn’t read really in terms of the broader economy, I wouldn’t read too much into it. I think it’s been pretty consistent throughout the year.
+Q - Anthony Boase
+And then just a question on provision for losses, it came in at 886 in the quarter. That seemed a little bit light given that really delinquencies haven’t changed that much since the third quarter.
+A - Keith Sherin
+Year over year, if you remember inaudible.
+A - Keith Sherin
+Hi, are you there?
+Q - Anthony Boase
+I’m here. I couldn’t hear the answer.
+A - Keith Sherin
+Okay. I don’t know. We’ve got a problem with our microphones here. Hold on one second okay.
+Q - Anthony Boase
+Thanks.
+A - Keith Sherin
+Sorry, I’m swapping with Bill again here. Tony, what I said was if you look at the provision year over year, last year the fourth quarter, the specific reserves were $260 million for USAir/ATA and ATA. And that more than accounts for all the difference between the provision year-over-year. We had huge reserves that we added for those specific accounts last year, and we didn’t need to do that again this year.
+Q - Anthony Boase
+So it’s better to look at on a year-over-year as opposed to a sequential basis then.
+A - Keith Sherin
+Well, I think it’s better to look at it on the total year, actually.
+Q - Anthony Boase
+Okay. Thanks.
+A - Keith Sherin
+All right. We’re going to do one more.
+Operator
+Okay. And our final question today comes as a follow-up from the line of Nicole Parent with Credit Suisse First Boston.
+Q - Nicole Parent
+Sorry, guys. Just….
+A - Keith Sherin
+Hi, Nicole.
+Q - Nicole Parent
+Two follow-ups, one would just be on the split of Energy between equipment revenues and service. You gave us the order number. And I guess the second one would just be what did Water sales and profit do in the quarter?
+A - Keith Sherin
+On Water, we had revenue of about 480, up 17 percent. The op profit was about 36 million. And I’ll get Bill to give you the split of equipment and services for Energy. I don’t have it here.
+Q - Nicole Parent
+Okay. Do you know what the turbine shipments were in the quarter?
+A - Keith Sherin
+Yeah, turbine shipments, do you know what it was? About 34?
+A - Keith Sherin
+I think it was about, yeah.
+Q - Nicole Parent
+Okay.
+A - Keith Sherin
+Hang on one sec. I think we’ve got it here.
+Q - Nicole Parent
+Oh, perfect.
+A - Keith Sherin
+I have 34 versus 28 last year, Nicole.
+Q - Nicole Parent
+Okay. Thank you.
+A - Keith Sherin
+All right. And I think we’re tracking to about 130 for 2006. It’s 130 for the year, yeah. With something like 22 in Q1. And then it builds throughout the year. multiple speakers
+Q - Nicole Parent
+Thank you.
+A - Keith Sherin
+Okay.
+William H. Cary, Vice President, Corporate Investor Communications
+Okay, Rachel, thanks very much for the questions and thanks everybody for dialing in today. Sorry about the snafu with the sound here. Hopefully you guys were able to hear all the questions. Obviously, the transcript will be available later today as well. JoAnna and I are around all day. If you guys want to go through any more questions, please feel free to give us a call. And with that we’ll sign off. Thanks very much.
+Operator
+Ladies and gentlemen, this concludes your conference call. Thank you for your participation today. You may now disconnect. Have a wonderful day.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

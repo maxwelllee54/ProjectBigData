@@ -1,0 +1,356 @@
+HSBC Holdings Plc (NYSE:HSBC)
+Q3 2015 Earnings Conference Call
+November 02, 2015 3:30 AM ET
+Executives
+Douglas Flint - Group Chairman
+Stuart Gulliver - Group Chief Executive Officer & Executive Director
+Iain Mackay - Executive Director & Group Finance Director
+Analysts
+Raul Sinha - JPMorgan
+Chintan Joshi - Nomura
+Chirantan Barua - Sanford
+David Lock - Deutsche bank
+Alistair Ryan - Bank of America
+Rohith Chandra-Rajan - Barclays
+Michael Helsby - Merrill Lynch
+Manus Costello - Autonomous
+Stephen Andrews - UBS
+Ronit Ghose - Citigroup
+Martin Leitgeb - Goldman Sachs
+Chris Manners - Morgan Stanley
+Operator
+Good morning, ladies and gentlemen, and welcome to the Investor and Analyst Conference Call for HSBC Holdings Plc's Earnings Release for 3Q 2015. For your information this conference is being recorded.
+At this time, I will hand the call over to your host, Mr. Stuart Gulliver, Group Chief Executive.
+Stuart Gulliver
+Thanks very much. Good morning from London and welcome to our third quarter results call for analysts and investors. With me in the room is Iain Mackay, who is our Group Finance Director. We’ve also got Douglas Flint, our Group Chairman. He is on the phone in Shanghai.
+So let me start by pulling out a few key highlights. Our third quarter performance was resilient against a tough market backdrop. Reported profit before tax in the third quarter was 32% higher than the third quarter of 2014, but adjusted profit before tax, was lower by 14%. The drop in adjusted profit before tax was mainly due to a 4% drop in revenue. In particular, the stock market correction in Asia affected principal Retail Banking and Wealth Management. Revenue was also lower in Global Banking and Markets.
+Despite slowing growth in the mainland Chinese economy and market volatility in Asia, there has been no visible impact on our Asian credit quality in the quarter, and we've included some facts and figures on our business in mainland China in the appendix.
+Operating expenses were up against the third quarter in 2014 as expected, although our cost reduction programs have started to gain traction. We continued to implement the strategic actions we set out at our Investor Update, and in particular, we reduced risk-weighted assets by a further US$32 billion in the quarter, bringing the total reduction to $82 billion since the start of the year.
+Iain will shortly give a detailed overview of our financial performance, and then I'll give a progress report on the actions from our Investor Update. Firstly, Douglas has a few comments on the Group headquarters review.
+Douglas Flint
+Thanks very much, Stuart. As you know, in April, the Board asked management to start work to look at where the best place is for HSBC to be headquartered. I should stress that although management is undertaking the review on the half of the Board, it is of course the Board that will make the final decision.
+The purpose of the review is to assess the best location for the holding company to maximize the present and future strategic opportunities of the Group and long-term shareholder value. This is therefore a decision based on long-term perspectives rather than short-term factors. A significant amounts of work has already being carried out on this review since April supported by a number of external advisors, but there is still a considerable amount left to do. As our discussions have progressed, further information has been requested by the Board on topics that we had presented on the fresh areas of interest. And while we set a target for completion at the end of 2015 at the time of our Investor Update, this is a self-imposed deadline that we will move if the Board requires further work to be performed.
+So an announcement will be made when the Board finally makes its decision, otherwise a further update will be provided at the time of our full-year results announcement. Stuart, back to you.
+Stuart Gulliver
+Thanks Douglas. So Iain, will now take every one through the numbers.
+Iain Mackay
+Thanks Stuart. Reported profit before tax of third quarter was $6.1 billion, up 32% from the third quarter of 2014. The increase in reported profit before tax was mainly due to a net favorable movement in significant items; fines, settlements and customer redress where down by $1.4 billion, and we benefited from favorable valuation movements in our debt of $926 million.
+Our adjusted profit before tax was $5.5 billion, down by $912 million or 14%. You'll recall that the adjusted measure excludes the period-on-period effects of foreign currency translation differences in significant items. You'll find more detail in these adjustments in the appendix in the investor deck.
+Looking at some key metrics for the first nine months of the year. The annualized reported return on average ordinary shareholders equity was 10.7%. The annualized reported return on average tangible equity was 12.1%. And on an adjusted basis, we had a negative jaws of 4.1%.
+You'll notice that jaws has worsened since the first half of the year when we had a jaws of negative 2.9%. Thus we are not changing our positive jaws target and have a very short focus on cost management, it is clear we will not accomplish positive jaws for the full-year. The main driver of the deterioration jaws is the fall in revenue in the third quarter. While revenue fell in the quarter, we also slowed our cost growth. Savings are beginning to flow to our cost runway but a great deal remains to be achieved. More of this in a few minutes.
+Then next few slides look at the third quarter relative to last year's third quarter, then I'll summarize the nine month performance. Adjusted revenue was $657 million or 4% lower than the third quarter of 2014. This was mainly due to lower revenue in both principal Retail Banking & Wealth Management and Global Banking & Markets.
+Principal Retail Banking Wealth Management revenue was down due mainly to a fall in wealth management income in Hong Kong. This was caused by the stock market correction in Asia, which reduced the asset valuations in our life insurance manufacturing business. Overdraft fees in the U.K. fell again due to repricing and the creation of a text message service to tell our customers when they go overdrawn.
+Global Banking & Markets’ revenue was also down. This was due to the impact of challenging market conditions on rates, which was down by 22%, and credit, which was down by 51%. Revenue also fell by 14% in foreign exchange, but this was relative to particularly strong quarter last year.
+By contrast, revenue rose across most other client-facing global markets business lines, which included equities, where revenue was up 23%, and capital financing, which was up by 9%.
+On adjusted operating expenses, I'll update you on our third quarter costs because then I'll cover or progress against the cost target from our Investor Update.
+In the third quarter, adjusted operating expenses increased by $191 million compared to the third quarter of 2014. This reflected higher change-the-bank costs which came principally from increased spending on regulatory programs and compliance. Run-the-bank costs remained broadly flat over the period. Staff costs were higher as a consequence of inflation in Latin American and Asia, while the performance-related staff costs fell in Global Banking & Markets, mainly reflecting lower revenue in the quarter. The reduction in other costs largely affects the continuing one-off of the U.S. CML portfolio.
+As you know, we set a target at our Investor Update to deliver our 2017 exit run rate cost at the same level as 2014. There are early signs of progress against this target in the third quarter. The chart on the left hand side of the page shows our 2014 operating expenses, excluding Brazil and Turkey and adjusted for the latest foreign exchange rates. This gives a baseline 2014 cost figure of $31.8 billion.
+We included the bank levy in the 2017 target we used for Investor Update, but we've excluded it here, so our third quarter cost figure does not include the bank levy. This gives us a target figure of $30.2 billion, which is equivalent to a quarterly ex-levy run rate of $7.6 billion.
+Looking at the middle chart in the rights side of the slide, you’ll see that our cost in the third quarter of 2015 were $7.9 billion. We need to continue making cost savings through 2016 and ‘17 to offset, both inflation and investment to fund business growth. So there is still a great deal to do. The same chart also shows our quarterly cost trend. We reduced our cost by $392 million relative to the second quarter. There were a number of specific items in the second quarter, which did not recur in 3Q 15, including the Financial Service Compensation Scheme levy.
+We started to see early impact of our cost reduction program in Q3. To be clear, our cost management is focused on achieving positive jaws, in effect informed by the revenues that firm impairment [ph].
+Adjusted loan impairment charges were up $81 million or 15% compared to 3Q 14. This increase was mainly in North America driven by lower releases in the US CML run-off portfolio. LICs also increased in the Middle East and North Africa, notably in the United Arab Emirates. There were improvements in individually assessed charges in Latin America and Europe, notably in Brazil and the U.K. Loan impairment charges in Asia were also slightly lower, and as Stuart said, we've not seen any significant deterioration in credit quality.
+Turning to a nine-month comparison. Adjusted profit before tax was $605 million lower than 2014. Adjusted revenue was $675 million higher than the first nine months of 2014, with growth of 5% in Global Banking & Markets, 3% in Commercial Banking and 1% in principal Retail Banking and Wealth Management.
+Operating expenses for the nine months were $1.4 billion or 6% higher than 2014. This reflected salary inflation in Latin America and Asia, investment to support growth in targeted areas and increased spending on staff and infrastructure in regulatory programs and compliance. Adjusted loan impairment charges were down by $58 million or 3%. The ratio of loan impairment charges to average gross loan advances to customers remain stable at 20 basis points. This number excludes Brazil.
+Turning to capital. The Group’s common equity tier-1 ratio was 11.8% at the third quarter against 11.6% at the half year. This increase reflects continued capital generation of $1.9 billion from profits net of dividends and regulatory adjustments together with the impact of risk-weighted assets initiatives.
+At our Investor Update, we've set a target to reduce the Group’s risk-weighted assets by $290 billion by the end of 2017, roughly half of which will come from resizing Global Banking & Markets. The chart in the top right of the page shows this target adjusted for foreign exchange rates as of September 30. This gives a baseline risk-weighted asset reduction target of $275 billion.
+In the first half of the year, we reduced risk-weighted assets by $50 billion, $31 billion of which came from Global Banking & markets. In the third quarter, we reduced risk-weighted assets by a further $32 billion. This brings that total risk-weighted assets reduction so far to $82 billion, which is 30% of our target. $19 billion of the reduction in Q3 came from Global Banking & Markets. This included some reductions in incremental risk charge positions, as well as lower credit conversion factors from the use of more granular data. A further $11 billion came from Commercial Banking.
+This next slide shows our Group return metrics. The annualized reported return on average ordinary shareholders equity for the first nine months of the year was 10.7%. And the annualized reported return on average tangible equity was 12.1%. Both of these are significantly up from last year.
+Also for the first nine months of the year, the annualized reported return on risk-weighted assets was 2.2% compared to 1.9% in 2014. Whilst it’s early days our program to reduce risk-weighted assets, it’s progressing well. We continue to work towards our adjusted return on risk-weighted assets of greater than 2.3% by 2017.
+I'll now hand back to Stuart to provide an update and progress around our strategic actions.
+Stuart Gulliver
+The slide provides a summary of our main achievements to-date. The focus of management has been firmly fixed on implementing the nine business actions that we announced at our Investor Update on June 9.
+The main news in the third quarter was the reduction of the further $32 billion of risk-weighted assets. Iain has already covered this in some detail, but I can also tell you that in the last few days, we have agreed to sell a portfolio of real estate secured loans from the CML book in the United States, which we expect to reduce risk-weighted assets by more than $4 million. We continue to work very hard to reduce our risk-weighted assets quickly and efficiently. We're also making progress on costs. We've removed around 100 software applications, achieved around $130 million of annualized procurement cost savings and completed around a third of our manual payments automation program.
+We have also made good progress in increasing our digital capabilities, which saves money and provides a better customer experience. There is much more to achieve on cost, but the trajectory is in the right direction and the vast majority of our cost programs are now underway. Taking together, we expect the cost programs that we've already started to deliver around 90% of our cost target, but further opportunities to be flushed out in the next few weeks. Obviously this will be an incremental process, and some will take longer than others, but now that we've mobilized these programs, we expect to see results in the coming quarters.
+Turning to other areas, you'll know from the half year that we agreed to sell our Brazil business to Banco Bradesco and that deal remains on track. There is no update on Turkey just yet, and I expect that to take a little longer. Rebuilding NAFTA profitability is a work in progress and will remain so until the end of 2017. However the initial signs are positive.
+Revenue is up by 20% in the United States compared to the third quarter of 2014. And profits were up for the first nine months of the year in the United States by 85%, and in Mexico by 95%. I continue to monitor Mexico and the United States personally and speak frequently with country heads to make sure we maintain momentum.
+Our international network has generated significant revenue growth in 2015. We've burnt revenue from transaction banking products by around 5% in 2015, with foreign exchange in particular, growing by 10%. The third quarter was tougher but we still grew revenue in Payments and Cash Management by 2% and Securities Services by 7%. In Global Trade and Receivables Finance, we have gain market share in a number of product areas and kept revenue relatively steady, which is in the phase of a 40% fall in commodity prices and declining trade volumes.
+We've also grown business synergies from our universal banking model by 6% and increased client revenue from our 20 priority trade corridors. Good progress has been made in targeting growth in Asia. In the Pearl River Delta, we continue to recruit staff to capture growth. We are also announcing today that we’ve signed an agreement which is subject to regular approval to establish a majority owned joint-venture securities company in Shanghai, Shenzhen. If approved, this will be the first majority foreign-owned securities company in mainland China and will potentially allow us to engage in the full spectrum of securities business in the country.
+In ASEAN, revenue is up 6% year-on-year. We've extended our leadership position in RMB internationalization and grown revenue from renminbi services by 8% year-on-year. In September, we issued the first panda bond by a foreign commercial bank in China's interbank bond market. And in October, we are among the first banks to connect the cross-border into bank payment system for cross-border RMB clearing. And we're also the joint global coordination and bookrunner for the $5 billion RMB bond issued by the People's Bank of China in London. This is PBoC’s first step offering outside of China and a significant milestone on the path towards the internationalization of the RMB.
+Now clearly delivering on our strategic actions obviously remains our primary focus, and we'll provide a further update on our progress at our full-year results in February. We'll now take questions. The operator will explain the procedure and introduce the first question. Operator?
+Question-and-Answer Session
+Operator
+Thank you, Mr. Gulliver. [Operator Instructions] Your first question comes from the line of Raul Sinha from JPMorgan. Your line is now open.
+Raul Sinha
+Good morning gents. Just a couple of areas please, if I may. The first one is just to explore the weakness in the revenues and get a sense of how much of that is a step-down versus just every quarter. So would you expect any recovery in the Wealth Management business in the fourth quarter? And related to that, clearly last year in Q4, GBM had a really weak quarter, given that we are in the ramp, I was wondering if you might be able to tell us whether you’ve sort of a repeat of that weakness this year as well? So that's kind of my first question. The second question is also slightly related. I was wondering, if you had seen any impact of your RWA initiatives on revenues? I don't think there was any that you had talked about $400 million sort of ongoing revenue impact. When do you expect to see that coming through on the revenue line, just the RWA initiatives on the revenue line? Thanks so much.
+Stuart Gulliver
+So look, Retail Banking & Wealth Management had an extremely strong first half, and in a way has given back some of that extremely strong first half, as the Hong Kong Shanghai stock connect took off. And those equity markets rallied very strongly in a way some of what we've seen in the third quarter, although it comes through the life insurance manufacturing revaluation of the book, is effectively the same thing being reversed. So from an RBWM perspective, October, we've seen stabilization but we've obviously not seen a recovery back to the volume levels that you saw going through the Hong Kong and China market in the first half.
+For Global Banking & Markets, October has been a reasonable month, although probably airing towards the sort of tougher side, but you're right, that the fourth quarter of last year was particularly weak for Global Banking & Markets and so far there is not a sign of a repeat of that level of weakness in the October month.
+Raul Sinha
+Okay.
+Stuart Gulliver
+On RWA initiatives.
+Iain Mackay
+Yes. On RWA, I think your read of its exactly right, Raul. We haven't - so far what we've seen is really in terms of the first half of the year, we saw largely disposition of legacy positions which as we talked back in June would have de minimis impact in terms of revenues. What we’ve seen coming through a lot in the third quarter is really improvement in terms of the measurement of risk-weighted assets in terms of improving the granularity, recognition of collateral and reduction of positions with respect - that have an impact in incremental risk charge through the markets business, for example.
+So thus far we have not seen a significant impact in revenues from risk-weighted asset actions that we’re taking. Now obviously the focus, as Stuart mentioned, is very much in maintaining momentum around overall risk-weighted assets reduction initiatives, quarter-on-quarter we are going to see a little bit of a mix between dispositions of legacy assets rundown and close out of less profitable customer positions, improvements in the overall quality of granularity of data as it relates to individual customer positions and how that's reflected through risk-weighted asset calculations. And then what is obviously more subject to - really fits in terms of final approval sits in the hands of others, is any refinement to the models that we've got coming through from a regulatory perspective.
+Raul Sinha
+Okay, great. Thanks very much guys.
+Stuart Gulliver
+Thank you.
+Iain Mackay
+Thank you.
+Stuart Gulliver
+Next one please.
+Operator
+Our next question today comes from Chintan Joshi from Nomura. Your line is now open.
+Chintan Joshi
+Hi, good morning gents. I've got two questions; one on RWAs and one on trade finance. If I can take the RWA one first. You had $5 billion increase from growth initiatives this quarter. If that repeats next quarter, or we talking about $32 billion for the year? That looks well below the run rate of the guidance and clearly post-seeing rest of the day the market has deteriorated - macro has deteriorated. I'm just wondering, what kind of growth are you going to - are you seeing? Where should that $180 billion to $230 billion range rebase down to? And while we’re talking about that RWAs also, in GBM, if you could tell us - or generally across the Group if you could tell us how much of the improvement has been from model changes versus actual rundown of RWAs? That's the one on kind of RWAs. Quickly on trade finance. If you could just give us some color on trade finance volumes and margin trends across both GBM and CMB. DBS this morning has reported quite challenged trends, so just wondering what you are seeing here? Those are my two. Thanks.
+Stuart Gulliver
+Okay. On our RWAs. So we talked about redeploying $180 billon to $230 billion, and then I think at the last results update, we said that we are more likely to be able to redeploy $150 billion. That remains the target. We've got all the 2016 and 2017 to work towards. What you wouldn't expect us to do is to be mechanically redeploying RWAs against a more challenged economic backdrop. So one of the concerns I'm sure that a number of people have is about LICs in Asia-Pacific and a deteriorating economic environment. Therefore it shoots take some comfort from the fact that the redeployment in this quarter is being quite modest, but the $150 billion target doesn't change till - and do you want to talk about model changes?
+Iain Mackay
+Yes absolutely, zero came through in terms of model changes in the third quarter. As I had mentioned a little bit earlier, Chintan, the vast majority of what was accomplished in the third quarter was really looking at individual positions on a customer-by-customer basis and across different transaction types and improving overall granularity of data whether it was with respect to recognition of collateral and proper matching of collateral types across different categories of assets, but there was nothing coming through in the third quarter in terms of model changes and therefore the changes in the risk-weighted assets was a combination of running down customer positions and overall improvement of data quality by those same customer positions. Sorry…
+Chintan Joshi
+Trade finance?
+Iain Mackay
+So in trade finance, year-over-year nine months, we’re absolutely flat in terms of revenues generated. And in terms of the margins against that, it remains largely stable over the course of the same period, Chintan. As Stuart has mentioned, overall volumes, we saw declining significantly really from 2013 through ‘14, but we’ve seen relative stability both in terms of revenue generated and margins against that business over the course of this year so far.
+Chintan Joshi
+Thank you.
+Iain Mackay
+Okay.
+Stuart Gulliver
+Thanks very much. Next one please.
+Operator
+Your next question comes from Chira Barua from Sanford. Please go ahead.
+Chirantan Barua
+Good morning guys. One question for Douglas, on the domicile, if you're still on the call. Just wanted to understand what - it's complicated move, totally appreciate it, but what's taking longer than what you had laid down at the beginning of the year? So that's question one. The second one for, Stuart. Generally on the repricing across all your liquidity portfolios, given that U.S. rates, who knows whether it rises, doesn't rise in the next two, three years, same for sterling. So what is the repricing strategy across your excess liquidities that you have built in the consumer book, as well as your wholesale book and where are the areas that we should see that repricing going up?
+Douglas Flint
+I'm not sure anything is taking any longer. We said in April - sorry, in June, that we would hope to get an announcement by the end of the year. We are still obviously halfway through that. So we've got another six, eight weeks to go before we get to the end of the year. If we haven't made a decision then because we are still analyzing information that the board wants more, we'll take whatever more time that is necessary. So I don't think we've slept and then did - I don't think that the scale of the challenge or the work is different from what we envisaged back in April and then confirmed in June in relation to the areas that we are talking about. We’re taking this very seriously and doing the appropriate amount of work and it's underway and we're halfway through. Stuart?
+Stuart Gulliver
+So Chira, going back to your question on liquidity, what we have seen within the European environment, particularly looking at negative interest rates in the interbank space, we have implemented charging for operating deposits sitting with us in the interbank space and that's being in place now for the better part of the last six months.
+Broadly speaking across the portfolio, we're breaking down the overall level of our deposit franchise by type as you would imagine and then understanding the underlying nature of the operating deposits that sit with us, both for corporates but also within the financial institution space, our principal focus presently is within the financial institution space and where we see - a bit really is lower, and in certain instances, negative interest rates, so ensuring that we either encourage those deposits to move elsewhere - well, namely out of HSBC or charge for those deposits. So in the euro area, it is clear that that is already being done within the financial institutions space. We've not done that in the corporate space at this point in time and we're looking more widely across the business in terms of where similar practices should be adopted.
+So it's an ongoing dynamic view of deposits in general and where appropriate, either frankly encouraging deposits to go elsewhere or pricing, such that there is a charge back to customers for us holding those deposits.
+Iain Mackay
+Just one thing I'd just add is that the mix of our book is different than some of our North American competitors. In terms of volume changes, which you might look to see in future quarters, they are not going to be as pronounced as certain of the North American banks because we have a large incorporate and smaller financial institution mix on our balances sheet than some of the North American banks do.
+Chirantan Barua
+That’s well appreciated. So just a follow-on, on the asset side, is there any big book that you're looking out in terms of repricing in the environment where you have hardly any loan growth right now across the world, are there any…
+Stuart Gulliver
+So part of the whole RWA exercise is underpinned by a target return on risk-weighted assets. So across Global Banking & Markets and CMB and RBWM, all of the teams are hugely focused on any new business being written out returns on risk-weighted assets to hit those targets and reviewing back books to ensure that actually the fresh business lifts us to overall return on risk-weighted assets that has the numbers. So in CMB and Global Banking & Markets, there is a ton of what is going on as part of the RWA exercise to do just that.
+Chirantan Barua
+Perfect.
+Stuart Gulliver
+What we don't have is a specific book of the business, which is at miserable returns, which creates a portfolio exit type of opportunity. It's kind of a very granular exercise that needs to take pace client by client. And of course part of that $400 million that we said we'd lose in revenue from GBM reflects exiting low return clients, because that’s how you’re freeing up the risk-weighted assets to redeploy them into higher return.
+Chirantan Barua
+Well, thank you.
+Stuart Gulliver
+Thank you. Next one please.
+Operator
+Your next question comes from David Lock from Deutsche Bank. Your line is now open.
+David Lock
+Good morning gents. Just a couple of from me. The first one on the cost income ratio and the cost jaws going forward. I think clearly the outlook for revenue has changed since when you gave the Investor Update at June, and the cost jaws for this year wouldn’t be achieved. But just looking further ahead if the revenue environment stays weak into next year, is there more you think you can do on the cost side to offset that beyond the things you’ve already outlined? And then the second question. If I look on Page 8 of your release, it says that capital financing recorded gains from hedging activities, and I was looking in the data back and I couldn't quite see where those were. So just wonder if you could quantify those and whether we should expect those to repeat? Thank you.
+Iain Mackay
+So as I mentioned a little bit earlier, David, the actions as it relates to costs within the firm is informed by an objective of positive jaws. That is going to be informed by the revenue generating capacity of the firm. Should we’ve - at this point we've identified 90% of $4.5 billion to $5 billion worth of saves that we've targeted, which clearly at June when we talked about this through the Investor Update was informed by a particular revenue outlook. The fact that we've identified 90% is now executing against that. That is good. There is clearly more to be done in that space.
+However, if the revenue environment is such that more is required to be done in that particular regard, then that's what's going to inform the overall cost position of the firm is the propensity to generate revenues is not necessarily a target that we - a fixed dollar target that we established back on the June 9, but presently we are three or four months into this work. We've clearly got a fairly challenging revenue environment in front of us but we’re very focused on; A, executing against the cost actions have already identified, and B, ensuring that we've got operating flexibility within the firm to respond to revenue environment in which we're operating.
+Stuart Gulliver
+And then if you take the capital financing question, so that relates to basically hedging of credit risk. So we don't disclose who the names are that we've obviously taken credit to folks for protection against but it's a regular activity that we obviously do and you'd expect us to do. And in fact, the gains from that particular hedging appear in the U.S. - so they appear in global banking markets in the United States.
+David Lock
+Thank you.
+Stuart Gulliver
+Thanks very much. Next one please.
+Operator
+Your next question comes from Alistair Ryan of Bank of America. Please go ahead.
+Alastair Ryan
+Thanks very much. Two please. One, the margin, stocks going down. As early [ph] indicates you about stock going up just away for raise to start moving to get that going. And Hong Kong volumes, quite weak in the quarter sort of uncharacteristically and coincident with the slowdown, that's going on there. So is that coincident or representative? Thank you.
+Iain Mackay
+So on net interest margin, Alistair, I would come back to Stuart's comments a couple of minutes ago, a significant part of the work that we're doing in terms of return on risk-weighted assets and risk-weighted asset repositioning is in terms of pricing against client business. So a significant part of that work is reduction of unprofitable positions with the view to releasing the capital to redeploy it into repriced and more profitable business for the firm overall. The interest rate environment we're operating and also across different jurisdictions policy rates change from change-to-change. I would cite the major block of the Europe - I would say the major blocks of Euro, Sterling and Dollar and that’s just some opportunity. Broadly speaking, the revenue environment is fairly challenging for us. An uplift in rates would clearly be beneficial. We can’t sit around and wait for that, and therefore a significant part of the work in terms of risk-weighted assets and return on risk-weighted assets is the redeployment of some of that capital into better priced books of business.
+So if you take the Hong Kong, Alistair, in the nine months 2015, the profit before tax for Hong Kong is actually up 6% and actually it’s higher in all the global businesses.
+Alastair Ryan
+So just the volumes here. So the profits are good but the volumes, sorry.
+Iain Mackay
+Well, the fall in RWM revenue is basically - so there is two RWMs, first, and I’ll talk about the sort of broader tactics. The fall in RWM revenue from the second quarter is mainly due to the particularly strong equity market performance, nice stock market turnover in the second quarter and clearly the market was weaker in the third quarter and investor sentiment has been weaker, and that's how you see that kind of drop. So in wealth management products and so on, yes, absolutely demand has softened in the third quarter versus the second. However, if you look at against the prior year, there is still good growth in net interest income from loan growth and actually net fee income was - in the third quarter, it was in-line with each of the quarters of 2014.
+What generally the case though is Hong Kong GDP is slowing and it has been some impact from mainland China on Hong Kong. Retail sales are sluggish in Hong Kong. A lot of retailers are using discounts to be maintain volume. The growth in tourist arrivals has continued to slow. And obviously since we’re all aware of the fact that world trade has slowed up and Hong Kong is a massive port, that clearly has some impact. But as you’ve seen, we've actually maintained our trade receivables and finance revenue. So we've grown our market share, which is offset the fall in volumes, that’s taken place there. So to be honest with you, I think it's a mixed picture. So I don't think you can say with any clarity at this moment in time that the volumes lead to future drops in PBT, but there is definitely a mixed picture there.
+Alastair Ryan
+Thank you.
+Iain Mackay
+Thanks very much.
+Stuart Gulliver
+Thanks Alastair.
+Iain Mackay
+Next Please.
+Operator
+Your next question comes from Rohith Chandra-Rajan from Barclays. Your line is now open.
+Rohith Chandra-Rajan
+Hi, good morning. A couple from me as well, please. First one, just on the RWA reductions. So if we look at the analyses if the reductions in the quarter, about half came from exposure reductions and the other half from model refinements and process improvements, and Iain, you mentioned that there has been no model changes put through to-date. I'm just wondering how we should think about those main elements of RWA reduction over the coming quarters? It's been fairly stabilized even in terms of progress in the three quarters to-date, so just wondering how we should think about that going forward. And then secondly, just in terms of the income recognition for BoCom, looking at the carrying value versus market value, if there is any risk for that going forward or how you perceive that? Thank you.
+Iain Mackay
+So on BoCom, first of all, at the half-year, we had a group of about $1.5 billion between value-in-use and the carrying value. That has declined by about 50%, principally because the carrying value has increased as we continue to recognize our share of earnings through equity accounting methodology and so that’s down to about $700 million to $800 million worth of headroom.
+I think the value-in-use model obviously is a discounted cash flow model, which is susceptible to growth rates, loss rates, discount rates and such things, as we had applied to BoCom. To the extent that that remains reasonably stable our declines and while we continue to accrue our earnings, our share of earnings, in the current value, then clearly headroom is likely to diminish. So one of the reasons that we continue to provide disclosure around this, is that it continues to be a risk to the reported earnings of the group on a go forward basis. So it's assessment on an ongoing basis and we’ll continue to provide regular updates of that through the quarterly numbers.
+As it relates to overall risk-weighted assets, again, we could have target there of $290 billion reduction by the end of 2017. On an FX-adjusted basis, that’s $275 billion. We are going to see progress which will not be entirely linear. In the first - in the second quarter, we saw some significant reductions coming through the incremental risk charge and that was the function of reducing some of the positions as it related to the calculation of incremental risk and other factors that I talked about was just improving the overall alignment of collateral values to individual customer positions and overall improvement of granularity of data quality in terms of recognizing by individual positions, for example, residual maturities as opposed to maturity at time of origination, each of those things have been impact on the credit conversion factors that are reflected within our models.
+So although there are no model changes in terms of regulatory changes within those models approved by regulators, we obviously continue to, on a position by position basis, improve the overall quality granularity and alignment of the data. And has helped us realize some of the improvements in risk-weighted assets in this quarter. But I think what you're going to see is on entirely linear progression against this when it comes to disposing of position, that's informed by market conditions, it's informed by readiness of some of the counterparties that we’re working with, and as Stuart mentioned a little bit earlier, how just yesterday we signed a transaction for the disposition of approximately another $2 billion worth of unpaid principal balances through the CML portfolio which will release a little bit more than $4 billion worth of risk-weighted assets. But these are the kinds of transactions that we’re working on an ongoing basis, but unfortunately we can't assure absolute linearity in terms of progress against the targeted, but there is a very significant pipeline of items we're working on here and confident of hitting the target.
+Stuart Gulliver
+What I'd also just say is, please don't look for it to be linear, but also - because it won't be linear, don't assume that we've just picked up the low-hanging fruit and that from here on and it gets harder. We’ll will deliver the $290 billion, $275 billion FX adjustment [ph] by the end of ‘17.
+Rohith Chandra-Rajan
+Thanks very much.
+Stuart Gulliver
+Thank you.
+Iain Mackay
+Thank you.
+Operator
+Your next question comes from Michael Helsby from Merrill Lynch. Your line is now open.
+Michael Helsby
+Yes, thank you. Good morning gents. Just two questions for me, please. Firstly, thanks you gave us the numbers in costs for Brazil and Turkey in the third quarter. Can you just give us the revenue and BRDA [ph] number as well, please? And then secondly, I just want to come back to costs. Obviously your flex in the costs depending on the revenue outlook, but you had $7.9 billion of costs ex-Brazil and Turkey in Q3, and clearly that's not that far away from what you are targeting in 2017. There has been quite a lot in the press about what we’d probably called remedial cost savings in the third quarter. Based on your revenue outlook as you exited Q3, is that $7.9 billion a good baseline for what we should expect in Q4 and then again annualizing into 2016, or should we be expecting a lower run rate from the $7.9 billion? Thank you.
+Iain Mackay
+Thanks, Michael. Look, one of the things that hopefully we continue to try and be very, very clear about is the fact that the exit run rate is recognition of the fact that we need to continue to invest in this business to ensure the growth of it, as well as recognizing that across many of the markets in which we operate is we've got significant inflationary pressures. And therefore also we are sitting on that run rate of $7.9 billion ex Brazil and Turkey at the end of the third quarter, we've still got a great deal of work to do in terms of taking costs out of this business and improving the overall operating flexibility and leverage of the business in what is the clearly a difficult revenue environment.
+So the cost program is going to be informed, both by the targets that we've already set, positive jaws, and therefore the revenue that the business can generate. And again we've got, as we mentioned back in June, a continued investment program against the global standards and the wider regulatory compliance program. So again we don't expect progress to be absolutely linear in this regard, but what we absolutely do focus on in intend to accomplish as the progressive reduction in the overall run rate of the operating expenses on an adjusted basis. So I can't say more than that. Obviously in the fourth quarter, Michael, we've got the bank levy that always shows up to kind of stuff up the run rate, but that's something that we spike out very clearly for you to take a look at. But look, our focus is on moving the run rate and the costs down over each succeeding quarter.
+In terms of Brazil, overall - let's see, overall PBT for the - sorry, the variance on the quarter, we were PBT 140 - sorry, this is on a year-to-date basis, $142 million better than the year-to-date in 3Q ‘14. That’s improved by $90 million uplift in income, broadly across net interest income, fee income and trading income. Loan impairment charges improved to the tune of some $53 million and costs were pretty much flat in Brazil half over half. On Turkey, the numbers don't really matter.
+Michael Helsby
+Okay. Have you got the absolute numbers, sorry, for the revenue in Brazil and Turkey combined?
+Iain Mackay
+Not to hand, Michael.
+Michael Helsby
+No. Okay.
+Iain Mackay
+We’ll get back to you [ph].
+Michael Helsby
+Cheers.
+Stuart Gulliver
+Thanks very much. Next please.
+Operator
+Your next question comes from Manus Costello from Autonomous. Please go ahead.
+Manus Costello
+Good morning. I have a couple of questions, please. I wanted to follow-up first of all on the BoCom point that you made. Iain, I think the capital treatment is somewhat different in terms of the way you accrued profit into capital, but if you are forced to derecognize BoCom profits, it will have a material impact on your payout ratio for next year or indeed this year if it comes through this year. I just wondered how you would think about that going forward? Would you disregard it and focus on a different version of the payout ratio or would you just have to question the progressive dividend policy and the likes of that?
+Iain Mackay
+I don't think - yes, Manus, honestly I don’t think it’s got any - it clearly mathematically would impact because our overall reported profits would be down, but in terms of impact on capital, it is absolutely - it's de minimis. It's actually slightly dilutive to the overall returns of the business. The dividends that we received run to a few hundred millions, so it's not particularly significant from an overall cash flow perspective for the Group. And de-recognition is not exactly the right terms, but the change in the accounting treatment, we do not think for second would adversely impact dividend flows, so it would have no impact on cash, and actually it will have no impact on capital because we don't believe that the regulatory treatment of BoCom will change. So what we're talking about is an accounting change. So if you assess the payout ratio from an accounting perspective, yes, the payout ratio would go up, however, from a capital impact perspective, it is no bearing whatsoever.
+Manus Costello
+I feel that comes to, in another words running with a high headline payout ratio if you think it's not...
+Iain Mackay
+If that's the contributing factor, yes.
+Manus Costello
+My second question relates to your slide on China. Thank you for including this additional detailed slide 15. You talk about $96 billion of Chinese exposure. Can you confirm - I'm not sure whether that includes the cross-border exposure from Hong Kong. I don't think it does.
+Iain Mackay
+It doesn’t Manus. What we've included here is, as the slide says, we've include the overall HBAT [ph] view in the bottom left hand corner of that, which is that which sits on the HBAT [ph] balance sheet, and then we've included that which sits on the China balance sheet. There is as far our sum - in total, our Group exposures to China on a by country of exposure basis is about 100 - just over $140 billion in total at the end of the third quarter and what we've shown here is a breakdown of that which sits within the Chinese balance sheet, the [indiscernible] balance sheet and that which sits within the wider Asian exposures, which clearly represents the majority of our exposures to the Chinese markets,
+Manus Costello
+And does that - in the way that you manage that cross-border, just say $140 billion, was that by the end of Q3?
+Iain Mackay
+Just over, yes.
+Manus Costello
+Is there any different to the way you manage this $96 billion that the delta between those two, or do you manage it on the same basis?
+Iain Mackay
+It's the same people that are managing it. Yes.
+Manus Costello
+Right. Okay. Thank you.
+Iain Mackay
+Okay. Thanks. Next please.
+Operator
+Your next question comes from Stephen Andrews from UBS. Your line is open.
+Stephen Andrews
+Hi, good morning, or afternoon guys. Couple of questions for me, please. Firstly, just back on the Asian retail business. I think everyone was expecting GBM to be weak and a certain amount of weakness in Asian retail, but it is quite a bit weaker than what we were looking for. From what you were saying earlier on, it does sound like there were some one-off mark-to-market impacts in the insurance and life business. Can you just quantify those for us? From the numbers, it looks like it could be a couple of hundred million, maybe to $200 million, $300 million, so it could be material that may not repeat as we go into Q4.
+Iain Mackay
+Yes, the impact coming through Retail Bank Wealth & Management, the insurance businesses in the third quarter is - which is the flow-through of the valuation through to those policies that we've got with customers where there is discretion participation features, it’s about $240 million of an impact in the quarter.
+Stephen Andrews
+Okay. And we shouldn't expect that to repeat, so that should just pop back to zero.
+Iain Mackay
+Well, it is the function of the valuation of the stock market, so to the extent that we’ve got stability in the stock market, then I think it would be fair to assume it doesn't repeat. If you were to see a significant uptick, we'd get some lift from it. If you saw a significant downtick, you would get another adjustment to that. So it is very much related to the performance of the equity market.
+Stephen Andrews
+Okay, that's clear. Thank you. The second question I've got, just a point of clarity really. In the adjustments this time, we've got this $165 million cost to achieve has popped in related to your restructuring and then on your Slide 5, you've also got you change the bank the $952 million in sort of core cost, if you like. Can you just - I imagine that $165 million is probably going to get a lot bigger as we go into next year on a quarterly basis. Just give a bit more clarity on what's going into the $165 million and what's going into the $952 million. So when we are looking at underlying - we seem to be going at underlying, underlying again.
+Iain Mackay
+Should know or not.
+Stephen Andrews
+Give me conviction that we can get to that $165 million really should be coming out.
+Iain Mackay
+Okay. So to be clear, the basis of presentation here is the adjusted versus the reported and there is extensive detail provided on what the reconciliation between the two in the appendix in the presentation. So if you went a little bit more deeper in that, potentially happy to take you through that detail.
+In terms of the cost to achieve, perhaps the closest approximation and I’d give it to you in accounting terms is restructuring charges, the expense that we do reductions in force for example takes to the extent that we do elimination of some of the programs. So one of the examples that Stuart used earlier was the elimination of certain software applications, which we’re doing through our operations team and the extent to which there is any software that’s been capitalized sitting on our balance sheet. A write-off of that for example would fall within the cost to achieve to the extent that we terminate leases in any of our facilities around the world, as we resize the footprint for the group, that would fall within the cost to achieve.
+What fits within - what we’ve done across these cost base is to show what is run-the-bank. So basically showing up - switching on the lights each, day people showing up to work and running the place day-in day-out, that’s run-the-bank and we've obviously split the in terms of front-office and back-office.
+In terms of change-the-bank, it is the ongoing investment in the improvement in the operating capability, whether it’s expenditures to update or operating systems through the regulatory compliance space, through the financial reporting space, through the credit management space, through the customer survey space. So the changes-to-bank is just the ongoing, if you like, evergreening that we do of the organization and normal investment that we would make to improve the operating efficiency of the bank. The cost-to-achieve could more appropriately be described as restructuring charges. And what you would normally see flowing into the cost-to-achieve are restructuring charge-type expenses.
+Stephen Andrews
+Okay. Thanks. And that’s still similar to the $117 million then of restructuring and other costs. We could lump those two together?
+Iain Mackay
+Sorry, what are your lumping together?
+Stephen Andrews
+Well on your Slide 16, you’ve got the cost to achieve and then restructuring and other related costs?
+Iain Mackay
+Yes that's correct. That’s correct. Yes.
+Stephen Andrews
+And then is if those two together where the sort of $4 billion cost-to-achieve in total? Is that fair to say, over there that you laid out of the strategy there?
+Iain Mackay
+No, the cost-to-achieve that we set out were $4 billion to $4.5 billion against the cost - our overall cost reductions of $4.5 billion to $5 billion. That's the cost-to-achieve. That's what we would report.
+Stephen Andrews
+Okay, great. I'll come back offline if I’ve got other questions.
+Iain Mackay
+Okay.
+Stuart Gulliver
+Okay, next please.
+Operator
+Your next question comes from Ronit Ghose from Citibank - Citigroup. Please go ahead.
+Ronit Ghose
+Hi, good morning. It’s Ronit from Citi. I just wanted to loop back to asset quality. I mean, obviously your LIC charges this quarter were generally low with exception of the UAE. Is there any color you can give us on balance sheet asset quality trends or any numbers for that matter in terms of particularly in Asia what you're seeing in Q3 versus Q2, either in numbers our qualitatively please? And on the Middle East, is this sort of a couple of businesses in the UAE in the mortgage book or do you think there is more to come in the general reach in your MENA portfolio for higher LICs ahead?
+Iain Mackay
+In terms of MENA specifically, we've got an adjustment to the overall provisioning level for the mortgage book where there is, at an industry level, some issues with respect to perfecting collateral with respect to those mortgages. So what we've actually done is provide for those - for that portfolios, if it was an unsecured personal lending portfolio. So our view reflects at the same time clearly doing the work to try and improve the overall quality of documentation and preferred collateral. So we had, what we believe, a one-time adjustment to reflect that. And then we had a couple of individually assessed credits within the United Arab Emirates, which are not particularly related to any individual sector. I think it would be fair to say when you look at overall exposure to commodities and specifically oil and gas, there is a heightened level of monitoring coming through the risks teams looking at the impact of lower prices - at the lower oil price over an extended period of time.
+And although we’re not seeing credit costs coming through to any significant degree in that sector presently, then clearly Middle East and North Africa with the concentration of oil producing countries is something that we would look a little bit more closely at and keep a very close eye on, but these were really just two individually assessed credits that were subject to adjustment at the third quarter.
+Ronit Ghose
+Thanks for that. Could you just comment a little bit further just switching to Asia any kind of color you can give us on balance sheet trends? And is it possible to give us the numbers in future the 90-day deal [ph] or any kind of balance sheet impairment number?
+Iain Mackay
+I think the information that we provide in terms of loan impairment charges trended out to over an extended period of time, I think provides a reasonably good elimination of what's emerging in terms of credit quality. Clearly from disclosures that we provided at the half year and the full-year, it breaks down the overall allowance against the loan book across the different geographies and that disclosure will clearly be at the fourth quarter again. The overall asset quality across the portfolio with the exception of the Middle East North Africa that we just talked about is remaining very, very stable. You saw our impairment charges in Asia trend down very, very slightly in the third quarter.
+North America ticked up just a little bit and that was more a reflection of the fact that we had releases against the CML portfolio in the same quarter last year versus smaller provisions in terms of that particular book of business this year. We've seen overall credit quality in Europe and the U.K. remain very stable to improving slightly, and certainly in Latin America, we saw some improvements in credit quality. Now again, that's largely reflected that the third quarter of last year was slightly heavier from a positioning perspective particularly in the commercial banking space, when we looked at the homebuilders in Mexico.
+But I think when you look across overall asset quality by the main regions in which we operate in, the quality remains very, very stable. There is - in this environment, as you would expect, the heightened scrutiny and review of qualities - of assets, but when we look across that which we move onto watch and worry list, again, what we're moving on to watch and worry lists, within the quarter has remained fairly stable.
+Ronit Ghose
+Thanks for that, Iain. It’s really clear. I think - I mean, I should say compared to five or six years ago your disclosure is very helpful and actually much easier to track you or bank than it used to be. So this is not meant to be as criticism, but I think in the next year or two you're getting it so many more question on the asset quality side. I think you would could just preempt them by giving us more balance sheet disclosure portly, but it is a long better than in the past. So thank you for your comments today.
+Iain Mackay
+Appreciate it. Thank you.
+Stuart Gulliver
+Thank you. Next please.
+Operator
+Your next question comes from Martin Leitgeb from Goldman Sachs.
+Martin Leitgeb
+Yes, good morning. Just one follow-up on asset quality to start with. I was just wondering whether you could comment on asset quality trends as you have seen them within your commodity book over the quarter? And then, more broadly, on the U.K. ring-fence. With the consolidation paper out, I was just wondering whether your views or cost estimates with regards to setting up the U.K. ring-fence has changed? Thank you.
+Iain Mackay
+So on U.K. ring-fence firstly, no. No change. We set out an estimate of between US$1 billion and US$2 billion. That remains the expected range to implement the ring-fence bank. The consultation document that came out a couple of weeks ago has not changed that at all. The reason for the width in that range is frankly just given the complexity from an operational perspective, particularly when focused on separation of technology between the ring-fence and the non-ring fence bank, and then the impact in terms of short code alignment between the ring-fence and the non-ring fence bank. But no, overall that program continues to progress well.
+Stuart Gulliver
+And if you’re asking, Martin, in terms of the concerns, we had about whether it made sense for us to own the ring-fence bank. I think the recent speech that Andrew Bailey gave at Mansion House is dealt with our concerns very satisfactory, where he indicated that the ring-fence bank strategy risk-appetite CEO and indeed dividend would all be available to be control the dividend, obviously subject to PRA satisfaction about the amount of capital that the ring-fence bank has been holding would then be able to dividend back up its parent, the strategy and risk appetite of the ring-fence bank would be able to be controlled by its parent and the CEO of ring-fence bank would be able to report to both its board but also its parent. So those concerns that we had about whether we would effectively be an asset manager on the ring-fence bank, i.e., just an equity owner have been dealt with completely satisfactory by the remarks made by Andrew Bailey.
+Iain Mackay
+And going back to your commodities question. The exposure to commodities within the Group has remained very, very stable over the course of the last couple of quarters. We've had one or two additions to the watch worry list, but even though as we're very close to the customers, we're reasonably confident about the overall quality of that book. And when we look at the Group's overall exposure to commodities, it’s a very, very small proportion of the overall balance sheet. But again, it's an area of which, as I think everybody would rightly expect, it gets heightened scrutiny and monitoring from our risk teams around the world.
+Martin Leitgeb
+Great. Many thanks.
+Iain Mackay
+Thank you, Martin.
+Stuart Gulliver
+Next please.
+Operator
+Your next question comes from Chris Manners from Morgan Stanley. Your line is now open.
+Chris Manners
+Good morning everyone.
+Stuart Gulliver
+Good morning, Chris.
+Iain Mackay
+Good morning.
+Chris Manners
+I had a quick question for you on capital, if I may. Good capital built in the quarter over 20 basis points, taking to 11.8%. That means you really are an almost knocking on the door of your 12% to 13% range. Just maybe you could share with us where in that range would you like to be, and if you - I suppose the growth opportunities may be aren’t quite as good as we had hoped to in June, and basically if there is opportunity for that capital management, if you get above that sort of 12%, or are you going to be sort of building to 13% on the basis that we think that you're comfortable with your trading book and operational risk and high hurdle and the stress test and all that sort of stuff, might put you towards the top end of the range, because it just looks like you're almost there just trying to work out where we would want to see in that range? Thanks.
+Iain Mackay
+Really no change in terms of guidance versus the last time we spoke. And as, Chris, no particular urge to be at the top end of the range, but certainly we'd like to be above the bottom-end of the range. And I think many of you have commented accurately that on a pro forma basis the disposal of the Brazilian business would take us into the bottom end of that range. Based on this quarter’s close, I think it would put us around about to 12.2% to 12.3%. And frankly sitting somewhere around the middle of that range, we think, given some of the prevailing uncertainty within the regulatory space, it’s the right place to be for the moment.
+To the degree that that uncertainty of hopefully clarifies over the coming months and we would expect to hit a little bit more about the fundamental view of the trading book by the end of this year. However the time of its implementation and what that implementation would be, I think still remains very unclear. And equally unclear is the situation on operational risk, which we've seen move back a little bit over the course of last few weeks and obviously our view - revision to the standardized approach, we also see being 2018 and beyond and certainly the outcomes of it being very, very uncertain at this point in time. So notwithstanding the fact that the teams have done a great deal of work sort of modeling out what the different consultations and QIS’s [ph] I've alluded to in terms of providing a meaningful insight as to what the implementation would mean for the Group, it's too early to say so.
+Chris Manners
+Got you. So if we’re, sort of able to 12.5% pro forma and then we don't go the growth opportunity that we’re hoping for from the probably with the delta in ASEAN et cetera, then what do you do, i.e., because you would either continue to build capital above the midpoint of your range or get back or I was just thinking about how that was - it looks like the trajectory you’re on is to actually build maybe 12.5%?
+Iain Mackay
+I think we'll cross that bridge when we come to. I think what we've laid out today, Chris, is that we remain committed to realizing $290 billion worth of saves from risk-weighted assets. As Stuart mentioned, recommitted to redeploying $150 billion-plus of those risk-weighted - the capital associated with those risk-weighted assets into higher returning businesses between now and the end of 2017, very focused on managing down the overall cost position of the Group and creating greater operational flexibility in that regard. And if that all adds up to higher capital position, then I think we will address that through distributions to shareholders as and when regulation provides clarity and obviously subject to approval from the PRA.
+Stuart Gulliver
+And the way we’ve constructed this is to get an ROE of 10% with a CET1 between 12% and 13%.
+Iain Mackay
+Yes.
+Stuart Gulliver
+And you're seeing in this quarter that we had a return on equity of 10.7% and ROT of over 12%, so between 12% and 13% or right up to 13% we’re still run the business so we've got an ROE of 10% if we're sitting with the CET1 of 13%. And as Iain says, of course the way - it depends on what the regulatory environment is. It depends on our opportunities to redeploy, and if the regulatory environment is as it is and there isn't an opportunity to redeploy, then we will return it.
+Chris Manners
+Okay. Yes, that makes perfect sense. Thanks so much.
+Stuart Gulliver
+Thank you. Thanks very much.
+Iain Mackay
+Thank you.
+Stuart Gulliver
+This is our last question operator. So time for one last one please.
+Operator
+Our last question today comes from Chintan Joshi from Nomura. Your line is now open.
+Chintan Joshi
+Hi, thanks for the follow-up. Just quickly on Slide 6, going back to the costs. You’ve shown us $13.2 billion rebased cost in 2014, and if I look at the current run rate, you're running at $31.8 billion. That's a 5% increase. I'm just trying to split this into cost inflation and other items like regulation that you call out from time to time. Just want to get a sense of what is underlying wage inflation here?
+Iain Mackay
+Underlying wage inflation, Chintan.
+Chintan Joshi
+Hopefully, it's coming down with the kind of environment we are in, but still it looks like 5% increase, just wondering what wage inflation there would be?
+Iain Mackay
+Yes, for the nine months, overall inflation that we factored in was about - well, not factored in, calculated was about $500 million on a nine-month over nine-month. And the significant majority of that is coming through wages.
+Chintan Joshi
+Okay. Thank you.
+Iain Mackay
+Okay?
+Stuart Gulliver
+Okay. Thank you very much. It brings the call to an end. Thanks everybody for joining the call. Thank you.
+Operator
+Thank you, ladies and gentlemen. That concludes the call for HSBC Holdings Plc Earnings Release for 3Q 2015. You may now disconnect.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.
+If you have any additional questions about our online transcripts, please contact us at: transcripts@seekingalpha.com. Thank you!

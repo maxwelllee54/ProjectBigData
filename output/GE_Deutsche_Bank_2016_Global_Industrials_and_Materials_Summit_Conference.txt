@@ -1,0 +1,238 @@
+General Electric Company (NYSE:GE)
+Deutsche Bank 2016 Global Industrials and Materials Summit Conference
+June 9, 2016 10:20 AM ET
+Executives
+Jamie Miller - Senior Vice President, President and Chief Executive Officer of GE Transportation
+Analysts
+John Inch - Deutsche Bank
+John Inch
+All right. It gives me great pleasure to introduce Jamie Miller. She's SVP and CEO of GE Transportation. And in the audience, familiar to everyone, is JoAnna Morris. JoAnna is my favorite company person in the world and I love her to death. And I really - my spirit picks up every time I see her at these events. And I missed EPG; that was absolutely deliberate. That thing is a complete boondoggle that says absolutely nothing.
+This is where you get the real scoop and the real insight. And you know what? Ever since I've been a little kid I always wanted - I had a train set. You have the best job in the world, I have to say. This is awesome. So listen, this is a really - this is not a talking head presentation. This is an interesting dive into an important business for GE.
+And with that, let me introduce Jamie.
+Jamie Miller
+Thank you, John. JoAnna is our favorite too. So, glad to have her here. Listen, today I thought what I could do is talk a little bit about the Transportation business at GE and maybe importantly give you a little bit of a deep dive into the Digital business that we have within transportation and how we really see that affecting our future, but most importantly affecting today.
+GE Transportation is a 100-year old business within GE we've got about 10,000 global employees, multiple manufacturing sites, headquartered right here in Chicago so we’re excited to be here with you today. And in 2015 we had about $6 billion of revenues, even though it's 100-year old business I would tell you that the transformation we're seeing inside Transportation right now is really exciting.
+I think what you'll see as we talk through this is that the digital impact across multiple sectors is very real and it is really changing how we work and how we work with our customers and I'll talk a little bit more about that later.
+Our products pretty straightforward as John mentioned the core of our business is all around the locomotive. About $5 billion of revenues in locomotive, parts, services in 2015 and then taking those adjacent technologies or I should say technologies into adjacent spaces. So wheels and propulsion in mining, marine, stationary and drill and then our growing Digital Solutions business as well.
+In 2015, I think one of the most interesting things about our business was our Tier 4 product launch and many of you may have heard that you know the Tier 4 locomotive that we launched in 2015. We built more than 425 of those in 2015 we have about 600 out on the rail running today, Tier 4 was really a new emission standard that required more than 70% emissions reduction in diesel locomotives and really significant particulate matter reduction as well.
+Products performing very well you could see here around [2 fly] which is really a measure of quality in the rail industry and we’re very, very focused on making sure that as this launch continues. We focus on reliability and availability for our customers really continuing to deliver a quality product.
+I think the nice thing here too is we have invested heavily not only in the technology, but in ensuring that we deliver it at a good cost to our shareholders. The product margin really has been on parity roughly with legacy product, which I think is a very healthy thing, but again here just very focused on delivering.
+Just a little bit on the market environment and I know that you know we live in a slow growth and sometimes choppy world. In the North American rail sector, you can see 2015 carloads down slightly I would say 2016 you continue to see that decline happening largely driven this year by the mix shift happening in the coal sector, 31% decline for our customer’s year-to-date in 2016 with coal. Some of that's driven by low oil prices. Some of that's driven you know in a very secular way by the shift away from coal.
+But also Intermodal down slightly as well this year and that's one certainly that we're watching. Broadly you look at the rail sector globally you continue to see nice pockets of global volume, certainly the business globally depending on where you are is impacted by low oil prices or low commodity prices just given what's going on in any particular region. But nice global volume continues and in the mining sector in particular, we see that sort of we are in a decline here, we are in a trough and over time, that should shift as well.
+This is the Transportation business look for 2015 and for 2016. I talked a little bit about 2015 before, close to $6 billion of revenue, $1.3 billion of op profit. I think in 2016, you are going to see those declines slightly just given the environment that we are in. What we are very focused on right now are really three big things right really winning with our customers and that means not only delivering the right way for North America, but really winning in global JVs, and I'll talk about that in a little bit.
+Navigating the environment we are in. We've got to deliver productivity, but we also have to really shift our mix. We are managing base and variable cost very aggressively in the business and really focused on, again, reliability and quality while we continue to take cost out and really manage the margin element of our portfolio.
+And we are really investing deeply for the future, so global footprint I think what you'll see in a minute is we are investing deeply in plants and infrastructure in different parts of the world to support sustainable businesses. And I think as we go through some of the material later at the end you are going to see how we are investing deeply in digital as well which has been a very attractive return space and one where we are I think well ahead of anybody else out there and delivering some really interesting solutions for our customers.
+Here is a couple of examples of some big global deals that we've launched in the last six months. So many of you may have heard about the India deal I mean really significant, 2.5 billion of equipment and services orders, 10-year deal in India. I'll talk about that a little bit more, but what that really does is the India diesel market for us before has not been one that has been opened to us outside of a tender like this.
+What we are really seeing after winning this deal is a real opening up of that marketing opportunity to us – not just as it relates to this equipment and services order, but we are starting to see a number of different follow-on tenders, whether that's for core equipment or for digital importantly in India.
+And then the Russian space, we announced a couple of months ago an engine JV with Transmashholdings. Again, here, Russia has typically been a pretty closed market from a diesel perspective and the Russia rail has about 8,000 freight locomotives in service today. They are expected to have a replacement cycle of roughly 200 per year over the next couple of decades and this launch of this engine JV is really a very strong and I think very well positioned way to play in that market and we are really excited about that.
+Just a little bit more on India. I think this is a huge win. This is something that I think is really important for India itself, deep, deep investment in India's infrastructure by Modi, really aligns well with the Make in India initiative, but it is also the biggest win GE Transportation has had in its history, it’s the biggest win GE India has had in its history.
+We are investing more than $200 million in a factory in the State of Bihar in India. It's hard, it's complicated, but the team is really executing well, we just had our groundbreaking on Monday and really nice progress there. I think one of the more interesting stories around the India deal maybe how we are thinking about the engineering element of this.
+So today, our engineering teams for GE Transportation are split about 50/50 between our Bangalore Engineering Center and sort of our U.S. engineering teams. And as we launched this deal, one of the challenges we really gave our India engineering team was to really focus on how do we take engineering design to value and should cost and really take product – our product cost down for this product. And what we've really seen is this very healthy competition between our U.S. and our India teams. And already we've been able to, through product cost reduction, add 10 points of incremental margin to the [as bid] deal here, so really significant.
+But I think it’s also something that's really indicative of more we can do to really bring those ideas now back to other parts of our portfolio and really continue to drive a very healthy and disruptive look at product cost. We play across the industry and I think especially as companies continue to work in a CapEx-constrained, cash-constrained world, it's not just about new equipment, it's about modernizing old equipment and it's about really opening up sectors around things like digital or used service materials.
+I thought I just spend a few minutes here talking about the Digital Solutions business and I think this is a great example of, in GE, of how we think about digital industrial. Our Digital Solutions business in 2016 will have just under $0.5 billion of revenue. It's growing at a rate between 30% and 40% topline, it's really exciting. It really comprises two components in the portfolio.
+The first is really onboard computing solutions and so the picture you see here and you may or may not be able to read some of the finer print, but I'll maybe walk you through it a little bit.
+If we think about the locomotive and we think about our ability to implement not only hardware, but also software solutions that help that locomotive run more efficiently. That's what this business is all about; one of our products is Trip Optimizer. This is a piece of software that when you install it on a locomotive typically can deliver between 7% and 10% fuel savings for our customers.
+It's really a very successful product something that our customers love that solution. LOCOTROL Distributed Power allows our customers to haul heavier and longer trains, so more throughput with the locomotive power they have. Rail integrity monitor really monitors onboard things like rail brake and kink in the track along the way. And if you think about railroads they typically spend a lot of time and a lot of money really inspecting track and making sure that they don't have brakes or other issues.
+If we can install the technology right on the locomotive to do that for them, we can turn finders into fixers and really help them be far more productive in terms of how they maintain their own infrastructure. So these are the kinds of products we’re developing and we’re selling across our rail customers in North America. I am really excited about the penetration opportunity too as well outside into the international space and that's really picking up right now.
+When we look at the other piece of this business it's really around rail operating software, so we talked about onboard the locomotive now. This is the piece where software that helps our rail customers really runs their operations. So beyond a core SAP or beyond a core Oracle typically there are some pretty unique processes inside a railroad. You dispatch locomotives; you have real time optimization within the network once those trains are dispatched for the day.
+A lot of unforeseen things happen and as you need to make the decisions about rerouting trains, finding the best possible way to get the train from point A to point B at the lowest cost and really looking at all the variables in those networks. Those are the kinds of software solutions that we bring. And I think we are very well positioned to do that for a couple of reasons. One is deeply know the domain.
+So it's not just about knowing the equipment, it's about understanding how railroad operates. We bring deep engineering capability and software engineering capability. And I think the third thing is really layering in you know our predictive analytic capability, our algorithmic capability and bringing in the San Ramon and Predix team to really help us drive solutions that are really, really driving productivity for our customers.
+So this is the other half of that business and you can see terminal operations, movement planning really different elements of how we work with our customers to drive software. It is not just about the Digital business though this really extends into our existing business as well.
+So this page is an example, I think many of you are familiar with our core services business where we really work with our customers to maintain locomotives throughout their lives. It involves parts revenue streams that involves really service and maintenance work. What we are finding are a couple of things here. Number one, as we deliver core digital products on to these locomotive something like a Trip Optimizer which has a very nice value prop for our customers around fuel savings. We are also seeing it drive as you might imagine really optimal wear and tear on parts.
+So it's really driving less wear and tear which really drives more productivity for both us and our customers something we can share as we go forward. I think the smart shopping piece is an interesting illustration of some pilot projects we’re working this year with customers to really take our own digital capability inside the company, our knowledge of exactly how those locomotives are running out on the rail, how they are configured and how those parts are wearing.
+And when we combine those things with the ability to automatically send that data to our customers to automatically order materials before that locomotive even goes into the service shop to automatically have the work scope there and ready for their team to take up. It’s driving really significant cycle time reduction for our rail customers and so as you can imagine different ways for us to provide as a service or other productivity stream in.
+So interesting combination of sort of inside Predix and inside our customers. This last piece is really about something that we and GE called the digital thread and when we think about the digital thread what that really means is driving a whole thread, a whole connection both in the systems and in the data throughout our factories throughout our engineering teams and into services.
+And when we think about transportation, I think we are a really great example of digital thread. This is our Grove City factory. We do both new manufacturing of engines there; we also do remanufacturing of engines. As you can see over the last 18 months we've had a very significant play here to connect machine.
+And the idea here is saying, gosh, if we can make our machines for our customers like a locomotive more productive with sensors and analytics and data. Why can't we do the same thing inside our own factories? And so, as we connect machines what we're finding is that we can understand what's happening in those engines before it even hits our remanufacturing shop.
+We can understand exactly how those parts have worn or not worn as they've been out on the road. And what that means as we can really do conditional routing around how we manufacture. So, if an engine comes in typically in the past we would tear that entire engine down, we would take every single piece and we would run it through a remanufacturing line to come out the other side with a rebuilt engine.
+Today what we do is we really segregate that engine into things that need to be fully remanufactured, things that don't need to be touched at all because they are perfectly fine, and things in the middle. And then what we can do as we tear it down is really conditionally route those things through our factory. And we also have much better information about the optimal locomotive to return those parts into service for, okay?
+So if we have new or reman, we may put into a locomotive that needs you know full life. If we have something that's 30% life left, we’ll match that up with a locomotive that is going to come into a service shop that aligns with that part life. So it's a very interesting way to provide just a tremendous deep visibility.
+But actually really interesting way to drive productivity and you can see here just in this effort we’re slotting 25 million a productivity that we’ll see this year in 2016, but I think as you start to stitch the entire digital thread together across engineering, across factory, and across services and you start to think about these examples the ones I just mentioned in the services space. We really see a much more significant productivity opportunity for the business over the next several years.
+So really exciting stuff. So just to sum it up, I think you know look we do see a challenging environment out there, but we also see a very healthy product on the rail in North America. We see very nice pockets of global opportunity. I think the investments we're making in some of these key markets are really going to pay dividends down the road and we're investing heavily in the services and digital space and we really think as we grow that that provides a nice expansion of where we can go but it also provides a nice mix stream to play across really play horizontally across some of these industries.
+So I think that that's what I had today. John.
+Question-and-Answer Session
+Q - John Inch
+Yes, let’s…
+Jamie Miller
+Leave that up there, I guess.
+John Inch
+A little discussion. Sorry about the controller. So what are the revenues again of your segment?
+Jamie Miller
+About $6 billion.
+John Inch
+$6 billion? How much of that mix is equipment that's new versus parts for equipment versus services? You said Digital is $500 million of the $6 billion?
+Jamie Miller
+Digital is $500 million of the $6 billion and I would say the other is split. We’ll do 800 units this year I’d say the other is split roughly 50/50.
+John Inch
+Okay. So the rails, as I'm sure you're aware, right, are saying that they are not inclined to spend - in North America anyway, not inclined to spend for a very long time. How do you manage through that process? Because I think all these initiatives are fantastic but they also are not necessarily short-term in terms of crossing the line. So, what's your playbook as the CEO of this business? Do you have to focus on downsizing? Do you actually look for other - do you try and accelerate other things? Like how do you manage…
+Jamie Miller
+I think it’s all of the above. So first, we've got to both win globally and we have to invest deeply to sustain global markets being open to us and I think that's what we're doing. Like I said before we do see some very nice pockets of global opportunity, we've got some very significant deals. We're working through right now in the tender process. The investments in India and Russia are very significant in terms of opening up frankly near-term revenue opportunity and markets for us I think that's really important.
+And I’d say the other thing is as you look at the North American market you really have to play across the spectrum. We do have a healthy backlog, but we also are investing deeply in services. And while it may feel that digital is a little more long-term I would tell you the growth rates we’re seeing and the appetite we're seeing with our customers to really drive increased productivity is very, very healthy and it's a now opportunity more so than it's a longer term.
+John Inch
+Well, I'll come back to Digital and Predix in a second. I do want to ask you about India rail. I'm assuming that track from what little I know about these businesses, track gauges and widths and so forth are different and I'm assuming the specs are different. How does that work for GE?
+So, you want to get into Russia. You obviously had this win in India. How do you design a locomotive for an international market? I think I understand the competitiveness argument that you made, so you clearly are winning, right? But how do you do it in a way that's efficient for you that you can scale up and make as much money as you make in North America?
+Jamie Miller
+Yes. So we – the good news is that we played in a lot of markets and so when you start to think about gauge and other tunnel size, other factors that could drive a real spec, we have a lot of core experience and a lot of core engineering design experience typically when we bid internationally, about 85% or 90% of the product is standard. We pull from sort of a modular set of components. And then typically about 10% to 15% ends up being a little bit more requisition, a little bit more custom in terms of how we fit it for a particular market, so that's a big piece of it.
+I think the other big piece of it is scale and you start to think about opening up the India market. When you are able to produce 100 locomotives per year, you can invest in a way that gets you some very nice economies of scale and nice returns. I think that's one of the reasons it's been more difficult in India for a long-time, because if you can't invest at that level it's very difficult to sort of achieve the returns you want. Russia is the same thing I mean very nice volume and as we see that volume really grow and levelize, it's going to be a nice market.
+John Inch
+GE is in the headlines for new investments in Saudi. What do governments – just as an example what do governments require from you to give you this business? Because – and we all know it happens, right? You have to make local investments and employ people. States do it, so it's not an international country issue. What did you have to promise the Indians in terms of what you're going to build and employ locally to actually secure this win? And what does that imply for other sort of markets that you're trying to tap as well?
+Jamie Miller
+Look I think this is a very real question. Typically when we – in any market outside North America, we typically have localization that countries are very focused on, so really making sure we're bringing jobs, we're producing local content as we build those locomotives. And localization can range anywhere from 30% to 70% of a locomotive.
+In Africa, the Transnet locomotives we're building there have 55% local content. In other markets it might be 30%. In the case of India, we really looked at this as an opportunity to invest at scale and so we're driving very hard to actually localize as much as possible in India and make sure that we build the local capability whether it's jobs in GE or jobs throughout the supply chain, but really build a platform that we can leverage in other parts of the world there too.
+John Inch
+Did you have to build a new factory or factories, like how…?
+Jamie Miller
+We’re building a new factory in Bihar.
+John Inch
+Okay.
+Jamie Miller
+We are investing $200 million in that factory. We are also investing deeply in training facilities and service sheds to ensure that we can take the State of Bihar which has a – for example a population that the India really wants to increase employment, they want to reduce illiteracy rates, other things like that. We can really help them affect their local communities as to how we do it. So, it is a factory, but it's also very attractive for them, the infrastructure that tends to grow up around adding an investment like that.
+John Inch
+I mean the other big Asia Pac market is obviously China, and GE has historically not really – I mean you've done very well in medical devices and other things, but other sorts of things like power have been more of a closed to market to you. How about locomotives? Is that an opportunity with respect to now on China source, you've got this big win, a signature win. You clearly would make investments in the China market as well, right? What's the opportunity for you in China?
+Jamie Miller
+If you look at the rail business, we basically have two global competitors. One is China rail and the other is EMD. So as we look at the China market, we do have different investments we've made over the years, we do have partnerships. I see digital as an interesting play for us there, but China rail typically supplies China, and so that’s a market that’s a little bit different.
+John Inch
+A little bit tougher to tackle. Let's talk about Caterpillar and you had a big win over them in terms of bringing Tier 4 out before them, light years before them. Are they a force to be reckoned with in the future? I mean how – I realize you don't want to be too nasty here, but how should investors think about your positioning versus your other primary competitor both on several dimensions, whatever you would like to address?
+Jamie Miller
+I'm really excited about our Tier 4 product. We've got 600 locomotives out there that are running very well. The technology performance is very, very strong and look we compete with Caterpillar. They're a great competitor, they're a great company and look that's something where our focus today is all about continuing to bring the best technology, the best Digital Solutions at the most competitive price and win. So we really respect them, we think they’re a great competitor, but we're also excited about the advancements we've been able to make in Tier 4 and the position we have there.
+John Inch
+Well, one other thing you probably bring to the table that they don't is your acumen and legacy strength in CSAs. I'm assuming that – what is the mix of contractual service agreements relative to – so just explain, when you sell a loco, what's the tail of life look like in terms of future parts service? And while we're on the subject, how does it work? Do you just sign annual contracts? Is it three years? Is it performance oriented? Or how does that work? Or do you just – I sign a service contract with you and then if something breaks on it you come fix it or is it more intricate than that?
+Jamie Miller
+We typically – when we sell locomotives, we typically enter into the service arrangements with our customers and they can take a few different forms. One of the most common is that as you say maintenance service agreement which really can last 15 to 20 years.
+John Inch
+It can last that long? Okay.
+Jamie Miller
+It can last that long and it's a real partnership. We provide guarantees around performance and around costs and we work very closely with the customer to manage their fleet, perform their service operations. Sometimes the customer provides the labor and we typically provide work scope and the parts stream, but it's a real partnership as to how we maintain those locomotives for sort of guaranteed availability and guaranteed cost over their life.
+In other situations we enter into long-term parts arrangement where a locomotive customer may want to perform or that service themselves and have more control. We may enter into as a service sort of product offerings where we provide locomotive work scopes, intelligence about the locomotives, long-term parts arrangements, long-term supply provisioning with them, but it sort of runs across the spectrum that way. But typically these locomotives are in service 20, 30 years.
+John Inch
+Right.
+Jamie Miller
+And so for us it's really important that we bring part streams that are very reliable to our customers to make sure they can use them and get maximum ROI over the life.
+John Inch
+I did get this question emailed, so I think it's fair to ask. So given what's going on in the industry assuming there is no macro rebound, because obviously a lot of the sluggishness is attributable to the resource aspect of the economy, right? So given that none of us can forecast that we could be in a slow growth environment?
+How long does it take for this stock of locos to work its way through to see demand conditions become more normalized? Assuming there's no GDB ticker behind this? How long – I mean I realize you've got other options, but I'm just curious how long it's more of an industry question and your perspective on the industry. How long is this going to take for this overhang to clear through?
+Jamie Miller
+I think it really depends I mean what we've seen in the past cycles is that it can change very quickly.
+John Inch
+And why?
+Jamie Miller
+Yes. And some of that is if you look at core oil prices, commodity prices certainly those things pickup demand very quickly once they shift. Interestingly severe weather patterns also impact North American rail in interesting ways, so if you start to think about energy production, if we have a very hot summer and prolonged heat, if we have a very awful winter, energy production and core commodity demand flowing through the system tend to really sharply uptick.
+And so what we see with the rail sector is that when it shifts that shift, but it also comes when it comes back – it very sharply comes back. So it's something that there's a lot of different factors that can go into it and I think we just have to see what the cycle looks like as compared to some of the past cycles.
+John Inch
+So how does that work? Do locos parked and then almost like surface drilling in oil, like some of these rigs get stripped. Do these locos get stripped or is that not the way…
+Jamie Miller
+No, that’s exactly what happened…
+John Inch
+That’s what happens, right?
+Jamie Miller
+That’s exactly what happened, so as you need power you have power over the rail, if you don't need it and you're trying to optimize your ROI and your OpEx certainly you're pulling them off, you are parking them, you are sort of store that until you need them again.
+John Inch
+But you have this re-man business that you were alluding to. How big is that? Is that significant?
+Jamie Miller
+It is very significant. Now the remanufacturing business I would put it into two components. One is core modernization of old locomotives. The other is remanufacturing of parts and so…
+John Inch
+Okay.
+Jamie Miller
+And the parts piece is the biggest piece of it right, because it really creates a nice price point for our customers in a nice market around a mix of new products versus reman products and so that was more significant.
+John Inch
+What's the price differential? So I could either buy new loco. I realize that these contracts are predicated on volume right. But I could buy new loco or I could buy a loco that you have refurbished. What's the price point difference between the two, assuming the refurbished one is not going to last for 23 years?
+Jamie Miller
+Typically modernization is focused on life extension.
+John Inch
+Right.
+Jamie Miller
+And when you really think about a locomotive modernization if you modernize more than 50% of that locomotive you have to meet new emission standards.
+John Inch
+I see, okay.
+Jamie Miller
+So typically when you think about price points and when you think about the actual core works that's being done, it's typically 50% or less of parts being replaced and 50% or less of the cost actually, it kind of correlates that way.
+John Inch
+Now your U.S. business is unionized, I'm assuming?
+Jamie Miller
+Partially.
+John Inch
+Partially unionized? Do you have any contracts or anything like that, negotiation milestones that we should be aware of coming up?
+Jamie Miller
+As a company, we negotiated with the union and we had our contract ratification last year.
+John Inch
+Okay.
+Jamie Miller
+I think our most significant union we work with today is in Erie, Pennsylvania. And as we work through cost actions and different you know flexibility in our workforce and movement of work between factories, we do work with our union to not only look at how we can transfer work, but how we negotiate that as well and we actually have some discussions in process with our union where we very much want to work with them to come to a good solution for how we can best manage our work.
+John Inch
+It's in their interest as well as yours own, right?
+Jamie Miller
+It’s been all of our interest yes.
+John Inch
+Absolutely. Okay, let's talk - GE has got their big meeting coming up on Predix and Internet of Things, so I saved all these buzzwords for this meeting just for you. From my perspective, it makes complete sense if you're running a transportation system how managing this data to optimize the efficiency of your network can save you a lot of money. That's the concept.
+Can you paint more of a pragmatic picture of how you intend to develop products and services? Tie that into what's going on in San Ramon and how you think you can actually monetize this. For rail customers that frankly are strapped for cash, why - it's nice on paper, but what's really ultimately - how do you monetize all of these investments that you're making as a corporation and then your own activity?
+Jamie Miller
+So let me start with our business because I think it's really indicative of the broader trend we see across GE. So within rail, like I mentioned before we're really focused on software and hardware that you can embed in the locomotive itself to drive better performance and because it drives immediate productivity for our customers, it is something that our customers can understand and it's a product that very quickly develops a market.
+So I mentioned Trip Optimizer before, I mentioned LOCOTROL Distributed Power. I mean those are things that you know we're driving if you look at our digital revenue about a $0.5 billion I'd say 60% of that revenue relates to product that we sell hardware and software that we sell that goes right onto the locomotive itself, very real. The second piece which is really the software for operations is probably 40% of that portfolio.
+And this you would like and more to towards an ERP or some sort of investment like that, but they’re very specific pieces of software that run rail operations whether it's a yard, a terminal something like that. They are longer sells, they are longer implementations because they are more intricate, but they're also – it’s core – it’s digitizing of core processes that either were manual before or fragmented before where our customers see bigger opportunity.
+John Inch
+Now just – let me interrupt for a second. You did have to sell your rail business, right?
+Jamie Miller
+Signaling.
+John Inch
+That was just signaling?
+Jamie Miller
+Just signaling.
+John Inch
+That was an $800 million business. What was that business versus what you’ve sort of retained?
+Jamie Miller
+So signaling typically relates to wayside infrastructure in the rail operator’s core infrastructure themselves. The business that we're in relates to our equipment. It relates to their operations and just core enterprise software…
+John Inch
+So, you didn't have to monetize – or excuse me sell off any of the tools that would drive sort of IoT, data analysis and stuff?
+Jamie Miller
+That's right.
+John Inch
+This is a separate business that didn't really have anything to do with the production of locos.
+Jamie Miller
+That right.
+John Inch
+Okay.
+Jamie Miller
+And so, just to link in the Predix piece of it for a second, so now as we start to have lots of data coming off locomotives, our Tier 4 locomotive as an example has more than 200 embedded sensors. It pulls off more than 1 billion instructions per second. As we start to gather that data at the locomotive level and we're able to push it up to the cloud and we’re able to pull data off of our customers networks, off of the rest of the train for that matter, we're able to start really looking at algorithmic possibilities and frankly productivity possibilities that are much, much bigger than just what we can do on the locomotive itself or in an operation itself and that's really were Predix comes in.
+So if you think about a smart intermodal operation where a customer is really having the intersection of trucking and rail and marine in different ways. If you start to think about how you can take data off of their systems, our locomotives and really pair it up with how containers route through their system. Predix, the deep data capability it has, the algorithmic capability that we can put behind that that's really where we can bring very unique solutions. But smart intermodal was actually a big win in the first quarter with one of our customers, one of the biggest wins that we've had on Predix so far and it was a $40 million.
+John Inch
+Predix was just launched.
+Jamie Miller
+Predix was launched for general availability earlier this year, yes.
+John Inch
+General availability, but you've been able to – because clearly you can't just sell these things immediately, right? You've been able to leverage it somehow to package it to secure this win in advance.
+Jamie Miller
+That's right. We’ve been working with Predix inside GE for a couple of years now.
+John Inch
+Okay.
+Jamie Miller
+And really not only piloting, perfecting, leveraging, but using it inside the company and so I think now what we're starting to see is our ability to really leverage that across the commercial as well.
+John Inch
+And what does it look like on the customer – what exactly are you selling me? Are you selling me a control system interface? It's hard for me to conceptualize what actually this looks like in real time. Are you selling me some sort of control system interface? You're clearly selling me some software, right? And then GE talks about these apps under development or is there a sort of My Rail app – the guy presses it and he can kind of run these analytics? Or just talk about that for a second?
+Jamie Miller
+So we have control system basically on the locomotive. We also sell basically compute and storage that goes under a box that goes under locomotive as well. We install software on that. We can aggregate data on that. We can run local algorithms on that locomotive to control the train and its surroundings.
+John Inch
+Okay.
+Jamie Miller
+Predix Edge which you may hear Bill talked about, occasionally Predix Edge is really an element that goes within that box. It’s really the ability to take deep computing capability and put that on the equipment, but outside of that it's also cloud capability. So its infrastructure, its platform, it’s the ability to aggregate data, run algorithms quickly leverage a platform to develop applications that maybe unique to an industry or maybe unique to a customer.
+So if you think about it from a customer perspective I'm not only buying core capability on the locomotive, I'm also buying the ability to create my own apps that could pull in and interface with my enterprise software. What's happening on my equipment, the whole mash-up of that ITOT space if you will.
+John Inch
+And there are apps – just so I'm clear are they are apps that are specific to the customer or there's just a generic menu of apps?
+Jamie Miller
+All of the above.
+John Inch
+All of the above and the customer itself can develop this as well, right
+Jamie Miller
+Exactly.
+John Inch
+For their purposes…
+Jamie Miller
+Yes.
+End of Q&A
+John Inch
+Okay. Great. We are out of time, but thank you. Much appreciate it.
+Jamie Miller
+Great. Thanks for much John.
+John Inch
+Thanks Jamie.
+Copyright policy: All transcripts on this site are the copyright of Seeking Alpha. However, we view them as an important resource for bloggers and journalists, and are excited to contribute to the democratization of financial information on the Internet. (Until now investors have had to pay thousands of dollars in subscription fees for transcripts.) So our reproduction policy is as follows: You may quote up to 400 words of any transcript on the condition that you attribute the transcript to Seeking Alpha and either link to the original transcript or to www.SeekingAlpha.com. All other use is prohibited.
+THE INFORMATION CONTAINED HERE IS A TEXTUAL REPRESENTATION OF THE APPLICABLE COMPANY'S CONFERENCE CALL, CONFERENCE PRESENTATION OR OTHER AUDIO PRESENTATION, AND WHILE EFFORTS ARE MADE TO PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS, OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE AUDIO PRESENTATIONS. IN NO WAY DOES SEEKING ALPHA ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN ANY TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S AUDIO PRESENTATION ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE MAKING ANY INVESTMENT OR OTHER DECISIONS.

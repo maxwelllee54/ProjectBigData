@@ -13,7 +13,7 @@ def vol(df, mode):
     '''
 
     #intvl_list = [5, 10, 30, 60, 120]
-    intvl_list = np.arange(120)
+    intvl_list = np.arange(240)
 
     dic = {}
 
@@ -29,7 +29,9 @@ def vol(df, mode):
 def auto_vol(df):
 
     data = df.copy()
-    output = pd.DataFrame(columns=[str(i) for i in np.arange(-120, 121)])
+    output = pd.DataFrame(columns=[str(i) for i in np.arange(-240, 241)])
+    #output = pd.DataFrame(columns=['10_after', '5_after', '120_before', '30_after',
+    #                               '5_before', '60_before', '60_after', '10_before', '30_before', '120_after'])
 
     for date in set(data.loc[:, 'release_script']):
 
@@ -65,5 +67,5 @@ for file in files:
     except:
         print(file)
 
-data.to_csv('stock_vol_240.csv')
+data.to_csv('stock_vol_480.csv')
 

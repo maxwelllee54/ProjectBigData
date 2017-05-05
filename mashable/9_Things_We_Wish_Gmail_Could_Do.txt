@@ -1,0 +1,24 @@
+9 Things We Wish Gmail Could Do
+Have you ever emailed back and forth with someone and she keeps sending you a separate email with each new thought? Or maybe the emails you receive from someone using a different email service get pushed into separate threads in your Gmail inbox.
+Whatever the reason, separate emails that belong in the same thread are a pain. It would be great to have a feature that merged separate emails into the same thread, at least for organizational purposes.
+For some reason, it's incredibly difficult to highlight and copy conversations in Gchat, especially if you don't have a mouse with a scroll wheel. If your chat extends past the small window and you try to drag and highlight, the text is deselected. You also can't use the "Select All" keyboard shortcut since you can't actually place the cursor within already-sent chats.
+This could be incredibly useful if you're chatting with someone and you want to ping him or her a file, without having to send a separate email.
+Mashable composite image: Clipart courtesy of OpenClipArt.org, jabon.
+"Out of office" messages are extremely convenient. They're the modern-day versions of answering machine announcements. 
+Gmail currently lets you set up an "out of office" message for everyone who emails you. You can also filter the auto-response to only your contacts, or if you're using your company's Gmail service, only to co-workers.
+Odds are, though, that the people who really need to see your "out of office" message are those outside your contacts. Gmail should give you the option to push the auto-response only to that group.
+You have the option to go "Invisible" in Gchat, meaning your name doesn't show up in anyone's chat list. If you use Gchat for both work and personal, however, it would be useful to select whom you appear visible to; it's also helpful to discourage that one pesky co-worker who won't leave you alone.
+You can set up a system that sort of mirrors folders within Gmail by using labels and the "Archive" tool. But it can get messy, and your list of labels can get long and cumbersome. 
+Since folders work so well in Drive, it makes sense to bring that feature to Gmail. That way, you can easily organize and find emails without using the convoluted label "nesting" function.
+Mashable composite image: Clipart courtesy of OpenClipArt.org, jhnri4.
+When "replying all" to emails, the addresses in the To: and CC: fields often reverse. A button that could switch them in the correct order may seem unnecessary, especially since Gmail now lets you drag and drop email addresses, but this could prove useful for the super quick (and/or lazy) emailer.
+When you include someone on an email through BCC, you ensure that his or her email address is not visible to the rest of the people on the thread. However, let's say three people are CC'd for the main conversation, and 10 are BCC'd. If there were an "Enduring BCC" function, the people BCC'd could follow the entire conversation.
+This could get dicey if used poorly, but could be incredibly efficient for the right purposes.
+If you're ever in a situation where you need to forward several emails to the same person, a mass forward option could come in handy. Think of general business email addresses where people send inquiries to various members of the staff, or if you're trying to transfer emails from your main account to an alternate account -- this feature could eliminate a lot of tedious work.
+Gmail is one of the most popular and efficient email services out there. Launched in invite-only beta in 2004, Google's webmail service has greatly evolved over the past nine years with new designs, labs, apps and more.
+SEE ALSO: Free Calling for Gmail Users Extended Through 2013
+
+Even though Gmail is nearly all-encompassing for your email needs, there are still a few things that could make the service even better. We've compiled a short list of our wildest Gmail dreams in the gallery above.
+What's on your Gmail wish list? Tell us in the comments.
+Image courtesy of iStockphoto, eyeidea.
+http://mashable.com/2013/01/10/gmail-wish-list/

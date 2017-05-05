@@ -1,0 +1,13 @@
+IBM's Watson Memorized Entire Urban Dictionary, Then His Overlords Deleted It
+Humans talk funny. We invent words. We smash words together, tear them apart, abbreviate them one way, then another. Which is great and fun, if you're a human. Not so great if you are a machine or the kind of human who programs machines to understand language.
+When IBM's famous artificial intelligence, Watson, he/she/it of Jeopardy-winning fame, was in development, its head researcher had a great idea. Humans created this repository of slang, The Urban Dictionary. For example, today on the site, we learn that 'healthy gas' is "the gas (fart) produced from a person who has eaten healthy foods like cabbage, beans, broccolli, grains or other high fiber, high carbohydrate foods."
+Brown realized that this formalization of informal language might be a great way for Watson to understand the way real people communicate. So, he and his team, fed the whole thing into their AI.
+But one problem. Informal language has a tendency to be dirty, nasty language. Its insults and cuss words, new names for gross old things, old names for gross new things, etc. And so, we learn from Fortune's Michal Lev-Ram, they had to delete all that human messiness from Watson's memory.
+Watson couldn't distinguish between polite language and profanity — which the Urban Dictionary is full of. Watson picked up some bad habits from reading Wikipedia as well. In tests it even used the word "bullshit" in an answer to a researcher's query.
+Ultimately, Brown's 35-person team developed a filter to keep Watson from swearing and scraped the Urban Dictionary from its memory.
+Image courtesy of Jeopardy/Alexis C. Madrigal
+
+This article originally published at The Atlantic
+here
+
+http://mashable.com/2013/01/10/ibm-watson-urban-dictionary/

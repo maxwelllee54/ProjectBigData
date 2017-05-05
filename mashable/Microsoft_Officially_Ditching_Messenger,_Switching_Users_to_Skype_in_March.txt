@@ -1,0 +1,13 @@
+Microsoft Officially Ditching Messenger, Switching Users to Skype in March
+Windows Live Messenger will officially retire this March, Microsoft announced Tuesday in a mass email to the chat service's users.
+On March 15, all users will be switched over to Skype, which the software giant acquired for $8.5 billion in October 2011. 
+"We are retiring the existing Messenger service globally ... and bringing the great features of Messenger and Skype together," Microsoft said, adding that Messenger will continue to be available in mainland China. Last November, Skype president Tony Bates confirmed in a blog post that Messenger would be shuttered in the first quarter of 2013.
+The company also encouraged users to "update to Skype," and sign in using their Microsoft account (formerly known as a "Windows Live ID"), which includes an email address and password. All Messenger contacts will be included in Skype upon sign-in, the email said. 
+Those who are signed in to Messenger on desktop will see a banner notification to "upgrade," it added. When clicked, a pop-up window to install Skype will appear, and will automatically uninstall Messenger. 
+Until March 15, Messenger "will continue to work as you know it today," Microsoft said, but after that date, users won't be able to sign in, and will be prompted to switch to Skype. 
+Starting last November, Messenger users had the ability to talk to their contacts using Skype.
+Last October, the VoIP service released a new version of its desktop client for Mac and Windows that included integration with Facebook and Microsoft accounts. 
+Messenger users, do you plan to switch over to Skype before March 15? What will you miss — if anything — about Windows Live Messenger? Tell us in the comments below. 
+[via The Next Web]
+Image by Pete Pachal, logos courtesy of Microsoft
+http://mashable.com/2013/01/09/microsoft-messenger-skype/

@@ -1,0 +1,9 @@
+Apple Locks in iOS App Screenshots to Prevent Scams
+Apple's recent change to its App Store policy will lock in screenshots of iOS app submissions after they've been approved, preventing scammers from replacing them with ones from more popular apps. 
+Before the update, app developers were able to change screenshots of their apps after they've been published in the App Store. While updating screenshots may be a legitimate way to reflect new iterations of an app, some developers combined names similar to other titles with screenshots taken directly from other apps to dupe customers into spending money on, essentially, fakes. 
+An example of this tactic is an app called "Mooncraft," which leads customers to believe that they are buying a version of the popular game, "Minecraft." 
+
+Developers will still be able to update screenshots for their apps, but only during updates.
+"Beginning January 9, app screenshots will be locked in iTunes Connect once your app has been approved. New screenshots may be uploaded when you submit a binary for an update to an existing app or a new app," Apple announced on Wednesday. 
+Image courtesy of iStockphoto, Nikada
+http://mashable.com/2013/01/10/apple-ios-app-screenshots-scams/

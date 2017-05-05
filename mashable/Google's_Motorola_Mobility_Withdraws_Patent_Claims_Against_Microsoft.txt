@@ -1,0 +1,12 @@
+Google's Motorola Mobility Withdraws Patent Claims Against Microsoft
+Google-owned Motorola Mobility filed a motion Tuesday with the U.S. International Trade Commission to withdraw two patents that were part of a patent-violation claim against Microsoft. 
+The search giant owns the two standards-essential patents, called "the H.264 patents," since acquiring Motorola last May. Dropping the claims means that Google is no longer stopping Microsoft from using video-compression technology on Xbox, according to All Things D.
+Microsoft wants to license the H.264 patents, but refuses to comply with Google's proposed demands for compensation, which the software giant has said is not "anything remotely close to a reasonable price."
+In a February blog post, Microsoft accused Motorola of breaching commitments that it and other companies had previously made to support industry standards, namely, "if they had any patents essential to the standards, they would make their patents available on fair and reasonable terms, and would not use them to block competitors from shipping their products."
+Despite withdrawing two patents, Google is still contesting one that is not part of an industry standard, All Things D reported. 
+SEE ALSO: Google XPhone: Long on Mystery, Short on Details
+
+Last week, Google settled a nearly two-year antitrust probe by the U.S. Federal Trade Commission. As part of the settlement, the company agreed to allow competitors access to license standard-essential patents for smartphones and tablets that it acquired after purchasing Motorola. 
+What do you think of Motorola Mobility's decision to withdraw the two patents? Discuss in the comments below. 
+Image courtesy of Flickr, Brian Turner
+http://mashable.com/2013/01/09/google-patent-claims-microsoft/

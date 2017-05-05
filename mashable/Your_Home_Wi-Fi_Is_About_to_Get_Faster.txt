@@ -1,0 +1,12 @@
+Your Home Wi-Fi Is About to Get Faster
+Are all your family or roommates' laptops, phones, tablets, gaming consoles and other wireless devices clogging up the invisible pipes that make up your home Wi-Fi network? Good news: That network will soon be faster and support more bandwidth-intensive activity, including streaming high-definition video.
+Federal Communications Chairman Julius Genachowski announced during CES Wednesday that the FCC is planning its biggest expansion of wireless spectrum for Wi-Fi in a decade. Specifically, the FCC is opening up to 195 megahertz of unlicensed spectrum in the 5 gigahertz band for high-speed, high-capacity Wi-Fi known as "Gigabit Wi-Fi." 
+The move, which will begin next month, will free up unlicensed spectrum for Gigabit Wi-Fi by approximately 35%. Making that spectrum available, argues the FCC in its statement about the plan, will provide for "higher data speeds and greater capacity." 
+Translation: those with technology that can make use of Gigabit Wi-Fi are about to see faster speeds and more capability to have multiple devices pulling down lots of data on their personal networks.
+Homes aren't the only target of the FCC's upcoming Wi-Fi expansion: it also announced a "government-wide effort" to bolster speeds and lessen congestion at "airports, convention centers and large conference gatherings" — all locations where finding a decent Wi-Fi signal is often a headache. "We all know the frustration of Wi-Fi congestion at conferences and airports," said Genachowski. "Today, the FCC is moving to bring increased speed and capacity to Wi-Fi networks by increasing the amount of unlicensed spectrum for Wi-Fi. As this spectrum comes on line, we expect it to relieve congested Wi-Fi networks at major hubs like convention centers and airports.  It will also help in homes as tablets and smartphones proliferate and video use rises."
+SEE ALSO: FCC OKs Television-to-Wireless Data Spectrum Auctions
+
+The FCC's move is the latest in its ongoing efforts to reform spectrum availability for an increasingly mobile world.
+Do you want faster Wi-Fi in your home or other congested hubs? Share your thoughts in the comments.
+Photo courtesy of iStockphoto, franckreporter
+http://mashable.com/2013/01/10/faster-wifi/

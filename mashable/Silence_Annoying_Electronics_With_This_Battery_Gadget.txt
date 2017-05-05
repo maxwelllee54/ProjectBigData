@@ -1,0 +1,10 @@
+Silence Annoying Electronics With This Battery Gadget
+LAS VEGAS — Ever have the fire alarm battery start to annoyingly chirp in the middle of the night? Or how about a kids' toy randomly make noises throughout the day? A new concept allows you to turn off AA-batteries remotely via your iPhone or iPad to silence your things when needed. 
+Called the Tethercell, AA-batteries fit snugly in this small case, which features a computer chip on the back. Instead of popping in a standard battery, it goes into the Tethercell and is then inserted into whatever device you want to control. No matter how many AA batteries are required to run the device, only one Tethercell is needed. 
+After it's cozied in its battery compartment and the device is turned on, an accompanying app — Tetherboard — must be downloaded from the Apple App Store and synced via Bluetooth to the mobile device. The app features controls, as well as a warning feature to alert users when batteries are starting to get low. 
+SEE ALSO: Beyond Barrel Roll: 10 Hidden Google Tricks
+
+Co-founder Trey Madhyastha told Mashable the concept came about when his child's toy started making noises in the middle of the night.
+"It said, 'peek-a-boo, I see you' and freaked everyone out," he said. "Although Tethercell is intended for controlling toys now, we eventually see potential for it with fire alarm batteries and warning users when it's getting low to avoid that annoying chirping sound."
+What electronic would you want to control remotely? Let us know in the comments.
+http://mashable.com/2013/01/09/tethercell/

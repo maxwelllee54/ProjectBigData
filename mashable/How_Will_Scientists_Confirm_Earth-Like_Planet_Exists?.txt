@@ -1,0 +1,23 @@
+How Will Scientists Confirm Earth-Like Planet Exists?
+The announcement this week that astronomers have found a potential alien world that could be the most Earth-like exoplanet yet is raising a big question: How will scientists confirm the existence of a true alien Earth?
+While NASA's planet-hunting Kepler space telescope, which discovered the newfound Earth-like planet candidate KOI 172.2, is great for finding large exoplanets beyond the reaches of our sun, it is not our best bet for recognizing an Earth-twin circling a distant star.
+In order to understand what an Earth-twin candidate really looks like, it takes a more refined approach than what Kepler can provide, at the moment.
+“It’s a statistical mission,” astronomer Natalie Batalha said of Kepler at the 221st meeting of the American Astronomical Society on Tuesday.
+The Kepler mission is designed to find out how many possible exoplanets there could be in any given part of the galaxy. The space telescope launched in 2009 and stares unblinking at a single patch of the sky to scan for dips in light from stars, a telltale sign of an orbiting planet passing in front of the star. Kepler's observations can tell scientists where a planet is in relation to its home star, but the spacecraft has little to add about the composition and climate of the exoplanet in its view, researchers said. 
+SEE ALSO: Most Earth-like Exoplanet Discovery Explained (Infographic)
+But how can scientists study those important questions that need to be answered before a planet can be deemed an Earth-twin?
+
+The Kepler mission is a starting point in the search for a true Earth-like planet, Nicolas Cowen a post-doctoral fellow in astronomy at Northwestern University in Evanston, Ill. told SPACE.com. “Kepler just told us how big the telescope we have to build is.”
+There could be as many as 17 billion Earth-sized planets in the Milky Way galaxy alone, but that doesn’t mean they’re easy to research once detected. Once planets of interest, like super-Earths such as the newly discovered object of interest KOI 172.02, are confirmed by Kepler, then other instruments can be used to investigate the specifics of the planet.
+A ground-based telescope could be just the right tool for finding Earth’s twins, said Cowen. If the exoplanet in question is near enough to the Earth and in exactly the right position, researchers could aim a 33-foot dish toward the planet to optically observe its transit between the Earth and its home-star. After researchers have measured the radius of the planet and if a telescope can make direct observations of the planet in question, Cowen said, then it is just a matter of patience. Cowen added that all it takes after a researcher knows the size and rotation of the planet is as much observation time as possible. Watching the way a planet rotates and taking measurements of the different colors that come in and out of view as the planet orbits its star gives researchers a sense of what might lie under the surface of the atmosphere.
+Water, land and clouds reflect light in different ways, and by directly observing those reflections, astronomers like Cowen can start to see how an exoplanet might be an Earth twin.
+“That’s what would happen in an ideal world,” Cowen said.
+Those days of “ideal” research might not be as far off as some believe. Cowen thinks that it could only be a matter of time before astronomers are able to peer into the atmosphere of an exoplanet and see what’s happening on the surface using a ground-based telescope.
+In a presentation earlier this week, astronomer Ian Crossfield suggested that it’s likely that an Earth-sized planet in the “habitable zone” of an M-dwarf star — a type of star smaller and dimmer than the sun, but plentiful in the Milky Way — will be found within 31 parsecs of Earth, a relatively short distance in astronomical terms.
+“This is the first meeting where any of these ideas have even brought up,” Cowen said. “It’s very exciting.”
+Images courtesy of NASA; F. Fressin (CfA)
+
+This article originally published at Space.com
+here
+
+http://mashable.com/2013/01/10/earth-like-planet-confirm-exists/

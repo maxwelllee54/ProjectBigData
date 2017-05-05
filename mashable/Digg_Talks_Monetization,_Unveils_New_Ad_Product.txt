@@ -1,0 +1,9 @@
+Digg Talks Monetization, Unveils New Ad Product
+Digg's new owners say they're only "about 1% done" building out their vision for the revamped content discovery application, but that doesn't mean they're going to put off monetization any longer.
+In a post to its corporate blog on Thursday, Jake Levine, general manager of Digg, and Michael Young, CTO of Digg, unveiled the site's first ad product since its redesign, dubbed "Apps We Like."
+It's a little different than your typical display ad. Developers are encouraged to submit an application to have their mobile apps considered for inclusion. If Digg's team think it's an app their users should know about, developers will then be invited to pay a flat fee to have their apps featured, beginning at $5,000 for a single day, Levine tells me.
+
+Apps accepted into the program will be marked as "Sponsored," and appear on Digg's iPhone and iPad apps as well its homepage.
+Quoting John Borthwick, CEO of Digg's parent company Betaworks, Levine and Young said it's critical for Digg to develop a revenue strategy that "align[s] to the grain of the product." Thus, instead of ad space to the highest bidder, they're hoping to advertise products their users will like and are thus more likely to engage with. This particular ad unit itself is unlikely to be a major money-maker, but it does indicate the kinds of revenue-generating features we can expect to see from Digg going forward.
+Image courtesy of Flickr, Titanas
+http://mashable.com/2013/01/10/digg-new-app-monetization/

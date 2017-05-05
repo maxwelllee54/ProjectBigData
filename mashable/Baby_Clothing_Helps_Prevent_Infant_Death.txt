@@ -1,0 +1,11 @@
+Baby Clothing Helps Prevent Infant Death
+A new breathing sensor system could be embedded in romper suits to help prevent Sudden Infant Death Syndrome (SIDS). Developed by researchers at the Fraunhofer Institute for Reliability and Microintegration IZM in Berlin, the system features a stretchable printed circuit board made of polyurethane.
+The discreet circuit board fits to the contours of the body and alerts parents as soon as their child stops breathing. It's manufactured using routine industrial processes, meaning that it should be inexpensive if it eventually hits commercial shelves.
+
+"The circuit board we have developed can be manufactured using routine industrial processes, meaning a high throughput and, consequently, good cost-efficiency," says IZM scientist Manuel Seckel. "Furthermore, components can be positioned on it just as precisely as on a standard board thanks to the stability of the stretchable substrate during processing. This stands in contrast to textile-based electronics, where one can expect an offset of up to five millimeters over a half-meter area."
+Photos courtesy of Flickr, Robert Freiberger; Fraunhofer Institute
+
+This article originally published at PSFK
+here
+
+http://mashable.com/2013/01/10/baby-clothing-infant-death/

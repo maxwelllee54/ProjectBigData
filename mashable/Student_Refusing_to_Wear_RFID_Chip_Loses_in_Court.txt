@@ -1,0 +1,13 @@
+Student Refusing to Wear RFID Chip Loses in Court
+A federal court has ruled that a Texas student who refuses to wear a school-mandated RFID tracking badge must at least wear an identification badge without a tracking chip or else change to a school without such a system.
+John Jay High School in San Antonio, Texas began requiring students to wear badges with RFID tags to track students' on-campus movements at the beginning of the fall semester. 
+Andrea Hernandez, 15, refused to wear the badge on religious grounds, claiming it was the "mark of the beast," according to Wired. She was suspended for disobeying the new rule and later sued the district. A temporary injunction allowed her to continue her studies untracked.
+However, a federal court this week overturned that injunction after Hernandez refused the district's offer to allow her to wear a chip-less identification badge. 
+The court found the deal was "reasonable" and "removed [Hernandez's] religious objection from legal scrutiny altogether." Hernandez must now either wear the badge or transfer to a school without the program. 
+The Rutherford Institute, which is representing Hernandez, is planning an appeal to the 5th U.S. Circuit Court of Appeals. Hernandez has been given until Jan. 18 to decide whether to don the badge or change schools.
+Hernandez's district, the Northside Independent School District, has two high schools experimenting with RFID tracking to get better data on class attendance rates, to which education funding is directly tied. The district has over a dozen high schools, though some are specialized towards teaching skills for particular careers.
+RFID chips use radio frequencies to transfer information between the chip and a receiver. They don't require line-of-sight, allowing them to be embedded within documents or even under skin. Thus, they're commonly used in new passports to track movement across borders and embedded into domestic pets for identification purposes.
+The use of RFID tags to track humans, however, has been the focus of many debates over personal privacy. For that reason, it's interesting that Hernandez argued against wearing the tag on religious and not privacy grounds.
+Should schools be able to track their students' movements around campus? Share your thoughts in the comments.
+Photo courtesy of iStockphoto, CEfutcher
+http://mashable.com/2013/01/09/rfid-tracking-school/

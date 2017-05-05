@@ -1,0 +1,23 @@
+How to Land a Job at Spotify
+New year, new job? In our new Dream Job series, Mashable will take you behind the scenes at five hot startups, and we'll give you the scoop on how to land a job there, what positions are available, what kind of people they're looking for and what the culture is like.
+First up is Spotify, the digital music streaming service that launched in Sweden in 2008. The company has 700 employees across the globe, with 150 based in New York City. These Spotifiers work hard (and play hard) to supply a nearly endless stream of music to more than 20 million subscribers in 17 countries, and the platform's upcoming changes to music discovery will improve the user experience, and usher in a new era for the startup.
+Mashable spoke with Alexandra Cohen, Technical Recruiter at Spotify, to get the low-down on how to score a job there.
+
+The Openings: There are a number of open positions within the Tech, Product, Operations, Sales, Marketing and Analytics Teams. Spotify has offices all over the world and is headquartered in Stockholm, Sweden, and the Chelsea neighborhood of New York, where the company is doing most of its hiring. There are open sales positions in L.A., Chicago and the new San Francisco office (where there are also open positions in engineering and corporate roles). You can browse all open jobs here, and stay in the loop with frequent updates on the Spotify Jobs Facebook Page. Applicants can submit their resumes directly on the site or through third-party postings on LinkedIn, Github or Stack Overflow.
+A selection of the open positions in Spotify's New York office
+If you're applying for a tech position, and the Spotify team likes what they see on your resume, you'll be contacted for a phone or Skype interview with an engineer. Then you'll have a half-day of on-site interviews (three hourlong meetings with engineers, and lunch with an engineer). Depending on the position, you may have to complete a coding challenge at home before arriving onsite.
+If you're applying to work on the business side, you can expect one or two phone interviews and two or three hours of onsite interviews.
+The ideal candidate: "We are looking for motivated, passionate people who want to accept the mission of helping people find the right music for every moment." Perks of the Job: "Private live concerts in the office, all new employees get to go to intro days in Stockholm, catered lunches on Fridays, fully stocked kitchen, ping pong and video games in the office, free concert tickets, gym membership and commuter discounts." 
+Company Culture: "It is a work hard, play hard type of environment filled with tons of energy (thanks to the constant supply of gourmet coffee and Red Bull) and a casual dress code. We have even tried to implement formal Fridays so employees have a chance to wear all their nice work clothes they used to wear at their old jobs."
+Travel: "Since we are a global company, you may have the opportunity to visit the two main offices in Sweden, or travel to any of our other offices around the world."
+
+The best part about working here is:
+"The live performances! Getting private concerts from Joss Stone and Matisyahu are definitely huge perks to the job." - Alexandra Cohen, Technical Recruiter
+"The office is fast-paced, energetic, always buzzing, and we're all friends." - Dave Altarescu, U.S. Marketing Director
+"The intimate relationship between product development and engineering, and how that allows developers to have a meaningful impact on the product and the users." - Nicholas Harteau, VP, Engineering
+When I started working here, I was surprised by...
+How collaborative we are as a company. No matter what country you work in or what department you're a part of, everyone works together." - Alexandra Cohen, Technical Recruiter
+"How even though we've grown so quickly, we've still managed to keep that startup feel to the office." - Dave Altarescu, U.S. Marketing Director
+"The complete and utter lack of politics, the degree to which everyone is hyper-focused on the same goal." - Nicholas Harteau, VP, Engineering
+Image courtesy of Charlie Hellman
+http://mashable.com/2013/01/07/land-a-job-at-spotify/

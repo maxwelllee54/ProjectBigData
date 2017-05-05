@@ -1,0 +1,12 @@
+Sharp Unveils Next-Gen IGZO Displays
+LAS VEGAS — The U.S. is going to get its first taste of Sharp Electonics's IGZO display technology. The tech giant announced today at CES 2013 that it's bringing next-gen LED displays to the American market in 2013.
+IGZO, which stands for Indium Gallium Zinc Oxide, is actually a transparent, compound semi-conductor that Sharp says can replace the standard amorphous silicon material used for the active layer in thin-film transistors (TFTs) LED displays.
+The new display technology, which was introduced in Japan last year (in smartphones), offers, according to Sharp, of number of benefits over traditional LCD displays:
+It can support super-high resolutions. At CES, Sharp is demonstrating a new 32-inch 3,840 x 2,160 pixels (roughly 4x by 2x standard HD) touch-screen business monitor.
+The ultra-low-power display technology can actually maintain a screen image after it's been powered down. Sharp did not state how long the image would last.
+The new display technology also, Sharp says, lowers screen noise/interference introduced by touch technology.
+
+To create the finished displays, which for now run from 4-to-32 inches diagonally, Sharp partnered with Corning Glass. The final LED business displays are 35mm thick. Sharp says that makes them the thinnest "in their class."
+IGZO monitors, however, are just the tip of the iceberg. Sharp executives anticipate IGZO will end up in everything from phones to countertops. You can get a glimpse of those future applications in the video below.
+
+http://mashable.com/2013/01/07/sharp-unveils-next-gen-igo-hdtvs/

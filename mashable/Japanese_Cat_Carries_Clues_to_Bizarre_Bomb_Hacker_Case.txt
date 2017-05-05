@@ -1,0 +1,21 @@
+Japanese Cat Carries Clues to Bizarre Bomb Hacker Case
+Japan's central law enforcement agency has collared a cat — but not just any cat.
+This particular feline carried a memory card police say is the latest clue in a bizarre chase for a hacker who's used his stealthy computer skills to send anonymous bomb threats to schools, airlines and shopping malls.
+Following hints sent to media outlets on New Year's Day, the cat carrying the card was found on an island near Tokyo, Agence France-Presse reported.
+The card attached to its collar contained information that could have only been known by the creator of malware, dubbed the "remote control virus," that the hacker uses to remotely control other people's computers, Japan's National Police Agency (NPA) said.
+Cat and Mouse
+For several months, Japanese police have been frustrated by a series of threatening messages posted to public forums and emailed to media organizations.
+Joji Hamada of Symantec's Security Response blog wrote that the threats have included promises to kill shoppers in a mall, blow up a religious shrine and bomb a passenger jet.
+The lack of an arrest, combined with one high-profile threat the hacker made against a school attended by Emperor Akihito's grandchildren, have caused the NPA much embarrassment.
+In December, the NPA, similar to the FBI, announced a bounty of more than $34,000 for information leading to the hacker's capture. The agency called upon the public to be on the lookout for someone with knowledge of the C# programming language and an ability to conduct online activities anonymously.
+However, as Wired News UK pointed out, since those skills are quite common among computer programmers, the public appeal did little to narrow down a list of potential suspects.
+Remote Control
+Symantec's analysis of the "remote control virus" showed that it wasn't anything special, other than being partly written in Japanese. The company noted that the infection rate was very low and that behavior-monitoring anti-virus software would block the malware.
+This past fall, authorities told the public that they had confessions from four suspects in custody. But when the threatening messages continued without abatement, the police were embarrassed even further.
+It turned out that the suspects' computers had indeed been infected with the "remote control virus," which let the operator remotely email and post threats from other people's computers, masking the authentic source of the malicious messages.
+Photo courtesy of Flickr, Yakinik
+
+This article originally published at TechNewsDaily
+here
+
+http://mashable.com/2013/01/08/japanese-cat-bomb-hacker/

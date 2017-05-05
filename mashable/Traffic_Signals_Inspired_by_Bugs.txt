@@ -1,0 +1,17 @@
+Traffic Signals Inspired by Bugs
+Why does it always seem that when there's no traffic, a stop light is too long and when there's tons of traffic, a stop light is too short? 
+Managing the flow of cars is a big challenge for many urban planners. Ozan Tonguz, a telecommunications researcher from Carnegie Mellon, has examined the way ants and termites navigate their own versions of gridlock to create Virtual Traffic Lights, an algorithm that helps control human traffic on busy streets.
+SEE ALSO: See How Purchases Directly Impact Climate Change
+
+It's called a "virtual" traffic lights because instead of the lights being at intersections, they're located in each car, on windshield. The algorithm uses information collected from GPS devices, short-range communicators and other sensors to manage whether a driver sees a green, yellow or red light on her windshield.
+In simulations, the algorithm managed the flow of cars in a way similar to how insects manage themselves. In ant and terminte colonies, the large group always gets to go first.
+"In such self-organizing biological systems, the colony can perform all the vital functions it needs (such as foraging, moving, adjusting to changing environmental conditions, protecting itself from predators, etc.) through the cooperation of the members of its colony," Tonguz explained in an email to DNews.
+As soon as the biggest group cleared out, the next group was allowed to go.
+Through the simulations, the scientists found that traffic drive time was reduced for urban commuters by 40-60%. The newest set of algorithms being tested will also take into account pedestrians and cyclists in the flow of traffic.
+The project has already garnered $2 million in funding from private groups and the National Highway and Traffic Safety Administration since 2009. Large scale testing is slated to start this year, and if it becomes a reality, you'll have those pesky little ants on your sidewalk to thank for your shorter and less stressful commute.
+Photo courtesy of Flickr, Esparta
+
+This article originally published at Discovery News
+here
+
+http://mashable.com/2013/01/07/traffic-signals-bugs/

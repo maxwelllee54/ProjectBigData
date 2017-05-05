@@ -1,0 +1,65 @@
+Nvidia Unveils Project Shield, a Powerful Android Game Controller
+LAS VEGAS — If you thought chip makers only messed around with the insides of our gadgets, think again. Nvidia, the graphics-card and mobile-processor manufacturer, surprised a packed house at a nightclub at the Palms hotel in Vegas with Project Shield, a powerful Android game controller that packs the company's latest and greatest mobile chip, the Tegra 4.
+Project Shield isn't a peripheral. It's a full game console unto itself, with a 5-inch retina display that folds up from the controls. It can connect to the Android ecosystem and Google Play store via Wi-Fi, and players can mirror what's onscreen to a TV either wirelessly or via HDMI.
+It doesn't stop there. In addition to having access to Android's app catalog (including many Tegra-optimized games), Shield can access PC games from a computer on the network, then relay the gameplay to a TV. All the while, the user plays the game with the Shield.
+The controller is packed with batteries for extended gameplay, a bass-reflex speaker for big sound and ports for HDMI and USB. The lid has an area for a custom tag.
+There's no price or release date, and from the unveiling it's apparent the Shield isn't quite ready for prime time. While demo'ing the device, Nvidia CEO Jen-Hsun Huang failed to make an adequate PC link, although event staff were able to correct the problem after a few minutes. Huang also slipped at one point, saying the product was called "Project Thor," which he all but admitted was the name of another secret Nvidia project.
+Still, the Shield is an impressive device, and it looks capable of taking the idea of mobile gaming to another level. What do you think of it? Share your thoughts in the comments.
+Powerful yet fun DIY robotics for adults and children. This update moves the control/interactions to your favorite mobile devices.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the Lego Mindstorms EV3 here.
+Two people watching two different shows -- full screen -- on one TV while they sit next to each other sounds silly, but you can't help but be wowed by the innovative technology.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Samsung's Dual-View OLED TV here.
+Super-small 3D sensor could change more than just gaming.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the PrimeSense Capri here.
+Who doesn't want to listen to music in the shower? Now you can get high-quality sound without worrying about water ruining the experience or your gadget.
+Read more about Sony's Waterproof Walkman here.
+Display technology of the future, today.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Sharp's IGZO displays here.
+Sounds gimmicky, but it's a great product. The UI is top-notch and the games are really cool.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+Very powerful Android game controller. Potentially the future of mobile gaming. Plus it looks great.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Nvidia Project Shield here.
+For people who do serious photo and graphics work, there's really nothing better.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Panasonic 4K Tablet.
+Light, adaptable and so low-power you can get 13 hours of battery life. Now just make it real.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+It might take a while to gain momentum, but this is an innovative way to bring health care to those who don't have access nearby. It also makes quick visits to the doctor more convenient and less of a time suck.
+-- Andrea Smith, Lifestyle Editor
+Read more about HealthSpot here.
+No more speaker docks into the drawer of old tech when Apple updates a product. The IDAPT S2 speaker system has two docking options which can easily be swapped out and updated as your iPhone or Android phone evolves.
+-- Andrea Smith, Lifestyle Editor
+Read more about the IDAPT S2 Speaker Dock here.
+Our TVs are becoming more and more like our computers. I love that Samsung is helping you upgrade your television to stay current.
+-- Emily Price, Technology Reporter
+Read more about Samsung's new SmartTV experience here.
+The demos of Qualcomm's new chip are mind-blowing. Can't wait to see this start appearing in consumer devices.
+-- Emily Price, Technology Reporter
+Read more about Qualcomm's new Snapdragon 800 series chips here.
+I love that IBitz gamifies physical activity. The ability for kids to "earn" texting/TV privileges through going outside and playing is genius.
+-- Emily Price, Technology Reporter
+Read more about iBitz here.
+Long gone are the days where USB flash drives were a few megabytes. The Kingston is the world's first 1TB USB 3.0 flash drive and it's as impressive as it sounds.
+-- Samantha Murphy, Technology Reporter
+Read more about Kingston's 1TB Flash Drive here.
+The FitBit is more than just a fitness tracker, now it watches you while you sleep -- well, sort of. The wearable wristband can now track you throughout the day and you can set fitness goals too.
+-- Samantha Murphy, Technology Reporter
+Read more about the FitBit Flex here.
+By placing your mobile device on top of this speaker, it magically amplifies sound with great quality. Plus, it looks so neat and cozy resting on top of its new home.
+-- Samantha Murphy, Technology Reporter
+Read more about BoostPlus here.
+Monster is partnering with gaming developer EA Sports to kick it off right.
+-- Samantha Murphy, Technology Reporter
+Read more about Monster's EA Headphones here.
+The new 6.1 inch-Ascend Mate is large and in charge -- the largest we've seen, in fact. Too large? Maybe. But it's easy to hold and makes you forget just how jumbo it is.
+-- Samantha Murphy, Technology Reporter
+Read more about Huawei's Ascend Mate here.
+Graphic courtesy of Nvidia
+http://mashable.com/2013/01/07/nvidia-project-shield/

@@ -1,0 +1,67 @@
+Beam Remote Sends Your Head Anywhere in the World
+
+LAS VEGAS — Cross-country and international travel is expensive. Three or four trips to London, Paris or Taiwan a year and you're spending at least $16,000. What if you could spend that much and be in Europe and at home as often as you want? That's what Suitable Technologies' Beam Remote Presence System promises.
+The roughly 5.5-foot-tall system is available now and on display at CES 2013. I got to take it for a drive and have to say, it's a pretty cool system.
+Here's how it works. Beam connects to your network via a Wi-Fi or cellular broadband connection. It has a large LCD screen atop two slim bars and a rolling base. There's also a charging station. Beam usually starts there so it's fully charged when you're ready to “travel.”
+If you're controlling Beam, your view is via your computer or laptop. You drive Beam with a joystick or, more commonly, the arrow keys on your keyboard, while Beam cruises along at up to 3 miles per hour. Your webcam beams your face to the Beam device, so your disembodied head looks like you're wherever your Beam is. It's like your own personal transporter, without the dangerous (and currently impossible) Star Trek hardware.
+
+Controlling Beam is remarkably easy. I got a 30-second tutorial and was soon following someone around Beam's Palo Alto offices. The display helps guide you by showing directional overlays on top of the video feed that mimic the direction and driving directions you're sending to the remote presence device. Beam's two cameras show you what's ahead of you and what's at your “feet.”
+When you're done with your remote meeting or making the rounds at a hospital, you simply drive Beam back to its charging station, spin around and back into the charging base.
+I had a great time driving Beam around and meeting people at Suitable Technologies' offices. What would you do with a remote presence device? Let me know in the comments.
+Powerful yet fun DIY robotics for adults and children. This update moves the control/interactions to your favorite mobile devices.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the Lego Mindstorms EV3 here.
+Two people watching two different shows -- full screen -- on one TV while they sit next to each other sounds silly, but you can't help but be wowed by the innovative technology.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Samsung's Dual-View OLED TV here.
+Super-small 3D sensor could change more than just gaming.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the PrimeSense Capri here.
+Who doesn't want to listen to music in the shower? Now you can get high-quality sound without worrying about water ruining the experience or your gadget.
+Read more about Sony's Waterproof Walkman here.
+Display technology of the future, today.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Sharp's IGZO displays here.
+Sounds gimmicky, but it's a great product. The UI is top-notch and the games are really cool.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+Very powerful Android game controller. Potentially the future of mobile gaming. Plus it looks great.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Nvidia Project Shield here.
+For people who do serious photo and graphics work, there's really nothing better.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Panasonic 4K Tablet.
+Light, adaptable and so low-power you can get 13 hours of battery life. Now just make it real.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+It might take a while to gain momentum, but this is an innovative way to bring health care to those who don't have access nearby. It also makes quick visits to the doctor more convenient and less of a time suck.
+-- Andrea Smith, Lifestyle Editor
+Read more about HealthSpot here.
+No more speaker docks into the drawer of old tech when Apple updates a product. The IDAPT S2 speaker system has two docking options which can easily be swapped out and updated as your iPhone or Android phone evolves.
+-- Andrea Smith, Lifestyle Editor
+Read more about the IDAPT S2 Speaker Dock here.
+Our TVs are becoming more and more like our computers. I love that Samsung is helping you upgrade your television to stay current.
+-- Emily Price, Technology Reporter
+Read more about Samsung's new SmartTV experience here.
+The demos of Qualcomm's new chip are mind-blowing. Can't wait to see this start appearing in consumer devices.
+-- Emily Price, Technology Reporter
+Read more about Qualcomm's new Snapdragon 800 series chips here.
+I love that IBitz gamifies physical activity. The ability for kids to "earn" texting/TV privileges through going outside and playing is genius.
+-- Emily Price, Technology Reporter
+Read more about iBitz here.
+Long gone are the days where USB flash drives were a few megabytes. The Kingston is the world's first 1TB USB 3.0 flash drive and it's as impressive as it sounds.
+-- Samantha Murphy, Technology Reporter
+Read more about Kingston's 1TB Flash Drive here.
+The FitBit is more than just a fitness tracker, now it watches you while you sleep -- well, sort of. The wearable wristband can now track you throughout the day and you can set fitness goals too.
+-- Samantha Murphy, Technology Reporter
+Read more about the FitBit Flex here.
+By placing your mobile device on top of this speaker, it magically amplifies sound with great quality. Plus, it looks so neat and cozy resting on top of its new home.
+-- Samantha Murphy, Technology Reporter
+Read more about BoostPlus here.
+Monster is partnering with gaming developer EA Sports to kick it off right.
+-- Samantha Murphy, Technology Reporter
+Read more about Monster's EA Headphones here.
+The new 6.1 inch-Ascend Mate is large and in charge -- the largest we've seen, in fact. Too large? Maybe. But it's easy to hold and makes you forget just how jumbo it is.
+-- Samantha Murphy, Technology Reporter
+Read more about Huawei's Ascend Mate here.
+http://mashable.com/2013/01/09/beam-remote-telepresence/

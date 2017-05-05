@@ -1,0 +1,17 @@
+Aging Ocean Tower May Be Used as Energy Lab
+A rusty 48-year-old tower standing in the Atlantic Ocean may soon get a makeover for modern energy. The one-time lighthouse even may accommodate energy researchers and staff for overnight stays.
+Officials at the U.S. Department of Energy want to retrofit the Chesapeake Light Tower — located 13 miles off Virginia Beach, Va. — for basic research into harvesting electricity from gigantic offshore wind turbines. The tower would be equipped with instruments for measuring the wind 100 meters (328 feet) above the surface of the sea, which is the typical height of ocean turbines.
+Good measurements will encourage funding for offshore wind power, said Will Shaw, a researcher at the Pacific Northwest National Laboratory who would lead the science team at the tower. Nobody has direct measurements of ocean-turbine-height wind right now, but that data would be important to potential investors seeking assurances that offshore wind is strong and will make lots of electricity.
+The Department of Energy has given the National Renewable Energy Laboratory $3 million to assess the Chesapeake Light Tower and come up with a remodeling plan, said Jim Green of NREL, who would lead the remodeling. Green expects the $3 million will be more than enough for assessment, so some of it can go toward building, too. It is too early to say how much additional funding construction will need, he said.
+It is still possible the assessment will find it too expensive to turn the Chesapeake Light Tower into a working, mid-ocean research lab, Green told TechNewsDaily. Officials hope to have the lab ready to go by 2014 or 2015, however.
+Previously, the Coast Guard owned and maintained the aging offshore tower, Virginia Beach TV station WVEC reported. It cost $50,000 for an inspection every other year, plus more for repairs.
+If the plans go through, the new tools the Chesapeake Light Tower will get include a 328-foot-tall add-on for measuring conditions at that altitude. The 1960s-era structure also will get LIDAR, or light detection and ranging equipment, which will measure wind speeds by sending out laser beams and calculating how long it takes those beams to return to the equipment after they bounce off of dust particles and droplets of sea spray. Researchers are especially interested in testing the accuracy of buoy-borne LIDAR.
+The Chesapeake Light Tower already has a helicopter landing pad and is able to accommodate people overnight.  "It's a unique facility. There's nothing like it in U.S. waters," Shaw said.
+In the further future, Shaw said the tower could make measurements for how much electricity might be harvested from the up-and-down motion of waves, a potential source of non-polluting electricity that has been less well studied than offshore wind.
+Shaw and two colleagues presented their plans on Jan. 8 at the annual meeting of the American Meteorological Society in Austin, Texas.
+Photo courtesy of Flickr, Nugget04
+
+This article originally published at TechNewsDaily
+here
+
+http://mashable.com/2013/01/09/chesapeake-light-tower-energy/

@@ -1,0 +1,16 @@
+Congressman Demands Investigation of Google FTC Probe Leaks
+Rep. Darrell Issa (R-Calif.), Chairman of the House Committee on Oversight and Government Reform, demanded an investigation of the Federal Trade Commission's role in sharing private information about the Commission's Google probe before the results of which were publicly announced, according to a letter obtained by Mashable.
+Issa made the request in a Jan. 3 letter to FTC Investigator General Scott Wilson. Ongoing FTC investigations are legally private. However, information about the Google investigation was reported in several media outlets, among them Reuters, Politico and Bloomberg, well before the FTC made those details public Thursday. 
+The sources for those early reports were kept confidential. The FTC is legally prohibited from sharing investigation details with the media or public before a probe is complete. 
+When asked for comment, an FTC spokesperson told Mashable only that the Commission has "received the letter." Mashable has also reached out to Google for comment, and will update this post with any response.
+"Throughout the process, nonpublic information about developments in the investigation has been inappropriately shared with the media," reads Issa's letter to Wilson. 
+"It is believed that the Commission may be contributing to, or is the source of, this information," continues the letter. "This is of concern because such leaks are prohibited by law and counterproductive to the investigative process. To determine whether the Commission, or its staff, has shared nonpublic information with the public or the press about the investigation of Google, I request the Office of Inspector General promptly investigate the matter."
+Senators Ron Wyden (D-Ore.) and John Kerry (D-Mass.) have also previously claimed that details of the FTC's investigation to Google were inappropriately shared with the media.
+SEE ALSO: Google Settles FTC Antitrust Case, Makes Minor Changes to Search and Ads
+
+The FTC investigation of Google ended last week with the Commission clearing Google of anti-competitive behavior in regards to search. As a result of a separate investigation, Google voluntarily decided to license standards-essential mobile technology patents, allow advertisers to run cross-platform campaigns and allow websites to opt out of having their content scraped by search.
+Across the Atlantic, the European Union's investigation of Google's search practices is still ongoing. 
+Issa's full letter to Wilson is embedded below.
+Issa to Wilson Google FTC
+Photo courtesy of Flickr, Gage Skidmore
+http://mashable.com/2013/01/07/ftc-google-leaks/

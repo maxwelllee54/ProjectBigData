@@ -1,0 +1,11 @@
+BeeWi's Smart Toys Put Your Smartphone in Control
+
+LAS VEGAS — RC toys have traded in their bulky remote controls for the gadget in your pocket. Take the new line of smart toys from BeeWi, introduced this week at CES 2013. The company's new fighting helicopters, soccer-playing robots and four-wheelers all rely on iOS and Android devices for control.
+Like another iPad-controlled device, Parrot's popular AR.Drone, the big-wheeled ScaraBee ($149.99) lets you steer via simple on-iPad (or iPhone) controls — it connects via ad-hoc Wi-Fi — and includes a camera so you can see what the toy sees. Unlike the Drone, ScaraBee only records up to one minute of VGA video. It does drive for 15 minutes on a charge. I took the bot for a quick test drive and found the controls simple, though not entirely intuitive. I assume I'd get better with practice. The company also introduced TankBee, which connects to mobile devices via Bluetooth.
+
+BeeWi's RC helicopters, also controlled by iOS and Android devices, do have cameras, but only the infrared sort, which they use to see other helicopters and stationary targets — the latter of which can "shoot" back. Five hits and the $119 StingBee slowly loses altitude until it lands back on the ground. There's also a $69.99 version that cannot shoot or read infrared beams.
+
+Perhaps the most entertaining new BeeWi toy is the little KickBee. Smaller than all the other robots, it comes with a tiny plastic ball. As with all the other BeeWi products, you can control it via a mobile device but, in this case, you'll want to make sure someone else also has one of the $54.99 robots so you can play a pickup game of soccer. Now imagine a field of these little guys, each one controlled by someone with a smartphone, working as teams to drive the rubber ball into a goal. Sounds like fun.
+The company is also unveiling a set of iOS and Android device controlled Mini Coopers and a Fiat 500 toy later this year. Company officials told me they're also quite close to Windows Phone 8 versions of their remote control apps.
+Images Courtesy of BeeWi and Mashable
+http://mashable.com/2013/01/07/beewi-smart-toys/

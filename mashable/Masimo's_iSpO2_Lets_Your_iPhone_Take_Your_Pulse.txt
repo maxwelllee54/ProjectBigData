@@ -1,0 +1,9 @@
+Masimo's iSpO2 Lets Your iPhone Take Your Pulse
+
+LAS VEGAS — Consumer-grade Pulse Oximeters (or Pulsometers) are nothing new, but turning your iPhone into one is something different. With the addition of a special fingertip reader, Masimo's new iSpO2 does exactly that.
+The $249 device, introduced here at CES 2013, is Masimo's first consumer product and is so easy to use you might image you too could be a doctor. You plug the reader into any iPhone, iPod or iPad that still has a 30-pin port, connect the reader to the tip of your ring finger and the device and accompanying software does the rest.
+Within a few moments, you get a live, graphic readout of your pulse rate, perfusion index and blood oxygenation. The app keeps track of all your readings, offering up graphs depicting your trends over time. You can even export the data in a CSV file.
+The fingertip reader works, by the way, by shining LED lights through your fingertip. Sensors on the other side read a variety of light wavelengths to come up with your health stats.
+What do all those readings mean? You probably have to be a doctor or have a medical book handy to really know. On the other hand, extreme athletes like bike racers might be able to use the iSpO2 to track their blood oxygenation levels.
+What do you think? Would you pay almost $250 for your own home health measurement device? Let us know in the comments.
+http://mashable.com/2013/01/07/isp02-iphone-take-your-pulse/

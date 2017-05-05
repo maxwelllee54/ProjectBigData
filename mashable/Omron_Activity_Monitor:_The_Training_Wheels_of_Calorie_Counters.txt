@@ -1,0 +1,72 @@
+Omron Activity Monitor: The Training Wheels of Calorie Counters
+
+LAS VEGAS — While there is no shortage of fitness devices on display here at the 2013 International CES, there is at least a new way to measure all the running, walking and calorie counting you do.
+Omron's Activity Monitor tracks your activity and exercise data, and reveals your total calories burned throughout the day. It was shown Monday in a news conference at CES along with other new devices from Omron.
+Randy Kellogg, vice president of marketing and product development at Omron HealthCare told Mashable these are designed to not be too complicated. He likens it to a set of training wheels. While people may eventually graduate to a Nike FuelBand or FitBit device, they can sometimes be too complicated for people who just want to get started. 
+"Everybody can walk 2,000 steps and track their activity," he said.  
+Consumers are looking for simple and social, according to Omron. Kellogg says women like to walk together, they like to share information so they added a social component through Ormonfitness.com.
+The goal tracker helps you set targets and the monitor will let you know how much of what type of activity you need to do to reach those goals.
+One feature we're not entirely sold on is an NFC communication tray (sold separately) that connects the tracker to your computer. It works with Mac and PC and wirelessly transfers the data so you can monitor your progress on omronfitness.com. We would much prefer to see a Bluetooth option which Kellogg says is an open option for the next version.
+The Activity Monitor will cost $49.99 when it launches and the NFC tray will sell for $20.
+Omron also introduced a Strapless Heart Rate Monitor, for those who don't like the feel of a chest strap when they work out. All your data, including target heart rate appears on a device you wear on your wrist. That will cost $149.99 and is expected to be out in the next month. 
+There's also a Tri-Axis USB Pedometer which will be available for around $45.
+In the end, Kellogg says, it doesn't matter what kind of device you choose, as long as you get up and walk. It reduces stress and improves your health. You don't have to run a marathon, but you can find out how close you're getting to one.
+What features do you look for in a fitness device? Tell us in the comments. 
+Image courtesy of Omron
+Powerful yet fun DIY robotics for adults and children. This update moves the control/interactions to your favorite mobile devices.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the Lego Mindstorms EV3 here.
+Two people watching two different shows -- full screen -- on one TV while they sit next to each other sounds silly, but you can't help but be wowed by the innovative technology.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Samsung's Dual-View OLED TV here.
+Super-small 3D sensor could change more than just gaming.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about the PrimeSense Capri here.
+Who doesn't want to listen to music in the shower? Now you can get high-quality sound without worrying about water ruining the experience or your gadget.
+Read more about Sony's Waterproof Walkman here.
+Display technology of the future, today.
+-- Lance Ulanoff, Mashable Editor-in-Chief
+Read more about Sharp's IGZO displays here.
+Sounds gimmicky, but it's a great product. The UI is top-notch and the games are really cool.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+Very powerful Android game controller. Potentially the future of mobile gaming. Plus it looks great.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Nvidia Project Shield here.
+For people who do serious photo and graphics work, there's really nothing better.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Panasonic 4K Tablet.
+Light, adaptable and so low-power you can get 13 hours of battery life. Now just make it real.
+-- Pete Pachal, Mashable Tech Editor
+You can read more about the Lenovo IdeaCentre Horizon here.
+It might take a while to gain momentum, but this is an innovative way to bring health care to those who don't have access nearby. It also makes quick visits to the doctor more convenient and less of a time suck.
+-- Andrea Smith, Lifestyle Editor
+Read more about HealthSpot here.
+No more speaker docks into the drawer of old tech when Apple updates a product. The IDAPT S2 speaker system has two docking options which can easily be swapped out and updated as your iPhone or Android phone evolves.
+-- Andrea Smith, Lifestyle Editor
+Read more about the IDAPT S2 Speaker Dock here.
+Our TVs are becoming more and more like our computers. I love that Samsung is helping you upgrade your television to stay current.
+-- Emily Price, Technology Reporter
+Read more about Samsung's new SmartTV experience here.
+The demos of Qualcomm's new chip are mind-blowing. Can't wait to see this start appearing in consumer devices.
+-- Emily Price, Technology Reporter
+Read more about Qualcomm's new Snapdragon 800 series chips here.
+I love that IBitz gamifies physical activity. The ability for kids to "earn" texting/TV privileges through going outside and playing is genius.
+-- Emily Price, Technology Reporter
+Read more about iBitz here.
+Long gone are the days where USB flash drives were a few megabytes. The Kingston is the world's first 1TB USB 3.0 flash drive and it's as impressive as it sounds.
+-- Samantha Murphy, Technology Reporter
+Read more about Kingston's 1TB Flash Drive here.
+The FitBit is more than just a fitness tracker, now it watches you while you sleep -- well, sort of. The wearable wristband can now track you throughout the day and you can set fitness goals too.
+-- Samantha Murphy, Technology Reporter
+Read more about the FitBit Flex here.
+By placing your mobile device on top of this speaker, it magically amplifies sound with great quality. Plus, it looks so neat and cozy resting on top of its new home.
+-- Samantha Murphy, Technology Reporter
+Read more about BoostPlus here.
+Monster is partnering with gaming developer EA Sports to kick it off right.
+-- Samantha Murphy, Technology Reporter
+Read more about Monster's EA Headphones here.
+The new 6.1 inch-Ascend Mate is large and in charge -- the largest we've seen, in fact. Too large? Maybe. But it's easy to hold and makes you forget just how jumbo it is.
+-- Samantha Murphy, Technology Reporter
+Read more about Huawei's Ascend Mate here.
+http://mashable.com/2013/01/07/omron-fitness-monitors/

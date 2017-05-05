@@ -1,0 +1,13 @@
+Turn Your Windows 8 Laptop Into a Touchscreen Device With This Gadget
+LAS VEGAS — Want to turn your laptop or desktop running Windows 8 into a touchscreen device? Accessory company Targus announced on Monday morning at the 2013 Consumer Electronics Show in Las Vegas a first-of-its kind technology that makes the most of the latest Windows operating system, without the need to splurge for a pricey new computer that touts the company's built-in touchscreen capabilities.
+Windows 8 — which launched in October and was designed for touch — allows users to swipe, slide and access a full collection of features via your finger. But because of the cost of new hardware, many Microsoft fans upgraded to Windows 8 without buying an expensive touch-screen PC. Now, the Targus Touch Pen aims to give anyone using Windows 8 on older hardware the touch experience, with the help of a stylus.
+"Windows 8 is designed for touch, so if you have a current laptop and your device isn't capability for touch [sic], it lessens the value," Al Giazzon, VP of marketing and communications at Targus, told Mashable. "We put together a new product that turns current computers into a touchscreen device that supports Windows 8. It's easy to use, cheaper and is smaller than the size of your thumb."
+Here's how it works: A small receiver attaches to the side of the laptop screen and communicates with the black Touch Pen via a cable that connects to a USB port, so your laptop thinks it has a touchscreen. The Touch Pen acts like your finger would on a touchscreen, and the screen is protected with the stylus' soft tip. (Note: It doesn't work with an actual finger because it doesn't use either capacitive or optical touch tech). 
+SEE ALSO: | Windows 8 Is Bold and Powerful [REVIEW] |The Problem With Windows 8
+
+"Anything you can do with a touch-screen device, you can now do with a laptop or desktop," Giazzon said. "It also works with a laptop you bought years ago."
+Even better, the Touch Pen doesn't require software or drivers, and only a one-time calibration is needed to set up the device and determine the measurements of the screen. It works with any computer with Windows 8 and monitors up to 17 inches (so larger all-in-ones are out). Meanwhile, the company said it patented the technology that simulates the touch experience with a stylus for Windows 8 devices, which may ward off other manufacturers looking to get into the space. 
+The Touch Pen will ship later this month and be available via Targus.com and various retailers, including Best Buy and Amazon.
+What do you think of the Touch Pen? Let us know your thoughts in the comments below.
+Image via Targus
+http://mashable.com/2013/01/07/targus-touch-pen-windows-8/

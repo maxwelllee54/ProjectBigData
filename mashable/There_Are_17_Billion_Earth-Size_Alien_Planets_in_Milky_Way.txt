@@ -1,0 +1,26 @@
+There Are 17 Billion Earth-Size Alien Planets in Milky Way
+The Milky Way hosts at least 17 billion Earth-size alien planets, and probably many more, a new study reveals.
+Astronomers have determined that about 17% of stars in our galaxy harbor a roughly Earth-size exoplanet in a close orbit. Since there are 100 billion or so stars in the Milky Way, that works out to a minimum of 17 billion small, rocky alien worlds, or an Earth-size planet around one of every six stars.
+And there are probably many more such planets orbiting at greater distances from their stars, some of which may even be "alien Earths" capable of supporting life as we know it.
+Crunching the Numbers 
+The research team conducted an analysis of data collected by NASA's planet-hunting Kepler Space Telescope.
+Kepler detects alien worlds by noting the telltale dips in brightness caused when planets cross the face of — or transit — their parent stars from the instrument's perspective. The telescope, which launched in March 2009, flagged more than 2,300 potential planets in its first 16 months of operation, more than 100 of which have been confirmed to date. 
+SEE ALSO: The Strangest Alien Planets (Gallery)
+
+The research team wanted to know how complete and accurate Kepler's survey has been — that is, what percentage of its finds are real, and how many planets is it likely missing? So they came up with a simulation that mimicked the telescope's work, finding that about 90% of its detections are probably the real deal.
+"There is a list of astrophysical configurations that can mimic planet signals, but altogether, they can only account for one-tenth of the huge number of Kepler candidates," team member Francois Fressin, of the Harvard-Smithsonian Center for Astrophysics (CfA), said in a statement. "All the other signals are bona-fide planets."
+Fressin presented the results today at the annual meeting of the American Astronomical Society in Long Beach, Calif. The work has also been accepted for publication in The Astrophysical Journal.
+Planets, Planets Everywhere
+Using information from both the actual and simulated Kepler surveys, the team calculated some estimates about how common different types of planets are thoughout the Milky Way.
+They determined, for example, that 17% of stars have a planet 0.8 to 1.25 times the size of Earth in tight orbits, with periods of 85 days or less. About 25% of stars have a so-called "super-Earth" (worlds 1.25 to 2 times as big as our own) in an orbit of 150 days or less — the same percentage that hosts a "mini-Neptune" (a planet 2 to 4 times Earth's size) with an orbital period up to 250 days.
+Big planets such as Saturn or Jupiter are far less common. Only 5% of stars harbor a gas giant with an orbital period of 400 days or less, researchers said.
+Overall, the team found that about 50% of all stars in the Milky Way have a planet the size of Earth or larger in a tight orbit.
+Further, stars don't have to be sun-like to host an Earth-size world. The team also determined that small and medium-size exoplanets are commonly found around red dwarfs as well, which are smaller and cooler than our star.
+"Earths and super-Earths aren't picky," said co-author Guillermo Torres, also of the CfA. "We're finding them in all kinds of neighborhoods."
+Kepler generally requires three planetary transits to flag a potential alien world. Since more tightly orbiting planets transit more frequently, the telescope's early findings have been biased toward close-in worlds. But as Kepler continues to operate, it should find more and more planets farther from their host stars — including, perhaps, Earth-size worlds in Earthlike orbits.
+Image courtesy of C. Pulliam and D. Aguilar (CfA) 
+
+This article originally published at Space.com
+here
+
+http://mashable.com/2013/01/07/earth-size-planets-milky-way/

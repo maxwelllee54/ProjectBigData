@@ -1,0 +1,35 @@
+Apple Refuses to Make the Device That's Taking Over the World
+One category of mobile device will blow away all others in the pace of its growth, expanding 70% in each of the next three years and yielding a $135 billion market by the end of 2015. Vendors will move 142 million units of this device in 2013 and up to 402 million by 2015, project analysts at Barclays. That's more than three times the number of iPhones sold in 2012.
+And, oh yeah, Apple doesn't make one of these.
+It's called a phablet. As in, an extra-large phone that's almost as big as a tablet, combining aspects of both.
+Phablet is the terrible name granted to this class of 5-inch and larger phones by a derisive press corps, which mocked one of the earliest and most visible examples of this trend, Samsung's 5.3-inch Galaxy Note. Then, surprising everyone but Samsung, the Note turned out to be a hit, selling 10 million units as of last summer.
+An Explosion of Phablets
+Samsung recently rolled out the Galaxy Note II, which is a hair larger than the Galaxy Note and looks to be an even bigger hit, selling 5 million units in just the first three months since launch. 
+Subsequently, dozens of phone makers have announced their own phablets, including the consumer electronics giants of mainland China, ZTE and Huawei; Taiwan's HTC and Lenovo; Sony; American manufacturer Vizio; South Korea's LG; and even one Shenzhen, China, manufacturer called Zopo that is making phablets its primary focus. Not to mention a stream of cheap knock-offs from vendors with no brand at all.
+So what’s going on here? When analysts declare that "we expect 2013 to be the Year of the Phablet," have they lost their minds? Are phablets the netbooks of 2013, doomed to be produced in mass quantities but yielding a user experience so unsatisfying that the category eventually dies?
+Quite the opposite, I’d argue. In fact, I’m willing to bet that Phablets are going to be the PCs of this decade. They will become the default computing device of most of the developing world, and a surprising proportion of those who live in rich countries will eventually sign on, as well. The reasons are pretty simple.
+In Emerging Markets, Consumers Need One Device That Can Do Everything
+We thought that device would be the phone, but given the popularity of tablets, it turns out that bigger really is better. For example phablets are taking over in India. 
+"Earlier I was using a smartphone and also had a tablet but later realised that a phablet was better as you can make calls and use it as a tablet as well," one student told the Times of India.
+That pretty much sums it up: If your budget is limited, why deal with two different upgrade cycles and two different devices, when you can put all of your money into a single device? And now that device, which is probably your primary computer, has wireless data connectivity wherever you go. Low-end phablets are going for as little as 6,000 rupees ($110) in India.
+Consumers in Rich Countries Don’t Need Phones Anymore — They Demand Bigger Screens
+U.S. journalists love to hold phablets up to their heads in order to prove how ridiculous they are as phones, but that misses the point: The fraction of time we spend using these devices for phone conversations continues to shrink. 
+In surveys, time spent on calls comes in fourth after web browsing, social media, music and gaming, and on average may represent as little as 10% of the two hours a day we spend on our "phones."
+The latest phablets exemplify this trend. Sharp has created a ridiculously high-resolution touchscreen with a 5-inch diagonal that has the same resolution as high-end HD televisions with 64 times as much surface area. 
+For reference, these have a resolution of 440 pixels per inch, compared to the much-ballyhooed “retina” display in the iPhone 5, which has 326 pixels per inch. That’s a resolution so high that the average user probably can’t even tell the difference. And yet these screens have made it into so many of the latest high-end phablets that Sharp can barely keep up with demand.
+High-end phablets are starting to include processors and storage capacity that put them on par with low-end laptops. They can be full media centers capable of driving giant televisions and high-end sound systems. There is also some indication that screen size has become aspirational, as users seek to differentiate their devices from the endless litany of regular smartphones.
+Having a Single Connected Device Is a Good Way to Reduce the Cost of Bandwidth
+Users do not require any more convincing that tablets are great. In 2013, they’re going to buy more of them than laptop computers. The problem is that the carrier-centric nature of much wireless connectivity in rich countries locks users into high monthly fees for the privilege of accessing the cell network. 
+That’s probably one reason why phablets are taking off in Asia and other emerging markets, where pay-as-you-go plans and devices that accommodate multiple sim cards (to allow users to use more than one carrier) are more common. In either case, wireless bandwidth is still relatively expensive, so using a single device for most lightweight computing and connectivity makes sense.
+The Idea That a Phablet Is Less Portable Is a Red Herring
+Sure, many phablets are so large that they can’t fit in your pocket, but that’s a very male tech writer view of smartphones. Stashed in a purse or a bag, a phablet is no less portable than an e-reader or a small tablet, and users don’t seem to have a problem toting those just about everywhere. Clearly, for millions of people, a phablet that eliminates the need for owning and carrying two separate devices—a phone and a tablet—is a better solution.
+Apple Could Be Forced to Follow Suit
+At least one analyst, Topeka Capital Markets’s Brian White, insists that Apple could come out with an iPhone with a bigger screen by this summer. That would fit the pattern set by the iPad Mini, in which other manufacturers produced what looked like a viable product category—the 7-inch tablet—and Apple decided it was a market opportunity worth pursuing. 
+Unlike netbooks, a faddish category which Apple famously ignored, phablets tend to be high-end devices that fit with Apple’s pattern of making best in class hardware that allows the company to maintain its high margins.
+Apple’s strength has always been taking others’ good ideas and improving on them, anyway. It may sound absurd, but there’s one way Apple could instantly dominate the market by creating the biggest phablet ever: upgrade the cellular radio in the iPad Mini LTE so that it can make calls.
+Photo courtesy of Flickr, EC Memento
+
+This article originally published at Quartz
+here
+
+http://mashable.com/2013/01/09/apple-phablet/
